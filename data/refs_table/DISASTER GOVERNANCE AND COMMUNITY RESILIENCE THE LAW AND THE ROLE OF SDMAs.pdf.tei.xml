@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Post Flood Study on the Incidence of Leptospirosis in Alappuzha District of Kerala, India</title>
+		<idno type="DOI">10.24321/0019.5138.202148</idno>
+		<ptr target="http://www.asianage.com/india/all-india/210818/kerala-centre-ignored-flood-warn-ings-to-fast-track-commercial-projects-experts.html"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Communicable Diseases</title>
+		<title level="j" type="abbrev">JCD</title>
+		<idno type="ISSNe">0019-5138</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page" from="127" to="134"/>
+			<date type="published" when="2018">2018</date>
+			<publisher>Advanced Research Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">E-government for policy integration</title>
+		<idno type="DOI">10.18356/1a63be5d-en</idno>
+		<ptr target="http://www.indiaenvironmentportal.org.in/files/file/eco-nomic%20survey%202017"/>
+	</analytic>
+	<monogr>
+		<title level="m">United Nations E-Government Survey</title>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="7" to="20"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Population (English)</title>
+		<idno type="DOI">10.18356/33b52de6-en-fr</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Monthly Bulletin of Statistics (Ser. Q)</title>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2017-01-18">2017</date>
+			<biblScope unit="page" from="1" to="17"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">PRELIMINARY DRAFT GLOBAL PACT FOR THE ENVIRONMENT</title>
+		<idno type="DOI">10.1163/9789004322714_cclc_2017-0156-002</idno>
+		<ptr target="http://envfor.nic.in/sites/default/files/press-releases/DRAFT%20CRZ%20NOTIFICATION%2020181.pdf"/>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Apes More Evolved than Man, Says Washington Scientist</title>
+		<idno type="DOI">10.2307/3901270</idno>
+		<ptr target="https://www.financialexpress.com/india-news/was-the-kerala-del-uge-avoidable-eminent-scientist-says-disaster-partly-man-made/1286365/"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Science News-Letter</title>
+		<title level="j" type="abbrev">The Science News-Letter</title>
+		<idno type="ISSN">0096-4018</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">221</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2018">2018</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The great Kerala floods</title>
+		<author>
+			<persName><surname>Kannan</surname></persName>
+		</author>
+		<ptr target="www.india-seminar.com›713_k_p_kannan"/>
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ptosis: Evaluation and management</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sruthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marian</forename><surname>Pauly</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/kjo.kjo_2_19</idno>
+		<ptr target="https://sdma.kerala.gov.in/wp-content/uploads/2019/08/Orange-Book-of-Disas-ter-Management-1-2019.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">Kerala Journal of Ophthalmology</title>
+		<title level="j" type="abbrev">Kerala J Ophthalmol</title>
+		<idno type="ISSN">0976-6677</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2019">2019</date>
+			<publisher>Medknow</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Issues in disaster relief: progress, perpetual problems and prospective solutions</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Mcentire</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/09653569910298279</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Disaster Prevention and Management: An International Journal</title>
+		<idno type="ISSN">0965-3562</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="351" to="361"/>
+			<date type="published" when="1998">1998</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Rethinking Our Role in Coastal Zone Development</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Prins</surname></persName>
+		</author>
+		<idno type="DOI">10.1061/9780872627765.002</idno>
+		<ptr target="http://www.indiansaltisma.com/web-admin/view//upload//file//memimage_8116.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">Coastal Engineering 1990</title>
+		<imprint>
+			<publisher>American Society of Civil Engineers</publisher>
+			<date type="published" when="1991-05-20">1991. 1991</date>
+			<biblScope unit="page" from="7" to="16"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Communities and Coastal Zone Management</title>
+		<idno type="DOI">10.1108/meq.08322eaa.009.009</idno>
+		<ptr target="https://parivesh.nic.in/writereaddata/ENV/crz23.PDF"/>
+	</analytic>
+	<monogr>
+		<title level="j">Management of Environmental Quality: An International Journal</title>
+		<title level="j" type="abbrev">Management of Env Quality</title>
+		<idno type="ISSN">1477-7835</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2011-08-09">2011. 2011</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Kerala flood of 2018: combined impact of extreme rainfall and reservoir storage</title>
+		<author>
+			<persName><forename type="first">Vimal</forename><surname>Mishra</surname></persName>
+			<idno type="ORCID">0000-0002-3046-6296</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Saran</forename><surname>Aaadhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harsh</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Kumar</surname></persName>
+			<idno type="ORCID">0000-0001-5506-4739</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Dushmanta</forename><forename type="middle">Ranjan</forename><surname>Pattanaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amar</forename><forename type="middle">Deep</forename><surname>Tiwari</surname></persName>
+			<idno type="ORCID">0000-0003-1649-8889</idno>
+		</author>
+		<idno type="DOI">10.5194/hess-2018-480</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology and Earth System Sciences Discussion</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="13"/>
+			<date type="published" when="2018-09-14">2018</date>
+			<publisher>Copernicus GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Coupling Microextraction With Thin Layer Chromatography-Image Processing Analysis: A New Analytical Platform for Drug Analysis</title>
+		<author>
+			<persName><forename type="first">Rajeev</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ritu</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sudhaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashok</forename><forename type="middle">Kumar</forename><surname>Barik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanjeet</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.17140/tfmoj-2-113</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology and Forensic Medicine - Open Journal</title>
+		<title level="j" type="abbrev">Toxicol Forensic Med Open J</title>
+		<idno type="ISSNe">2474-8978</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="25"/>
+			<date type="published" when="2011">2011. 2011</date>
+			<publisher>Openventio Publishers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Theorizing Vulnerability in a Globalized World: A Political, Ecological Perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oliver-Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping Vulnerability: Disasters, Development and People</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Bankoff</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>London</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>1st South Asian edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Protection of the Indian Coastal Ecosystem through Coastal Regulation Zone (CRZ) Notifications *</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakthivel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nagma</forename><surname>Khan</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781032638478-19</idno>
+		<ptr target="https://pib.gov.in/newsite/PrintRelease.aspx?re-lid=186875"/>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Indian Ethics</title>
+		<imprint>
+			<publisher>Routledge India</publisher>
+			<date type="published" when="2018">2018. 2018</date>
+			<biblScope unit="page" from="211" to="222"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Four decades of forest loss: Droughts in Kerala (Poster)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramkrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Ramachandra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lake 2016: Conference on Conservation and Sustainable Management of Ecologically Sensitive Regions in Western Ghats, 10th Biennial Lake Conference: Wetlands for Our Future</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Water-surface profile and flood boundaries for the computed 100-year flood, lower Salt River, Lincoln County, Wyoming</title>
+		<author>
+			<persName><forename type="first">Kirk</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+			<idno type="ORCID">0000-0002-8141-2001</idno>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">P</forename><surname>Mason</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/ofr00201</idno>
+		<ptr target="http://www.indiaenvironmentportal.org.in/files/file/Performance_audit_Union_Government_Schemes_for_Flood_Control_and_Flood_Forecasting.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">General of India on Schemes for Flood Control and Flood Forecasting Union Government Ministry of Water Resources, River Development &amp; Ganga Rejuvenation Report</title>
+		<imprint>
+			<publisher>US Geological Survey</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Performance Audit</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Coastal Ballads and Conservation Ironic: Understanding Implementation Slippages of the CRZ Law</title>
+		<author>
+			<persName><forename type="first">Amita</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-15-4294-7_17</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Disaster Research and Management Series on the Global South</title>
+		<imprint>
+			<publisher>Springer Singapore</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">LI</biblScope>
+			<biblScope unit="page" from="255" to="269"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Critical Pedagogy of Disaster Research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dialogue Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="33" to="46"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Floods kill 350 people in Kerala</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kamthan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chugh</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0262-4079(18)31500-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Scientist</title>
+		<title level="j" type="abbrev">New Scientist</title>
+		<idno type="ISSN">0262-4079</idno>
+		<imprint>
+			<biblScope unit="volume">239</biblScope>
+			<biblScope unit="issue">3192</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2018-08">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Inequality-adjusted Human Development Index: States in India</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Suryanarayana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ankush</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Seeta</forename><surname>Prabhu</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0973703016675793</idno>
+		<ptr target="http://www.undp.org/content/dam/india/docs/inequality_adjusted_human_development_index_for_indias_state1.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Journal of Human Development</title>
+		<title level="j" type="abbrev">Indian Journal of Human Development</title>
+		<idno type="ISSN">0973-7030</idno>
+		<idno type="ISSNe">2456-480X</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="175"/>
+			<date type="published" when="2011">2011</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">National Disaster Management Authority of India (NDMA)</title>
+		<idno type="DOI">10.1007/978-3-030-87745-3_300443</idno>
+		<ptr target="https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">The Palgrave Encyclopedia of Urban and Regional Futures</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1103" to="1103"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Kerala Post Disaster Needs Assessment</title>
+		<idno type="DOI">10.1163/2210-7975_hrd-9927-20180011</idno>
+		<ptr target="https://reliefweb.int/sites/reliefweb.int/files/resources/PDNA_Kerala_India.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<date type="published" when="2018">2019. 2018</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A “People-centred Principles-based” post-Hyogo framework to strengthen the resilience of nations and communities</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Oxley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2013.03.004</idno>
+		<ptr target="www.unisdr.org/wcdr/intergover/official-doc/L-docs/Hyogo-framework-for-ac-tion-english.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disaster Risk Reduction</title>
+		<title level="j" type="abbrev">International Journal of Disaster Risk Reduction</title>
+		<idno type="ISSN">2212-4209</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1" to="9"/>
+			<date type="published" when="2005">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sendai Framework for Disaster Risk Reduction 2015-2030</title>
+		<idno type="DOI">10.1163/2210-7975_hrd-9813-2015016</idno>
+		<ptr target="http://www.wcdrr.org/uploads/Sendai_Frame-work_for_Disaster_Risk_Reduction_2015-2030.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">Sendai Framework for Disaster Risk Reduction 2015-2030</title>
+		<imprint>
+			<publisher>Walter de Gruyter GmbH</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Natural Hazards, UnNatural Disasters</title>
+		<idno type="DOI">10.1596/978-0-8213-8050-5</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Natural Hazards, Unnatural Disasters. The Economics of Effective Prevention</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2010-11-06">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal Variations in Rainfall and Temperature in Ghana Over the Twentieth Century, 1900–2014</title>
+		<author>
+			<persName><forename type="first">Tawia</forename><surname>Abbam</surname></persName>
+			<idno type="ORCID">0000-0003-4367-1237</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Fiifi</forename><forename type="middle">Amoako</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jadu</forename><surname>Dash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sabu</forename><forename type="middle">S</forename><surname>Padmadas</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/2017ea000327</idno>
+		<ptr target="https://doi.org/10.1002/2017EA000327"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth and Space Science</title>
+		<title level="j" type="abbrev">Earth and Space Science</title>
+		<idno type="ISSN">2333-5084</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="120" to="132"/>
+			<date type="published" when="2018-04">2018</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Extractivism and neoextractism: two sides of the same curse</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acosta</surname></persName>
+		</author>
+		<idno type="DOI">10.20446/jep-2414-3197-28-3-74.Issue</idno>
+		<ptr target="https://doi.org/10.20446/jep-2414-3197-28-3-74.Issue"/>
+	</analytic>
+	<monogr>
+		<title level="j">Beyond Dev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">61</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Non-timber forest products farming and empowerment of rural women in Ghana</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Boon</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-011-9295-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="863" to="878"/>
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Non-timber forest products farming and empowerment of rural women in Ghana</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Boon</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-011-9295-7</idno>
+		<ptr target="https://doi.org/10.1007/s10668-011-9295-7"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="863" to="878"/>
+			<date type="published" when="2011-04-13">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Climate smart agriculture practices in semiarid northern Ghana: implications for sustainable livelihoods</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Alare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Owusu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Owusu</surname></persName>
+		</author>
+		<idno type="DOI">10.5539/jsd.v11n5p57</idno>
+		<ptr target="https://doi.org/10.5539/jsd.v11n5p57"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">57</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Modeling Impact of Climate Change on Water Resources and Agriculture Demand in the Volta Basin and other Basin Systems in Ghana</title>
+		<author>
+			<persName><forename type="first">Barnabas</forename><surname>Amisigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alyssa</forename><surname>Mccluskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Swanson</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su7066957</idno>
+		<ptr target="https://doi.org/10.3390/su7066957"/>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<title level="j" type="abbrev">Sustainability</title>
+		<idno type="ISSNe">2071-1050</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="6957" to="6975"/>
+			<date type="published" when="2015-05-29">2015</date>
+			<publisher>MDPI AG</publisher>
+			<pubPlace>Switzerland)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Corruption, Natural Resources and Development</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Le Billon</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781785361203</idno>
+		<imprint>
+			<date type="published" when="2017-01-27">2017</date>
+			<publisher>Edward Elgar Publishing</publisher>
+			<biblScope unit="page" from="1" to="178"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Challenges of corporate social responsibility (CSR) in domestic settings: An exploration of mining regulation vis-à-vis CSR in Ghana</title>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Andrews</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2015.11.001</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2015.11.001"/>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<title level="j" type="abbrev">Resources Policy</title>
+		<idno type="ISSN">0301-4207</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">40</biblScope>
+			<biblScope unit="page" from="9" to="17"/>
+			<date type="published" when="2016-03">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Livelihood adaptations to climate variability: insights from farming households in Ghana</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Antwi-Agyei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsay</forename><forename type="middle">C</forename><surname>Stringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">J</forename><surname>Dougill</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10113-014-0597-9</idno>
+		<ptr target="https://doi.org/10.1007/s10113-014-0597-9"/>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Environmental Change</title>
+		<title level="j" type="abbrev">Reg Environ Change</title>
+		<idno type="ISSN">1436-3798</idno>
+		<idno type="ISSNe">1436-378X</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1615" to="1626"/>
+			<date type="published" when="2014-03-12">2014</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Understanding wisdom in the old testament through its akan (Ghana) parallels: linkages and disconnections*</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K E</forename><surname>Antwi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Adjei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Asuming</surname></persName>
+		</author>
+		<idno type="DOI">10.17159/2312-3621/2020</idno>
+		<ptr target="https://doi.org/10.17159/2312-3621/2020"/>
+	</analytic>
+	<monogr>
+		<title level="j">Old Testament Essays</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="408" to="427"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Dependence on forest resources and tropical deforestation in Ghana</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Appiah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Blay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Damnyag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><forename type="middle">K</forename><surname>Dwomoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ari</forename><surname>Pappinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olavi</forename><surname>Luukkanen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-007-9125-0</idno>
+		<ptr target="https://doi.org/10.1007/s10668-007-9125-0"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="471" to="487"/>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Evaluating the Environmental-Technology Gaps of Rice Farms in Distinct Agro-Ecological Zones of Ghana</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Asravor</surname></persName>
+			<idno type="ORCID">0000-0003-1087-7669</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><forename type="middle">N</forename><surname>Wiredu</surname></persName>
+			<idno type="ORCID">0000-0002-6641-0593</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Khalid</forename><surname>Siddig</surname></persName>
+			<idno type="ORCID">0000-0003-1339-4507</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">E</forename><surname>Onumah</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su11072072</idno>
+		<ptr target="https://doi.org/10.3390/su11072072"/>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<title level="j" type="abbrev">Sustainability</title>
+		<idno type="ISSNe">2071-1050</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">2072</biblScope>
+			<date type="published" when="2019-04-08">2019</date>
+			<publisher>MDPI AG</publisher>
+			<pubPlace>Switzerland)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Spatio-Temporal Variability of Rainfall over the Agro-Ecological Zones of Ghana</title>
+		<author>
+			<persName><forename type="first">Winifred</forename><forename type="middle">A</forename><surname>Atiah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leonard</forename><forename type="middle">K</forename><surname>Amekudzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Quansah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kwasi</forename><surname>Preko</surname></persName>
+		</author>
+		<idno type="DOI">10.4236/acs.2019.93034</idno>
+		<ptr target="https://doi.org/10.4236/acs.2019.93034"/>
+	</analytic>
+	<monogr>
+		<title level="j">Atmospheric and Climate Sciences</title>
+		<title level="j" type="abbrev">ACS</title>
+		<idno type="ISSN">2160-0414</idno>
+		<idno type="ISSNe">2160-0422</idno>
+		<imprint>
+			<biblScope unit="volume">09</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page" from="527" to="544"/>
+			<date type="published" when="2019">2019</date>
+			<publisher>Scientific Research Publishing, Inc.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The ‘new extractivism’ in Ghana: A critical review of its development prospects</title>
+		<author>
+			<persName><forename type="first">Jasper</forename><forename type="middle">A</forename><surname>Ayelazuno</surname></persName>
+			<idno type="ORCID">0000-0003-3119-7136</idno>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2014.04.008</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2014.04.008"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Extractive Industries and Society</title>
+		<title level="j" type="abbrev">The Extractive Industries and Society</title>
+		<idno type="ISSN">2214-790X</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="292" to="302"/>
+			<date type="published" when="2014-11">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Social responsibility agreements in ghana's forestry sector</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ayine</surname></persName>
+		</author>
+		<ptr target="http://www.csr-weltweit.de/uploads/tx_jpdownloads/Dominic_M_Ayine_01.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">Dev. Legal Tools Citiz. Empower. Ser. IIED Lond</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="36"/>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mining, risk and climate resilience in the ‘other’ Pacific: Latin American lessons for the South Pacific</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Bury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Cuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Rogan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/apv.12098</idno>
+		<ptr target="https://doi.org/10.1111/apv.12098"/>
+	</analytic>
+	<monogr>
+		<title level="j">Asia Pacific Viewpoint</title>
+		<title level="j" type="abbrev">Asia Pac Viewp</title>
+		<idno type="ISSN">1360-7456</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="207"/>
+			<date type="published" when="2015-07-26">2015</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A review of the geology and the petroleum potential of the cretaceous tano Basin of Ghana</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Bempong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Ozumba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hotor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Takyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Nwanjide</surname></persName>
+		</author>
+		<idno type="DOI">10.35248/2157-7463.19.10.395</idno>
+		<ptr target="https://doi.org/10.35248/2157-7463.19.10.395"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pet. Environ. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">1000395</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Climatic zoning of Ghana using selected meteorological variables for the period 1976–2018</title>
+		<author>
+			<persName><forename type="first">Enoch</forename><surname>Bessah</surname></persName>
+			<idno type="ORCID">0000-0002-2187-2022</idno>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Amponsah</surname></persName>
+			<idno type="ORCID">0000-0002-1010-1206</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><forename type="middle">Owusu</forename><surname>Ansah</surname></persName>
+			<idno type="ORCID">0000-0001-5375-8876</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andrews</forename><surname>Afrifa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bashiru</forename><surname>Yahaya</surname></persName>
+			<idno type="ORCID">0000-0001-8754-100X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Cosmos</forename><forename type="middle">Senyo</forename><surname>Wemegah</surname></persName>
+			<idno type="ORCID">0000-0002-5936-0268</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Tanu</surname></persName>
+			<idno type="ORCID">0000-0002-3184-7314</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Leonard</forename><forename type="middle">K</forename><surname>Amekudzi</surname></persName>
+			<idno type="ORCID">0000-0002-2186-3425</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wilson</forename><forename type="middle">Agyei</forename><surname>Agyare</surname></persName>
+			<idno type="ORCID">0000-0002-4028-7961</idno>
+		</author>
+		<idno type="DOI">10.1002/met.2049</idno>
+		<ptr target="https://doi.org/10.1002/met.2049"/>
+	</analytic>
+	<monogr>
+		<title level="j">Meteorological Applications</title>
+		<title level="j" type="abbrev">Meteorological Applications</title>
+		<idno type="ISSN">1350-4827</idno>
+		<idno type="ISSNe">1469-8080</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15"/>
+			<date type="published" when="2022-01">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Assessing Climate Change Impacts on Ecosystem Services and Livelihoods in Ghana: Case Study of Communities around Sui Forest Reserve</title>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Boon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<idno type="DOI">10.4172/2157-7625.s3-001</idno>
+		<ptr target="https://doi.org/10.4172/2157-7625.s3-001"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecosystem &amp; Ecography</title>
+		<title level="j" type="abbrev">J Ecosys Ecograph</title>
+		<idno type="ISSNe">2157-7625</idno>
+		<imprint>
+			<biblScope unit="volume">03</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<biblScope unit="page" from="1" to="8"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>OMICS Publishing Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Motivations for providing CSR-mediated initiatives in mining communities of Ghana: a multiple-case study</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">Kwasi</forename><surname>Boso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><forename type="middle">K</forename><surname>Afrane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">K B</forename><surname>Inkoom</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40991-017-0018-8</idno>
+		<ptr target="https://doi.org/10.1186/s40991-017-0018-8"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Corporate Social Responsibility</title>
+		<title level="j" type="abbrev">Int J Corporate Soc Responsibility</title>
+		<idno type="ISSN">2366-0066</idno>
+		<idno type="ISSNe">2366-0074</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2017-06-24">2017</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Community development agrrements in mining projects</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Bruckner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in rural Ghana: indigenous perceptions and strategies</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">Brandful</forename><surname>Cobbinah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">Kwadwo</forename><surname>Anane</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17565529.2015.1034228</idno>
+		<ptr target="https://doi.org/10.1080/17565529.2015.1034228"/>
+	</analytic>
+	<monogr>
+		<title level="j">Climate and Development</title>
+		<title level="j" type="abbrev">Climate and Development</title>
+		<idno type="ISSN">1756-5529</idno>
+		<idno type="ISSNe">1756-5537</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="178"/>
+			<date type="published" when="2016">2016</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Evaluating how Ghana’s Petroleum Revenue Management Act has improved transparency and accountability</title>
+		<idno type="DOI">10.23846/b/ie/201910</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Government of Ghana, Ministry of Finance</title>
+		<imprint>
+			<publisher>International Initiative for Impact Evaluation (3ie)</publisher>
+			<date type="published" when="2011">2011. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Act 815</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Extractive industries, livelihoods and natural resource competition: Mapping overlapping claims in Peru and Ghana</title>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Cuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Rogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Millones</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apgeog.2014.05.003</idno>
+		<ptr target="https://doi.org/10.1016/j.apgeog.2014.05.003"/>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Geography</title>
+		<title level="j" type="abbrev">Applied Geography</title>
+		<idno type="ISSN">0143-6228</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="250" to="261"/>
+			<date type="published" when="2014-10">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Climate change and rural communities in Ghana: Social vulnerability, impacts, adaptations and policy implications</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">Kwadwo</forename><surname>Dumenu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">Asantewaa</forename><surname>Obeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsci.2015.10.010</idno>
+		<ptr target="https://doi.org/10.1016/j.envsci.2015.10.010"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science &amp; Policy</title>
+		<title level="j" type="abbrev">Environmental Science &amp; Policy</title>
+		<idno type="ISSN">1462-9011</idno>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="208" to="217"/>
+			<date type="published" when="2016-01">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Rural Livelihoods and Poverty Reduction Policies</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Freeman</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203006214</idno>
+		<ptr target="https://doi.org/10.4324/9780203006214"/>
+	</analytic>
+	<monogr>
+		<title level="m">Rural livelihoods and poverty reduction policies. Rural Livelihoods Poverty Reduct. Policies</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2004-08-02">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Inventory analysis of the timber industry in Ghana</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">Frank</forename><surname>Eshun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">José</forename><surname>Potting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rik</forename><surname>Leemans</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11367-010-0207-0</idno>
+		<idno>11367- 010-0207-0</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Life Cycle Assessment</title>
+		<title level="j" type="abbrev">Int J Life Cycle Assess</title>
+		<idno type="ISSN">0948-3349</idno>
+		<idno type="ISSNe">1614-7502</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="715" to="725"/>
+			<date type="published" when="2010-06-17">2010</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Analysis: Micro Offering Safe Harbor Act, Private Placement Improvement Act of 2016, Fix Crowdfunding Act, Supporting America's Innovators Act of 2016</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Robert</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2767866</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">912</biblScope>
+			<date type="published" when="2016">2016 Act 912. 2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Farmers’ perception and adaptation to climate change: a case study of Sekyedumase district in Ghana</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Fosu-Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L G</forename><surname>Vlek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Maccarthy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-012-9339-7</idno>
+		<ptr target="https://doi.org/10.1007/s10668-012-9339-7"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="495" to="505"/>
+			<date type="published" when="2012-02-11">2012</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Linkages between vulnerability, resilience, and adaptive capacity</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gallopin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2006.02.004</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2006.02.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="293" to="303"/>
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">From enclave to linkage economies? A review of the literature on linkages between extractive multinational corporations and local industry in Africa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hansen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Harvesting mineral riches: 1000 years of gold mining in Ghana</title>
+		<author>
+			<persName><forename type="first">Gavin</forename><surname>Hilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0301-4207(03)00002-3</idno>
+		<ptr target="https://doi.org/10.1016/S0301-4207(03)00002-3"/>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<title level="j" type="abbrev">Resources Policy</title>
+		<idno type="ISSN">0301-4207</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="13" to="26"/>
+			<date type="published" when="2002-03">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The environmental and socioeconomic performance of multinational mining companies in the developing world economy</title>
+		<author>
+			<persName><forename type="first">Gavin</forename><surname>Hilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Haselip</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14041040410027318</idno>
+		<ptr target="https://doi.org/10.1080/14041040410027318"/>
+	</analytic>
+	<monogr>
+		<title level="j">Minerals &amp; Energy - Raw Materials Report</title>
+		<title level="j" type="abbrev">Minerals &amp; Energy - Raw Materials Report</title>
+		<idno type="ISSN">1404-1049</idno>
+		<idno type="ISSNe">1651-2286</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="25" to="47"/>
+			<date type="published" when="2004-09">2004</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Structural Adjustment in Ghana: Assessing the Impacts of Mining-Sector Reform</title>
+		<author>
+			<persName><forename type="first">Gavin</forename><forename type="middle">M</forename><surname>Hilson</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/aft.2004.51.2.52</idno>
+		<ptr target="https://doi.org/10.2979/aft.2004.51.2.52"/>
+	</analytic>
+	<monogr>
+		<title level="j">Africa Today</title>
+		<title level="j" type="abbrev">Africa Today</title>
+		<idno type="ISSN">0001-9887</idno>
+		<idno type="ISSNe">1527-1978</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="52" to="77"/>
+			<date type="published" when="2004-12">2004</date>
+			<publisher>Indiana University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Climate change 2014: synthesis report. contribution of working groups i, ii and iii to the fifth assessment report of the intergovernmental panel on climate change</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/CBO9781139177245.003</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Intergovemental Panel on Climate Change</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">9781107025</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jakku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Scientific</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lynam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Society</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>What is adaptive capacity</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Corporate social responsibility and the mining industry: conflicts and constructs</title>
+		<author>
+			<persName><forename type="first">Heledd</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Obara</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/csr.50</idno>
+		<ptr target="http://www.oxfam.org.au/campaigns/mining/index.html"/>
+	</analytic>
+	<monogr>
+		<title level="j">Corporate Social Responsibility and Environmental Management</title>
+		<title level="j" type="abbrev">Corp Soc Responsibility Env</title>
+		<idno type="ISSN">1535-3958</idno>
+		<idno type="ISSNe">1535-3966</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="34"/>
+			<date type="published" when="2008-09">2008. September, 1-23</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">International journal of food and nutrition the impact of environmental degradation by surface mining on sustainable agriculture in Ghana the future of traditional knowledge studies view project food security view project</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J K</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsui</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/publication/330982716"/>
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+			<biblScope unit="page" from="1" to="5"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The Commons in a Glocal World</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kelboro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stellmacher</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781351050982</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Commons in a Glocal World</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Haller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Breu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>De Moor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Rohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Znoj</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2019-04-30">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Mining and community development: problems and possibilities of local-level practice</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kemp</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cdj/bsp006</idno>
+		<ptr target="https://doi.org/10.1093/cdj/bsp006"/>
+	</analytic>
+	<monogr>
+		<title level="j">Community Development Journal</title>
+		<title level="j" type="abbrev">Community Development Journal</title>
+		<idno type="ISSN">0010-3802</idno>
+		<idno type="ISSNe">1468-2656</idno>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="198" to="218"/>
+			<date type="published" when="2009-02-24">2009</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Environmental Change and Globalization: Double Exposures</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>O'brien</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Climate Change and the Global Financial Crisis: A Case of Double Exposure</title>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">L</forename><surname>O’brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">D</forename><surname>Solecki</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00045608.2010.497340</idno>
+		<ptr target="https://doi.org/10.1080/00045608.2010.497340"/>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Association of American Geographers</title>
+		<title level="j" type="abbrev">Annals of the Association of American Geographers</title>
+		<idno type="ISSN">0004-5608</idno>
+		<idno type="ISSNe">1467-8306</idno>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="963" to="972"/>
+			<date type="published" when="2010-08-31">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The private sector in climate governance: opportunities for climate compatible development through multilevel industry-government engagement</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Leventon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jen</forename><forename type="middle">C</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">D</forename><surname>Van Alstine</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2015.04.125</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2015.04.125"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<title level="j" type="abbrev">Journal of Cleaner Production</title>
+		<idno type="ISSN">0959-6526</idno>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="316" to="323"/>
+			<date type="published" when="2015-09">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Farmers' perception and adaptation practice to climate variability and change: a case study of the Vea catchment in Ghana</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Limantol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Azabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lennartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40064-016-2433-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Springerplus</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Infrastructure deficit and opportunities in Africa</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Mafusire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zuzana</forename><surname>Brixiova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Anyanwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qingwei</forename><surname>Meng</surname></persName>
+		</author>
+		<idno type="DOI">10.1332/policypress/9781447326632.003.0013</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Infrastructure in Africa</title>
+		<imprint>
+			<publisher>Policy Press</publisher>
+			<date type="published" when="2010-09">2010. September</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="16"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Pastoralists under Pressure: Double Exposure to Economic and Environmental Change in Niger</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><forename type="middle">L</forename><surname>Mckune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><forename type="middle">A</forename><surname>Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2013.822067</idno>
+		<ptr target="https://doi.org/10.1080/00220388.2013.822067"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Development Studies</title>
+		<title level="j" type="abbrev">Journal of Development Studies</title>
+		<idno type="ISSN">0022-0388</idno>
+		<idno type="ISSNe">1743-9140</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1711" to="1727"/>
+			<date type="published" when="2013-12">2013</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Does Environmental Laws and Policies Work? A Review Of Ghana’s Case</title>
+		<author>
+			<persName><forename type="first">Aboagye</forename><forename type="middle">Emmanuel</forename><surname>Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Attobrah</forename><surname>Justice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Owusu</forename><forename type="middle">Nana</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fletcher</forename><surname>Henrietta</surname></persName>
+		</author>
+		<idno type="DOI">10.30564/re.v2i3.2216</idno>
+		<ptr target="https://doi.org/10.30564/re.v2i3.2216"/>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Ecology</title>
+		<title level="j" type="abbrev">Res. in Ecol.</title>
+		<idno type="ISSNe">2661-3379</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="32" to="41"/>
+			<date type="published" when="2020-10-15">2020</date>
+			<publisher>Bilingual Publishing Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">.</forename><surname>Amoako</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kankam</surname></persName>
+		</author>
+		<ptr target="http://www.crc.uri.edu/projects_page/ghanasfmp/"/>
+		<title level="m">Ankobra estuarine community climate vulnerability assessment</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">India’s second national communication to the United Nations Framework Convention on Climate Change</title>
+		<author>
+			<persName><surname>Mesti</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/9789004322714_cclc_2015-0009-003</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">CLIMATE CHANGE AND FORESTS OF THE FUTURE: MANAGING IN THE FACE OF UNCERTAINTY</title>
+		<author>
+			<persName><forename type="first">Constance</forename><forename type="middle">I</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><forename type="middle">L</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scott</forename><forename type="middle">L</forename><surname>Stephens</surname></persName>
+		</author>
+		<idno type="DOI">10.1890/06-1715.1</idno>
+		<ptr target="https://doi.org/10.1890/06-1715.1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<title level="j" type="abbrev">Ecological Applications</title>
+		<idno type="ISSN">1051-0761</idno>
+		<idno type="ISSNe">1939-5582</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2145" to="2151"/>
+			<date type="published" when="2007-12">2007</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Influence of cold&amp;ndash;dry (harmattan) season on colonic temperature and the development of pulmonary hypertension in broiler chickens, and the modulating effect of ascorbic acid</title>
+		<author>
+			<persName><forename type="first">Ndazo</forename><forename type="middle">Salka</forename><surname>Minka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Ayo</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/oaap.s51741</idno>
+		<ptr target="https://doi.org/10.2147/oaap.s51741"/>
+	</analytic>
+	<monogr>
+		<title level="j">Open Access Animal Physiology</title>
+		<title level="j" type="abbrev">OAAP</title>
+		<idno type="ISSNe">1179-2779</idno>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2014-03">2014</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Strategies for managing large-scale mining sector land use conflicts in the global south</title>
+		<author>
+			<persName><forename type="first">Abdul–wadood</forename><forename type="middle">W</forename><surname>Moomen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2016.11.010</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2016.11.010"/>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<title level="j" type="abbrev">Resources Policy</title>
+		<idno type="ISSN">0301-4207</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="85" to="93"/>
+			<date type="published" when="2016">2017. November 2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Double exposure to capitalist expansion and climatic change: a study of vulnerability on the Ghanaian coastal commodity frontier</title>
+		<author>
+			<persName><forename type="first">Callum</forename><surname>Nolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Izabela</forename><surname>Delabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Filippo</forename><surname>Menga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">K</forename><surname>Goodman</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/es-12815-270101</idno>
+		<ptr target="https://doi.org/10.5751/es-12815-270101"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Society</title>
+		<title level="j" type="abbrev">E&amp;S</title>
+		<idno type="ISSN">1708-3087</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2022">2022</date>
+			<publisher>Resilience Alliance, Inc.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The local impact of mining on poverty and inequality: evidence from the commodity boom in Peru</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jamele</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2016.03.005</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2016.03.005"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="219" to="234"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Double exposure: assessing the impacts of climate change within the context of economic globalization</title>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">L</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0959-3780(00)00021-2</idno>
+		<ptr target="https://doi.org/10.1016/S0959-3780(00)00021-2"/>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="221" to="232"/>
+			<date type="published" when="2000-10">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Mining and climate change: A review and framework for analysis</title>
+		<author>
+			<persName><forename type="first">Scott</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">E</forename><surname>Frey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2017.12.004</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2017.12.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Extractive Industries and Society</title>
+		<title level="j" type="abbrev">The Extractive Industries and Society</title>
+		<idno type="ISSN">2214-790X</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="201" to="214"/>
+			<date type="published" when="2018-01">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Governments, investors and local communities: analysis of a multi-actor investment contract framework</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Odumosu-Ayanu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Melb. J. Int. Law</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="473" to="514"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Exploring the Nature of Psychological Empowerment of Women Entrepreneurs in a Rural Setting</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A A</forename><surname>Okyireh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nkansah Simpeh</surname></persName>
+		</author>
+		<idno type="DOI">10.12691/jbms-4-6-2</idno>
+		<ptr target="https://doi.org/10.12691/jbms-4-6-2"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Management Sciences</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="138" to="141"/>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Oldekop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meyfroidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Bengston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blackman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davidson-Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Dinsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Fontana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gumucio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Mwampamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41477-020-00814-9</idno>
+		<ptr target="https://doi.org/10.1038/s41477-020-00814-9"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Plants</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1400" to="1407"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Climate change impact and adaptation pathways for forest dependent livelihood systems in Nigeria</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Onyekuru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marchant</surname></persName>
+		</author>
+		<idno type="DOI">10.5897/AJAR2013.8315</idno>
+		<ptr target="https://doi.org/10.5897/AJAR2013.8315"/>
+	</analytic>
+	<monogr>
+		<title level="j">Afr. J. Agric. Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="1819" to="1832"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Assessing surface water resources of the Southwestern and Coastal basin systems of Ghana</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Opoku-Ankomah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Forson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02626669809492169</idno>
+		<ptr target="https://doi.org/10.1080/02626669809492169"/>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrological Sciences Journal</title>
+		<title level="j" type="abbrev">Hydrological Sciences Journal</title>
+		<idno type="ISSN">0262-6667</idno>
+		<idno type="ISSNe">2150-3435</idno>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="733" to="740"/>
+			<date type="published" when="1998-10">1998. October 2014</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Assessment of flood prone zones in the Tarkwa mining area of Ghana using a GIS-based approach</title>
+		<author>
+			<persName><forename type="first">Boakye</forename><forename type="middle">Kwame</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isaac</forename><surname>Ahenkorah</surname></persName>
+			<idno type="ORCID">0000-0001-6044-1412</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Ewusi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Etornam</forename><forename type="middle">Bani</forename><surname>Fiadonu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envc.2021.100028</idno>
+		<ptr target="https://doi.org/10.1016/j.envc.2021.100028"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Challenges</title>
+		<title level="j" type="abbrev">Environmental Challenges</title>
+		<idno type="ISSN">2667-0100</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">100028</biblScope>
+			<date type="published" when="2021-04">2021. 100028. January</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">Tristan</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">David</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-010-9269-3</idno>
+		<ptr target="https://doi.org/10.1007/s11027-010-9269-3"/>
+	</analytic>
+	<monogr>
+		<title level="j">Mitigation and Adaptation Strategies for Global Change</title>
+		<title level="j" type="abbrev">Mitig Adapt Strateg Glob Change</title>
+		<idno type="ISSN">1381-2386</idno>
+		<idno type="ISSNe">1573-1596</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="368"/>
+			<date type="published" when="2010-10-28">2010</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">An introduction to logistic regression analysis and reporting</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y J</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Ingersoll</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220670209598786</idno>
+		<ptr target="https://doi.org/10.1080/00220670209598786"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Educ. Res</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="14"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Adaptation and development: livelihoods and climate change in Subarnabad</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pouliotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Westerhoff</surname></persName>
+		</author>
+		<idno type="DOI">10.3763/cdev.2009.0001</idno>
+		<ptr target="https://doi.org/10.3763/cdev.2009.0001"/>
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. Clim. Dev</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="46"/>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Climate change and mining: a foreign policy perspective</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rüttinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<ptr target="www.adelphi.de"/>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Farmer's perception, impact and adaptation strategies to climate change among smallholder farmers in Sub-Saharan Africa: asystemic review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chalchisa</surname></persName>
+		</author>
+		<ptr target="www.iiste.org"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Resour. Dev. Manag</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1" to="8"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Farmers’ perceptions of climate change impacts on ecosystem services delivery of parklands in southern Mali</title>
+		<author>
+			<persName><forename type="first">Kapoury</forename><surname>Sanogo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joachim</forename><surname>Binam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jules</forename><surname>Bayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grace</forename><forename type="middle">B</forename><surname>Villamor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antoine</forename><surname>Kalinganire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soro</forename><surname>Dodiomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10457-016-9933-z</idno>
+		<ptr target="https://doi.org/10.1007/s10457-016-9933-z"/>
+	</analytic>
+	<monogr>
+		<title level="j">Agroforestry Systems</title>
+		<title level="j" type="abbrev">Agroforest Syst</title>
+		<idno type="ISSN">0167-4366</idno>
+		<idno type="ISSNe">1572-9680</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="345" to="361"/>
+			<date type="published" when="2017">2017</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Exportation of timber in ghana: the menace of illegal logging operations. SSRN Electron</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sarfo-Mensah</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.670621</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.670621"/>
+		<imprint>
+			<date type="published" when="2005-02">2005. February 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Impacts of Surface Gold Mining on Land Use Systems in Western Ghana</title>
+		<author>
+			<persName><forename type="first">Vivian</forename><surname>Schueler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Kuemmerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hilmar</forename><surname>Schröder</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13280-011-0141-9</idno>
+		<ptr target="https://doi.org/10.1007/s13280-011-0141-9"/>
+	</analytic>
+	<monogr>
+		<title level="j">AMBIO</title>
+		<title level="j" type="abbrev">AMBIO</title>
+		<idno type="ISSN">0044-7447</idno>
+		<idno type="ISSNe">1654-7209</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="528" to="539"/>
+			<date type="published" when="2011-03-18">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Livelihoods perspectives and rural development</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Scoones</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03066150902820503</idno>
+		<ptr target="https://doi.org/10.1080/03066150902820503"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Peasant Stud</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="171" to="196"/>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options</title>
+		<author>
+			<persName><forename type="first">Bekele</forename><surname>Shiferaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kindie</forename><surname>Tesfaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Menale</forename><surname>Kassie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tsedeke</forename><surname>Abate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Prasanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abebe</forename><surname>Menkir</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wace.2014.04.004</idno>
+		<ptr target="https://doi.org/10.1016/j.wace.2014.04.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">Weather and Climate Extremes</title>
+		<title level="j" type="abbrev">Weather and Climate Extremes</title>
+		<idno type="ISSN">2212-0947</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="67" to="79"/>
+			<date type="published" when="2014-06">2014</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Africa's mining potential: trends, opportunities. Chall. Strat. Issue</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Signé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021-05">2021. May www.policycenter.ma</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">An indicator framework for assessing livelihood resilience in the context of social-ecological dynamics</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Speranza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rist</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2014.06.005</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2014.06.005"/>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="119"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Impact of harmattan season on human health in Keffi, nasarawa state</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sufiyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mohammed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Bello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zaharadeen</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/MTSM.MTSM</idno>
+		<ptr target="https://doi.org/10.4103/MTSM.MTSM"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nigeria. Matrix Sci. Med. Matrix Sci. Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="202044" to="202050"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Livelihood resilience in the face of climate change. Nat</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wrathall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bronen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cradock-Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lawless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nawrotzki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alaniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nadiruzzaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Henly-Shepard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomalla</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nclimate2431</idno>
+		<ptr target="https://doi.org/10.1038/nclimate2431"/>
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Change</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="26"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Impacts of climate change on livelihood and its adaptation needs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Thakur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bajagain</surname></persName>
+		</author>
+		<idno type="DOI">10.3126/aej</idno>
+		<ptr target="https://doi.org/10.3126/aej"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Environ</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="173" to="185"/>
+			<date type="published" when="2019-06">2019. June. 20i0.25067</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Livelihood resilience and adaptive capacity: tracing changes in household access to capital in central Vietnam</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Thulstrup</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2015.05.019</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2015.05.019"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="352" to="362"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Actors, alliances and power in negotiation: unequal distribution of mining benefits in Tarkwa's gold mining area of western Ghana</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tsuma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Adaptive capacity for climate change in Canadian rural communities</title>
+		<author>
+			<persName><forename type="first">Ellen</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katia</forename><surname>Marzall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549830600785506</idno>
+		<ptr target="https://doi.org/10.1080/13549830600785506"/>
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<title level="j" type="abbrev">Local Environment</title>
+		<idno type="ISSN">1354-9839</idno>
+		<idno type="ISSNe">1469-6711</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="373" to="397"/>
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Mining, rural livelihoods and food security: a disaggregated analysis of sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wegenast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beck</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.104921</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2020.104921"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<date type="published" when="2020">2020. 104921</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">What is Benefit Sharing? Respecting Indigenous Rights and Addressing Inequities in Arctic Resource Projects</title>
+		<author>
+			<persName><forename type="first">Emma</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/resources8020074</idno>
+		<ptr target="https://doi.org/10.3390/resources8020074"/>
+	</analytic>
+	<monogr>
+		<title level="j">Resources</title>
+		<title level="j" type="abbrev">Resources</title>
+		<idno type="ISSNe">2079-9276</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">74</biblScope>
+			<date type="published" when="2019-04-20">2019</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Ghana Country Environmental Analysis</title>
+		<idno type="DOI">10.1596/33726</idno>
+		<ptr target="https://www.sprep.org/att/IRC/eCOPIES/Countries/Vanuatu/38.pdf"/>
+		<imprint>
+			<date type="published" when="2020-04">2020. Issue April</date>
+			<publisher>World Bank, Washington, DC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<author>
+			<persName><surname>Wrc</surname></persName>
+		</author>
+		<title level="m">Ankobra river basin -integrated water resources management plan. WRC (Water Resource Commission Ghana)</title>
+		<imprint>
+			<date type="published" when="2009-03">2009. March</date>
+			<biblScope unit="page" from="1" to="24"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Adaptation to Climate Change and Variability in Rural West Africa. Adaptation to Climate Change and Variability in Rural West Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Yaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hesselberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-31499-0</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-31499-0"/>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The incursions of extractivism: moving from dispersed places to global capitalism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ploeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shanin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03066150.2018.1559834</idno>
+		<ptr target="https://doi.org/10.1080/03066150.2018.1559834"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Peasant Stud</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="183"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Factors influencing the adoption of climate-smart agricultural technologies among rice farmers in Northern Ghana</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zakaria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Alhassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K M</forename><surname>Kuwornu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Azumah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A A</forename><surname>Derkyi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s41748-020-00146-w</idno>
+		<ptr target="https://doi.org/10.1007/s41748-020-00146-w"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Syst. Environ</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="257" to="271"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

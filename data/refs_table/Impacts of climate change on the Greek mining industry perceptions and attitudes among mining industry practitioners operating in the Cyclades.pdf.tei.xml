@@ -1,0 +1,1034 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><surname>Abares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Australian Bureau of Agricultural and Resource Economics and Sciences</title>
+		<title level="s">ABARES Special Report</title>
+		<meeting><address><addrLine>Canberra</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>The impact of recent flood events on commodities: special report</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Climate change impacts on international seaports: knowledge, perceptions, and planning efforts among port administrators</title>
+		<author>
+			<persName><forename type="first">Austin</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Satoshi</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Schwegler</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-011-0043-7</idno>
+		<idno>1058 4-011-0043-7</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="5" to="29"/>
+			<date type="published" when="2011-03-05">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Friction Control of Chitosan-Ag Hydrogel by Silver Ion</title>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Hua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcus</forename><surname>Björling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roland</forename><surname>Larsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yijun</forename><surname>Shi</surname></persName>
+		</author>
+		<idno type="DOI">10.30919/esmm5f555</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ES Materials &amp; Manufacturing</title>
+		<title level="j" type="abbrev">ES Mater. Manuf.</title>
+		<idno type="ISSN">2578-0611</idno>
+		<idno type="ISSNe">2578-062X</idno>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Engineered Science Publisher</publisher>
+			<pubPlace>Luleå</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Luleå University of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note>state of the art report</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Monetizing the impacts of climate change on the Greek mining sector</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damigos</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-011-9349-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mitigation and Adaptation Strategies for Global Change</title>
+		<title level="j" type="abbrev">Mitig Adapt Strateg Glob Change</title>
+		<idno type="ISSN">1381-2386</idno>
+		<idno type="ISSNe">1573-1596</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="865" to="878"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Case studies of adaptation to climate change in the Yukon mining sector: from planning and operation to remediation and restoration (report)</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pittman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Natural Resources Canada</publisher>
+			<pubPlace>Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Climate change impacts on permafrost engineering design</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Etkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Paoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Riseborough</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998. 2015</date>
+			<publisher>Downsview European Commission</publisher>
+			<pubPlace>Luxembourg</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Environmental Adaptation Research Group, Environment Canada</orgName>
+		</respStmt>
+	</monogr>
+	<note>User guide to the SME definition Publications Office of the EU</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Climate Change 2014: Impacts, Adaptation and Vulnerability</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dokken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mastrandrea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bilir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ebi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">Y</forename><surname>Estrada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Genova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Girma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kissel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maccracken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mastrandrea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>White</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781107415386</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Perceptions of climate change risks in primary resource use industries: a survey of the Canadian mining sector</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tristan</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanya</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10113-009-0094-8</idno>
+		<idno>1011 3-009-0094-8</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Environmental Change</title>
+		<title level="j" type="abbrev">Reg Environ Change</title>
+		<idno type="ISSN">1436-3798</idno>
+		<idno type="ISSNe">1436-378X</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="65" to="81"/>
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Canary in a coal mine: perceptions of climate change risks and response options among Canadian mine operations</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tristan</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanya</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-011-0029-5</idno>
+		<idno>1058 4-011-0029-5</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="399" to="415"/>
+			<date type="published" when="2011-02-22">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Climatic changes and associated impacts in the Mediterranean resulting from a 2 °C global warming</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Giannakopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Sager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bindi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moriondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kostopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Goodess</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloplacha</idno>
+		<idno>06.001</idno>
+		<ptr target="https://doi.org/10.1016/j.gloplacha"/>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Planet Change</title>
+		<imprint>
+			<date type="published" when="2009">2009. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Free data from HNMS: weather bulletins, forecasts, weather warnings</title>
+		<author>
+			<persName><surname>Hnms</surname></persName>
+		</author>
+		<ptr target="https://www.hnms.gr/emy/el/services/paroxi-ipiresion-elefthera-dedomena"/>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Hellenic National Meteorological Service in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Policy on climate change. Policy 1-4. International Council on Mining &amp; Metals, London ICMM (2011) Principles for climate change policy design</title>
+		<author>
+			<persName><surname>Icmm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The role of mining in national economies</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Council on Mining &amp; Metals, London ICMM</publisher>
+			<date type="published" when="2006">2006. 2009. 2013. 2014</date>
+		</imprint>
+	</monogr>
+	<note>Climate Change Position Statement Adapting to a changing climate: implications for the mining and metals industry International Council on Mining &amp; Metals, London ICMM International Council on Mining &amp; Metals</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Development of a composite climate change vulnerability index for small craft harbours</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kontogianni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damigos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kyrtzoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tourkolias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skourtos</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17477891</idno>
+		<ptr target="https://doi.org/10.1080/17477891"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Hazards</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">69</biblScope>
+			<date type="published" when="2018">2018. 2018. 15124</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in Australian mining communities: comparing mining company and local government views and activities</title>
+		<author>
+			<persName><forename type="first">Barton</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kieren</forename><surname>Moffat</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-013-0721-8</idno>
+		<idno>1058 4-013-0721-8</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="465" to="477"/>
+			<date type="published" when="2013-03-06">2013</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in Australian mining communities: comparing mining company and local government views and activities</title>
+		<author>
+			<persName><forename type="first">Barton</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kieren</forename><surname>Moffat</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-013-0721-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="465" to="477"/>
+			<date type="published" when="2013-03-06">2013</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Western Australia. CSIRO, Pullenvale</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in Australian mining communities: comparing mining company and local government views and activities</title>
+		<author>
+			<persName><forename type="first">Barton</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kieren</forename><surname>Moffat</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-013-0721-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="465" to="477"/>
+			<date type="published" when="2013-03-06">2014. 2013. 2013</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Southport</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Climate Change Adaptation Research Facility</orgName>
+		</respStmt>
+	</monogr>
+	<note>Climate change adaptation for Australian minerals industry professionals. National Climate Change Adaptation Research Facility Adapting to climate risks and extreme weather: a guide for mining and minerals industry professionals</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Towards a comprehensive framework for climate change multi-risk assessment in the mining industry</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mavrommatis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damigos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mirasgedis</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/infrastructures</idno>
+		<ptr target="https://doi.org/10.3390/infrastructures"/>
+	</analytic>
+	<monogr>
+		<title level="j">Infrastructures</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">38</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Setting rehabilitation priorities for abandoned mines of similar characteristics according to their visual impact: the case of Milos Island</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mavrommatis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Menegaki</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsm.2017.10.003</idno>
+		<ptr target="https://doi.org/10.1016/j.jsm.2017.10.003"/>
+	</analytic>
+	<monogr>
+		<title level="j">Greece. J Sustain Min</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="104" to="113"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The contribution of the mining industry to the Greek economy. Foundation for Economic &amp; Industrial Research</title>
+		<author>
+			<persName><forename type="first">Α</forename><surname>Moustakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Η</forename><surname>Demian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pavlou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stavraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Danchev</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The contribution of the mining industry to the Greek economy. Foundation for Economic &amp; Industrial Research</title>
+		<author>
+			<persName><forename type="first">Α</forename><surname>Moustakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Η</forename><surname>Demian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pavlou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stavraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Danchev</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Adapting to climate change in the tropical fruit industry: a technical guide for pineapple producers and exporters</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schuchard</surname></persName>
+		</author>
+		<idno type="DOI">10.4060/cc9310en</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>FAO</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mining and climate change: A review and framework for analysis</title>
+		<author>
+			<persName><forename type="first">Scott</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">E</forename><surname>Frey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2017.12.004</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2017.12.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Extractive Industries and Society</title>
+		<title level="j" type="abbrev">The Extractive Industries and Society</title>
+		<idno type="ISSN">2214-790X</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="201" to="214"/>
+			<date type="published" when="2018-01">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">Tristan</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">David</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-010-9269-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mitigation and Adaptation Strategies for Global Change</title>
+		<title level="j" type="abbrev">Mitig Adapt Strateg Glob Change</title>
+		<idno type="ISSN">1381-2386</idno>
+		<idno type="ISSNe">1573-1596</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="368"/>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Vancouver</pubPlace>
+		</imprint>
+	</monogr>
+	<note>David Suzuki Foundation</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig Adapt Strateg Glob Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="347" to="368"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Global mining: physical impacts of climate change on 12 major mines</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Prior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sainsbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seleznev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Urquia</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Citigroup, Sydney</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Implications of Climate Change for Economic Development in Northern Canada: Energy, Resource, and Transportation Sectors</title>
+		<author>
+			<persName><forename type="first">Terry</forename><forename type="middle">D</forename><surname>Prowse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Furgal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Chouinard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Humfrey</forename><surname>Melling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Milburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1579/0044-7447-38.5.272</idno>
+		<ptr target="https://doi.org/10.1579/0044-7447-38.5.272"/>
+	</analytic>
+	<monogr>
+		<title level="j">AMBIO: A Journal of the Human Environment</title>
+		<title level="j" type="abbrev">AMBIO: A Journal of the Human Environment</title>
+		<idno type="ISSN">0044-7447</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="272" to="281"/>
+			<date type="published" when="2009-07">2009</date>
+			<publisher>Royal Swedish Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cold truths at the top of the world</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosen</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/532296a</idno>
+		<ptr target="https://doi.org/10.1038/532296a"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nat News</title>
+		<imprint>
+			<biblScope unit="volume">532</biblScope>
+			<biblScope unit="page">296</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Conference announcement: Impact of Climate Change on the Maritime Industry</title>
+		<author>
+			<persName><forename type="first">Mgm</forename><surname>Sarwar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf03195097</idno>
+	</analytic>
+	<monogr>
+		<title level="j">WMU Journal of Maritime Affairs</title>
+		<title level="j" type="abbrev">WMU J Marit Affairs</title>
+		<idno type="ISSN">1651-436X</idno>
+		<idno type="ISSNe">1654-1642</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="N5" to="N6"/>
+			<date type="published" when="2014">2014</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Malmö</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Masters dissertation. World Maritime University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">In Situ Adaptation to Climatic Change: Mineral Industry Responses to Extreme Flooding Events in Queensland, Australia</title>
+		<author>
+			<persName><forename type="first">Vigya</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Franks</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08941920.2013.797528</idno>
+		<ptr target="https://doi.org/"/>
+	</analytic>
+	<monogr>
+		<title level="j">Society &amp; Natural Resources</title>
+		<title level="j" type="abbrev">Society &amp; Natural Resources</title>
+		<idno type="ISSN">0894-1920</idno>
+		<idno type="ISSNe">1521-0723</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1252" to="1267"/>
+			<date type="published" when="2013-11">2013</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Climate change impacts on the insurance sector</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van De Graaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Franks</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781139519540.004</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Managing Extreme Climate Change Risks through Insurance</title>
+		<meeting><address><addrLine>Canberra/ Sydney</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2013-03-28">2013. 2013</date>
+			<biblScope unit="page" from="36" to="89"/>
+		</imprint>
+		<respStmt>
+			<orgName>Australian National University/Investor Group on Climate Change</orgName>
+		</respStmt>
+	</monogr>
+	<note>Assessing climate change risks and opportunities for investors-mining and minerals processing sector</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Climate Change 2013 – The Physical Science Basis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Stocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Plattner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tignor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boschung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nauels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bex</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Midgley</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9781107415324</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+		<meeting><address><addrLine>Cambridge Stratos Inc; Copenhagen/Nuuk</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2013. 2011. 2014</date>
+		</imprint>
+	</monogr>
+	<note>Climate change 2013: the physical science basis To the benefit of Greenland. University of Copenhagen/Ilisimatusarfik</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Evaluation of a Schema Therapy-Based Prevention Group Program for Children and Their Parents</title>
+		<author>
+			<persName><forename type="first">Roza</forename><surname>Laious</surname></persName>
+			<idno type="ORCID">0009-0006-8397-3239</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Evangelia</forename><forename type="middle">P</forename><surname>Galanaki</surname></persName>
+			<idno type="ORCID">0000-0002-7519-6146</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aikaterini</forename><surname>Aggeli</surname></persName>
+			<idno type="ORCID">0000-0002-5889-6933</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Chara</forename><surname>Tzavara</surname></persName>
+			<idno type="ORCID">0000-0003-3242-9066</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eftychia</forename><surname>Argalia</surname></persName>
+			<idno type="ORCID">0009-0008-3090-3346</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Daria</forename><surname>Bakourini</surname></persName>
+			<idno type="ORCID">0009-0007-3886-4284</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Vassiliki</forename><surname>Koutrafouri</surname></persName>
+			<idno type="ORCID">0009-0005-2126-4720</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aikaterini</forename><surname>Marini</surname></persName>
+			<idno type="ORCID">0009-0003-8947-1422</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ioanna</forename><surname>Sintila</surname></persName>
+			<idno type="ORCID">0009-0004-1100-8988</idno>
+		</author>
+		<idno type="DOI">10.24193/jebp.2024.2.10</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Evidence-Based Psychotherapies</title>
+		<title level="j" type="abbrev">JEBP</title>
+		<idno type="ISSN">2360-0853</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="23" to="52"/>
+			<date type="published" when="2015">2015</date>
+			<publisher>Babes-Bolyai University Cluj-Napoca</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Canada in a changing climate: sector perspectives on impacts and adaptation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lemmen</surname></persName>
+		</author>
+		<idno type="DOI">10.4095/g156219</idno>
+		<editor>Warren FJ, Lemmen DS</editor>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Natural Resources Canada/CMSS/Information Management</publisher>
+			<pubPlace>Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

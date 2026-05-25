@@ -1,0 +1,2075 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Digging the backyard: Mining and quarrying in the UK and their impact on future land use</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bloodworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Mcevoy</surname></persName>
+		</author>
+		<idno>317-S325</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Land Use Policy</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Geomorphic consequences of urban development and mining activities; an analysis of study areas in Spain and Argentina</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cendrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hurtado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Giménez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Forte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Del Ríoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cantúf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Becker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="185" to="206"/>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">;</forename><surname>Pnud; Un-Habitat</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cenac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pnud-Un</forename><surname>Cuadernos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hábitat</surname></persName>
+		</author>
+		<title level="m">Hábitat Y Desarrollo Humano"; Cuadernos PNUD-UN Habitat Investigaciones Sobre Desarrollo Humano</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>PNUD</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">SDG 11 Sustainable Cities and Communities</title>
+		<author>
+			<persName><forename type="first">Hitesh</forename><surname>Vaidya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tathagata</forename><surname>Chatterji</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-32-9927-6_12</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Science for Sustainable Societies</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Singapore</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="173" to="185"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Inclusiveness, safety, resilience, and sustainability in the smart city context</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Del Hoyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Visvizi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Smart Cities and the UN SDGs</title>
+		<meeting><address><addrLine>Amsterdam, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="15" to="28"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Advancing Inclusive and Sustainable Urban Development: Correcting Planning Failures and Connecting Communities to Capital</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Belsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dubroff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mccue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccartney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Molinsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Cambridge, MA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Joint Center for Housing Studies of Harvard University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inclusive city, perspectives, challenges, and pathways</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Elias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable Cities and Communities</title>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="290" to="300"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The contribution of urban green and blue spaces to the United Nation's sustainable development goals: An evidence gap map</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Akaraci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hunter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cities</title>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<date>104706</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Sustainable Cities; Routledge: Philadelphia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Haughton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hunter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Reterritorialization practices and strategies of campesinos in the urban frontier of Bogotá, Colombia. Land Use Policy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A Q</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kotilainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 105058</date>
+			<biblScope unit="volume">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Linking public urban green spaces and human well-being: A systematic review</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reyes-Riveros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Altamirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rozas-Vásquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021. 127105</date>
+			<publisher>Urban For. Urban Green</publisher>
+			<biblScope unit="volume">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Assessing the role of urban green spaces for human well-being: A systematic review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Yusoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shafie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GeoJournal</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="4405" to="4423"/>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The role of urban green space for human well-being</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bertram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rehdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="139" to="152"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Urban planning with respect to environmental quality and human well-being</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Panagopoulos</surname></persName>
+			<idno type="ORCID">0000-0002-8073-2097</idno>
+		</author>
+		<author>
+			<persName><forename type="first">José</forename><forename type="middle">Antonio</forename><surname>González Duque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Bostenaru Dan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envpol.2015.07.038</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Pollution</title>
+		<title level="j" type="abbrev">Environmental Pollution</title>
+		<idno type="ISSN">0269-7491</idno>
+		<imprint>
+			<biblScope unit="volume">208</biblScope>
+			<biblScope unit="page" from="137" to="144"/>
+			<date type="published" when="2016-01">2016</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Benefits and well-being perceived by people visiting green spaces in periods of heat stress</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lafortezza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carrus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sanesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davies</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Urban For. Urban Green</publisher>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="97" to="108"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Avances y desafíos para el reciclaje inclusivo: evaluación de 12 ciudades de América Latina y el Caribe</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Friederich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Langer</surname></persName>
+		</author>
+		<idno type="DOI">10.18235/0006489</idno>
+		<ptr target="http://plataforma.responsable.net/sites/default/files/indice_de_ciudades_verdes_de_america_latina.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">Índice de Ciudades Verdes de América Latina: Una Evaluación Comparativa del Impacto Ecológico de las Principales Ciudades de América Latina; Economist Intelligence Unit, Siemens AG: Munich, Germany, 2010. Available online</title>
+		<imprint>
+			<publisher>Inter-American Development Bank</publisher>
+			<date type="published" when="2020-07-10">10 July 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Assessment of Land Cover Change in Peri-Urban High Andean Environments South of Bogotá, Colombia</title>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Anselm</surname></persName>
+			<idno type="ORCID">0000-0003-0367-6850</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Grischa</forename><surname>Brokamp</surname></persName>
+			<idno type="ORCID">0000-0001-5395-7533</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Brigitta</forename><surname>Schütt</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/land7020075</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Land</title>
+		<title level="j" type="abbrev">Land</title>
+		<idno type="ISSNe">2073-445X</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">75</biblScope>
+			<date type="published" when="2018-06-12">2018</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Environmental Impacts of Metal Ore Mining and Processing: A Review</title>
+		<author>
+			<persName><forename type="first">Stanislaw</forename><surname>Dudka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Domy</forename><forename type="middle">C</forename><surname>Adriano</surname></persName>
+		</author>
+		<idno type="DOI">10.2134/jeq1997.00472425002600030003x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Quality</title>
+		<title level="j" type="abbrev">Journal of Environmental Quality</title>
+		<idno type="ISSN">0047-2425</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="590" to="602"/>
+			<date type="published" when="1997-05">1997</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A Framework for Assessing the Impacts of Mining Development on Regional Water Resources in Colombia</title>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Mcintyre</surname></persName>
+			<idno type="ORCID">0000-0002-3423-6754</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mario</forename><surname>Angarita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Fernandez</surname></persName>
+			<idno type="ORCID">0000-0001-7979-2941</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Camacho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jillian</forename><surname>Pearse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carme</forename><surname>Huguet</surname></persName>
+			<idno type="ORCID">0000-0001-8025-2010</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Restrepo Baena</surname></persName>
+			<idno type="ORCID">0000-0003-3944-9369</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Ossa-Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w10030268</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water</title>
+		<title level="j" type="abbrev">Water</title>
+		<idno type="ISSNe">2073-4441</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">268</biblScope>
+			<date type="published" when="2018-03-04">2018</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Environmental sustainability in post-conflict countries: insights for rural Colombia</title>
+		<author>
+			<persName><forename type="first">Andres</forename><surname>Suarez</surname></persName>
+			<idno type="ORCID">0000-0001-5517-5009</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Paola</forename><forename type="middle">Andrea</forename><surname>Árias-Arévalo</surname></persName>
+			<idno type="ORCID">0000-0002-6819-4062</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Eliana</forename><surname>Martínez-Mera</surname></persName>
+			<idno type="ORCID">0000-0003-2094-8061</idno>
+		</author>
+		<idno type="DOI">10.1007/s10668-017-9925-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="997" to="1015"/>
+			<date type="published" when="2018">2018</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">On the relationship between mining and rural poverty: Evidence for Colombia</title>
+		<author>
+			<persName><forename type="first">Amanda</forename><forename type="middle">Vargas</forename><surname>Prieto</surname></persName>
+			<idno type="ORCID">0000-0002-8508-6979</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Javier</forename><surname>García-Estévez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">Fredy</forename><surname>Ariza</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2021.102443</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<title level="j" type="abbrev">Resources Policy</title>
+		<idno type="ISSN">0301-4207</idno>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">102443</biblScope>
+			<date type="published" when="2022-03">2022. 102443</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mining conflicts around the world: Common grounds from an environmental justice perspective</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Özkaynak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rodríguez-Labajos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Avci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chareyron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yánez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecological Integrity and Global Governance: Science, Ethics and the Law</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Westra</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Gray</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Gottwald</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Earthscan: Oxford, UK</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="95" to="112"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Mining industry and sustainable development: Time for change. Food Energy Secur</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Carvalho</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="61" to="77"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Community Capacity Building and Sustainability: Outcomes of Community-Based Participatory Research</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><forename type="middle">A</forename><surname>Tendulkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catlin</forename><surname>Rideout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nazmim</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chau</forename><surname>Trinh-Shevrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clara</forename><forename type="middle">P</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milagro</forename><surname>Grullon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hal</forename><surname>Strelnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolyn</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ann</forename><surname>Digirolamo</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/cpr.2012.0048</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Community Health Partnerships: Research, Education, and Action</title>
+		<title level="j" type="abbrev">cpr</title>
+		<idno type="ISSNe">1557-055X</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="349" to="360"/>
+			<date type="published" when="2012-09">2012</date>
+			<publisher>Project MUSE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Community-Based Participatory Research Addressing Infant Mortality</title>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">S</forename><surname>Coughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selina</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acprof:oso/9780190652234.003.0010</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Community-Based Participatory Research</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fernández</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017-11-03">2017</date>
+			<biblScope unit="page" from="155" to="166"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Social cartography: A new methodology for comparative studies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liebman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Paulston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compare</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="233" to="245"/>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Environmental Impacts of Sand Exploitation. Analysis of Sand Market</title>
+		<author>
+			<persName><forename type="first">Marius</forename><forename type="middle">D</forename><surname>Gavriletea</surname></persName>
+			<idno type="ORCID">0000-0002-9974-256X</idno>
+		</author>
+		<idno type="DOI">10.3390/su9071118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<title level="j" type="abbrev">Sustainability</title>
+		<idno type="ISSNe">2071-1050</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">1118</biblScope>
+			<date type="published" when="1118">2017. 1118</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Soil and Sand Mining: Causes, Consequences and Management</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Saviour</surname></persName>
+		</author>
+		<idno type="DOI">10.9790/3013-242016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IOSR Journal of Pharmacy (IOSRPHR)</title>
+		<title level="j" type="abbrev">iosrphr</title>
+		<idno type="ISSN">2319-4219</idno>
+		<idno type="ISSNe">2250-3013</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="01" to="06"/>
+			<date type="published" when="2012-01">2012</date>
+			<publisher>IOSR Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The environmental impacts of river sand mining</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Rentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Cammeraat</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2022.155877</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<title level="j" type="abbrev">Science of The Total Environment</title>
+		<idno type="ISSN">0048-9697</idno>
+		<imprint>
+			<biblScope unit="volume">838</biblScope>
+			<biblScope unit="page">155877</biblScope>
+			<date type="published" when="2022-09">2022. 155877</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Participatory resource mapping for adaptive collaborative management at Mt. Kasigau, Kenya</title>
+		<author>
+			<persName><forename type="first">Humphrey</forename><forename type="middle">W</forename><surname>Kalibo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kimberly</forename><forename type="middle">E</forename><surname>Medley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.landurbplan.2007.02.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape and Urban Planning</title>
+		<title level="j" type="abbrev">Landscape and Urban Planning</title>
+		<idno type="ISSN">0169-2046</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="145" to="158"/>
+			<date type="published" when="2007-09">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Methods for identifying land use conflict potential using participatory mapping</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Raymond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landsc. Urban Plan</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="196" to="208"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The social production of ecosystem services: A framework for studying environmental justice and ecological complexity in urbanized landscapes</title>
+		<author>
+			<persName><forename type="first">Henrik</forename><surname>Ernstson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.landurbplan.2012.10.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape and Urban Planning</title>
+		<title level="j" type="abbrev">Landscape and Urban Planning</title>
+		<idno type="ISSN">0169-2046</idno>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="17"/>
+			<date type="published" when="2013-01">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The new global urban realm: Complex, connected, diffuse, and diverse social-ecological systems</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mchale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Pickett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Cadenasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Childers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Iwaniec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcphearson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="5211" to="5240"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Complexity Theories of Cities Have Come of Age</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Portugali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stolk</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-24544-2</idno>
+		<editor>Tan, E.</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<pubPlace>Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Public participation as participatory communication in environmental policy decision-making: From concepts to structured conversations</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Commun</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="99" to="110"/>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Inclusive approaches to urban climate adaptation planning and implementation in the Global South</title>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Anguelovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joann</forename><surname>Carmin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2015.1019822</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<title level="j" type="abbrev">Climate Policy</title>
+		<idno type="ISSN">1469-3062</idno>
+		<idno type="ISSNe">1752-7457</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="372" to="392"/>
+			<date type="published" when="2015-03-27">2015</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Planning for Sustainability</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Wheeler</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203134559</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Planning for Sustainability: Creating Livable, Equitable, and Ecological Communities; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2013-07-18">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Socio-spatial learning: A case study of community knowledge in participatory spatial planning</title>
+		<author>
+			<persName><forename type="first">Lucy</forename><surname>Natarajan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.progress.2015.06.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Planning</title>
+		<title level="j" type="abbrev">Progress in Planning</title>
+		<idno type="ISSN">0305-9006</idno>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1" to="23"/>
+			<date type="published" when="2017-01">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Fostering Green Communities Through Civic Engagement: Community-Based Environmental Stewardship in the Portland Area</title>
+		<author>
+			<persName><forename type="first">Vivek</forename><surname>Shandas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Barry</forename><surname>Messer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01944360802291265</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Planning Association</title>
+		<title level="j" type="abbrev">Journal of the American Planning Association</title>
+		<idno type="ISSN">0194-4363</idno>
+		<idno type="ISSNe">1939-0130</idno>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="408" to="418"/>
+			<date type="published" when="2008-10-21">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Urban Environmental Stewardship and Civic Engagement: How Planting Trees Strengthens the Roots of Democracy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Svendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Connolly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">Routledge</biblScope>
+			<pubPlace>Philadelphia, PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Intersectional climate justice: A conceptual pathway for bridging adaptation planning, transformative action, and social equity</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">T</forename><surname>Amorim-Maia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Anguelovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Connolly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.uclim.2021.101053</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Urban Climate</title>
+		<title level="j" type="abbrev">Urban Climate</title>
+		<idno type="ISSN">2212-0955</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">101053</biblScope>
+			<date type="published" when="2022-01">2022. 101053</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Workshop methodology design: Innovation-oriented participatory processes for sustainability</title>
+		<author>
+			<persName><forename type="first">Giovanna</forename><surname>Bertella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Lupini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cecilia</forename><surname>Rossi Romanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xavier</forename><surname>Font</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.annals.2021.103251</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Tourism Research</title>
+		<title level="j" type="abbrev">Annals of Tourism Research</title>
+		<idno type="ISSN">0160-7383</idno>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">103251</biblScope>
+			<date type="published" when="2021-07">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">COMMUNITY-BASED URBAN EDUCATION</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Watson</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203197400-11</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Learning to Liberate</title>
+		<meeting><address><addrLine>Philadelphia, PA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012-03-29">2012</date>
+			<biblScope unit="page" from="184" to="193"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Collaborative Mapping and Digital Participation: A Tool for Local Empowerment in Developing Countries</title>
+		<author>
+			<persName><forename type="first">Jiri</forename><surname>Panek</surname></persName>
+			<idno type="ORCID">0000-0002-6390-3149</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Rostislav</forename><surname>Netek</surname></persName>
+			<idno type="ORCID">0000-0002-3923-7676</idno>
+		</author>
+		<idno type="DOI">10.3390/info10080255</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Information</title>
+		<title level="j" type="abbrev">Information</title>
+		<idno type="ISSNe">2078-2489</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">255</biblScope>
+			<date type="published" when="2019-08-08">2019</date>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Key issues and priorities in participatory mapping: Toward integration or increased specialization?</title>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marketta</forename><surname>Kyttä</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apgeog.2018.04.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Geography</title>
+		<title level="j" type="abbrev">Applied Geography</title>
+		<idno type="ISSN">0143-6228</idno>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1" to="8"/>
+			<date type="published" when="2018-06">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Community Cartography and Participatory GIS</title>
+		<author>
+			<persName><forename type="first">Kousik</forename><forename type="middle">Das</forename><surname>Malakar</surname></persName>
+			<idno type="ORCID">0000-0003-4498-7153</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Supriya</forename><surname>Roy</surname></persName>
+			<idno type="ORCID">0000-0002-4061-5902</idno>
+		</author>
+		<idno type="DOI">10.1007/978-3-031-63107-8_5</idno>
+	</analytic>
+	<monogr>
+		<title level="m">SpringerBriefs in GIS</title>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature Switzerland</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="61" to="72"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Big flip graphs and their automorphism groups</title>
+		<author>
+			<persName><forename type="first">Assaf</forename><surname>Bar-Natan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Advay</forename><surname>Goel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Halstead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Hamrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sumedh</forename><surname>Shenoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rishi</forename><surname>Verma</surname></persName>
+		</author>
+		<idno type="DOI">10.3336/gm.58.1.09</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Glasnik Matematicki</title>
+		<title level="j" type="abbrev">Glas. Mat. Ser. III</title>
+		<idno type="ISSN">0017-095X</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="125" to="134"/>
+			<date type="published" when="2010">2010</date>
+			<publisher>University of Zagreb, Faculty of Science, Department of Mathematics</publisher>
+			<pubPlace>Cambridge, MA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Massachusetts Institute of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Collaborative mapping of an earthquake damaged building via ground and aerial robots</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mohta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagatani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tadokoro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Field and Service Robotics: Results of the 8th International Conference</title>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berlin/Heidelberg</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="33" to="47"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Conducting Semi‐Structured Interviews</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">C</forename><surname>Adams</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9781119171386.ch19</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Practical Program Evaluation</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Wholey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hatry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Newcomer</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Eds</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Jossey-Bass</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Francisco, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2015-08-10">2015</date>
+			<biblScope unit="page" from="492" to="505"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Political Ecology in Latin America: the Social Re-Appropriation of Nature, the Reinvention of Territories and the Construction of an Environmental Rationality</title>
+		<author>
+			<persName><forename type="first">Carlos</forename><forename type="middle">Walter</forename><surname>Porto-Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Enrique</forename><surname>Leff</surname></persName>
+		</author>
+		<idno type="DOI">10.5380/dma.v35i0.43543</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Desenvolvimento e Meio Ambiente</title>
+		<title level="j" type="abbrev">Desenvolv. Meio Ambiente</title>
+		<idno type="ISSN">1518-952X</idno>
+		<idno type="ISSNe">2176-9109</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="65" to="88"/>
+			<date type="published" when="2015-12-24">2015</date>
+			<publisher>Universidade Federal do Parana</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Landscapes: The social construction of nature and the environment</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garkovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rural. Sociol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="1" to="24"/>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">What is the 'social construction of nature'? A typology and sympathetic critique</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Demeritt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="767" to="790"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Territory, identity and the places in-between: Culture and power in European borderlands</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Donnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Culture and Power at the Edges of the State: National Support and Subversion in European Border Regions</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Donnan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Japan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1" to="31"/>
+		</imprint>
+		<respStmt>
+			<orgName>National Museum of Ethnology: Osaka</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The built environment and spatial form</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="453" to="505"/>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Territorial identities and geographic scale</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Kaplan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nested Identities: Nationalism, Territory and Scale</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Rowman &amp; Littlefield Publishers</publisher>
+			<biblScope unit="page" from="31" to="49"/>
+			<pubPlace>Lanham, MD, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Interpreting and understanding territorial identity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Capello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reg. Sci. Policy Pract</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="141" to="159"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">We drew what we imagined" participatory mapping, performance, and the arts of landscape making</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Sletto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="443" to="476"/>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Place experience, gestalt, and the human-nature relationship</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="293" to="309"/>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Inclusion with nature: The psychology of human-nature relations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychology of Sustainable Development</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Schmuck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston, MA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="61" to="78"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Whose knowledge, whose nature? Biodiversity, conservation, and the political ecology of social movements</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Escobar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Political Ecol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="53" to="82"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Territoriality, symbolism and the challenge</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kuusisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Peace Rev</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="59" to="66"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Biocultural ethics: Recovering the vital links between the inhabitants, their habits, and habitats</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rozzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Ethics</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Una Sociología Sentipensante para América Latina</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fals-Borda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Moncayo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Siglo del Hombre</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Borjas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">La Investigación Acción Participativa: Aporte de Fals Borda a la educación popular</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="615" to="627"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Environmental Adaptation and Eco-Cultural Habitats: A Coevolutionary Approach to Society and Nature</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schubert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Philadelphia, PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Alberich-Nistal</surname></persName>
+		</author>
+		<title level="m">Memorias del IV Congreso Internacional Sobre Investigación; Acción Participativa</title>
+		<meeting><address><addrLine>Valladolid, España</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>La Investigación Acción Participación, Método y Práctica</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The ecology of empowerment: Predicting participation in community organizations</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Soc. Issues</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="85" to="110"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Doing, knowing, caring and feeling: Exploring relations between nature-oriented teaching and preschool children's learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Klaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Öhman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Early Years Educ</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="37" to="58"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Feeling education</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Dernikos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lesko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Mccall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Niccolini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping the Affective Turn in Education; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="3" to="27"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Participatory action research: Origins, approaches and methods</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kindon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kesby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Participatory Action Research Approaches and Methods; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="35" to="44"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Critical participatory action research: Methods and praxis for intersectional knowledge production.</title>
+		<author>
+			<persName><forename type="first">Michelle</forename><surname>Fine</surname></persName>
+			<idno type="ORCID">0000-0001-5941-7247</idno>
+		</author>
+		<author>
+			<persName><forename type="first">María</forename><forename type="middle">Elena</forename><surname>Torre</surname></persName>
+			<idno type="ORCID">0000-0002-0864-7699</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Austin</forename><forename type="middle">Gerhard</forename><surname>Oswald</surname></persName>
+			<idno type="ORCID">0000-0002-9036-139X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Shéár</forename><surname>Avory</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/cou0000445</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Counseling Psychology</title>
+		<title level="j" type="abbrev">Journal of Counseling Psychology</title>
+		<idno type="ISSN">0022-0167</idno>
+		<idno type="ISSNe">1939-2168</idno>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="344" to="356"/>
+			<date type="published" when="2021-04">2021</date>
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Exploring and implementing participatory action research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Savin-Baden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wimpenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Geogr. High. Educ</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="331" to="343"/>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Identifying conflict potential in a coastal and marine environment using participatory mapping</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kobryn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Strickland-Munro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manag</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="706" to="718"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Environmental policy, land rights, and conflict: Rethinking community natural resource management programs in Burkina Faso</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Plan. D Soc. Space</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="167" to="182"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Territory and deterritorialization: The social suffering by environmental disaster resulting from the breaking of mining dams. Saúde em Debate 2021</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A D L</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A A</forename><surname>Sol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Modena</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="262" to="271"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Mapping policy actors using social network analysis on integrated urban farming program in Bandung City</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Widayat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Karlina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D E</forename><surname>Munajat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ningrum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">The role of social networks in natural resource governance: What relational patterns make a difference?</title>
+		<author>
+			<persName><forename type="first">Ö</forename><surname>Bodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Crona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Chang</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="366" to="374"/>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">A road to conflict: Stakeholder's and social network analysis of the media portrayals of a social-environmental conflict in Bolivia</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Reyes-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Andrés-Conejero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Á</forename><surname>Fernández-Llamazares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz-Reviriego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Molina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Nat. Resour</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="452" to="472"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Stakeholder participation for environmental management: A literature review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="2417" to="2431"/>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Integrating ecological, economic and social aspects to generate useful management information under the EU Directives' 'ecosystem approach</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>De Jonge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ocean. Coast. Manag</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="169" to="188"/>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Políticas Mineras en Colombia; Instituto Latinoamericano para una Sociedad y un Derecho Alternativos-ILSA</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fierro-Morales</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Bioeconomía y derechos humanos en América Latina</title>
+		<author>
+			<persName><forename type="first">Adriana</forename><forename type="middle">Alejandra</forename><surname>Gallego-Marín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">María</forename><forename type="middle">Alejandra</forename><surname>Ramírez-Galvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrés</forename><forename type="middle">David</forename><surname>Arana-Gutiérrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Orfa</forename><forename type="middle">Margarita</forename><surname>Giraldo-Alzate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martha</forename><forename type="middle">Isabel</forename><surname>Cabrera-Otálora</surname></persName>
+			<idno type="ORCID">0000-0002-3497-4511</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Libia</forename><forename type="middle">Esperanza</forename><surname>Nieto-Gómez</surname></persName>
+			<idno type="ORCID">0000-0002-5042-7841</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Reinaldo</forename><surname>Giraldo-Díaz</surname></persName>
+			<idno type="ORCID">0000-0002-6221-9468</idno>
+		</author>
+		<idno type="DOI">10.18041/libemp.2016.v13n2.26209</idno>
+	</analytic>
+	<monogr>
+		<title level="j">LIBRE EMPRESA</title>
+		<title level="j" type="abbrev">LIBRE EMPRESA</title>
+		<idno type="ISSN">1657-2815</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="131" to="141"/>
+			<date type="published" when="2014">2014</date>
+			<publisher>Universidad Libre</publisher>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">92.6% de Minería En Bogotá Es Ilegal</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Personería De Bogotá</surname></persName>
+		</author>
+		<ptr target="http://www.personeriabogota.gov.co/archivo-2012/item/126-92-6-de-mineria-en-Bogot%C3%A1-es-ilegal"/>
+		<imprint>
+			<date type="published" when="2012-07-10">2012. 10 July 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Dear Editor – a note from any imaginary author in response to any referee</title>
+		<author>
+			<persName><forename type="first">Brendan</forename><forename type="middle">D</forename><surname>Kelly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.mehy.2008.11.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Hypotheses</title>
+		<title level="j" type="abbrev">Medical Hypotheses</title>
+		<idno type="ISSN">0306-9877</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">359</biblScope>
+			<date type="published" when="2009-03"/>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

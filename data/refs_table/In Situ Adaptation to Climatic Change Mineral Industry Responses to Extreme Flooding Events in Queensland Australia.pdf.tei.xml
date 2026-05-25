@@ -1,0 +1,1387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Australian Bureau of Agriculture and Resource Economics. &lt;i&gt;Japanese Agricultural Policies&lt;/i&gt;. Canberra: Australian Publishing Service, 1988, xiv + 359 pp., price unknown</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Larue</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1243167</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agricultural Economics</title>
+		<title level="j" type="abbrev">American J Agri Economics</title>
+		<idno type="ISSN">0002-9092</idno>
+		<idno type="ISSNe">1467-8276</idno>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="242" to="242"/>
+			<date type="published" when="2011">2011</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Canberra, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prioritizing Engagement for Sustainable Adaptation to Climate Change: An Example from Natural Resource Management in South Australia</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><forename type="middle">K</forename><surname>Bardsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">P</forename><surname>Rogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08941920802287163</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Society &amp; Natural Resources</title>
+		<title level="j" type="abbrev">Society &amp; Natural Resources</title>
+		<idno type="ISSN">0894-1920</idno>
+		<idno type="ISSNe">1521-0723</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="17"/>
+			<date type="published" when="2010-11-30">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">2008a. Central and Western Queensland floods</title>
+		<ptr target="http://www.bom.gov.au/qld/flood/fld_reports/Central_and_Western_QLD_Floods_January_2008.pdf"/>
+		<imprint>
+			<date type="published" when="2013-04">April 2013</date>
+			<publisher>Bureau of Meterology (BoM</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<ptr target="http://www.bom.gov.au/qld/flood/fld_history/floodsum_2000.shtml"/>
+		<title level="m">Report on Queensland floods</title>
+		<imprint>
+			<publisher>Bureau of Meterology (BoM</publisher>
+			<date type="published" when="2008-04">2008. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Investigating Factors Influencing Consumers’ Purchase Intention and Decisions towards Bubble Tea in Phnom Penh, Cambodia</title>
+		<author>
+			<persName><forename type="first">Sambath</forename><surname>Phou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sokha</forename><surname>Norng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Orvatey</forename><surname>Hann</surname></persName>
+		</author>
+		<idno type="DOI">10.71215/cjbpp.202411</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cambodia Journal for Business and Professional Practice</title>
+		<title level="j" type="abbrev">CJBPP</title>
+		<idno type="ISSN">3078-4131</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2011">2011</date>
+			<publisher>ACLEDA University of Business</publisher>
+			<pubPlace>Phnom Penh, Cambodia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The environment as hazard</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>White</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The need for rethinking the concepts of vulnerability and risk from a holistic perspective: A necessary review and criticism for effective risk management</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Cardona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping vulnerability: Disasters, development and people</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Bankoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Frerks</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hilhourst</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Earthscan</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="37" to="51"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Records broken in Queensland's mining and exploration figures</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>D'arcy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Queensland Gov. Mining J</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Queensland Government Savings Bank - Brisbane (Head Office) - Legislation - Queensland Government Savings Bank Bill - 1916</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Davies</surname></persName>
+		</author>
+		<idno type="DOI">10.47688/rba_archives_2006/20734</idno>
+		<ptr target="http://www.brisbane.foe.org.au/content/queensland-government-negligent-mines-release-toxins-flood-waters"/>
+	</analytic>
+	<monogr>
+		<title level="m">Queensland Government negligent as mines release toxins into flood waters</title>
+		<imprint>
+			<publisher>Reserve Bank of Australia</publisher>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Climate change adaptation, disaster risk reduction and social protection</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oswald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Brighton, UK</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Development Studies, The University of Sussex</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Autochthonous livestock in Spain. Ministerio de Medio Ambiente y Medio Rurale y Marino. Published in 2008, pp. 64. Available at http://www.eaap2009.com/Documents/AUTOCHTHONOUS%20LIVESTOCK%20IN%20SPAIN%20(BOOK).pdf</title>
+		<author>
+			<persName><surname>Deloitte</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s2078633610000858</idno>
+		<ptr target="http://www.deloitte.com/assets/Dcom-Australia/Local%20Assets/Documents/Services/CRG/Businesses%20under%20receivership/CopperCo%20Limited/11%20February%202010%20_2_.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Genetic Resources/Ressources génétiques animales/Recursos genéticos animales</title>
+		<title level="j" type="abbrev">Anim. Genet. Resour.</title>
+		<idno type="ISSN">2078-6336</idno>
+		<idno type="ISSNe">2078-6344</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">90</biblScope>
+			<date type="published" when="2010-04">2010. April 2013</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><surname>Deloitte</surname></persName>
+		</author>
+		<ptr target="http://www.deloitte.com/assets/Dcom-Australia/Local%20Assets/Documents/Industries/Energy%20and%20resources/Tracking_the_trends_2011.pdf"/>
+		<title level="m">The top 10 issues mining companies will face in the coming year. Deloitte Global Services Limited</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. 2011. April 2013</date>
+		</imprint>
+	</monogr>
+	<note>Tracking the trends</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Assessment of the Wetland Ecosystem Services Status and Their Uses in the Barotse Flood Plains of Zambezi Sub Basin, Zambia</title>
+		<author>
+			<persName><forename type="first">Arnold</forename><forename type="middle">Mahonko</forename><surname>Banda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kawawa</forename><surname>Banda</surname></persName>
+		</author>
+		<idno type="DOI">10.47363/jftns/2022(3)137</idno>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/media/mine-discharges-4-december.html"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Technology &amp; Nutrition Sciences</title>
+		<title level="j" type="abbrev">J Food Tech Nutri Sci</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="11"/>
+			<date type="published" when="2009-04-04">2011. 2009. 4 April 2013. April 2013. 2011. December 2010. April 2013</date>
+			<publisher>Scientific Research and Community Ltd</publisher>
+			<pubPlace>Brisbane, Australia; Brisbane, Australia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Department of Natural Resources and Mines Department of Environment and Resource Management Department of Natural Resources and Mines. 2010a Climate change in Queensland: What the science is telling us Queensland Climate Change Centre of Excellence The management of mine water quality in the Fitzroy River Basin Department of Natural Resources and Mines</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Understanding Disaster Policy Through Presidential Disaster Declarations</title>
+		<idno type="DOI">10.4135/9781483330761.n4</idno>
+		<ptr target="http://www.disaster.qld.gov.au/Disaster%20Resources/Documents"/>
+	</analytic>
+	<monogr>
+		<title level="m">Disaster Policy and Politics: Emergency Management and Homeland Security</title>
+		<imprint>
+			<publisher>CQ Press</publisher>
+			<date type="published" when="2008-01">2008. June 2008. Jan-Jun% 202008. April 2013</date>
+			<biblScope unit="page" from="76" to="107"/>
+		</imprint>
+		<respStmt>
+			<orgName>Emergency Management Queensland</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ensham Resources. 2008a. A collaborative approach to recovery from an unprecedented natural event</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+		<idno>06:07 14</idno>
+		<ptr target="http://www.ensham.com.au/updated/pdf/"/>
+	</analytic>
+	<monogr>
+		<title level="m">Ensham%20flood%20review%2014FEB2008%20FINAL</title>
+		<imprint>
+			<date type="published" when="2008-04-10">March 2015. 10 April Ensham Resources. 2008. 10 April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Saskatchewan Library</orgName>
+		</respStmt>
+	</monogr>
+	<note>Presentation to Fitzroy Flood Forum b. Ensham Mine conducts flood review</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feary</surname></persName>
+		</author>
+		<ptr target="http://www.longwalls.com/storyview.asp?StoryID=171668"/>
+		<title level="m">Possessions lost, strength found</title>
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feary</surname></persName>
+		</author>
+		<ptr target="http://www.ensham.com.au/updated/pdf/Rising"/>
+		<title level="m">%20above%20the%20flood%20AMM%20JULY2008.pdf</title>
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+		</imprint>
+	</monogr>
+	<note>Rising above the flood</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Scientists see climate change link to Australian floods</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fogarty</surname></persName>
+		</author>
+		<ptr target="http://www.reuters.com/article/2011/01/12/us-climate-australia-floods-idUSTRE70B1XF20110112"/>
+		<imprint>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">ABC News/Washington Post Monthly Poll, April 2010</title>
+		<idno type="DOI">10.3886/icpsr30204</idno>
+		<ptr target="http://abc.net.au/unleashed/43128.html"/>
+	</analytic>
+	<monogr>
+		<title level="j">ABC News</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+			<publisher>Inter-university Consortium for Political and Social Research (ICPSR)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sustainable development principles for the disposal of mining and mineral processing wastes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Franks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mulligan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="114" to="122"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Managing the cumulative impacts of coal mining on regional communities and environments in Australia</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Franks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brereton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Moran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Impact Assess. Project Appraisal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="299" to="312"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Evidence of unusual late 20th century warming from an Australasian temperature reconstruction spanning the last millennium</title>
+		<author>
+			<persName><forename type="first">Jo�lle</forename><surname>Gergis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raphael</forename><surname>Neukom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">J</forename><surname>Phipps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ailie</forename><forename type="middle">J E</forename><surname>Gallant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Karoly</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/jcli-d-11-00649.1</idno>
+		<ptr target="http://dx.doi.org/10.1175/JCLI-D-11-00649.1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Climate</title>
+		<title level="j" type="abbrev">J. Climate</title>
+		<idno type="ISSN">0894-8755</idno>
+		<idno type="ISSNe">1520-0442</idno>
+		<imprint>
+			<biblScope unit="page">120518103842003</biblScope>
+			<date type="published" when="2012-05-16">2012</date>
+			<publisher>American Meteorological Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Surprise as a Catalyst for Including Climatic Change in the Strategic Environment</title>
+		<author>
+			<persName><forename type="first">Nardia</forename><surname>Haigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0007650311427425</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Business &amp; Society</title>
+		<title level="j" type="abbrev">Business &amp; Society</title>
+		<idno type="ISSN">0007-6503</idno>
+		<idno type="ISSNe">1552-4205</idno>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="120"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Review of the Fitzroy River water quality issues</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pascoe</surname></persName>
+		</author>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/pdf/fitzroyriverwaterqualityreport.pdf"/>
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Environment and Resource Management</orgName>
+		</respStmt>
+	</monogr>
+	<note>Report to Queensland Premier</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Climate adaptation in the Australian mining and exploration industries</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>CSIRO Climate Adaptation Flagship Working paper no</publisher>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoshowsky</surname></persName>
+		</author>
+		<ptr target="http://www.resourceinfocus.com.au/index.php/2011/02/19/flooding-impact"/>
+		<title level="m">Counting the cost of Australia's flooded mines. Australian Resource Focus Magazine</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Hurricane preparedness as anticipatory adaptation: A case study of community businesses</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Howe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="711" to="720"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Relative impacts of human induced climate change and natural climate variability</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Downing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">397</biblScope>
+			<biblScope unit="page" from="688" to="691"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The epistemology of climate change: Some morals for managers</title>
+		<author>
+			<persName><forename type="first">Dale</forename><surname>Jamieson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08941929109380764</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Society &amp; Natural Resources</title>
+		<title level="j" type="abbrev">Society &amp; Natural Resources</title>
+		<idno type="ISSN">0894-1920</idno>
+		<idno type="ISSNe">1521-0723</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="319" to="329"/>
+			<date type="published" when="1991-10">1991</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">RISKGATE: Industry sharing risk controls across Australian coal operations</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sprott</surname></persName>
+		</author>
+		<idno type="DOI">10.7158/n13-am03.2014.11.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Multi-Disciplinary Engineering</title>
+		<title level="j" type="abbrev">AJMDE</title>
+		<idno type="ISSN">1448-8388</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="315" to="325"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>Informa UK Limited</publisher>
+			<pubPlace>Wollongong, Australia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wollongong &amp; The Australasian Institute of Mining and Metallurgy</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Adaptation to climate change</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Levina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tirpak</surname></persName>
+		</author>
+		<idno type="DOI">10.1787/326a53e2-en</idno>
+		<imprint>
+			<date type="published" when="2006-01-04">2006</date>
+			<publisher>Organisation for Economic Co-Operation and Development (OECD)</publisher>
+			<pubPlace>Paris, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lewis</surname></persName>
+		</author>
+		<ptr target="http://www.abc.net.au/news/stories/2010/12/01/3081591.htm"/>
+		<title level="m">Ensham Mine Avoids Repeat of Disastrous 2008 Floods. ABC News</title>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Extreme weather events and the critical importance of anticipatory adaptation and organisational resilience in responding to impacts</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Linnenluecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winn</surname></persName>
+		</author>
+		<idno>doi: 10.1002=bse.708</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Business Strat. Environ</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Firm relocation as adaptive response to climate change and weather extremes</title>
+		<author>
+			<persName><forename type="first">Martina</forename><forename type="middle">K</forename><surname>Linnenluecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Stathakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2010.09.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="123" to="133"/>
+			<date type="published" when="2011-02"/>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Governance Principles for Natural Resource Management</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Allan</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elaine</forename><surname>Stratford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rod</forename><surname>Griffith</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08941920802178214</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Society &amp; Natural Resources</title>
+		<title level="j" type="abbrev">Society &amp; Natural Resources</title>
+		<idno type="ISSN">0894-1920</idno>
+		<idno type="ISSNe">1521-0723</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="986" to="1001"/>
+			<date type="published" when="2010-08-23">2010</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Big wet threatens coal exports, again</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ludlow</surname></persName>
+		</author>
+		<ptr target="http://www.afr.com/p/national/big_wet_threatens_coal_exports_again_5XoLW9aUOxlNJpx"/>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Financial Review</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">These Lives Will Not Be Lost in Vain: Organizational Learning from Disaster in U.S. Coal Mining</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">M</forename><surname>Madsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1287/orsc.1080.0396</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<title level="j" type="abbrev">Organization Science</title>
+		<idno type="ISSN">1047-7039</idno>
+		<idno type="ISSNe">1526-5455</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="861" to="875"/>
+			<date type="published" when="2009-10">2009</date>
+			<publisher>Institute for Operations Research and the Management Sciences (INFORMS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Assessing resource dependency on the rangelands as a measure of climate sensitivity</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Marshall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat Resources</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1105" to="1115"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Understanding social resilience to climate variability in primary enterprises and industries</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Marshall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2009.10.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="43"/>
+			<date type="published" when="2010-02">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Risk reduction through early assessment and integration of sustainability in design in the minerals industry</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Corder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2012.02.014</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.jclepro.2012.02.014"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<title level="j" type="abbrev">Journal of Cleaner Production</title>
+		<idno type="ISSN">0959-6526</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="37" to="46"/>
+			<date type="published" when="2012-04-10">2012. 10 April 2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Minerals Council of Australia: Enduring Value Â„ The Australian Minerals Industry Framework for Sustainable Development, 2004</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781845428297.00094</idno>
+	</analytic>
+	<monogr>
+		<title level="m">International Documents on Corporate Responsibility</title>
+		<meeting><address><addrLine>Gold Coast, Queensland, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="369" to="376"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Adaptation in resource-dependent communities: A Call for greater methodological clarity in adaptation field research</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Murtinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat. Resources</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="513" to="522"/>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Institutional adaptation to climate change: Flood responses at the municipal level in Norway</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vevatne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="125" to="138"/>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Adapting to climate change: A guide for the mining industry</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schuchard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>BSR Industry Series</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nicholls</surname></persName>
+		</author>
+		<ptr target="http://www.abc.net.au/unleashed/42858.html"/>
+		<title level="m">The strongest La Nin ˜a on record?: The Drum opinion. ABC News</title>
+		<imprint>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The view from the front line: Adapting Australia to climate change</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Palutikof</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2010.03.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="218" to="219"/>
+			<date type="published" when="2010-05">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Canziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palutikof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<title level="m">Contribution of Working Group II to the fourth assessment report of the Intergovernmental Panel on Climate Change</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">Tristan</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">David</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-010-9269-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mitigation and Adaptation Strategies for Global Change</title>
+		<title level="j" type="abbrev">Mitig Adapt Strateg Glob Change</title>
+		<idno type="ISSN">1381-2386</idno>
+		<idno type="ISSNe">1573-1596</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="368"/>
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">‘Signals’ from pre-crisis discourse: Lessons from UK flooding for global environmental policy change?</title>
+		<author>
+			<persName><forename type="first">Edmund</forename><surname>Penning-Rowsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sylvia</forename><surname>Tunstall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2006.01.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="323" to="339"/>
+			<date type="published" when="2006-10">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Ensham's comeback king dragline</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Price</surname></persName>
+		</author>
+		<ptr target="http://www.longwalls.com/storyview.asp?storyid=560735"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Longwall News</title>
+		<imprint>
+			<date type="published" when="2009-04">2009. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><surname>Pricewaterhousecoopers</surname></persName>
+		</author>
+		<ptr target="http://www.pwc.com.au/about-us/flood-support/assets/Economic-Impact-Qld-Natural-Disasters.pdf"/>
+		<title level="m">Economic impact of Queensland's natural disasters</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0006/8781/QFCI-Interim-Report-August-2011.pdf"/>
+		<title level="m">Queensland Floods Commission of Inquiry. 2011a. Interim report</title>
+		<imprint>
+			<date type="published" when="2013-04-08">8 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0013/9400/2011-09-19-QFCI-Day-32-Brisbane.pdf"/>
+		<title level="m">Transcript of proceedings: Day 32</title>
+		<imprint>
+			<publisher>Queensland Floods Commission of Inquiry</publisher>
+			<date type="published" when="2011-04-08">2011. 8 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0007/9529/2011-09-22-QFCI-Day-35-Brisbane.pdf"/>
+		<title level="m">06:07 14 March 2015 Queensland Floods Commission of Inquiry. 2011c. Transcript of proceedings: Day 35</title>
+		<imprint>
+			<date type="published" when="2013-04">April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Saskatchewan Library</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Queensland Reconstruction Authority. 2011. Rebuilding a stronger, more resilient Queensland</title>
+	</analytic>
+	<monogr>
+		<title level="m">Final report</title>
+		<meeting><address><addrLine>Brisbane, Australia; Brisbane, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Queensland Floods Commission Inquiry</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Design Rainfalls Under Climate Change Scenarios in South East Queensland, Australia: A Brisbane River Case Study</title>
+		<author>
+			<persName><forename type="first">Marcos</forename><forename type="middle">Abilio</forename><surname>Medeiros De Saboia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fernanda</forename><surname>Helfer</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.4633151</idno>
+		<imprint>
+			<date type="published" when="2023"/>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">QRC CEO Sentiment Index</title>
+		<ptr target="http://www.qrc.org.au/_dbase_upl/JuneQuarter_2011_web.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">QRC State of the Sector June Quarter</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011-04-08">2011. 8 April 2013</date>
+			<publisher>Queensland Resources Council</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Queensland: Diverse economy</title>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/file/0006/9456/Ritchie_Stuart.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="m">Statement of Stuart John Ritchie (in the Matter of the Queensland Floods Commission of Inquiry)</title>
+		<meeting><address><addrLine>Brisbane, Australia. Rio Tinto Coal Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011-04">2012. 2011. April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Queensland Treasury Corporation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Adaptation to climatic variability and change: Report of the Task Force on Climatic Adaptation. Occasional paper</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Guelph, Ontario, Canada</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Geography, University of Guelph</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The science of adaptation: A framework for assessment</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J T</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Street</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig. Adapt. Strat. Global Change</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="199" to="213"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Adaptation, adaptive capacity and vulnerability</title>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Wandel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2006.03.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<title level="j" type="abbrev">Global Environmental Change</title>
+		<idno type="ISSN">0959-3780</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="282" to="292"/>
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Governing climate adaptation in the local arena: Challenges of risk management and planning in Sweden</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Storbjork</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Local Environ. Int. J. Justice Sustain</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="457" to="469"/>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Vulnerability of eco-environmental health to climate change: The views of government stakeholders and other specialists in Queensland</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcrae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australia. BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">441</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Deluge halts mining operations. 31 December</title>
+		<ptr target="http://www.theaustralian.com.au/news/gallery-0-1225979001621?page=5"/>
+	</analytic>
+	<monogr>
+		<title level="m">The Australian</title>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The use of real options valuation methodology in enhancing the understanding of the impact of climate change on companies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tyler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chivaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Strat. Environ</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="55" to="70"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<ptr target="http://unfccc.int/essential_background/convention/background/items/2536.php"/>
+		<title level="m">Article 1: Definitions</title>
+		<imprint>
+			<publisher>UNFCCC</publisher>
+			<date type="published" when="2013-04-10">10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

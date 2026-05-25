@@ -1,0 +1,1220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Environment and Social Impacts of Stone Quarrying: South Western Ethiopia, in Case of Bahir Dar Zuria Wereda Zenzelma Kebele</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Endalew</surname></persName>
+		</author>
+		<idno type="DOI">10.20431/2454-9444.0502005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Research in Environmental Science</title>
+		<title level="j" type="abbrev">International Journal of Research in Environmental Science</title>
+		<idno type="ISSNe">2454-9444</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="29" to="38"/>
+			<date type="published" when="2019">2019</date>
+			<publisher>ARC Publications Pvt Ltd.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mine reclamation planning and management: Integrating natural habitats into post-mining land use</title>
+		<author>
+			<persName><forename type="first">Markéta</forename><surname>Hendrychová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kamila</forename><surname>Svobodova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Kabrna</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2020.101882</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<title level="j" type="abbrev">Resources Policy</title>
+		<idno type="ISSN">0301-4207</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page">101882</biblScope>
+			<date type="published" when="2020-12">2020. 101882</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Critical Issues of Sustainability Associated with Quarry Activities</title>
+		<author>
+			<persName><forename type="first">Nwachukwu</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ojeaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chinelo</surname></persName>
+		</author>
+		<idno type="DOI">10.31031/amms.2018.01.000509</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aspects in Mining &amp; Mineral Science</title>
+		<title level="j" type="abbrev">AMMS</title>
+		<idno type="ISSNe">2578-0255</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2018-02-23">2018</date>
+			<publisher>Crimson Publishers</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mudd</surname></persName>
+		</author>
+		<title level="m">The Environmental sustainability of mining in Australia: Key mega-trends and looming constraints. Resour. Policy</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="98" to="115"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Evidence Informed Policy Making in South Africa</title>
+		<ptr target="https://www.dffe.gov.za/sites/default/files/reports/report_guidelinesgoodpractices_evidencefromed_policymaking.pdf"/>
+		<imprint>
+			<date type="published" when="2023-11-11">2023. 11 November 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Environmental Affairs</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<ptr target="https://www.gov.za/documents/constitution/constitution-republic-south-africa-act-200-1993-repealed-28-jan-1994"/>
+		<title level="m">The Constitution of the Republic of South Africa Act</title>
+		<imprint>
+			<date type="published" when="1993-11-11">1993. Act 200 of 1993. 11 November 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Anti-Apartheid Reader: The Struggle against White Racist Rule in South Africa</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mayhew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Handler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Bulpin</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/2468-1733_shafr_sim230130131</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Digest Association South Africa (Pty) Limited: AAChappaqua</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+			<pubPlace>NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Hatch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Corstorphine</surname></persName>
+		</author>
+		<title level="m">The Geology of South Africa</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan</publisher>
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Geoffrey D. Dunn, ed., &lt;i&gt;The Bishop of Rome in Late Antiquity&lt;/i&gt;. Farnham, Surrey, UK, and Burlington, VT: Ashgate, 2015. Pp. xi, 273. $124.95. ISBN: 978-1-4724-551-2.Table of contents available online at https://www.routledge.com/products/9781472455512 (accessed 19 April 2016)</title>
+		<author>
+			<persName><forename type="first">Owen</forename><forename type="middle">M</forename><surname>Phelan</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/689849</idno>
+		<ptr target="https://www.ecedtea.gov.za/documents/"/>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<title level="j" type="abbrev">Speculum</title>
+		<idno type="ISSN">0038-7134</idno>
+		<idno type="ISSNe">2040-8072</idno>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="242" to="244"/>
+			<date type="published" when="2017-04-07">7 April 2017. 10 September 2023</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Measurement and Rating of Environmental Noise with Respect to Land Use, Health, Annoyance and to Speech Communication</title>
+		<ptr target="https://sahris.sahra.org.za/sites/default/files/additionaldocs/"/>
+	</analytic>
+	<monogr>
+		<title level="m">Appendix%20K%20 Noise%20Impact%20Assessment%20Report%20</title>
+		<imprint>
+			<date type="published" when="2008-11-11">2008. 2009. 2008. 11 November 2023</date>
+		</imprint>
+	</monogr>
+	<note>SANS 10103</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Edition 1.1-Ambient Air Quality Limits for Common Pollutants</title>
+		<author>
+			<persName><surname>Sans</surname></persName>
+		</author>
+		<ptr target="https://cer.org.za/wp-content/uploads/2014/06/2014-05-30-FA16-Ambient-AQ-Standards-Discussion-Document-30-10-2007.pdf"/>
+		<imprint>
+			<date type="published" when="1929">1929. 2005. 2005. 11 November 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Iron age patterns and Sotho history on the southern Highveld: South Africa</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Maggs</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00438243.1976.9979644</idno>
+	</analytic>
+	<monogr>
+		<title level="j">World Archaeology</title>
+		<title level="j" type="abbrev">World Archaeology</title>
+		<idno type="ISSN">0043-8243</idno>
+		<idno type="ISSNe">1470-1375</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="318" to="332"/>
+			<date type="published" when="1976-02">1976</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Remote sensing in management of mining land and proximate habitat</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Koruyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deliormanli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Karaca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Momayez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yalçin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. South. Afr. Inst. Min. Metall</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="667" to="672"/>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">An overview of the Permian (Karoo) coal deposits of southern Africa</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cairncross</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0899-5362(01)00088-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of African Earth Sciences</title>
+		<title level="j" type="abbrev">Journal of African Earth Sciences</title>
+		<idno type="ISSN">1464-343X</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="529" to="562"/>
+			<date type="published" when="2001-01">2001</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stone quarrying induces organ dysfunction and oxidative stress in meriones libycus</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Al-Otaibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Ajarem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Abdel-Maksoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maodaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Allam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Al-Basher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mahmoud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Ind. Health</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="679" to="692"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Impact of Stone Quarrying on the Environment and the Livelihood of Communities in Mandera County</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ming'ate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mohamed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kenya. J. Sci. Res. Rep</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="9"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Lime in South Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K E</forename><surname>Douglas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. South. Afr. Inst. Min. Metall</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="13" to="24"/>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Dolomite and Limestone in South Africa: Supply and Demand</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Agnello</surname></persName>
+		</author>
+		<ptr target="https://www.dmr.gov.za/LinkClick.aspx?fileticket=yRfl_ElkxDE=&amp;portalid=0"/>
+		<imprint>
+			<date type="published" when="2005-11-11">2005. 2005. 11 November 2023</date>
+		</imprint>
+	</monogr>
+	<note>Department of Minerals and Energy. Pretoria, 1-67</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Environmental Ethics and Sustainability: A Casebook for Environmental Professionals</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Taback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Boca Raton, FL, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Communicatio: South African Journal for Communication Theory and Research, Pieter J. Fourie (Ed.), Pretoria, South Africa, University of South Africa, ISSN 0250-0167</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Loubser</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08109029708632099</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Prometheus</title>
+		<idno type="ISSN">0810-9028</idno>
+		<idno type="ISSNe">1470-1030</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2014">2014</date>
+			<publisher>Pluto Journals</publisher>
+			<pubPlace>South Africa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>nd ed.; Van Schaik</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The river of the mother of God</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leopold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The River of the Mother of God and Other</title>
+		<editor>
+			<persName><forename type="first">Aldo</forename><surname>Leopold; Flader</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Callicott</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Madison, WI, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Wisconsin Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="123" to="278"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Health impact assessment of quarrying in some parts of southwestern Nigeria</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ajibade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Olisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oladipupo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Adegoke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Adebayo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arab. J. Geosci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Stone quarrying and livelihood transformation in peri-urban Kumasi</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Asante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Afriyie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Res. Humanit. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="93" to="197"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Searching and cracking: Stone quarrying, livelihood and the environment in the daglama quarry site in the ho municipality. West Afr</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bewiadzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Awubomu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Glover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="149" to="166"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Environmental impact of quarrying of building stones and laterite blocks: a comparative study of two river basins in Southern Western Ghats, India</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vandana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shiekha</forename><forename type="middle">E</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Padmalal</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12665-020-09104-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Earth Sciences</title>
+		<title level="j" type="abbrev">Environ Earth Sci</title>
+		<idno type="ISSN">1866-6280</idno>
+		<idno type="ISSNe">1866-6299</idno>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<date type="published" when="2020-07">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Impact of aggregate quarrying and crushing on socio-ecological components of Chottanagpur plateau fringe area of India</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Swades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mandal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">661</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Biodiversity assessment of high rain forest under human activities: a case study of Erinle Forest in Ogun State, Nigeria</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Lameed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abimbola</forename><forename type="middle">O</forename><surname>Adetoro</surname></persName>
+		</author>
+		<idno type="DOI">10.4314/jext.v4i1.2732</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Extension</title>
+		<title level="j" type="abbrev">J. Env. Ext.</title>
+		<idno type="ISSNe">1595-5125</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="740" to="750"/>
+			<date type="published" when="2010">2010</date>
+			<publisher>African Journals Online (AJOL)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Investigation of environmental effect of stone quarrying activities on soil and water in akpoha and ishiagu communities of ebonyi state</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kalu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ogbonna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nigeria. Int. J. Constr. Manag</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1185" to="1199"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impact of quarrying gypsum in a semidesert karstic area (Sorbas, SE Spain)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pulido-Bosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Calaforra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pulido-Leboeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Torres-Garc�a</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00254-004-1062-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Geology</title>
+		<title level="j" type="abbrev">Env Geol</title>
+		<idno type="ISSN">0943-0105</idno>
+		<idno type="ISSNe">1432-0495</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="583" to="590"/>
+			<date type="published" when="2004-04-24">2004</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Sorbas, SE Spain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Application of the DPSIR framework to environmental degradation assessment in northern Ghana</title>
+		<author>
+			<persName><forename type="first">Isaac</forename><surname>Agyemang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adrian</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Carver</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1477-8947.2007.00152.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Resources Forum</title>
+		<title level="j" type="abbrev">Natural Resources Forum</title>
+		<idno type="ISSN">0165-0203</idno>
+		<idno type="ISSNe">1477-8947</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="212" to="225"/>
+			<date type="published" when="2007-08">2007</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effects of quarry activities on some selected communities in the lower Manya Krobo district of the eastern region of Ghana</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Nartey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Nanor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Klake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmos. Clim. Sci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Environmental impact assessment of quarries and stone cutting industries in Palestine: Case study of Jammain</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sayara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Prot. Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="32" to="38"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Mixed-Use Megaprojects: Urban Justifications and Benefits</title>
+		<author>
+			<persName><forename type="first">Fabio</forename><surname>Companie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mariam</forename><surname>Kamalie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abimbola</forename><surname>Windapo</surname></persName>
+		</author>
+		<idno type="DOI">10.56889/ebag4813</idno>
+	</analytic>
+	<monogr>
+		<title level="m">“Hope for a Sustainable Future: Blending AI&amp;IT, ESG, and Capital Projects”</title>
+		<imprint>
+			<publisher>International Project Management Association – IPMA, International Project Management Association - South Africa NPC (IPMA-SA)</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="392" to="405"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Oxford Handbook of Qualitative Research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leavy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Heavy metal polluted soils: Effect on plants and bioremediation methods</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">U</forename><surname>Chibuike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Obiora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Soil Sci</title>
+		<imprint>
+			<date type="published" when="2014">2014. 2014. 752708</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Effects of hydromorphological integrity on biodiversity and functioning of river ecosystems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elosegi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Díez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">657</biblScope>
+			<biblScope unit="page" from="199" to="215"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Value of Nature: Utilitarian Perspective</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Udoudom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GNOSI Interdiscip. J. Hum. Theory Prax</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="31" to="46"/>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Assessing the public perceptions of treated wastewater reuse: Opportunities and implications for urban communities in developing countries</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">E</forename><surname>Akpan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Omole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bassey</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Heliyon 2020, 6, e05246. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Anthropocentrism vs. nonanthropocentrism: Why should we care? Environ. Values</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcshane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="169" to="185"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Bentham’s Political Radicalism Reexamined</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">E</forename><surname>Crimmins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Bentham</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781351155045-23</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Jeremy Bentham</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="511" to="533"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Greatest Good for the Greatest Number in the Long Run: TR Pinchot and the Origins of Sustainability in America</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<ptr target="http://scholar.law.colorado.edu/articles/59"/>
+		<imprint>
+			<date type="published" when="2015-09-03">2015. 3 September 2023</date>
+			<biblScope unit="page">72</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>University of Colorado Law School</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Introducing Qualitative Research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nieuwenhuis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Pretoria</publisher>
+			<pubPlace>South Africa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Research Methods in Education</title>
+		<author>
+			<persName><forename type="first">Louis</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Manion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Morrison</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203720967</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Research Methods in Education; Routledge: London, UK</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Your Guide to Case Study Research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>John</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Van Schaik Publishers: Pretoria, South Africa</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Levin, David Saul, (born 28 Jan. 1962), Chief Executive, McGraw-Hill Education, New York, since 2014</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Fraenkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallen</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.u41645</idno>
+		<imprint>
+			<date type="published" when="2007-12-01">2007</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Yin</surname></persName>
+		</author>
+		<title level="m">Case Study Research: Design and Methods; SAGE: Newcastle upon</title>
+		<meeting><address><addrLine>Tyne, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Communities-company relation in limestone mining region of southwest Nigeria: The ewekoro socioeconomic view</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Afeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adeogun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Dev. Econ. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="85" to="98"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Sustainable Development of the Arctic Indigenous Communities: The Approach to Projects Optimization of Mining Company</title>
+		<author>
+			<persName><forename type="first">Andrey</forename><surname>Novoselov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ivan</forename><surname>Potravny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irina</forename><surname>Novoselova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Violetta</forename><surname>Gassiy</surname></persName>
+			<idno type="ORCID">0000-0002-9453-5692</idno>
+		</author>
+		<idno type="DOI">10.3390/su12197963</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<title level="j" type="abbrev">Sustainability</title>
+		<idno type="ISSNe">2071-1050</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page">7963</biblScope>
+			<date type="published" when="2020-09-25"/>
+			<publisher>MDPI AG</publisher>
+		</imprint>
+	</monogr>
+	<note>Sustainability 2020, 12, 7963. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Economic Behavior of the Indigenous Peoples in the Context of the Industrial Development of the Russian Arctic</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Potravnaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="101" to="126"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Limestone quarrying and quarry reclamation in Britain</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bailey</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf00775301</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Geology</title>
+		<title level="j" type="abbrev">Geo</title>
+		<idno type="ISSN">0177-5146</idno>
+		<idno type="ISSNe">1432-0495</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="167" to="172"/>
+			<date type="published" when="1993-06">1993</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Biodiversity and Cultural Property in the Management of Limestone Resources: Lessons from East Asia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Whitten</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>The World Bank</publisher>
+			<pubPlace>Washington, DC, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Living with Karst: A Fragile Foundations</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Veni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Duchene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Groves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Huppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kastning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Wheeler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>American Geological Institute</publisher>
+			<pubPlace>Alexandria, VA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Effects of Quarrying Activities on the Environment in Nairobi County: A Case Study of Embakasi District</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Eshiwani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1" to="78"/>
+			<pubPlace>Nairobi, Kenya</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Nairobi Research Archive</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A fight for conservation by Gifford Pinchot</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pinchot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Double Day</title>
+		<imprint>
+			<biblScope unit="volume">1910</biblScope>
+			<biblScope unit="page" from="1" to="21"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Potential Environmental Impacts of Quarrying Stone in Karst-A Literature Review</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Langer</surname></persName>
+		</author>
+		<ptr target="http://geology.cr.usgs.gov/pub/ofrs/OFR-01-0484/"/>
+		<imprint>
+			<date type="published" when="2001-07-01">2001. 1 July 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Gold mining impact assessment on the economy and the environment in Ecuador</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Chavez Ferreyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Potravny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gorn. Z</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="62" to="65"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Reclamation and environmental management in dimension stone mining</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ashmole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motloung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SAIMM</title>
+		<imprint>
+			<biblScope unit="page" from="156" to="178"/>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher's Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

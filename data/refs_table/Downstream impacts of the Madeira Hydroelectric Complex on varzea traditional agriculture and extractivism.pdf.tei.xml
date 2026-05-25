@@ -1,0 +1,2994 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Amazon Assessment Report 2021</title>
+		<author>
+			<persName><forename type="first">; Literature Cited</forename><surname>Committee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Abramovay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Assis Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Castro Euler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E F</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kaimowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Nobre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rogez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Roxo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Villanova</surname></persName>
+		</author>
+		<idno type="DOI">10.55161/rwsx6527</idno>
+		<idno>CEP: 61440222.9.0000.8142</idno>
+		<ptr target="https://doi.org/10.55161/RWSX6527"/>
+	</analytic>
+	<monogr>
+		<title level="m">Chapter 30 in Science Panel for the Amazon. Amazon assessment report 2021. UN Sustainable Development Solutions Network (SDSN)</title>
+		<meeting><address><addrLine>New York, New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>UN Sustainable Development Solutions Network (SDSN)</publisher>
+			<date type="published" when="2021-11-12">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Hydropeaking operations of two run-of-river megadams alter downstream hydrology of the largest Amazon tributary</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Rosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R C</forename><surname>Doria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Flecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Fleischmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Reisinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Roland</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fenvs.2020.00120</idno>
+		<ptr target="https://doi.org/10.3389/fenvs.2020.00120"/>
+	</analytic>
+	<monogr>
+		<title level="m">Sistema nacional de informações sobre recursos hídricos (SNIRH)</title>
+		<imprint>
+			<publisher>Agência Nacional de Águas e Saneamento Básico (ANA)</publisher>
+			<date type="published" when="2020">2025. 2020</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">120</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phosphorus transport by the largest Amazon tributary (Madeira River, Brazil) and its sensitivity to precipitation and damming</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tranvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Huszar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mendonça</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Boemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arantes</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Roland</surname></persName>
+		</author>
+		<idno type="DOI">10.5268/IW-5.3.815</idno>
+		<ptr target="https://doi.org/10.5268/IW-5.3.815"/>
+	</analytic>
+	<monogr>
+		<title level="j">Inland Waters</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="275" to="282"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mapping research on hydropower and sustainability in the Brazilian Amazon: advances, gaps in knowledge and future directions</title>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Athayde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mason</forename><surname>Mathews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephanie</forename><surname>Bohlman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Walterlina</forename><surname>Brasil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolina</forename><forename type="middle">Rc</forename><surname>Doria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jynessa</forename><surname>Dutka-Gianelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">M</forename><surname>Fearnside</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bette</forename><surname>Loiselle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elineide</forename><forename type="middle">E</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Theodore</forename><forename type="middle">S</forename><surname>Melis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brent</forename><surname>Millikan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evandro</forename><forename type="middle">M</forename><surname>Moretto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Oliver-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amintas</forename><surname>Rossete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raffaele</forename><surname>Vacca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Kaplan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cosust.2019.06.004</idno>
+		<ptr target="https://doi.org/10.1016/j.cosust.2019.06.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Environmental Sustainability</title>
+		<title level="j" type="abbrev">Current Opinion in Environmental Sustainability</title>
+		<idno type="ISSN">1877-3435</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="50" to="69"/>
+			<date type="published" when="2019-04">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Downstream Impacts of Hydropower Dams and Indigenous and Local Knowledge: Examples from the Peace–Athabasca, Mekong, and Amazon</title>
+		<author>
+			<persName><forename type="first">Ian</forename><forename type="middle">G</forename><surname>Baird</surname></persName>
+			<idno type="ORCID">0000-0001-7747-2485</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Renato</forename><forename type="middle">A M</forename><surname>Silvano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brenda</forename><surname>Parlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Poesch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Maclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Art</forename><surname>Napoleon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melody</forename><surname>Lepine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gustavo</forename><surname>Hallwass</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-020-01418-x</idno>
+		<ptr target="https://doi.org/10.1007/s00267-020-01418-x"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Management</title>
+		<title level="j" type="abbrev">Environmental Management</title>
+		<idno type="ISSN">0364-152X</idno>
+		<idno type="ISSNe">1432-1009</idno>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="682" to="696"/>
+			<date type="published" when="2021-01-18">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Why do plants respond differently to hydropeaking disturbance? A functional approach</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baladrón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Bejarano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Boavida</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolind.2023.110237</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolind.2023.110237"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">110237</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The effects of hydropeaking on riverine plants: a review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Bejarano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nilsson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/brv.12362</idno>
+		<ptr target="https://doi.org/10.1111/brv.12362"/>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Reviews</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="658" to="673"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Forest fishers: priority areas for conservation and restoration of Amazonian forest-frugivorous fish interactions and associated fisheries</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Berkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Folke</surname></persName>
+		</author>
+		<ptr target="https://www.era-learn.eu/network-information/networks/biodivrestore/biodivrestore-transnational-cofund-call-2021/priority-areas-for-conservation-and-restoration-of-amazonian-forest-frugivorous-fish-interactions-and-associated-fisheries"/>
+	</analytic>
+	<monogr>
+		<title level="j">BiodivERsA Network, hosted by French Foundation for Research on Biodiversity (FRB)</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Berkes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Folke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Colding</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1998">1998. 2024</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York, New York, USA; Paris, France</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Linking social and ecological systems for resilience and sustainability Linking social and ecological systems: management practices and social mechanisms for building resilience Biodiversa+</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impacts of hydropeaking: a systematic review</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Bipa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stradiotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Righetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Pisaturo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2023.169251</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2023.169251"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">912</biblScope>
+			<biblScope unit="page">169251</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Immediate effects of an Amazonian mega hydroelectric dam on phyllostomid fruit bats</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E D</forename><surname>Bobrowiec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Nobre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Tavares</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolind.2021.108322</idno>
+		<ptr target="https://www.ecologyandsociety.org/vol30/iss3/art33/"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">33</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Ecology and Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A simple procedure for the assessment of hydropeaking flow alterations applied to several European streams</title>
+		<author>
+			<persName><forename type="first">Mauro</forename><surname>Carolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Davide</forename><surname>Vanzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annunziato</forename><surname>Siviglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Zolezzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Cristina</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Knut</forename><surname>Alfredsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00027-015-0408-5</idno>
+		<ptr target="https://doi.org/10.1007/s00027-015-0408-5"/>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Sciences</title>
+		<title level="j" type="abbrev">Aquat Sci</title>
+		<idno type="ISSN">1015-1621</idno>
+		<idno type="ISSNe">1420-9055</idno>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="639" to="653"/>
+			<date type="published" when="2015-08-06">2015</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Challenging the prevailing paradigm of displacement and resettlement</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">M</forename><surname>Cernea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julie</forename><forename type="middle">K</forename><surname>Maldonado</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315163062-1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Challenging the Prevailing Paradigm of Displacement and Resettlement</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Cernea</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Maldonado</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018-05-25">2018</date>
+			<biblScope unit="page" from="1" to="42"/>
+		</imprint>
+	</monogr>
+	<note>impoverishment, legacies, solutions</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">London</forename><surname>Routledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">K</forename></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315163062</idno>
+		<ptr target="https://doi.org/10.4324/9781315163062"/>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Amazon river flow regime and flood recessional agriculture: flood stage reversals and risk of annual crop loss</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Coomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lapointe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Templeton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>List</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2016.05.027</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2016.05.027"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">539</biblScope>
+			<biblScope unit="page" from="214" to="222"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Sparing of Amazonian old-growth forests with floodplain access</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Coomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Abizaid</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41893-022-00952-2</idno>
+		<ptr target="https://doi.org/10.1038/s41893-022-00952-2"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="965" to="972"/>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Functional responses of Amazonian frogs to flooding by a large hydroelectric dam</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Dayrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Fraga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Peres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E D</forename><surname>Bobrowiec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Magnusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lima</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10531-024-02839-4</idno>
+		<idno>10531-024-02839-4</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6-7</biblScope>
+			<biblScope unit="page" from="2055" to="2070"/>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Rapid changes to global river suspended sediment flux by humans</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Dethier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Renshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Magilligan</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.abn7980</idno>
+		<ptr target="https://doi.org/10.1126/science.abn7980"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="issue">6600</biblScope>
+			<biblScope unit="page" from="1447" to="1452"/>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">An overview of hydropower reservoirs in Brazil: current situation, future perspectives and impacts of climate change</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>De S</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Da Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T F</forename><surname>Medero</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nascimento</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w10050592</idno>
+		<ptr target="https://doi.org/10.3390/w10050592"/>
+	</analytic>
+	<monogr>
+		<title level="j">Water (Switzerland)</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">592</biblScope>
+			<date type="published" when="2018">2018. 2021</date>
+			<publisher>Brazil. Energy Research Office (EPE)</publisher>
+			<pubPlace>Rio de Janeiro, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Brazilian energy balance 2021</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Climate change may affect the future of extractivism in the Brazilian Amazon</title>
+		<author>
+			<persName><forename type="first">Jôine</forename><forename type="middle">Cariele</forename><surname>Evangelista-Vale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marla</forename><surname>Weihs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leandro</forename><surname>José-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafael</forename><surname>Arruda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nilo</forename><forename type="middle">Leal</forename><surname>Sander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><forename type="middle">C</forename><surname>Gomides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Talita</forename><forename type="middle">M</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">João</forename><forename type="middle">Carlos</forename><surname>Pires-Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucas</forename><surname>Barros-Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luciene</forename><surname>Castuera-Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renan</forename><forename type="middle">Augusto Miranda</forename><surname>Matias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angele</forename><forename type="middle">Tatiane</forename><surname>Martins-Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christine</forename><forename type="middle">Steiner São</forename><surname>Bernardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Islandia</forename><surname>Silva-Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cleide</forename><surname>Carnicer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rainiellen</forename><forename type="middle">S</forename><surname>Carpanedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pedro</forename><forename type="middle">V</forename><surname>Eisenlohr</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biocon.2021.109093</idno>
+		<ptr target="https://doi.org/10.1016/j.biocon.2021.109093"/>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<title level="j" type="abbrev">Biological Conservation</title>
+		<idno type="ISSN">0006-3207</idno>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page">109093</biblScope>
+			<date type="published" when="2021-05">2021</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Desmatamento na Amazônia Brasileira: Com que intensidade vem ocorrendo?</title>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">M</forename><surname>Fearnside</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/1809-43921982123579</idno>
+		<ptr target="https://fmclimaticas.org.br/wp-content/uploads/2015/07/Hidrel%C3%A9tricas-na-Amaz%C3%B4nia-Impactos-ambientais-Sociais..-V.1.pdf"/>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Amazonica</title>
+		<title level="j" type="abbrev">Acta Amaz.</title>
+		<idno type="ISSNe">0044-5967</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="579" to="590"/>
+			<date type="published" when="2015">2015</date>
+			<publisher>FapUNIFESP (SciELO)</publisher>
+			<pubPlace>Manaus, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Proliferation of hydroelectric dams in the Andean Amazon and implications for Andes-Amazon connectivity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Finer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Jenkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0035126</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0035126"/>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">35126</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Autotrophic Carbon Sources for Fish of the Central Amazon</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Forsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A R M</forename><surname>Araujo-Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Victoria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bonassi</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1940793</idno>
+		<ptr target="https://doi.org/10.2307/1940793"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<title level="j" type="abbrev">Ecology</title>
+		<idno type="ISSN">0012-9658</idno>
+		<idno type="ISSNe">1939-9170</idno>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="643" to="652"/>
+			<date type="published" when="1993-04">1993</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Conflicts over land as a risk for socialecological resilience: a transnational comparative analysis in the southwestern Amazon</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Froese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pinzón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Aceitón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Argentim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arteaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Navas-Guzmán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pismel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Scherer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Reutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schilling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schönenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su14116520</idno>
+		<ptr target="https://doi.org/10.3390/su14116520"/>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">6520</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Hydropeaking effects of on the diet of a Neotropical fish community</title>
+		<author>
+			<persName><forename type="first">Cíntia</forename><forename type="middle">Veloso</forename><surname>Gandini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><forename type="middle">Alexandre Costa</forename><surname>Sampaio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulo</forename><forename type="middle">Santos</forename><surname>Pompeu</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/1982-0224-20130151</idno>
+		<ptr target="https://doi.org/10.1590/1982-0224-20130151"/>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Ichthyology</title>
+		<title level="j" type="abbrev">Neotrop. ichthyol.</title>
+		<idno type="ISSN">1679-6225</idno>
+		<idno type="ISSNe">1982-0224</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="795" to="802"/>
+			<date type="published" when="2014-11-11">2014</date>
+			<publisher>FapUNIFESP (SciELO)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Spatial injustice to energy access in the shadow of hydropower in Brazil</title>
+		<author>
+			<persName><forename type="first">María</forename><forename type="middle">Alejandra</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Mayer</surname></persName>
+			<idno type="ORCID">0000-0002-7937-2231</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Igor</forename><surname>Cavallini Johansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Claudia</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emilio</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2024.106570</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2024.106570"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="page">106570</biblScope>
+			<date type="published" when="2024-06">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hydropeaking impacts and mitigation</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Greimel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schülting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bondar-Kunze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Auer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zeiringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hauer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-73250-3_5</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-73250-3_5"/>
+	</analytic>
+	<monogr>
+		<title level="m">Riverine ecosystem management</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Schmutz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Sendzimir</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Rhythm of Life on the Amazon Floodplain: Seasonality and Sociality in a Riverine Village</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Harris</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3034428</idno>
+		<ptr target="https://doi.org/10.2307/3034428"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the Royal Anthropological Institute</title>
+		<title level="j" type="abbrev">The Journal of the Royal Anthropological Institute</title>
+		<idno type="ISSN">1359-0987</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="1998-03">1998</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">O curso de desenvolvimento de habilidades em pesquisa do ibge</title>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Villas Boas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denise</forename><surname>Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.52041/srap.15308</idno>
+		<ptr target="https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html"/>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Statistics Education: Developments, Experiences, and Assessments IASE Satellite</title>
+		<imprint>
+			<publisher>International Association for Statistical Education</publisher>
+			<date type="published" when="2015-12-30"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">River rhythmicity: A conceptual means of understanding and leveraging the relational values of rivers</title>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Jackson</surname></persName>
+			<idno type="ORCID">0000-0001-6498-5783</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+			<idno type="ORCID">0000-0003-4641-5810</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Natalia</forename><forename type="middle">C</forename><surname>Piland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Solomon</forename><surname>Carriere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lilia</forename><surname>Java</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">D</forename><surname>Jardine</surname></persName>
+			<idno type="ORCID">0000-0002-5917-9792</idno>
+		</author>
+		<idno type="DOI">10.1002/pan3.10335</idno>
+		<ptr target="https://doi.org/10.1002/pan3.10335"/>
+	</analytic>
+	<monogr>
+		<title level="j">People and Nature</title>
+		<title level="j" type="abbrev">People and Nature</title>
+		<idno type="ISSN">2575-8314</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="949" to="962"/>
+			<date type="published" when="2022-05-13">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sub-daily flow alterations (hydropeaking) due to reservoir operations in Brazil</title>
+		<author>
+			<persName><forename type="first">Pedro</forename><forename type="middle">Frediani</forename><surname>Jardim</surname></persName>
+			<idno type="ORCID">0000-0002-7192-8370</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Collischonn</surname></persName>
+			<idno type="ORCID">0000-0002-7630-396X</idno>
+		</author>
+		<idno type="DOI">10.1590/2318-0331.292420230111</idno>
+		<ptr target="https://doi.org/10.1590/2318-0331.292420230111"/>
+	</analytic>
+	<monogr>
+		<title level="j">RBRH</title>
+		<title level="j" type="abbrev">RBRH</title>
+		<idno type="ISSN">1414-381X</idno>
+		<idno type="ISSNe">2318-0331</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2024">2024</date>
+			<publisher>FapUNIFESP (SciELO)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The flood pulse concept in river floodplain systems</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bayley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Sparks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the International Large River Symposium (LARS)</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Dodge</surname></persName>
+		</editor>
+		<meeting>the International Large River Symposium (LARS)</meeting>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="110" to="127"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">classification for research, sustainable management, and protection</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M F</forename><surname>Da Silva ; Junk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T F</forename><surname>Piedade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lourival</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kandus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Lacerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Bozelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Esteves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nunes Da Cunha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maltchik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schöngart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Schaeffer-Novelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Agostinho</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aqc.2386</idno>
+		<ptr target="https://doi.org/10.1002/aqc.2386"/>
+	</analytic>
+	<monogr>
+		<title level="m">Mammals, reptiles and amphibians</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, Heidelberg, Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1997">1997. 2014</date>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="5" to="22"/>
+		</imprint>
+	</monogr>
+	<note>The Central Amazon floodplain Ecological Studies Brazilian wetlands: their definition, delineation Ecology and Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A classification of major natural habitats of Amazonian white-water river floodplains (várzeas)</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Teresa Fernandez</forename><surname>Piedade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jochen</forename><surname>Schöngart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florian</forename><surname>Wittmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11273-012-9268-0</idno>
+		<ptr target="https://doi.org/10.1007/s11273-012-9268-0"/>
+	</analytic>
+	<monogr>
+		<title level="j">Wetlands Ecology and Management</title>
+		<title level="j" type="abbrev">Wetlands Ecol Manage</title>
+		<idno type="ISSN">0923-4861</idno>
+		<idno type="ISSNe">1572-9834</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="461" to="475"/>
+			<date type="published" when="2012-10-20">2012</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Manejo e uso múltiplo da várzea: uma síntese</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T F</forename><surname>Piedade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schöngart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Várzeas amazônicas: desafios para um manejo sustentável. Instituto Nacional de Pesquisas da Amazônia (INPA)</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T F</forename><surname>Piedade</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Wittmann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schöngart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Lopes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manaus, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="242" to="263"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Cleaning up the big muddy: a meta-synthesis of the research on the social impact of dams</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kirchherr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pohlner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Charles</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eiar.2016.02.007</idno>
+		<ptr target="https://doi.org/10.1016/j.eiar.2016.02.007"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Impact Assessment Review</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="115" to="125"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Wetlands as social–ecological systems: Bridging nature and society</title>
+		<author>
+			<persName><forename type="first">Ritesh</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Horwitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Max Finlayson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/b978-0-12-817803-4.00021-8</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-12-817803-4.00021-8"/>
+	</analytic>
+	<monogr>
+		<title level="m">Ramsar Wetlands</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Gell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Davidson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Finlayson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="525" to="553"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">What is a bad flood? Local perspectives of extreme floods in the Peruvian Amazon</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Langill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Abizaid</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13280-019-01278-8</idno>
+		<ptr target="https://doi.org/10.1007/s13280-019-01278-8"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ambio</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1423" to="1436"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Patterns of anabranching channels: The ultimate end-member adjustment of mega rivers</title>
+		<author>
+			<persName><forename type="first">Edgardo</forename><forename type="middle">M</forename><surname>Latrubesse</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2008.05.035</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2008.05.035"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="130" to="145"/>
+			<date type="published" when="2008-10">2008</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Damming the rivers of the Amazon basin</title>
+		<author>
+			<persName><forename type="first">Edgardo</forename><forename type="middle">M</forename><surname>Latrubesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eugenio</forename><forename type="middle">Y</forename><surname>Arima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Dunne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><forename type="middle">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fernando</forename><forename type="middle">M</forename><surname>D’horta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Wight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Florian</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jansen</forename><surname>Zuanon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">A</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Camila</forename><forename type="middle">C</forename><surname>Ribas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">B</forename><surname>Norgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naziano</forename><surname>Filizola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Atif</forename><surname>Ansar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bent</forename><surname>Flyvbjerg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jose</forename><forename type="middle">C</forename><surname>Stevaux</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature22333</idno>
+		<ptr target="https://doi.org/10.1038/nature22333"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">546</biblScope>
+			<biblScope unit="issue">7658</biblScope>
+			<biblScope unit="page" from="363" to="369"/>
+			<date type="published" when="2017-06">2017</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Reversal of the sediment load increase in the Amazon basin influenced by divergent trends of sediment transport from the Solimões and Madeira Rivers</title>
+		<author>
+			<persName><forename type="first">Tong</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuai</forename><surname>Wang</surname></persName>
+			<idno type="ORCID">0000-0003-1595-9858</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yanxu</forename><surname>Liu</surname></persName>
+			<idno type="ORCID">0000-0001-6983-0756</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Bojie</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dexin</forename><surname>Gao</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.catena.2020.104804</idno>
+		<ptr target="https://doi.org/10.1016/j.catena.2020.104804"/>
+	</analytic>
+	<monogr>
+		<title level="j">CATENA</title>
+		<title level="j" type="abbrev">CATENA</title>
+		<idno type="ISSN">0341-8162</idno>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page">104804</biblScope>
+			<date type="published" when="2020-12">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Amazon Assessment Report 2021</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Malhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Melack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Ometto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kesselmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E O</forename><surname>Aragão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Saleska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pangala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Basso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>De Araújo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Restrepo-Coupe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H L</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junior</forename></persName>
+		</author>
+		<idno type="DOI">10.55161/rwsx6527</idno>
+		<ptr target="https://doi.org/10.55161/RWSX6527"/>
+	</analytic>
+	<monogr>
+		<title level="m">Biogeochemical cycles in the Amazon. Chapter 6 in Science Panel for the Amazon. Amazon assessment report 2021. UN Sustainable Development Solutions Network (SDSN)</title>
+		<meeting><address><addrLine>New York, New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>UN Sustainable Development Solutions Network (SDSN)</publisher>
+			<date type="published" when="2021-11-12">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Bioeconomia para quem?: bases para um desenvolvimento sustentável na Amazônia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marcovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Val</surname></persName>
+		</author>
+		<idno type="DOI">10.11606/9786589321453</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Bioeconomia para quem?: bases para um desenvolvimento sustentável na Amazônia. Com-Arte</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Marcovitch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Val</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo, Brazil</addrLine></address></meeting>
+		<imprint>
+			<publisher>Universidade de São Paulo. Escola de Comunicações e Artes</publisher>
+			<date type="published" when="2024-06-11">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Mining in the Amazon: Importance, impacts, and challenges to restore degraded ecosystems. Are we on the right way?</title>
+		<author>
+			<persName><forename type="first">Walmer</forename><forename type="middle">Bruno Rocha</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><forename type="middle">Isabella De Matos</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Victor</forename><forename type="middle">Pereira</forename><surname>De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sabrina</forename><forename type="middle">Santos</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Welton</forename><forename type="middle">Dos Santos</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gustavo</forename><surname>Schwartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecoleng.2021.106468</idno>
+		<ptr target="https://doi.org/10.1016/j.ecoleng.2021.106468"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Engineering</title>
+		<title level="j" type="abbrev">Ecological Engineering</title>
+		<idno type="ISSN">0925-8574</idno>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page">106468</biblScope>
+			<date type="published" when="2022-01">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">2022a. Pretend participation: procedural injustices in the Madeira Hydroelectric Complex</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Castro-Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2022.102524</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2022.102524"/>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">102524</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Hydropower, Social Capital, Community Impacts, and Self‐Rated Health in the Amazon*</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Claudia</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Igor</forename><surname>Cavallini Johansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emilio</forename><surname>Moran</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ruso.12419</idno>
+		<ptr target="https://doi.org/10.1111/ruso.12419"/>
+	</analytic>
+	<monogr>
+		<title level="j">Rural Sociology</title>
+		<title level="j" type="abbrev">Rural Sociology</title>
+		<idno type="ISSN">0036-0112</idno>
+		<idno type="ISSNe">1549-0831</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="393" to="426"/>
+			<date type="published" when="2021-11-19"/>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Uncompensated losses and damaged livelihoods: Restorative and distributional injustices in Brazilian hydropower</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Mayer</surname></persName>
+			<idno type="ORCID">0000-0002-7937-2231</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Claudia</forename><surname>Lopez</surname></persName>
+			<idno type="ORCID">0000-0002-9417-1534</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Emilio</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2022.113048</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2022.113048"/>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<title level="j" type="abbrev">Energy Policy</title>
+		<idno type="ISSN">0301-4215</idno>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page">113048</biblScope>
+			<date type="published" when="2022-08"/>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Andean Influences on the Biogeochemistry and Ecology of the Amazon River</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">E</forename><surname>Mcclain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Naiman</surname></persName>
+		</author>
+		<idno type="DOI">10.1641/b580408</idno>
+		<ptr target="https://doi.org/10.1641/B580408"/>
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<idno type="ISSN">0006-3568</idno>
+		<idno type="ISSNe">1525-3244</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="325" to="338"/>
+			<date type="published" when="2008-04-01">2008</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Monitoring the impacts of a mega-dam on Amazonian understorey herbs</title>
+		<author>
+			<persName><forename type="first">Marcelo</forename><forename type="middle">B</forename><surname>Medeiros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Washington</forename><forename type="middle">L</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Flávio</forename><forename type="middle">R O</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Renata</forename><forename type="middle">D</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Íris</forename><forename type="middle">J K</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wellyngton</forename><forename type="middle">E</forename><surname>Ayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Suelma</forename><forename type="middle">R</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rafaela</forename><forename type="middle">T</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcelo</forename><forename type="middle">F</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foreco.2023.120909</idno>
+		<ptr target="https://doi.org/10.1016/j.foreco.2023.120909"/>
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<title level="j" type="abbrev">Forest Ecology and Management</title>
+		<idno type="ISSN">0378-1127</idno>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="page">120909</biblScope>
+			<date type="published" when="2023-05">2023</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Aquatic Ecosystems</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Melack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nagy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Forsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Artaxo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-662-49902-3_7</idno>
+		<ptr target="https://doi.org/10.1007/978-3-662-49902-3_7"/>
+	</analytic>
+	<monogr>
+		<title level="m">Ecological Studies</title>
+		<meeting><address><addrLine>Berlin, Heidelberg, Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Berlin Heidelberg</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="119" to="148"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Biogeochemistry of Amazon Floodplain Lakes and Associated Wetlands</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Melack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><forename type="middle">R</forename><surname>Forsberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780195114317.003.0017</idno>
+		<ptr target="https://doi.org/10.1093/oso/9780195114317.003.0017"/>
+	</analytic>
+	<monogr>
+		<title level="m">The Biogeochemistry of the Amazon Basin</title>
+		<meeting><address><addrLine>Oxford, UK.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2001-12-06">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Editorial overview: Introduction to the special issue: Hydropower and sustainability in the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Emilio</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Athayde</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cosust.2019.06.003</idno>
+		<ptr target="https://doi.org/10.1016/j.cosust.2019.06.003"/>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Environmental Sustainability</title>
+		<title level="j" type="abbrev">Current Opinion in Environmental Sustainability</title>
+		<idno type="ISSN">1877-3435</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="A1" to="A6"/>
+			<date type="published" when="2019-04">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Sustainable hydropower in the 21st century</title>
+		<author>
+			<persName><forename type="first">Emilio</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Claudia</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathan</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">W</forename><surname>Hyndman</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1809426115</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1809426115"/>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">47</biblScope>
+			<biblScope unit="page" from="11891" to="11898"/>
+			<date type="published" when="2018-11-05">2018</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Fertilizer Adoption by Smallholders in the Brazilian Amazon: Farm-level Evidence</title>
+		<author>
+			<persName><forename type="first">Thiago</forename><forename type="middle">Fonseca</forename><surname>Morello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie-Gabrielle</forename><surname>Piketty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Toby</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luke</forename><surname>Parry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jos</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joice</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicola</forename><forename type="middle">S</forename><surname>Tancredi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolecon.2017.08.010</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolecon.2017.08.010"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Economics</title>
+		<title level="j" type="abbrev">Ecological Economics</title>
+		<idno type="ISSN">0921-8009</idno>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="278" to="291"/>
+			<date type="published" when="2018-02">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Interaction between extreme weather events and mega-dams increases tree mortality and alters functional status of Amazonian forests</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>De Medeiros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Gontijo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R C</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1107887</idno>
+		<ptr target="https://doi.org/10.1126/science.1107887"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ecology</title>
+		<editor>
+			<persName><forename type="first">C</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Reidy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Dynesius</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Revenga</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="405" to="408"/>
+			<date type="published" when="2005">2019. 2005</date>
+		</imprint>
+	</monogr>
+	<note>Ecology and Society Fragmentation and flow regulation of the world's large river systems Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Hidrelétricas no rio Madeira: desastre como meta e norma</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Novoa Garzon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Científica Foz</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="120" to="142"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Comunidades ribeirinhas na Amazônia: perdidas no espaço e no tempo dos grandes projetos hidrelétricos</title>
+		<author>
+			<persName><forename type="first">Luis</forename><forename type="middle">Fernando</forename><surname>Novoa Garzon</surname></persName>
+			<idno type="ORCID">0000-0003-2280-7959</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Daniele</forename><forename type="middle">Severo Da</forename><surname>Silva</surname></persName>
+			<idno type="ORCID">0000-0002-8922-0039</idno>
+		</author>
+		<idno type="DOI">10.22409/antropolitica2020.0i48.a42025</idno>
+		<ptr target="https://doi.org/10.22409/antropolitica"/>
+	</analytic>
+	<monogr>
+		<title level="j">Antropolítica - Revista Contemporânea de Antropologia</title>
+		<title level="j" type="abbrev">R. Contemp. de Ant.</title>
+		<idno type="ISSN">1414-7378</idno>
+		<idno type="ISSNe">2179-7331</idno>
+		<imprint>
+			<biblScope unit="page">42025</biblScope>
+			<date type="published" when="2020-04-02">2020. 2020</date>
+			<publisher>Pro Reitoria de Pesquisa, Pos Graduacao e Inovacao - UFF</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Mega-dams and extreme rainfall: disentangling the drivers of extensive impacts of a large flooding event on Amazon Forests</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Medeiros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0245991</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0245991"/>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">245991</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">High-resolution mapping of global surface water and its long-term changes</title>
+		<author>
+			<persName><forename type="first">Jean-François</forename><surname>Pekel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Cottam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noel</forename><surname>Gorelick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">S</forename><surname>Belward</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature20584</idno>
+		<ptr target="https://doi.org/10.1038/nature"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">540</biblScope>
+			<biblScope unit="issue">7633</biblScope>
+			<biblScope unit="page" from="418" to="422"/>
+			<date type="published" when="2016-12-07">2016. 20584</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Let's talk about mercury contamination in the Amazon (again): the case of the floating gold miners' village on the Madeira River</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Pestana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>De Rezende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>De Lacerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Bastos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2022.101122</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2022.101122"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Extractive Industries and Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">101122</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">How dams can go with the flow</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Leroy</forename><surname>Poff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">C</forename><surname>Schmidt</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aah4926</idno>
+		<ptr target="https://doi.org/10.1126/science.aah4926"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="issue">6304</biblScope>
+			<biblScope unit="page" from="1099" to="1100"/>
+			<date type="published" when="2016-09-09">2016</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Belo Monte Dam impacts: Protagonism of local people in research and monitoring reveals ecosystem service decay in Amazonian flooded vegetation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quaresma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zuquim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Demarchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Ribas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Assunção</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J P</forename><surname>Juruna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T V Da S</forename><surname>Juruna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S S</forename><surname>Kleme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Mantovanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muriel-Cunha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Palmquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J C</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C B</forename><surname>Pezzuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T F</forename><surname>Piedade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">B</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Ritter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Sawakuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Wahnfried</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zuanon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cruz E Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pecon.2025.02.001</idno>
+		<ptr target="https://doi.org/10.1016/j.pecon.2025.02.001"/>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives in Ecology and Conservation</title>
+		<title level="j" type="abbrev">Perspectives in Ecology and Conservation</title>
+		<idno type="ISSN">2530-0644</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="50"/>
+			<date type="published" when="2025-01">2025</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Lost in development's shadow: the downstream human consequences of dams</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Postel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Revenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Scudder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lehner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Churchill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Water Alternatives</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="14" to="42"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Fishers' knowledge indicates extensive socioecological impacts downstream of proposed dams in a tropical river</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Runde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hallwass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A M</forename><surname>Silvano</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.oneear.2020.02.012</idno>
+		<ptr target="https://doi.org/10.1016/j.oneear.2020.02.012"/>
+	</analytic>
+	<monogr>
+		<title level="j">One Earth</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="255" to="268"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Research methods in anthropology: qualitative and quantitative</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Russell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>AltaMira Press</publisher>
+			<pubPlace>Oxford, UK.</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The decline of fisheries on the Madeira River, Brazil: the high cost of the hydroelectric dams in the Amazon Basin</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Pinto-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Simões</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Zanchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/fme.12305</idno>
+		<ptr target="https://doi.org/10.1111/fme.12305"/>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Management and Ecology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="380" to="391"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Damming Amazon Rivers: Environmental impacts of hydroelectric dams on Brazil’s Madeira River according to local fishers’ perception</title>
+		<author>
+			<persName><forename type="first">Rangel</forename><forename type="middle">Eduardo</forename><surname>Santos</surname></persName>
+			<idno type="ORCID">0000-0002-0376-2241</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><forename type="middle">Motta</forename><surname>Pinto-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Auxiliadora</forename><surname>Drumond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rogério</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fabrício</forename><forename type="middle">Berton</forename><surname>Zanchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13280-020-01316-w</idno>
+		<ptr target="https://doi.org/10.1007/s13280-020-01316-w"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ambio</title>
+		<title level="j" type="abbrev">Ambio</title>
+		<idno type="ISSN">0044-7447</idno>
+		<idno type="ISSNe">1654-7209</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1612" to="1628"/>
+			<date type="published" when="2020-01-29">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">The shadow of the Balbina dam: A synthesis of over 35 years of downstream impacts on floodplain forests in Central Amazonia</title>
+		<author>
+			<persName><forename type="first">Jochen</forename><surname>Schöngart</surname></persName>
+			<idno type="ORCID">0000-0002-7696-9657</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Florian</forename><surname>Wittmann</surname></persName>
+			<idno type="ORCID">0000-0001-9180-356X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Angélica</forename><surname>Faria De Resende</surname></persName>
+			<idno type="ORCID">0000-0002-9875-1122</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Cyro</forename><surname>Assahira</surname></persName>
+			<idno type="ORCID">0000-0001-8702-7131</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Guilherme</forename><surname>De Sousa Lobo</surname></persName>
+			<idno type="ORCID">0000-0002-0909-9639</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Juliana</forename><surname>Rocha Duarte Neves</surname></persName>
+			<idno type="ORCID">0000-0001-6095-1674</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Maíra</forename><surname>Da Rocha</surname></persName>
+			<idno type="ORCID">0000-0002-8587-5943</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gisele</forename><surname>Biem Mori</surname></persName>
+			<idno type="ORCID">0000-0002-6825-9508</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Adriano</forename><surname>Costa Quaresma</surname></persName>
+			<idno type="ORCID">0000-0002-3684-2635</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Layon</forename><surname>Oreste Demarchi</surname></persName>
+			<idno type="ORCID">0000-0001-8441-2106</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Bianca</forename><surname>Weiss Albuquerque</surname></persName>
+			<idno type="ORCID">0000-0001-6398-9045</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Yuri</forename><surname>Oliveira Feitosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gilvan</forename><surname>Da Silva Costa</surname></persName>
+			<idno type="ORCID">0000-0001-7351-7164</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Gildo</forename><surname>Vieira Feitoza</surname></persName>
+			<idno type="ORCID">0000-0002-2050-9897</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Flávia</forename><surname>Machado Durgante</surname></persName>
+			<idno type="ORCID">0000-0002-5517-8821</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Aline</forename><surname>Lopes</surname></persName>
+			<idno type="ORCID">0000-0001-5771-4643</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">E</forename><surname>Trumbore</surname></persName>
+			<idno type="ORCID">0000-0003-3885-6202</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Thiago</forename><surname>Sanna Freire Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Ter Steege</surname></persName>
+			<idno type="ORCID">0000-0002-8738-2659</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Adalberto</forename><forename type="middle">Luis</forename><surname>Val</surname></persName>
+			<idno type="ORCID">0000-0002-3823-3868</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+			<idno type="ORCID">0000-0002-5714-5935</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Teresa Fernandez</forename><surname>Piedade</surname></persName>
+			<idno type="ORCID">0000-0002-7320-0498</idno>
+		</author>
+		<idno type="DOI">10.1002/aqc.3526</idno>
+		<ptr target="https://doi.org/10.1002/aqc.3526"/>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<title level="j" type="abbrev">Aquatic Conservation</title>
+		<idno type="ISSN">1052-7613</idno>
+		<idno type="ISSNe">1099-0755</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1117" to="1135"/>
+			<date type="published" when="2021-02-15">2021</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Classifying flow regimes of the Amazon basin</title>
+		<author>
+			<persName><forename type="first">Sharmin</forename><forename type="middle">F</forename><surname>Siddiqui</surname></persName>
+			<idno type="ORCID">0000-0002-5061-7506</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Xavier</forename><surname>Zapata‐rios</surname></persName>
+			<idno type="ORCID">0000-0002-8458-8598</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Torres‐paguay</surname></persName>
+			<idno type="ORCID">0000-0003-3581-9086</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><forename type="middle">C</forename><surname>Encalada</surname></persName>
+			<idno type="ORCID">0000-0003-2497-6086</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+			<idno type="ORCID">0000-0003-4641-5810</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Allaire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carolina</forename><forename type="middle">Rodrigues</forename><surname>Da Costa Doria</surname></persName>
+			<idno type="ORCID">0000-0003-1638-0063</idno>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Kaplan</surname></persName>
+			<idno type="ORCID">0000-0002-0103-0928</idno>
+		</author>
+		<idno type="DOI">10.1002/aqc.3582</idno>
+		<ptr target="https://doi.org/10.1002/aqc.3582"/>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<title level="j" type="abbrev">Aquatic Conservation</title>
+		<idno type="ISSN">1052-7613</idno>
+		<idno type="ISSNe">1099-0755</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1005" to="1028"/>
+			<date type="published" when="2021-04-14">2021</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Indicators of hydrologic alteration, version 7.1. User's manual. The Nature Conservancy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E M</forename><surname>Serra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Gil</surname></persName>
+		</author>
+		<ptr target="https://www.conservationgateway.org/Documents/IHAV7.pdf"/>
+		<imprint>
+			<date type="published" when="2009">2012. 2009</date>
+			<publisher>The Nature Conservancy</publisher>
+			<pubPlace>Porto Velho, Brazil; Arlington, Virginia, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Estudos e perspectivas de desenvolvimento para o médio e baixo Rio Madeira: 2010-2011</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Adapting to dams: agrarian change downstream of the Tiga Dam, northern Nigeria</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0305-750X(99)00041-8</idno>
+		<ptr target="https://doi.org/10.1016/S0305-750X"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Development</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="41" to="48"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Dewatering the Xingu River: hydrological alterations and biocultural connections among the Arara Indigenous People in the Volta Grande region, Brazilian Amazon</title>
+		<author>
+			<persName><forename type="first">Renata</forename><surname>Utsunomiya</surname></persName>
+			<idno type="ORCID">0000-0001-9024-9659</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Beveridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guilherme</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cyro</forename><surname>Assahira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evandro</forename><forename type="middle">Mateus</forename><surname>Moretto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Athayde</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10113-024-02230-7</idno>
+		<idno>10113-024-02230-7</idno>
+		<ptr target="https://doi.org/10.1007/s"/>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Environmental Change</title>
+		<title level="j" type="abbrev">Reg Environ Change</title>
+		<idno type="ISSN">1436-3798</idno>
+		<idno type="ISSNe">1436-378X</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">85</biblScope>
+			<date type="published" when="2024-05-18">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Hydropower in Brazil: Overview of Positive and Negative Environmental Aspects</title>
+		<author>
+			<persName><forename type="first">Eduardo</forename><surname>Von Sperling</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.egypro.2012.05.023</idno>
+		<ptr target="https://doi.org/10.1016/j.egypro.2012.05.023"/>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Procedia</title>
+		<title level="j" type="abbrev">Energy Procedia</title>
+		<idno type="ISSN">1876-6102</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="110" to="118"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">River culture: How socio‐ecological linkages to the rhythm of the waters develop, how they are lost, and how they can be regained</title>
+		<author>
+			<persName><forename type="first">Karl</forename><forename type="middle">M</forename><surname>Wantzen</surname></persName>
+			<idno type="ORCID">0000-0002-2192-1883</idno>
+		</author>
+		<idno type="DOI">10.1111/geoj.12476</idno>
+		<ptr target="https://doi.org/10.1111/geoj.12476"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Geographical Journal</title>
+		<title level="j" type="abbrev">Geographical Journal</title>
+		<idno type="ISSN">0016-7398</idno>
+		<idno type="ISSNe">1475-4959</idno>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2024">2024</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Direct archaeological evidence for Southwestern Amazonia as an early plant domestication and food production centre</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Watling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Shock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Z</forename><surname>Mongeló</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">O</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E De</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Neves</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0199868</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0199868"/>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">199868</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Balancing hydropower and biodiversity in the Amazon, Congo, and Mekong</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Winemiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Castello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fluet-Chouinard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Giarrizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Darwall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Lujan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L J</forename><surname>Stiassny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A M</forename><surname>Silvano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Pelicice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Agostinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Baran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petrere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zarfl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Koning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hoeinghaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sabaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Armbruster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Thieme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zuanon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Torrente</forename><surname>Vilara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Snoeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rainboth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Pavanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Van</forename><surname>Soesbergen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sáenz</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aac7082</idno>
+		<ptr target="https://www.ecologyandsociety.org/vol30/iss3/art33/"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="issue">6269</biblScope>
+			<biblScope unit="page" from="128" to="129"/>
+			<date type="published" when="2016-01-08"/>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Pelicice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Agostinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Petrere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zarfl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Koning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hoeinghaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Sabaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Armbruster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Thieme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Zuanon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vilara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Snoeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Rainboth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pavanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Soesbergen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sáenz</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aac7082</idno>
+		<ptr target="https://doi.org/10.1126/science.aac7082"/>
+	</analytic>
+	<monogr>
+		<title level="m">Balancing hydropower and biodiversity in the Amazon</title>
+		<meeting><address><addrLine>Congo, and Mekong</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="128" to="129"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Habitat specifity, endemism and the neotropical distribution of Amazonian whitewater floodplain trees</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Householder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T F</forename><surname>Piedade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>De Assis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schöngart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Parolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Junk</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1600-0587.2012.07723.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1600-0587.2012.07723.x"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="690" to="707"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><surname>Zerbini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moutinho</surname></persName>
+		</author>
+		<title level="m">Bioeconomia para quem?: bases para um desenvolvimento sustentável na Amazônia. Com-Arte</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Marcovitch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Val</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="151" to="169"/>
+		</imprint>
+	</monogr>
+	<note>Bioeconomia Amazônica e Cidadania</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

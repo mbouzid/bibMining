@@ -1,0 +1,1735 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1016/j.resourpol.2023.103853</idno>
+		<idno>85:103853</idno>
+		<imprint>
+			<date type="published" when="1016">1 0 . 1 0 1 6 / j . r e s o u r p o l . 2 0 2 3 . 1 0 3 8</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">GIS-based evaluation of mining-induced water-related hazards in Pakistan and integrated risk mitigation strategies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w17131914</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<date type="published" when="1914">2025a. 1914</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Machine learning method application to detect predisposing factors to open-pit landslides: the Sijiaying Iron Mine case study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/land14040678</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Land</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">678</biblScope>
+			<date type="published" when="2025">2025b</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Wavelet-based analysis of subsidence patterns and high-risk zone delineation in underground metal mining areas using</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/land14050992</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SBAS-InSAR. Land</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">992</biblScope>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Sustainable development and management of ecosystem in arid and semi-arid areas: a focus on the Qinghai-Tibet plateau and inner Mongolian grasslands</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.25904/1912/5183</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Application of machine learning in early warning system of geotechnical disaster: a systematic and comprehensive review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10462-025-11175-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Rev</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="5" to="6"/>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ecological risk assessment of heavy metals in water bodies around typical copper mines in China</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph17124315</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Environ Res Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">4315</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The technological innovation progress and development direction of the 14th five-year plan period in Chinese coal industry</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chin Coal Soc</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15"/>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.13225/j.cnki.jccs.2021.01.001</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Brine: genesis and sustainable resource recovery worldwide</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Lowenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-environ-112621-094745</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Rev Env Resour</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="371" to="394"/>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cross-scale correlation analysis of water-induced deterioration on soft rock in coal mine underground reservoir engineering based on deep learning algorithm</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-025-00790-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">48</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Stability assessment of fault-intersected submarine tunnels in the Southwestern Sanshandao Gold Mine</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hou</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10706-025-03248-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geotech Geol Eng</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">296</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Redox zonation and bioclogging interaction in managed aquifer recharge systems: a laboratory-scale investigation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>You</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xia</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eti.2025.104344</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Technol Innov</title>
+		<imprint>
+			<date type="published" when="2025">2025c</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Surge in global metal mining threatens vulnerable ecosystems</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Luckeneder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Giljum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schaffartzik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Maus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tost</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2021.102303</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Environ Change</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page">102303</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prospects for the transformation and development of carbon storage in abandoned mines of coal enterprises from the perspective of carbon neutrality</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fang</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-023-00593-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">36</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Water-rock two-phase flow model for water inrush and instability of fault rocks during mine tunnelling</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-023-00612-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1007/s40789-023-00612-6</idno>
+		<imprint>
+			<date type="published" when="0612-06">2 3 -0 0 6 1 2 -6</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The impact of metal mining on global water stress and regional carrying capacities-a GIS-based water impact assessment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Meißner</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/resources10120120</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resources</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">120</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ecological resilience study in mining area: current status and future trends</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiao</forename><forename type="middle">W</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-025-00792-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1007/s40789-025-00792-3</idno>
+		<imprint>
+			<biblScope unit="page" from="2" to="3"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A study of interbedded groundwater contamination in a mining area and the process of grouting composite failure</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mine Water Environ</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="590" to="604"/>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1007/s10230-023-00958-y</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dueker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Willows-Munro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Perrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">D</forename><surname>Abebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Annorbah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Mwangi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Madindou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tekalign</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Mzumara</surname></persName>
+		</author>
+		<idno type="DOI">10.2989/00306525.2023.2206674</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation status and threats to lovebirds: knowledge gaps and research priorities</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="1" to="27"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">A bibliometric review of smart technologies: IoT and AI for sustainable and efficient desalination. Desalin Water Treat</title>
+		<author>
+			<persName><surname>Dufau Se ; Dissertation</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Univ</forename><forename type="middle">El</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Allaoui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">El</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Semmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dachry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gziri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Medromi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dwt.2025.101393</idno>
+		<imprint>
+			<date type="published" when="2024">2024. 2025</date>
+		</imprint>
+	</monogr>
+	<note>Changing gender stereotypes: exploring women's roles in disaster risk management-a systematic literature review h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">An approach for prioritising environmental, social and governance (ESG) water-related risks for the mining industry: the case of Chile</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fukurai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marchand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ryser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I ; J</forename><surname>Delfanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Garcia-Zavala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ordens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pagliero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aitken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stringer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2023.101259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fourth World</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">101259</biblScope>
+			<date type="published" when="2022">2022. 2023</date>
+		</imprint>
+	</monogr>
+	<note>Nation's land rights versus corporate exploitation Extr Ind Soc h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effects of mining on the potentially toxic elements in the surrounding soils in China: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Guang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2022.153562</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">821</biblScope>
+			<biblScope unit="issue">1 0 1 6</biblScope>
+			<biblScope unit="page" from="0" to="2"/>
+			<date type="published" when="2022">2022. 153562</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Women, gender equality, and environmental justice</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guha</surname></persName>
+		</author>
+		<idno type="DOI">10.4018/979-8-3693-6069-9.ch013</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Gender, Environment, and Human Rights: an intersectional exploration</title>
+		<imprint>
+			<publisher>IGI Global</publisher>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="245" to="268"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">From resources to value: China's shifting position in the global value chain of rare earth</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xie</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2025.145880</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clean Prod</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Ecological and environmental damage assessment of water resources protection mining in the mining area of western China</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolind.2022.108938</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Indic</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<date type="published" when="2022">2022. 108938. 2 0 2 2 . 1 0 8 9 3 8</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Refining zoning of artificially-drained mine subsidence areas: relative elevation models and hydrological hazard frameworks as decision support tools for spatial planning and mitigation of flood-related geohazards and risks regardless of prevailing water regimes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ignacy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2025.105572</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resour Policy</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">105572</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Challenges in achieving sustainable development goal 7: affordable and clean energy in light of nascent technologies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jayachandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Gatla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mohammed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Milyani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Azhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kalaiarasy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Geetha</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.seta.2022.102692</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustain Energy Technol Assess</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">102692</biblScope>
+			<date type="published" when="2022">2022. 2 0 2 2 . 1 0 2 6 9 2</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">WWF water risk filter: Assess, respond and value water risks</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Laporte-Bisquit</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.seta.2022.102692</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable industrial water use: perspectives, incentives, and tools</title>
+		<imprint>
+			<publisher>IWA Publishing</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="321" to="331"/>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Responsible investment into the global mining industry-a spatial analysis</title>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bulovic</surname></persName>
+		</author>
+		<idno type="DOI">10.21203/rs.3.rs-5954459/v1</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Characteristics of water contamination in abandoned coal mines: a case study on Yudong River area</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Feng</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-021-00466-w</idno>
+	</analytic>
+	<monogr>
+		<title level="j">China Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1491" to="1503"/>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Kaili, Guizhou Province</pubPlace>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">How do rare earth prices respond to economic and geopolitical factors? Resour a case study of the Xolobeni Heavy Mineral Sands project. Stellenbosch</title>
+		<author>
+			<persName><forename type="first">Z-Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O-R</forename><surname>Lobont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-021-00466-w</idno>
+		<imprint>
+			<date type="published" when="0466">2 1 -0 0 4 6 6. 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Stellenbosch Univ</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Research progress of phytoremediation of farmland with excessive heavy metals</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Xiongfeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yanfei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guifen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yuyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yongxian</surname></persName>
+		</author>
+		<idno type="DOI">10.11923/j.issn.2095-4050.cjas2021-0100</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Agric</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">48</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Declines in mental health associated with air pollution and temperature variability in China</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-019-10196-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2165</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Mining violations, rent-seeking, and resource governance in China: evidence from central environmental protection inspection</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2023.101218</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Extr Ind Soc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2023">2023. 101218</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Mine water source discrimination based on hydrogeochemical characteristics in the northern Ordos Basin</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10230-020-00723-5</idno>
+		<idno>s : / / -0 2 0 -0 0 7 2 3 -5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">China Mine Water Environ</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="433" to="441"/>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Lithium extraction from low-quality brines</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41586-024-08117-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">636</biblScope>
+			<biblScope unit="issue">8042</biblScope>
+			<biblScope unit="page" from="309" to="321"/>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Numerical simulation of mining-induced landslide risks and agricultural impacts in coal mine areas</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.5912/jcb1190</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Commer Biotechnol</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Integration of indigenous and local knowledge in policy and practice of nature-based solutions in China: progress and highlights</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Mu</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su151411104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page">11104</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">a) Hydrogeochemical processes of carboniferous limestone groundwater in the Yangzhuang Coal Mine</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10230-022-00861-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mine Water Environ</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="504" to="517"/>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>Huaibei Coalfield, China</pubPlace>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Research progress on world natural heritage conservation: its buffer zones and the implications</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>He</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40494-022-00744-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Heritage Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">102</biblScope>
+			<date type="published" when="2022">2022b</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Characteristics of coal resources in China and statistical analysis and preventive measures for coal mine accidents</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-023-00582-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1007/s40789-023-00582-9</idno>
+		<imprint>
+			<date type="published" when="0582">2 3 -0 0 5 8 2 -9</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Contamination and human health risk assessment of heavy metal (loid)s in topsoil and groundwater around mining and dressing factories in Chifeng, north China</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40789-023-00568-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Coal Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>8. h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Humanitarianism and the Sendai framework: a 10-year review of converging and diverging paths</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mena</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13753-024-00595-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Disaster Risk Sci. h t t p s</title>
+		<imprint>
+			<date type="published" when="0595">2025. 2 4 -0 0 5 9 5 -1</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A global vulnerability analysis of displacement caused by resource development projects</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Svobodova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2021.01.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Extr Ind Soc</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">100877</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Improving water management in mining regions through understanding stakeholder's views and perspectives on integrated water resources management. Univ of British Columbia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Purevjav</surname></persName>
+		</author>
+		<idno type="DOI">10.14288/1.0441008</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Climate and waterrelated disasters and eco-DRR (disaster risk reduction) sensitivity in island nations: overview analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ranasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nagabhatla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vrijens</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-99-2905-4_15</idno>
+	</analytic>
+	<monogr>
+		<title level="m">International Conf on Trends and Recent Advances in Civil Engineering</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="183" to="206"/>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Minerals at the crossroads: economic policies, global trade, and renewable energy in the global south</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Parihar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chavriya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hosen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2024.105257</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resour Policy</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page">105257</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Detecting the source of contaminant zones down-gradient of the Alborz Sharghi coal washing plant using geo-electrical methods, northeastern Iran</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shafaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ramazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jodeiri</forename><surname>Shokri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Doulati</forename><surname>Ardejani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s10230-015-0371-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mine Water Environ</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="381" to="388"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Sustainable waterrelated hazards assessment in open pit-to-underground mining transitions: an IDRR and MCDM approach at Sijiaying Iron Mine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w17091354</idno>
+	</analytic>
+	<monogr>
+		<title level="j">China Water</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">1354</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Remote sensing and numerical simulation for slope stability in open-pit mining: case study of Sijiaying Iron Ore Mine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Khurram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10706-025-03254-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">China Geotech Geol Eng</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="23"/>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Development and status of the treatment technology for acid mine drainage</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fan</forename><forename type="middle">R</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s42461-020-00298-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Min Metall Explor</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="315" to="327"/>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Risk assessment methods in mining industry-a systematic review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tubis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Werbińska-Wojciechowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wroblewski</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/app10155172</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page">5172</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Water Innovations Market Demand Analysis in the Mining Sector</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wadsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burgess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Water Research Commission h t t p s</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="3" to="4"/>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>2 0 w e b . p d f</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">A discussion on ecological protection technology of high and steep slope of expressway</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Siddique</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1755-1315/632/2/022022</idno>
+	</analytic>
+	<monogr>
+		<title level="m">IOP Conference Series: Earth and Environmental Science</title>
+		<imprint>
+			<publisher>IOP Publishing</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">632</biblScope>
+			<biblScope unit="page">22022</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Lessons from tailings dam failures-where to go from here?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/min11080853</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Minerals</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">853</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Visualization analysis and progress of mine water inrush disaster-related research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tan</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10230-022-00876-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mine Water Environ</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="599" to="613"/>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>h t t p s</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Ethical environmental governance, public participation and sustainable development in the EIA decision-making process</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xala</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

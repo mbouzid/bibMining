@@ -1,0 +1,744 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">for the national climate change adaptation research facility</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Albrecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jaceglav</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Gold Coast, Australia</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Resilience and water security in Two outback cities</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Assessment of the benefits of an enhanced weather information service for the cotton industry in Australia</title>
+		<author>
+			<persName><forename type="first">Kwabena</forename><forename type="middle">A</forename><surname>Anaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Lellyett</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/met.5060030203</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Meteorological Applications</title>
+		<title level="j" type="abbrev">Meteorological Applications</title>
+		<idno type="ISSN">1350-4827</idno>
+		<idno type="ISSNe">1469-8080</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="135"/>
+			<date type="published" when="1997">1997</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">New abs strategies to promote statistical education under a new national curriculum for statistics</title>
+		<author>
+			<persName><forename type="first">Frances</forename><surname>Mawdsley</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">ABS</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Siu-Ming</forename><surname>Tam</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">ABS</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.52041/srap.13102</idno>
+		<idno>1301.0 ABS Canberra pp 586-591</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Statistics Education for Progress: Youth and Official Statistics Proceedings IASE 2013 Satellite Conference</title>
+		<imprint>
+			<publisher>International Association for Statistical Education</publisher>
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">New abs strategies to promote statistical education under a new national curriculum for statistics</title>
+		<author>
+			<persName><forename type="first">Frances</forename><surname>Mawdsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siu-Ming</forename><surname>Tam</surname></persName>
+		</author>
+		<idno type="DOI">10.52041/srap.13102</idno>
+		<idno>No: 6291.0.55.003 ABS Canberra</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Statistics Education for Progress: Youth and Official Statistics Proceedings IASE 2013 Satellite Conference</title>
+		<imprint>
+			<publisher>International Association for Statistical Education</publisher>
+			<date type="published" when="2006">2006. 2006. 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Assessing the impact of weather and climate in Australia</title>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Colls</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01098374</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="225" to="245"/>
+			<date type="published" when="1993-12">1993</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Not Just a Coalmine: Shifting Grounds of Community Opposition to Coal Mining in Southeastern Australia</title>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sonia</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Higginbotham</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00141840903202132</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ethnos</title>
+		<title level="j" type="abbrev">Ethnos</title>
+		<idno type="ISSN">0014-1844</idno>
+		<idno type="ISSNe">1469-588X</idno>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="490" to="513"/>
+			<date type="published" when="2009-12">2009</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of Disasters on Local Climate Actions: Climate Change Mitigation and Adaptation Actions</title>
+		<author>
+			<persName><forename type="first">Null-U</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.12794/metadc1062866</idno>
+	</analytic>
+	<monogr>
+		<title level="j">DCCEE</title>
+		<imprint>
+			<date>null</date>
+			<publisher>University of North Texas Libraries</publisher>
+			<pubPlace>Canberra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Optimal approaches to structural reform in regional and rural local governance: The Australian experience</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Dollery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lin</forename><surname>Crase</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03003930600793029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Local Government Studies</title>
+		<title level="j" type="abbrev">Local Government Studies</title>
+		<idno type="ISSN">0300-3930</idno>
+		<idno type="ISSNe">1743-9388</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="447" to="464"/>
+			<date type="published" when="2006-08">2006</date>
+			<publisher>Informa UK Limited</publisher>
+			<pubPlace>Sydney England</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Australian local government economics</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Heating up: climate change law and the evolving responsibilities of local government</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>England</surname></persName>
+		</author>
+		<idno type="DOI">10.26740/ijalgov.v1i02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Local Gov Law J</title>
+		<idno type="ISSNe">3090-8965</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<biblScope unit="page" from="209" to="223"/>
+			<date type="published" when="2008">2008b</date>
+			<publisher>Universitas Negeri Surabaya</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perceptions of climate change risks in primary resource use industries: a survey of the Canadian mining sector</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beamier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marshall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reg Environ Chang</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="65" to="81"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Canary in a coal mine: perceptions of climate change risks and response options among Canadian mine operations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beamier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clim Chang</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="399" to="415"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Scaling finance and investment for climate adaptation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Paxton</surname></persName>
+		</author>
+		<idno type="DOI">10.1787/eeec8b52-en</idno>
+		<ptr target="http://www.csiro.au/en/Outcomes/Climate/Adapting/CAF-working-paper-4"/>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2011</date>
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Notes on Contributors</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hart</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s1321816600004864</idno>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/hartreport"/>
+	</analytic>
+	<monogr>
+		<title level="j">Queensland Review</title>
+		<title level="j" type="abbrev">Qld. rev.</title>
+		<idno type="ISSN">1321-8166</idno>
+		<idno type="ISSNe">2049-7792</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="139" to="140"/>
+			<date type="published" when="2008-08">2008. Aug 2011</date>
+			<publisher>Equinox Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">a) Climate adaptation in the Australian mining and exploration industries. CSIRO climate adaptation flagship working paper</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<ptr target="http://www.csiro.au/en/Organisation-Structure/Flagships/Climate-Adaptation-Flagship/CAF-working-paper-5"/>
+		<imprint>
+			<date type="published" when="2010-08">2010. Aug 2011</date>
+			<biblScope unit="page">9781921605819</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate risks to the Australian mining industry: a preliminary review of vulnerabilities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings sustainable mining 2010. The Australasian Institute of Mining and Metallurgy</title>
+		<meeting>sustainable mining 2010. The Australasian Institute of Mining and Metallurgy<address><addrLine>Melbourne</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010b</date>
+			<biblScope unit="page" from="341" to="350"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Adapting to climate change through local municipal planning: barriers and challenges</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Measham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Preston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gorddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Withycombe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig Adapt Strateg Glob Chang</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="889" to="909"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The vulnerability of Australian rural communities to climate variability and change: Part II—Integrating impacts with adaptive capacity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kokic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crimp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Voil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nidumolu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsci.2009.09.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science &amp; Policy</title>
+		<title level="j" type="abbrev">Environmental Science &amp; Policy</title>
+		<idno type="ISSN">1462-9011</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="27"/>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The vulnerability of Australian rural communities to climate variability and change: Part I—Conceptualising and measuring vulnerability</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kokic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crimp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Howden</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsci.2009.09.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science &amp; Policy</title>
+		<title level="j" type="abbrev">Environmental Science &amp; Policy</title>
+		<idno type="ISSN">1462-9011</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="17"/>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Adapting to climate change: the question of transforming rural local governance</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>O'toole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Climate change in regional Australia: social learning and adaptation</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Martin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Rogers</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Winter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ballarat</addrLine></address></meeting>
+		<imprint>
+			<publisher>VURRN Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="114" to="135"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Climate change and Canadian mining: opportunities for adaptation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>The David Suzuki Foundation</publisher>
+			<pubPlace>Vancouver</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">Tristan</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">David</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maude</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lea</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-010-9269-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mitigation and Adaptation Strategies for Global Change</title>
+		<title level="j" type="abbrev">Mitig Adapt Strateg Glob Change</title>
+		<idno type="ISSN">1381-2386</idno>
+		<idno type="ISSNe">1573-1596</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="368"/>
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Missed Opportunity to Promote Community Resilience? – The Queensland Floods Commission of Inquiry</title>
+		<author>
+			<persName><forename type="first">Jim</forename><surname>Mcgowan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8500.2012.00778.x</idno>
+		<ptr target="http://www.floodcommission.qld.gov.au"/>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Public Administration</title>
+		<title level="j" type="abbrev">Aust J Public Adm</title>
+		<idno type="ISSN">0313-6647</idno>
+		<idno type="ISSNe">1467-8500</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="355" to="363"/>
+			<date type="published" when="2011">2012. Aug 2011</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Brisbane</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Queensland</forename><surname>Government</surname></persName>
+		</author>
+		<ptr target="http://www.budget.qld.gov.au/budget-papers/index.shtmlAccessed"/>
+		<title level="m">State budget 2011-12 budget strategy and outlook -budget paper No</title>
+		<imprint>
+			<date type="published" when="2012-03-16">2012. 16 Mar 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Tourism Reform, Policy and Development in Queensland, 1989–2011</title>
+		<author>
+			<persName><forename type="first">Dianne</forename><surname>Dredge</surname></persName>
+		</author>
+		<idno type="DOI">10.1375/qr.18.2.152</idno>
+		<ptr target="www.floodcommission.qld.gov.au/__data/assets/file/0018/6174/Queensland-Resources-Council"/>
+	</analytic>
+	<monogr>
+		<title level="j">Queensland Review</title>
+		<title level="j" type="abbrev">Qld. rev.</title>
+		<idno type="ISSN">1321-8166</idno>
+		<idno type="ISSNe">2049-7792</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="152" to="174"/>
+			<date type="published" when="2011-03">2011. March 2011. 18 Aug 2011</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Economic Contribution of the Resources Sector by Regional Areas in Queensland</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Rolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Galina</forename><surname>Ivanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reuben</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Rynne</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0313-5926(11)50002-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Analysis and Policy</title>
+		<title level="j" type="abbrev">Economic Analysis and Policy</title>
+		<idno type="ISSN">0313-5926</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="36"/>
+			<date type="published" when="2011-03">2011</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">MILCOM 2011: networks ... attaining the value</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/mcom.2011.6035809</idno>
+		<ptr target="http://www.businessweek.com/magazine/content/11_08/b4216010390477"/>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Magazine</title>
+		<title level="j" type="abbrev">IEEE Commun. Mag.</title>
+		<idno type="ISSN">0163-6804</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="18" to="18"/>
+			<date type="published" when="2011-02-10">2011. Feb 10 2011. 18 Aug 2011</date>
+			<publisher>Institute of Electrical and Electronics Engineers (IEEE)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Adapting Agriculture to Climate Change</title>
+		<idno type="DOI">10.1071/9780643098084</idno>
+		<editor>Stokes C, Howden SM</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>CSIRO Publishing</publisher>
+			<pubPlace>Canberra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1786 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An integrated framework for satellite-based flood mapping and socioeconomic risk analysis: A case of Thailand</title>
+		<author>
+			<persName><forename type="first">Nutchapon</forename><surname>Prasertsoong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nattapong</forename><surname>Puttanapong</surname></persName>
+			<idno type="ORCID">0000-0002-5643-7979</idno>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100393</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100393"/>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Disaster Science</title>
+		<title level="j" type="abbrev">Progress in Disaster Science</title>
+		<idno type="ISSN">2590-0617</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">100393</biblScope>
+			<date type="published" when="2025-01">2025</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Morphological changes of river Bank Erosion and channel shifting assessment on Arial Khan River of Bangladesh using Landsat satellite time series images</title>
+		<author>
+			<persName><forename type="first">Irteja</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyjit</forename><surname>Dey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Mustafizur Rahman</forename><surname>Munna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Afiadeal</forename><surname>Preya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tahrin</forename><forename type="middle">Bhuiyan</forename><surname>Nisanur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munira</forename><forename type="middle">Jaman</forename><surname>Memy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mst.</forename><forename type="middle">Zihan Shazia</forename><surname>Zeba</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100381</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100381"/>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Disaster Science</title>
+		<title level="j" type="abbrev">Progress in Disaster Science</title>
+		<idno type="ISSN">2590-0617</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">100381</biblScope>
+			<date type="published" when="2024-12">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Quantification of landuse changes driven by the dynamics of the Jamuna River, a giant tropical river of Bangladesh</title>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Mahin</forename><surname>Uddin</surname></persName>
+			<idno type="ORCID">0000-0001-9309-1711</idno>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Bodruddoza Mia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Yousuf</forename><surname>Gazi</surname></persName>
+			<idno type="ORCID">0000-0002-2646-6859</idno>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S M</forename><surname>Maksud Kamal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejrs.2024.04.004</idno>
+		<ptr target="https://doi.org/10.1016/j.ejrs.2024.04.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">The Egyptian Journal of Remote Sensing and Space Sciences</title>
+		<title level="j" type="abbrev">The Egyptian Journal of Remote Sensing and Space Sciences</title>
+		<idno type="ISSN">1110-9823</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="392" to="402"/>
+			<date type="published" when="2024-06">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impact of human intervention structures on the rivers: An investigation of the spatiotemporal variation of grain size in the Tista River, eastern Himalayas</title>
+		<author>
+			<persName><forename type="first">Kausik</forename><surname>Ghosh</surname></persName>
+			<idno type="ORCID">0000-0003-2711-8482</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tapan</forename><surname>Chakraborty</surname></persName>
+			<idno type="ORCID">0000-0003-0519-5014</idno>
+		</author>
+		<idno type="DOI">10.1002/esp.5374</idno>
+		<ptr target="https://doi.org/10.1002/esp.5374"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surface Processes and Landforms</title>
+		<title level="j" type="abbrev">Earth Surf Processes Landf</title>
+		<idno type="ISSN">0197-9337</idno>
+		<idno type="ISSNe">1096-9837</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2245" to="2265"/>
+			<date type="published" when="2022-04-29">2022</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A method for the assessment and analysis of the hydromorphological condition of Italian streams: The Morphological Quality Index (MQI)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Surian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Comiti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bussettini</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2012.09.009</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2012.09.009"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">180-181</biblScope>
+			<biblScope unit="page" from="96" to="108"/>
+			<date type="published" when="2013-01">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Channel response to large‐scale river training works: hunter river, Australia</title>
+		<author>
+			<persName><forename type="first">Wayne</forename><forename type="middle">D</forename><surname>Erskine</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/rrr.3450070305</idno>
+		<ptr target="https://doi.org/10.1002/rrr.3450070305"/>
+	</analytic>
+	<monogr>
+		<title level="j">Regulated Rivers: Research &amp; Management</title>
+		<title level="j" type="abbrev">Regul. Rivers: Res. Mgmt.</title>
+		<idno type="ISSN">0886-9375</idno>
+		<idno type="ISSNe">1099-1646</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="261" to="278"/>
+			<date type="published" when="1992-09">1992</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Riverbank erosion induced vulnerability in India: a review for future research framework</title>
+		<author>
+			<persName><forename type="first">Nirsobha</forename><surname>Bhuyan</surname></persName>
+			<idno type="ORCID">0000-0002-0882-8553</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Haroon</forename><surname>Sajjad</surname></persName>
+			<idno type="ORCID">0000-0002-2007-1266</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Hibjur</forename><surname>Rahaman</surname></persName>
+			<idno type="ORCID">0000-0002-8999-7497</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Raihan</forename><surname>Ahmed</surname></persName>
+			<idno type="ORCID">0000-0003-0311-5519</idno>
+		</author>
+		<idno type="DOI">10.1007/s11069-024-06789-6</idno>
+		<ptr target="https://doi.org/10.1007/s11069-024-06789-6"/>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Hazards</title>
+		<title level="j" type="abbrev">Nat Hazards</title>
+		<idno type="ISSN">0921-030X</idno>
+		<idno type="ISSNe">1573-0840</idno>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="30"/>
+			<date type="published" when="2025">2025</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The coastal dynamics of the Central Ganges–Brahmaputra–Meghna Delta Coast, Bangladesh: implications for coastal development and sustainability</title>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Masidul</forename><surname>Haque</surname></persName>
+			<idno type="ORCID">0000-0003-3125-3302</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Mozammal</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manoj</forename><forename type="middle">Kumer</forename><surname>Ghosh</surname></persName>
+			<idno type="ORCID">0000-0002-5279-272X</idno>
+		</author>
+		<idno type="DOI">10.1007/s11852-024-01032-7</idno>
+		<ptr target="https://doi.org/10.1007/s11852-024-01032-7"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Conservation</title>
+		<title level="j" type="abbrev">J Coast Conserv</title>
+		<idno type="ISSN">1400-0350</idno>
+		<idno type="ISSNe">1874-7841</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2024-01-18">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of climate change on the river ecosystem</title>
+		<author>
+			<persName><forename type="first">Swayam</forename><surname>Siddha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulami</forename><surname>Sahu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/b978-0-323-85045-2.00014-5</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-323-85045-2.00014-5"/>
+	</analytic>
+	<monogr>
+		<title level="m">Ecological Significance of River Ecosystems</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="79" to="104"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stormy geomorphology: geomorphic contributions in an age of climate extremes</title>
+		<author>
+			<persName><forename type="first">Larissa</forename><forename type="middle">A</forename><surname>Naylor</surname></persName>
+			<idno type="ORCID">0000-0002-4065-2674</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><forename type="middle">N</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">E</forename><surname>Darby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><forename type="middle">J</forename><surname>Magilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">G</forename><surname>Macklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iris</forename><surname>Möller</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.4062</idno>
+		<ptr target="https://doi.org/10.1002/esp.4062"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surface Processes and Landforms</title>
+		<title level="j" type="abbrev">Earth Surf Processes Landf</title>
+		<idno type="ISSN">0197-9337</idno>
+		<idno type="ISSNe">1096-9837</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="166" to="190"/>
+			<date type="published" when="2017">2017</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Socioeconomic consequences of climate induced human displacement and migration in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Rezaul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shamsuddoha</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0268580917693173</idno>
+		<ptr target="https://doi.org/10.1177/0268580917693173"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Sociology</title>
+		<title level="j" type="abbrev">International Sociology</title>
+		<idno type="ISSN">0268-5809</idno>
+		<idno type="ISSNe">1461-7242</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="277" to="298"/>
+			<date type="published" when="2017-02-01">2017</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impact of climate change on riverbank erosion</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aktar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sci</title>
+		<idno type="ISSN">2307-4531</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="42"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Quantifying different riverbank erosion processes during an extreme flood event</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Croke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.3386</idno>
+		<ptr target="https://doi.org/10.1002/esp.3386"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surf Process Landf</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1393" to="1406"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Determination of potential hazard level for flood-induced damage during different life cycle stages of T. Aman rice along the floodplain of the Jamuna River</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fariha</forename><surname>Tabassum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nusrat</forename><forename type="middle">Tahmina</forename><surname>Moumita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Anisuzzaman</forename><surname>Rafy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100353</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100353"/>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Disaster Science</title>
+		<title level="j" type="abbrev">Progress in Disaster Science</title>
+		<idno type="ISSN">2590-0617</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">100353</biblScope>
+			<date type="published" when="2024-10">2024</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Transboundary River Management of the Ganges–Brahmaputra–Meghna (GBM) Delta: Environmental Challenges and Strategies</title>
+		<author>
+			<persName><forename type="first">Haniyum</forename><forename type="middle">Maria</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">Moshiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-95542-7_23</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-95542-7_23"/>
+	</analytic>
+	<monogr>
+		<title level="m">Water Science and Technology Library</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2022"/>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="page" from="495" to="530"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Effects of riverbank erosion on mental health of the affected people in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Altaf</forename><surname>Hossain</surname></persName>
+			<idno type="ORCID">0000-0002-3774-1588</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Jahangir</forename><surname>Alam</surname></persName>
+			<idno type="ORCID">0000-0002-5372-8789</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Rezaul</forename><surname>Haque</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0254782</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0254782"/>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">e0254782</biblScope>
+			<date type="published" when="2021-07-22">2021</date>
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Impacts of Floods and Riverbank Erosions on the Rural Lives and Livelihoods Strategies in Bangladesh: Evidence from Kurigram</title>
+		<author>
+			<persName><forename type="first">Saleh</forename><surname>Shahriar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-22759-3_150-1</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-22759-3_150-1"/>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Climate Change Management</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2021"/>
+			<biblScope unit="page" from="1" to="26"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Riverbank Erosion, Population Migration and Rural Vulnerability in Bangladesh (A Case Study on Kazipur Upazila at Sirajgonj District)</title>
+		<author>
+			<persName><forename type="first">Tanjinul</forename><forename type="middle">Hoque</forename><surname>Mollah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jannatul</forename><surname>Ferdaush</surname></persName>
+		</author>
+		<idno type="DOI">10.13189/eer.2015.030502</idno>
+		<ptr target="https://doi.org/10.13189/eer.2015.030502"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Ecology Research</title>
+		<title level="j" type="abbrev">eer</title>
+		<idno type="ISSN">2331-625X</idno>
+		<idno type="ISSNe">2331-6268</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="125" to="131"/>
+			<date type="published" when="2015-09">2015</date>
+			<publisher>Horizon Research Publishing Co., Ltd.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Navigating the Ravages of Riverbank Erosion: Socio-economic and Environmental Impacts in the Nalua Union of Bakerganj Upazila</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Emon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahim</surname></persName>
+		</author>
+		<idno type="DOI">10.34104/ajssls.024.015400161</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Social Sciences and Legal Studies</title>
+		<title level="j" type="abbrev">AJSSLS</title>
+		<idno type="ISSN">2707-465X</idno>
+		<idno type="ISSNe">2707-4668</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="154" to="161"/>
+			<date type="published" when="2017">2017</date>
+			<publisher>Universe Publishing Group - UniversePG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Impact of Riverbank Erosion Hazard in the Jamuna Floodplain Areas in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.3329/jsf.v8i1-2.14627</idno>
+		<ptr target="https://doi.org/10.3329/jsf.v8i1-2.14627"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Science Foundation</title>
+		<title level="j" type="abbrev">J Sci Found</title>
+		<idno type="ISSN">1728-7855</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="55" to="65"/>
+			<date type="published" when="2010">2010</date>
+			<publisher>Bangladesh Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Ganges–Brahmaputra Delta</title>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">A</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mead</forename><forename type="middle">A</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">L</forename><surname>Goodbred</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hermann</forename><surname>Kudrass</surname></persName>
+		</author>
+		<idno type="DOI">10.2110/pec.05.83.0413</idno>
+		<ptr target="https://doi.org/10.2110/pec.05.83.0413"/>
+	</analytic>
+	<monogr>
+		<title level="m">River Deltas-Concepts, Models, and Examples</title>
+		<imprint>
+			<publisher>SEPM (Society for Sedimentary Geology)</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="413" to="434"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The significance of large sediment supply, active tectonism, and eustasy on margin sequence development: Late Quaternary stratigraphy and evolution of the Ganges-Brahmaputra delta</title>
+		<author>
+			<persName><forename type="first">Goodbred</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/S0037-0738(00)00041-5</idno>
+		<ptr target="https://doi.org/10.1016/S0037-0738(00)00041-5"/>
+	</analytic>
+	<monogr>
+		<title level="j">Sediment Geol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="227" to="248"/>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ganges-Brahmaputra-Meghna River Delta</title>
+		<author>
+			<persName><forename type="first">Sheikh</forename><forename type="middle">Aftab</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lijun</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Jaker</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nabila</forename><surname>Nusrat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milki</forename><surname>Debi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-97-7259-9_6</idno>
+		<ptr target="https://doi.org/10.1007/978-981-97-7259-9_6"/>
+	</analytic>
+	<monogr>
+		<title level="m">Delta Sustainability</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature Singapore</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="89" to="116"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Geomorphic change in the Ganges–Brahmaputra–Meghna delta</title>
+		<author>
+			<persName><forename type="first">Amelie</forename><surname>Paszkowski</surname></persName>
+			<idno type="ORCID">0000-0002-3199-0858</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>Goodbred</surname></persName>
+			<idno type="ORCID">0000-0001-7626-9864</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Edoardo</forename><surname>Borgomeo</surname></persName>
+			<idno type="ORCID">0000-0002-8351-9064</idno>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Shah Alam</forename><surname>Khan</surname></persName>
+			<idno type="ORCID">0000-0003-1609-2539</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Jim</forename><forename type="middle">W</forename><surname>Hall</surname></persName>
+			<idno type="ORCID">0000-0002-2024-9191</idno>
+		</author>
+		<idno type="DOI">10.1038/s43017-021-00213-4</idno>
+		<ptr target="https://doi.org/10.1038/s43017-021-00213-4"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Earth &amp; Environment</title>
+		<title level="j" type="abbrev">Nat Rev Earth Environ</title>
+		<idno type="ISSNe">2662-138X</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="763" to="780"/>
+			<date type="published" when="2021-10-05">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Assessment of socioeconomic impacts of river Bank Erosion: enhancing resilience in the Coastal Belt of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Akter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Salman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/107049652412467</idno>
+		<ptr target="https://doi.org/10.1177/107049652412467"/>
+	</analytic>
+	<monogr>
+		<title level="j">J Environ Dev</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="583" to="612"/>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Economic Vulnerabilities Induced by Riverbank Erosion</title>
+		<author>
+			<persName><forename type="first">Aznarul</forename><surname>Islam</surname></persName>
+			<idno type="ORCID">0000-0003-2380-3909</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Sanat</forename><forename type="middle">Kumar</forename><surname>Guchhait</surname></persName>
+			<idno type="ORCID">0000-0003-3917-7818</idno>
+		</author>
+		<idno type="DOI">10.1007/978-3-031-47010-3_6</idno>
+		<ptr target="https://doi.org/10.1007/978-3-031-47010-3_6"/>
+	</analytic>
+	<monogr>
+		<title level="m">Springer Geography</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="201" to="247"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Drivers of vulnerability and its socioeconomic consequences: an example of river Erosion affected people in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Rezaul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-77259-8_15</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-77259-8_15"/>
+	</analytic>
+	<monogr>
+		<title level="m">Climate vulnerability and resilience in the global south: human adaptations for sustainable futures; 2021</title>
+		<imprint>
+			<biblScope unit="page" from="297" to="326"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Socioeconomic impacts of river bank erosion: a case study on coastal island of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Siddik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akmm</forename><surname>Zaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hridoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Akhtar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J NOAMI</title>
+		<idno type="ISSN">1027-2119</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="73" to="84"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The environmental impacts of river sand mining</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Rentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Cammeraat</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2022.155877</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2022.155877"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<title level="j" type="abbrev">Science of The Total Environment</title>
+		<idno type="ISSN">0048-9697</idno>
+		<imprint>
+			<biblScope unit="volume">838</biblScope>
+			<biblScope unit="page">155877</biblScope>
+			<date type="published" when="2022-09">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Coastal erosion, river bank erosion and landslides in the Mekong Delta: Causes, effects and solutions</title>
+		<author>
+			<persName><forename type="first">Nguyen</forename><surname>Van Tho</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-15-2184-3_125</idno>
+		<ptr target="https://doi.org/10.1007/978-981-15-2184-3_125"/>
+	</analytic>
+	<monogr>
+		<title level="m">Lecture Notes in Civil Engineering</title>
+		<meeting><address><addrLine>Singapore; Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Singapore</publisher>
+			<date type="published" when="2019-11-29">2019</date>
+			<biblScope unit="page" from="957" to="962"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Sediment mining in alluvial channels: physical effects and management perspectives</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wyżga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Surian</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/rra.884</idno>
+		<ptr target="https://doi.org/10.1002/rra.884"/>
+	</analytic>
+	<monogr>
+		<title level="j">River Research and Applications</title>
+		<title level="j" type="abbrev">River Research &amp; Apps</title>
+		<idno type="ISSN">1535-1459</idno>
+		<idno type="ISSNe">1535-1467</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="805" to="828"/>
+			<date type="published" when="2005-09">2005</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of degraded ecosystem on fish biodiversity in the old Brahmaputra River, Bangladesh and its conservation measures</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Afrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno>ISSN: 2319-2399</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Food Technol</title>
+		<idno type="ISSN">2319-2402</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="37" to="43"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>IOSR J Environ Sci</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Causes and consequences of habitat fragmentation in river networks</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">R</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">W</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">L</forename><surname>Strayer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/nyas.12853</idno>
+		<ptr target="https://doi.org/10.1111/nyas.12853"/>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the New York Academy of Sciences</title>
+		<title level="j" type="abbrev">Annals of the New York Academy of Sciences</title>
+		<idno type="ISSN">0077-8923</idno>
+		<idno type="ISSNe">1749-6632</idno>
+		<imprint>
+			<biblScope unit="volume">1355</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="51"/>
+			<date type="published" when="2015-08-12">2015</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Loss of Biodiversity in Aquatic Ecosystems: Evidence from Fish Faunas</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">B</forename><surname>Moyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Leidy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4684-6426-9_6</idno>
+		<ptr target="https://doi.org/10.1007/978-1-4684-6426-9_6"/>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation Biology</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer US</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="127" to="169"/>
+		</imprint>
+	</monogr>
+	<note>Loss of biodiversity in aquatic ecosystems: evidence from fish faunas</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Noise Pollution Assessment in Sylhet City Corporation Using Geographic Information System (GIS)</title>
+		<author>
+			<persName><forename type="first">Ashikur</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jahir</forename><surname>Bin Alam</surname></persName>
+		</author>
+		<idno type="DOI">10.32598/jaehr.10.2.1235</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Advances in Environmental Health Research</title>
+		<title level="j" type="abbrev">JAEHR</title>
+		<idno type="ISSN">2676-3478</idno>
+		<idno type="ISSNe">2345-3990</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="132"/>
+			<date type="published" when="2021">2021</date>
+			<publisher>Maad Rayan Publishing Company</publisher>
+			<pubPlace>SUST</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Integrated flood risk assessment of the Arial Khan River under changing climate using IPCC AR5 risk framework</title>
+		<author>
+			<persName><forename type="first">Binata</forename><surname>Roy</surname></persName>
+			<idno type="ORCID">0000-0002-2726-3340</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Sabbir Mostafa</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M</forename><surname>Saiful Islam</surname></persName>
+			<idno type="ORCID">0000-0002-2435-8280</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Jamal Uddin</forename><surname>Khan</surname></persName>
+			<idno type="ORCID">0000-0002-3494-4179</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Khaled</forename><surname>Mohammed</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/wcc.2021.341</idno>
+		<ptr target="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/5917"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Water and Climate Change</title>
+		<idno type="ISSN">2040-2244</idno>
+		<idno type="ISSNe">2408-9354</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3421" to="3447"/>
+			<date type="published" when="2019">2019. 2019</date>
+			<publisher>IWA Publishing</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Water Resources Engineering</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Experimental Investigation of Undercut Mechanisms of River Bank Erosion Based on 3D Turbulence Characteristics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Barman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Debnath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Mazumder</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40710-019-00417-3</idno>
+		<ptr target="https://doi.org/10.1007/s40710-019-00417-3"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Processes</title>
+		<title level="j" type="abbrev">Environ. Process.</title>
+		<idno type="ISSN">2198-7491</idno>
+		<idno type="ISSNe">2198-7505</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="341" to="366"/>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">River response to mining-induced subsidence</title>
+		<author>
+			<persName><forename type="first">Dariusz</forename><surname>Ciszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mateusz</forename><surname>Sobucki</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.catena.2022.106303</idno>
+		<ptr target="https://doi.org/10.1016/j.catena.2022.106303"/>
+	</analytic>
+	<monogr>
+		<title level="j">CATENA</title>
+		<title level="j" type="abbrev">CATENA</title>
+		<idno type="ISSN">0341-8162</idno>
+		<imprint>
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="page">106303</biblScope>
+			<date type="published" when="2022-07">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">From discourses to systems—policymaking for adaptive management in the Brahmaputra River basin</title>
+		<author>
+			<persName><forename type="first">Navarun</forename><surname>Varma</surname></persName>
+			<idno type="ORCID">0009-0003-2296-1160</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Tan</surname></persName>
+			<idno type="ORCID">0000-0003-2376-3919</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Wasson</surname></persName>
+			<idno type="ORCID">0000-0003-4318-1182</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Cecilia</forename><surname>Tortajada</surname></persName>
+			<idno type="ORCID">0000-0001-6308-4924</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Raghupratim</forename><surname>Rakshit</surname></persName>
+			<idno type="ORCID">0000-0002-2922-7255</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Abhinandan</forename><surname>Saikia</surname></persName>
+			<idno type="ORCID">0000-0001-8648-0567</idno>
+		</author>
+		<idno type="DOI">10.1088/1748-9326/add02b</idno>
+		<ptr target="https://doi.org/10.1088/1748-9326/add02b"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Research Letters</title>
+		<title level="j" type="abbrev">Environ. Res. Lett.</title>
+		<idno type="ISSNe">1748-9326</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">064023</biblScope>
+			<date type="published" when="2025-05-16">2025</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Gravel extraction and planform change in a wandering gravel-bed river: The River Wear, Northern England</title>
+		<author>
+			<persName><forename type="first">Duncan</forename><surname>Wishart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeff</forename><surname>Warburton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Bracken</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2007.05.003</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2007.05.003"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="131" to="152"/>
+			<date type="published" when="2008-02">2008</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Northern England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Hydrogeomorphic Effects of River Training Works: the Case of the Allyn River, NSW</title>
+		<author>
+			<persName><forename type="first">Wayne</forename><forename type="middle">D</forename><surname>Erskine</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8470.1990.tb00622.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8470.1990.tb00622.x"/>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Geographical Studies</title>
+		<title level="j" type="abbrev">Australian Geographical Studies</title>
+		<idno type="ISSN">0004-9190</idno>
+		<idno type="ISSNe">1467-8470</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="62" to="76"/>
+			<date type="published" when="1990-04">1990</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Decoding spatio-temporal dynamics of river morphology: a comprehensive analysis of bank-line migration in lower Gangetic basin using DSAS</title>
+		<author>
+			<persName><forename type="first">Rakhi</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40808-023-01927-8</idno>
+		<ptr target="https://doi.org/10.1007/s40808-023-01927-8"/>
+	</analytic>
+	<monogr>
+		<title level="j">Modeling Earth Systems and Environment</title>
+		<title level="j" type="abbrev">Model. Earth Syst. Environ.</title>
+		<idno type="ISSN">2363-6203</idno>
+		<idno type="ISSNe">2363-6211</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2869" to="2885"/>
+			<date type="published" when="2024-01-29">2024</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Developing a Drone-Based Machine Learning for Spatial Modeling and Analysis of Biomass and Carbon Sequestration in Forest Ecosystems</title>
+		<author>
+			<persName><forename type="first">Thinnakon</forename><surname>Angkahad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Teerawong</forename><surname>Laosuwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Satith</forename><surname>Sangpradid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Narueset</forename><surname>Prasertsri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yannawut</forename><surname>Uttaruk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Titipong</forename><surname>Titipong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joe</forename><surname>Nuchthapho</surname></persName>
+		</author>
+		<idno type="DOI">10.30919/es1508</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Engineered Science</title>
+		<title level="j" type="abbrev">Eng. Sci.</title>
+		<idno type="ISSN">2576-988X</idno>
+		<idno type="ISSNe">2576-9898</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10"/>
+			<date type="published" when="2022">2022</date>
+			<publisher>Engineered Science Publisher</publisher>
+			<pubPlace>Maha Sarakham, North-Eastern Thailand</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Online</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Navigating the Ravages of Riverbank Erosion: Socio-economic and Environmental Impacts in the Nalua Union of Bakerganj Upazila</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shefa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Ovi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smh</forename><surname>Akash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parvez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rukshana</surname></persName>
+		</author>
+		<idno type="DOI">10.34104/ajssls.024.015400161</idno>
+		<ptr target="https://doi.org/10.34104/ajssls.024.015400161"/>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Social Sciences and Legal Studies</title>
+		<title level="j" type="abbrev">AJSSLS</title>
+		<idno type="ISSN">2707-465X</idno>
+		<idno type="ISSNe">2707-4668</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="154" to="161"/>
+			<date type="published" when="2024-08-18">2024</date>
+			<publisher>Universe Publishing Group - UniversePG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Impact of floods and river-bank erosion on the riverine people in Manikchak Block of Malda District, West Bengal</title>
+		<author>
+			<persName><forename type="first">Rakhi</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gopa</forename><surname>Samanta</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-022-02648-1</idno>
+		<ptr target="https://doi.org/10.1007/s10668-022-02648-1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="13595" to="13617"/>
+			<date type="published" when="2023">2023</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Application of GIS and remote sensing in morphometric analysis of river basin at the south-western part of great Ganges delta, Bangladesh</title>
+		<author>
+			<persName><forename type="first">Md.</forename><forename type="middle">Ashikur Rahman</forename><surname>Joy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharfan</forename><surname>Upaul</surname></persName>
+			<idno type="ORCID">0000-0002-0108-0124</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Kaniz</forename><surname>Fatema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M Rezvi</forename><surname>Amin</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/nh.2023.087</idno>
+		<ptr target="https://doi.org/10.2166/nh.2023.087"/>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology Research</title>
+		<idno type="ISSN">0029-1277</idno>
+		<idno type="ISSNe">2224-7955</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="739" to="755"/>
+			<date type="published" when="2023-05-19">2023</date>
+			<publisher>IWA Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Assessment of riverbank erosion and erosion probability using geospatial approach: a case study of the Subansiri River, Assam, India</title>
+		<author>
+			<persName><forename type="first">Kusumbor</forename><surname>Bordoloi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bhaskar</forename><forename type="middle">Ramachandra</forename><surname>Nikam</surname></persName>
+			<idno type="ORCID">0000-0001-7617-5761</idno>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Srivastav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dhrubajyoti</forename><surname>Sahariah</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12518-019-00296-1</idno>
+		<ptr target="https://doi.org/10.1007/s12518-019-00296-1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Geomatics</title>
+		<title level="j" type="abbrev">Appl Geomat</title>
+		<idno type="ISSN">1866-9298</idno>
+		<idno type="ISSNe">1866-928X</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="280"/>
+			<date type="published" when="2020-01-13">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+			<pubPlace>Assam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Application of remote sensing and GIS for evaluation of the recent morphological characteristics of the lower Brahmaputra-Jamuna River, Bangladesh</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">A H</forename><surname>Bhuiyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Takashi</forename><surname>Kumamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shigeyuki</forename><surname>Suzuki</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12145-014-0180-4</idno>
+		<ptr target="https://doi.org/10.1007/s12145-014-0180-4"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Science Informatics</title>
+		<title level="j" type="abbrev">Earth Sci Inform</title>
+		<idno type="ISSN">1865-0473</idno>
+		<idno type="ISSNe">1865-0481</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="551" to="568"/>
+			<date type="published" when="2015">2015</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Complexity, self-organisation and variation in behaviour in meandering rivers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hooke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2007.04.021</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2007.04.021"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="236" to="258"/>
+			<date type="published" when="2007-11">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Bangladesh</title>
+		<idno type="DOI">10.1057/978-1-349-95972-3_24</idno>
+		<ptr target="https://doi.org/10.1057/978-1-349-95972-3_24"/>
+	</analytic>
+	<monogr>
+		<title level="m">The Statesman’s Yearbook 2021</title>
+		<meeting><address><addrLine>Bangladesh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan UK</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="166" to="170"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Changing of Asian Outlooks and New Travel Demands are the Emerging Factors for Expanding Tourism Markets Globally</title>
+		<author>
+			<persName><forename type="first">Dilip</forename><forename type="middle">Kumar</forename><surname>Bhadra</surname></persName>
+		</author>
+		<idno type="DOI">10.5176/2251-3426_thor16.20</idno>
+	</analytic>
+	<monogr>
+		<title level="m">4th Annual International Conference on Tourism and Hospitality Research (THoR 2016)</title>
+		<meeting><address><addrLine>Dhaka, Bangladesh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Global Science &amp; Technology Forum (GSTF)</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="3" to="664"/>
+		</imprint>
+	</monogr>
+	<note>Yearbook of agricultural statistics-2021. 33rd series, Bangladesh bureau of statistics (BBS)</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Groundwater quality assessment of Barisal city corporation in Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mim</forename><surname>Fuad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Barisal Univ J Part</title>
+		<idno type="ISSN">2411-247X</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="350"/>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Urban geology of Barishal District: Environmental and geological constraints</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fahad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nayem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hossain</surname></persName>
+		</author>
+		<idno type="DOI">10.9790/0847-212</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Eng Res</title>
+		<idno type="ISSN">2320-0936</idno>
+		<idno type="ISSNe">2320-0847</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="152" to="156"/>
+			<date type="published" when="2025">2025</date>
+			<publisher>IOSR Journals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Assessment of soil salinity and heavy metal contamination in agricultural zones from Barishal towards Barguna</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Khondoker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Hosain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akm</forename><surname>Obaidullah</surname></persName>
+		</author>
+		<idno type="DOI">10.70771/jocw.120</idno>
+		<ptr target="https://doi.org/10.70771/jocw"/>
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. J Creative Writ</title>
+		<idno type="ISSN">-2410-6259</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="110" to="132"/>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Pakistan Journal of Botany</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Haque</surname></persName>
+		</author>
+		<idno type="DOI">10.30848/pak.j.bot</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pak J Bot</title>
+		<idno type="ISSN">0556-3321</idno>
+		<idno type="ISSNe">2070-3368</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1359" to="1365"/>
+			<date type="published" when="2006">2006</date>
+			<publisher>Pakistan Journal of Botany</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">AN INTRODUCTION TO THE HYDRAULIC AND TOPOGRAPHIC SINUOSITY INDEXES&lt;sup&gt;1&lt;/sup&gt;</title>
+		<author>
+			<persName><forename type="first">Jerry</forename><forename type="middle">E</forename><surname>Mueller</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8306.1968.tb00650.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8306.1968.tb00650.x"/>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Association of American Geographers</title>
+		<title level="j" type="abbrev">Annals of the Association of American Geographers</title>
+		<idno type="ISSN">0004-5608</idno>
+		<idno type="ISSNe">1467-8306</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="371" to="385"/>
+			<date type="published" when="1968-06">1968</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">River meanders and channel size</title>
+		<author>
+			<persName><forename type="first">Garnett</forename><forename type="middle">P</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0022-1694(86)90202-7</idno>
+		<ptr target="https://doi.org/10.1016/0022-1694(86)90202-7"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<title level="j" type="abbrev">Journal of Hydrology</title>
+		<idno type="ISSN">0022-1694</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="147" to="164"/>
+			<date type="published" when="1986-11">1986</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The measurement of river bank erosion and lateral channel change: A review</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lawler</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.3290180905</idno>
+		<ptr target="https://doi.org/10.1002/esp.3290180905"/>
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surface Processes and Landforms</title>
+		<title level="j" type="abbrev">Earth Surf Processes Landf</title>
+		<idno type="ISSN">0197-9337</idno>
+		<idno type="ISSNe">1096-9837</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="777" to="821"/>
+			<date type="published" when="1993-12">1993</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Geomorphic analysis of large alluvial rivers</title>
+		<author>
+			<persName><forename type="first">Colin</forename><forename type="middle">R</forename><surname>Thorne</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0169-555x(01)00175-1</idno>
+		<ptr target="https://doi.org/10.1016/S0169-555X(01)00175-1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="203" to="219"/>
+			<date type="published" when="2002-05">2002</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Variation in surface bed material along a mountain river modified by gravel extraction and channelization, the Czarny Dunajec, Polish Carpathians</title>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Zawiejska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bartłomiej</forename><surname>Wyżga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Artur</forename><surname>Radecki-Pawlik</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2014.12.026</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2014.12.026"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">231</biblScope>
+			<biblScope unit="page" from="353" to="366"/>
+			<date type="published" when="2015-02">2015</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Human intervention on river system: a control system—a case study in Ichamati River, India</title>
+		<author>
+			<persName><forename type="first">Madhab</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lakshminarayan</forename><surname>Satpati</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-019-00423-3</idno>
+		<ptr target="https://doi.org/10.1007/s10668-019-00423-3"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environment, Development and Sustainability</title>
+		<title level="j" type="abbrev">Environ Dev Sustain</title>
+		<idno type="ISSN">1387-585X</idno>
+		<idno type="ISSNe">1573-2975</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="5245" to="5271"/>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Downstream hydraulic geometry and channel adjustment during a flood along an ephemeral, arid-region drainage</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Merritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ellen</forename><forename type="middle">E</forename><surname>Wohl</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0169-555x(02)00241-6</idno>
+		<ptr target="https://doi.org/10.1016/S0169-555X(02)00241-6"/>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<title level="j" type="abbrev">Geomorphology</title>
+		<idno type="ISSN">0169-555X</idno>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="165" to="180"/>
+			<date type="published" when="2003-06">2003</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

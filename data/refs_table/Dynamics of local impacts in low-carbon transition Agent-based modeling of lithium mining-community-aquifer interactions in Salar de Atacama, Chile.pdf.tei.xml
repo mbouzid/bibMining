@@ -1,0 +1,1779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Building resilience: A self-sustainable community approach to the triple bottom line</title>
+		<author>
+			<persName><forename type="first">Eduardo</forename><surname>Aguiñaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Irene</forename><surname>Henriques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Scheel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Scheel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2017.01.094</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2017.01.094"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<title level="j" type="abbrev">Journal of Cleaner Production</title>
+		<idno type="ISSN">0959-6526</idno>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="186" to="196"/>
+			<date type="published" when="2018-02">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Socio-environmental impacts of lithium mineral extraction: towards a research agenda</title>
+		<author>
+			<persName><forename type="first">Datu</forename><forename type="middle">Buyung</forename><surname>Agusdinata</surname></persName>
+			<idno type="ORCID">0000-0003-4537-0446</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Wenjuan</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hallie</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hugo</forename><surname>Romero</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1748-9326/aae9b1</idno>
+		<ptr target="https://doi.org/10.1088/1748-9326/aae9b1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Research Letters</title>
+		<title level="j" type="abbrev">Environ. Res. Lett.</title>
+		<idno type="ISSNe">1748-9326</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">123001</biblScope>
+			<date type="published" when="2018-11-27">2018. 123001</date>
+			<publisher>IOP Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Contested value and an ethics of resources: Water, mining and indigenous people in the Atacama Desert</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/taja.12139</idno>
+		<ptr target="https://doi.org/10.1111/taja.12139"/>
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Aust. J. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="84" to="103"/>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sustaining ignorance: the uncertainties of groundwater and its extraction in the Salar de Atacama, northern Chile</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9655.12965</idno>
+		<ptr target="https://doi.org/10.1111/1467-9655.12965"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. R. Anthropol. Inst</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="102"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Consultation's overburden: Indigenous participation in the extractive industry in the Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Transform</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="48" to="63"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Neoextractivism and Indigenous Water Ritual in Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bolados</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0094582X18782673</idno>
+		<ptr target="https://doi.org/10.1177/0094582X18782673"/>
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Lat. Am. Perspect</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="170" to="185"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">That's the problem with that lake; it changes sides': mapping extraction and ecological exhaustion in the Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kalazich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yager</surname></persName>
+		</author>
+		<idno type="DOI">10.2458/v26i1.23169</idno>
+		<ptr target="https://doi.org/10.2458/v26i1.23169"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Polit. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3169</biblScope>
+			<biblScope unit="page" from="738" to="760"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The vulnerability of electric vehicle deployment to critical mineral supply</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Ballinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Stringer</surname></persName>
+			<idno type="ORCID">0000-0003-0021-7915</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Diego</forename><forename type="middle">R</forename><surname>Schmeda-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Kefford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brett</forename><surname>Parkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Smart</surname></persName>
+			<idno type="ORCID">0000-0001-5682-0233</idno>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2019.113844</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy"/>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Energy</title>
+		<title level="j" type="abbrev">Applied Energy</title>
+		<idno type="ISSN">0306-2619</idno>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page">113844</biblScope>
+			<date type="published" when="2019-12">2019. 2019.113844</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Extreme temperature and precipitation events in March 2015 in central and northern Chile</title>
+		<author>
+			<persName><forename type="first">Bradford</forename><forename type="middle">S</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diego</forename><forename type="middle">A</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">José</forename><forename type="middle">Vicencio</forename><surname>Veloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Rondanelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/2016jd024835</idno>
+		<ptr target="https://doi.org/10.1002/2016JD024835"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Geophysical Research: Atmospheres</title>
+		<title level="j" type="abbrev">JGR Atmospheres</title>
+		<idno type="ISSN">2169-897X</idno>
+		<idno type="ISSNe">2169-8996</idno>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="4563" to="4580"/>
+			<date type="published" when="2016-05-07">2016</date>
+			<publisher>American Geophysical Union (AGU)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Resource extraction and infrastructure threaten forest cover and community rights</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+			<idno type="ORCID">0000-0003-3342-7898</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Denise</forename><surname>Humphreys Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">Aileen</forename><surname>Sauls</surname></persName>
+			<idno type="ORCID">0000-0001-8868-7465</idno>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Rogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sumali</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">César</forename><surname>Gamboa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aviva</forename><surname>Imhof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kimberly</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Herman</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antoinette</forename><surname>Royo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tessa</forename><surname>Toumbourou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Verdum</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1812505115</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1812505115"/>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+		<idno type="ISSN">0027-8424</idno>
+		<idno type="ISSNe">1091-6490</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">52</biblScope>
+			<biblScope unit="page" from="13164" to="13173"/>
+			<date type="published" when="2018-12-03">2018</date>
+			<publisher>Proceedings of the National Academy of Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Agent-based modeling framework for modeling the effect of information diffusion on community acceptance of mining</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">K</forename><surname>Boateng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kwame</forename><surname>Awuah-Offei</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.techfore.2017.01.019</idno>
+		<ptr target="https://doi.org/10.1016/j.techfore.2017.01.019"/>
+	</analytic>
+	<monogr>
+		<title level="j">Technological Forecasting and Social Change</title>
+		<title level="j" type="abbrev">Technological Forecasting and Social Change</title>
+		<idno type="ISSN">0040-1625</idno>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="1" to="11"/>
+			<date type="published" when="2017-04">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">An agent-based platform for simulating complex human–aquifer interactions in managed groundwater systems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Castilla-Rho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mariethoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rojas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F J</forename><surname>Kelly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2015.08.018</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2015.08.018"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Modelling &amp; Software</title>
+		<title level="j" type="abbrev">Environmental Modelling &amp; Software</title>
+		<editor>
+			<persName><forename type="first">Iii</forename><surname>Chapin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Lovecraft</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Zavaleta</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Nelson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Robards</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</editor>
+		<idno type="ISSN">1364-8152</idno>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="305" to="323"/>
+			<date type="published" when="2015-11">2015</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Kofinas, G</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Terrestrial Decomposition</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Naylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/0-387-21663-4_7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Principles of Terrestrial Ecosystem Ecology</title>
+		<meeting><address><addrLine>New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer New York</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="151" to="175"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">‘Bouncing back’ to capitalism? Grass-roots autonomous activism in shaping discourses of resilience and transformation following disaster</title>
+		<author>
+			<persName><forename type="first">Raven</forename><surname>Cretney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sophie</forename><surname>Bond</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21693293.2013.872449</idno>
+		<ptr target="https://doi.org/10.1080/21693293.2013.872449"/>
+	</analytic>
+	<monogr>
+		<title level="j">Resilience</title>
+		<title level="j" type="abbrev">Resilience</title>
+		<idno type="ISSN">2169-3293</idno>
+		<idno type="ISSNe">2169-3307</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="31"/>
+			<date type="published" when="2014-01-02">2014</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Significance of telecoupling for exploration of land-use change</title>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">H</forename><surname>Dga (dirección</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Lambin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Marcotullio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zimmerer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">General de Aguas)</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Seto</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Reenberg</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>MIT Prese</publisher>
+			<date type="published" when="2012">2012. 2014</date>
+			<biblScope unit="page" from="141" to="161"/>
+		</imprint>
+		<respStmt>
+			<orgName>Ministerio de Obras Públicas, Dirección General de Aguas. San Pedro de Atacama. . . . Eakin,</orgName>
+		</respStmt>
+	</monogr>
+	<note>Rethinking Global Land Use in an Urban Era</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Transforming governance in telecoupled food systems</title>
+		<author>
+			<persName><forename type="first">Hallie</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ximena</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashwina</forename><surname>Mahanti</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/es-09831-220432</idno>
+		<ptr target="https://doi.org/10.5751/ES-09831-220432"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Society</title>
+		<title level="j" type="abbrev">E&amp;S</title>
+		<idno type="ISSN">1708-3087</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2017">2017</date>
+			<publisher>Resilience Alliance, Inc.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Critical Issues in the Supply Chain of Lithium for Electric Vehicle Batteries</title>
+		<author>
+			<persName><forename type="first">Ona</forename><surname>Egbue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Suzanna</forename><surname>Long</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10429247.2012.11431947</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Engineering Management Journal</title>
+		<title level="j" type="abbrev">Engineering Management Journal</title>
+		<idno type="ISSN">1042-9247</idno>
+		<idno type="ISSNe">2377-0643</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="52" to="62"/>
+			<date type="published" when="2012-09">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Spatial agent-based models for socio-ecological systems: Challenges and prospects</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Filatova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Verburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Stannard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.03.017</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.03.017"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Model. Softw</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1" to="7"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Lithium recovery from brines: A vital raw material for green energies with a potential environmental impact in its mining and processing</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Flexer</surname></persName>
+			<idno type="ORCID">0000-0002-4385-8846</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Celso</forename><forename type="middle">Fernando</forename><surname>Baspineiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudia</forename><forename type="middle">Inés</forename><surname>Galli</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.05.223</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.05.223"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<title level="j" type="abbrev">Science of The Total Environment</title>
+		<idno type="ISSN">0048-9697</idno>
+		<imprint>
+			<biblScope unit="volume">639</biblScope>
+			<biblScope unit="page" from="1188" to="1204"/>
+			<date type="published" when="2018-10">2018</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Andean hypersaline lakes in the &lt;scp&gt;Atacama Desert&lt;/scp&gt;, northern &lt;scp&gt;Chile&lt;/scp&gt;: Between lithium exploitation and unique biodiversity conservation</title>
+		<author>
+			<persName><forename type="first">Gonzalo</forename><surname>Gajardo</surname></persName>
+			<idno type="ORCID">0000-0001-8634-141X</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Stella</forename><surname>Redón</surname></persName>
+			<idno type="ORCID">0000-0001-9351-6601</idno>
+		</author>
+		<idno type="DOI">10.1111/csp2.94</idno>
+		<ptr target="https://doi.org/10.1111/csp2.94..."/>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Science and Practice</title>
+		<title level="j" type="abbrev">Conservat Sci and Prac</title>
+		<idno type="ISSN">2578-4854</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">94</biblScope>
+			<date type="published" when="2019-08-02">2019</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A standard protocol for describing individual-based and agent-based models</title>
+		<author>
+			<persName><forename type="first">Volker</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Uta</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Finn</forename><surname>Bastiansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sigrunn</forename><surname>Eliassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vincent</forename><surname>Ginot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jarl</forename><surname>Giske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Goss-Custard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tamara</forename><surname>Grand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><forename type="middle">K</forename><surname>Heinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geir</forename><surname>Huse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Huth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><forename type="middle">U</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Jørgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wolf</forename><forename type="middle">M</forename><surname>Mooij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Birgit</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guy</forename><surname>Pe’er</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cyril</forename><surname>Piou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">F</forename><surname>Railsback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martha</forename><forename type="middle">M</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Rossmanith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nadja</forename><surname>Rüger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Espen</forename><surname>Strand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sami</forename><surname>Souissi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">A</forename><surname>Stillman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rune</forename><surname>Vabø</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ute</forename><surname>Visser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><forename type="middle">L</forename><surname>Deangelis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolmodel.2006.04.023</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolmodel.2006.04.023"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<title level="j" type="abbrev">Ecological Modelling</title>
+		<idno type="ISSN">0304-3800</idno>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="115" to="126"/>
+			<date type="published" when="2006-09">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">‘Eventually the mine will come’: women anti-mining activists’ everyday resilience in opposing resource extraction in the Andes</title>
+		<author>
+			<persName><forename type="first">Katy</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Glevys</forename><surname>Rondón</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13552074.2015.1095560</idno>
+		<ptr target="https://doi.org/10.1080/13552074.2015.1095560"/>
+	</analytic>
+	<monogr>
+		<title level="j">Gender &amp; Development</title>
+		<title level="j" type="abbrev">Gender &amp; Development</title>
+		<idno type="ISSN">1355-2074</idno>
+		<idno type="ISSNe">1364-9221</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="415" to="431"/>
+			<date type="published" when="2015-09-02">2015</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Selecting among five common modelling approaches for integrated environmental assessment and management Environ</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kaunda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Barreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Borsuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Elsawah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Voinov</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.05.005</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.05.005"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Energy Nat. Resour. Law</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="159" to="181"/>
+			<date type="published" when="2013">2020. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Potential environmental impacts of lithium mining Model. Softw.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The social and environmental complexities of extracting energy transition metals</title>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-020-18661-9</idno>
+		<ptr target="https://doi.org/10.1038/s41467-020-18661-9"/>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">How companies can get net-zero right As the corporate world plans for net-zero emissions by 2050, a few principles should guide our collective thinking</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Leotaud</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zero Footprint</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1163/9789004322714_cclc_2020-0028-0218</idno>
+		<ptr target="https://www.mining.com/how-cornish-lithium-plans-to-produce-lithium-with-a-net-zero-footprint/"/>
+	</analytic>
+	<monogr>
+		<title level="m">#:~:text=%E2%80%9CThe%20lithium%20will%20have %20a</title>
+		<imprint>
+			<publisher>Walter de Gruyter GmbH</publisher>
+			<date type="published" when="2020-11-01">2020. 1 November 2020</date>
+		</imprint>
+	</monogr>
+	<note>plant%2C%E2%80%9D%20the%20executive%20said</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Embedding sustainable development strategies in agent‐based models for use as a planning tool</title>
+		<author>
+			<persName><forename type="first">Xia</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoping</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13658810701228686</idno>
+		<ptr target="https://doi.org/10.1080/13658810701228686"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Geographical Information Science</title>
+		<title level="j" type="abbrev">International Journal of Geographical Information Science</title>
+		<idno type="ISSN">1365-8816</idno>
+		<idno type="ISSNe">1362-3087</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="45"/>
+			<date type="published" when="2008-01">2008</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Interdependencies of lithium mining and communities sustainability in Salar de Atacama, Chile</title>
+		<author>
+			<persName><forename type="first">Wenjuan</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Datu</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2020.120838</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2020.120838"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<title level="j" type="abbrev">Journal of Cleaner Production</title>
+		<idno type="ISSN">0959-6526</idno>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<biblScope unit="page">120838</biblScope>
+			<date type="published" when="2020-07">2020. 120838</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal patterns of lithium mining and environmental degradation in the Atacama Salt Flat, Chile</title>
+		<author>
+			<persName><forename type="first">Wenjuan</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Datu</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soe</forename><forename type="middle">W</forename><surname>Myint</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jag.2019.04.016</idno>
+		<ptr target="https://doi.org/10.1016/j.jag.2019.04.016"/>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Applied Earth Observation and Geoinformation</title>
+		<title level="j" type="abbrev">International Journal of Applied Earth Observation and Geoinformation</title>
+		<idno type="ISSN">1569-8432</idno>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="145" to="156"/>
+			<date type="published" when="2019-08">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Framing Sustainability in a Telecoupled World</title>
+		<author>
+			<persName><forename type="first">Jianguo</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Hull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mateus</forename><surname>Batistella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Defries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Dietz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Feng</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">W</forename><surname>Hertel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Cesar</forename><surname>Izaurralde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">F</forename><surname>Lambin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuxin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luiz</forename><forename type="middle">A</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Mcconnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emilio</forename><forename type="middle">F</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosamond</forename><surname>Naylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiyun</forename><surname>Ouyang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><forename type="middle">R</forename><surname>Polenske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anette</forename><surname>Reenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gilberto</forename><surname>De Miranda Rocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cynthia</forename><forename type="middle">S</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">H</forename><surname>Verburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">M</forename><surname>Vitousek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fusuo</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chunquan</forename><surname>Zhu</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/es-05873-180226</idno>
+		<ptr target="https://doi.org/10.5751/es-05873-180226"/>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Society</title>
+		<title level="j" type="abbrev">E&amp;S</title>
+		<idno type="ISSN">1708-3087</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="2013">2013</date>
+			<publisher>Resilience Alliance, Inc.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Towards more sustainable brine extraction in salt flats: Learning from the Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2019.135605</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2019.135605"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<title level="j" type="abbrev">Science of The Total Environment</title>
+		<idno type="ISSN">0048-9697</idno>
+		<imprint>
+			<biblScope unit="volume">703</biblScope>
+			<biblScope unit="page">135605</biblScope>
+			<date type="published" when="2020-02">2020. 135605</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The effect of brine pumping on the natural hydrodynamics of the Salar de Atacama: The damping capacity of salt flats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.11.196</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.11.196"/>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">654</biblScope>
+			<biblScope unit="page" from="1118" to="1131"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Hydrodynamics of salt flat basins: The Salar de Atacama example</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.09.190</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.09.190"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<title level="j" type="abbrev">Science of The Total Environment</title>
+		<idno type="ISSN">0048-9697</idno>
+		<imprint>
+			<biblScope unit="volume">651</biblScope>
+			<biblScope unit="page" from="668" to="683"/>
+			<date type="published" when="2019-02">2019</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Lithium market research – global supply, future demand and price development</title>
+		<author>
+			<persName><forename type="first">Gunther</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lars</forename><surname>Rentsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Höck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Bertau</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ensm.2016.11.004</idno>
+		<ptr target="https://doi.org/10.1016/j.ensm.2016.11.004"/>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Storage Materials</title>
+		<title level="j" type="abbrev">Energy Storage Materials</title>
+		<idno type="ISSN">2405-8297</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="171" to="179"/>
+			<date type="published" when="2017-01">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The long arm of climate change: societal teleconnections and the future of climate change impacts studies</title>
+		<author>
+			<persName><forename type="first">Susanne</forename><forename type="middle">C</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juliette</forename><forename type="middle">A Finzi</forename><surname>Hart</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-015-1328-z</idno>
+		<ptr target="https://doi.org/10.1007/s10584-015-1328-z"/>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<title level="j" type="abbrev">Climatic Change</title>
+		<idno type="ISSN">0165-0009</idno>
+		<idno type="ISSNe">1573-1480</idno>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="13" to="26"/>
+			<date type="published" when="2015-01-28">2015</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Agent-based modelling of land use dynamics and residential quality of life for future scenarios</title>
+		<author>
+			<persName><forename type="first">Dave</forename><surname>Murray-Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Verena</forename><surname>Rieser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><forename type="middle">T</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vesna</forename><surname>Miličič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Rounsevell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.02.011</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.02.011"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Modelling &amp; Software</title>
+		<title level="j" type="abbrev">Environmental Modelling &amp; Software</title>
+		<idno type="ISSN">1364-8152</idno>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="75" to="89"/>
+			<date type="published" when="2013-08">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Phreatophytic Vegetation and Groundwater Fluctuations: A Review of Current Research and Application of Ecosystem Response Modeling with an Emphasis on Great Basin Vegetation</title>
+		<author>
+			<persName><forename type="first">Elke</forename><surname>Naumburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><surname>Mata-Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachael</forename><forename type="middle">G</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Mclendon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">W</forename><surname>Martin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-004-0194-7</idno>
+		<ptr target="https://doi.org/10.1007/s00267-004-0194-7"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Management</title>
+		<title level="j" type="abbrev">Environmental Management</title>
+		<idno type="ISSN">0364-152X</idno>
+		<idno type="ISSNe">1432-1009</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="726" to="740"/>
+			<date type="published" when="2005-05-27">2005</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the role of individuals in models of coupled human and natural systems: Lessons from a case study in the Republican River Basin</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">H</forename><surname>Noël</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ximing</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2017.02.010</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2017.02.010"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Modelling &amp; Software</title>
+		<title level="j" type="abbrev">Environmental Modelling &amp; Software</title>
+		<idno type="ISSN">1364-8152</idno>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1" to="16"/>
+			<date type="published" when="2017-06">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Ministry of the General Secretariat of the Presidency (Chile)-Crea el Ministerio</title>
+		<author>
+			<persName><surname>Ley-20417</surname></persName>
+		</author>
+		<ptr target="https://www.leychile.cl/Navegar?idNorma=1010459"/>
+	</analytic>
+	<monogr>
+		<title level="m">El Servicio de Evaluacion Ambiental y La Superintendencia del Medio Ambiente</title>
+		<imprint>
+			<date type="published" when="2010-04-05">2010. 5 April 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Vulnerability to Resilience Analysis and action</title>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Pasteur</surname></persName>
+		</author>
+		<idno type="DOI">10.3362/9781780440583.003</idno>
+	</analytic>
+	<monogr>
+		<title level="m">From Vulnerability to Resilience</title>
+		<imprint>
+			<publisher>Practical Action Publishing</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="65" to="92"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Linking Bayesian and agent-based models to simulate complex social-ecological systems in semi-arid regions</title>
+		<author>
+			<persName><forename type="first">Aloah</forename><forename type="middle">J</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Randy</forename><surname>Gimblett</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fenvs.2015.00055</idno>
+		<ptr target="https://doi.org/10.3389/fenvs.2015.00055"/>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Environmental Science</title>
+		<title level="j" type="abbrev">Front. Environ. Sci.</title>
+		<idno type="ISSNe">2296-665X</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">55</biblScope>
+			<date type="published" when="2015-08-07">2015</date>
+			<publisher>Frontiers Media SA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">UPDATE 1-Chile's Corfo, SQM Strike Deal in Lithium Dispute</title>
+		<author>
+			<persName><surname>Reuters</surname></persName>
+		</author>
+		<ptr target="https://www.reuters.com/article/sqm-arbitration/update-1-chiles-corfo-sqm-strike-deal-in-lithium-dispute-idUSL1N1PC2D6"/>
+		<imprint>
+			<date type="published" when="2018-11-10">2018. 10 November 2019</date>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+	<note>Published on January</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Mining Development and Environmental Injustice in the Atacama Desert of Northern Chile</title>
+		<author>
+			<persName><forename type="first">Hugo</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manuel</forename><surname>Méndez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pamela</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/env.2011.0017</idno>
+		<ptr target="https://doi.org/10.1089/env.2011.0017"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Justice</title>
+		<title level="j" type="abbrev">Environmental Justice</title>
+		<idno type="ISSN">1939-4071</idno>
+		<idno type="ISSNe">1937-5174</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="70" to="76"/>
+			<date type="published" when="2012-04">2012</date>
+			<publisher>Mary Ann Liebert Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">From actors to agents in socio-ecological systems models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D A</forename><surname>Rounsevell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Murray-Rust</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2011.0187</idno>
+		<ptr target="https://doi.org/10.1098/rstb.2011.0187"/>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B: Biological Sciences</title>
+		<title level="j" type="abbrev">Phil. Trans. R. Soc. B</title>
+		<idno type="ISSN">0962-8436</idno>
+		<idno type="ISSNe">1471-2970</idno>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">1586</biblScope>
+			<biblScope unit="page" from="259" to="269"/>
+			<date type="published" when="1586">2012. 1586</date>
+			<publisher>The Royal Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Linking Globalization to Local Land Uses: How Eco-Consumers and Gourmands are Changing the Colombian Coffee Landscapes</title>
+		<author>
+			<persName><forename type="first">Ximena</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">F</forename><surname>Lambin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.05.018</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2012.05.018"/>
+	</analytic>
+	<monogr>
+		<title level="j">World Development</title>
+		<title level="j" type="abbrev">World Development</title>
+		<idno type="ISSN">0305-750X</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="286" to="301"/>
+			<date type="published" when="2013-01">2013</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guimerà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Cornellà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aravena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guzmán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Von Igel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hidrogeología del sistema lagunar del margen este del Salar de</title>
+		<meeting><address><addrLine>Atacama (Chile</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="357" to="372"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Lithium value-add faces obstacles in Latin America</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scheyder</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/oxan-db245075</idno>
+		<ptr target="https://www.reuters.com/article/tesla-batteryday-lithium/teslas-nevada-"/>
+		<imprint>
+			<date type="published" when="2020-11-01">2020. 1 November 2020</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+	<note>Published on September lithium-plan-faces-stark-obstacles-on-path-to-product ion-idINL2N2GK2E1</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">NEW HORIZONS FOR MANAGING THE ENVIRONMENT: A REVIEW OF COUPLED SOCIAL‐ECOLOGICAL SYSTEMS MODELING</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlüter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R J</forename><surname>Mcallister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arlinghaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bunnefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eisenack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hölker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Milner‐gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quaas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stöven</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1939-7445.2011.00108.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1939-7445.2011.00108.x"/>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Resource Modeling</title>
+		<title level="j" type="abbrev">Natural Resource Modeling</title>
+		<idno type="ISSN">0890-8575</idno>
+		<idno type="ISSNe">1939-7445</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="219" to="272"/>
+			<date type="published" when="2012">2012</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Responses of Riparian Cottonwoods to Alluvial Water Table Declines</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">B</forename><surname>Shafroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gregor</forename><forename type="middle">T</forename><surname>Auble</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002679900191</idno>
+		<ptr target="https://doi.org/10.1007/s002679900191"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Management</title>
+		<title level="j" type="abbrev">Environmental Management</title>
+		<idno type="ISSN">0364-152X</idno>
+		<idno type="ISSNe">1432-1009</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="358"/>
+			<date type="published" when="1999-04">1999</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Sustainable minerals and metals for a low-carbon future</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saleem</forename><forename type="middle">H</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morgan</forename><surname>Bazilian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Radley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benoit</forename><surname>Nemery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Okatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dustin</forename><surname>Mulvaney</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aaz6003</idno>
+		<ptr target="https://doi.org/10.1126/science.aaz6003"/>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">6473</biblScope>
+			<biblScope unit="page" from="30" to="33"/>
+			<date type="published" when="2020-01-03">2020</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">LAS VEGAS SANDS CORP., a Nevada corporation, Plaintiff, v. UKNOWN REGISTRANTS OF www.wn0000.com, www.wn1111.com, www.wn2222.com, www.wn3333.com, www.wn4444.com, www.wn5555.com, www.wn6666.com, www.wn7777.com, www.wn8888.com, www.wn9999.com, www.112211.com, www.4456888.com, www.4489888.com, www.001148.com, and www.2289888.com, Defendants.</title>
+		<author>
+			<persName><surname>Sqm</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/glre.2016.201011</idno>
+		<ptr target="https://www.sqmsenlinea.com/"/>
+	</analytic>
+	<monogr>
+		<title level="j">Gaming Law Review and Economics</title>
+		<title level="j" type="abbrev">Gaming Law Review and Economics</title>
+		<idno type="ISSN">1097-5349</idno>
+		<idno type="ISSNe">1941-5494</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="859" to="868"/>
+			<date type="published" when="2020-10-01">2020. 1 October 2020</date>
+			<publisher>Mary Ann Liebert Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><surname>Sqm</surname></persName>
+		</author>
+		<ptr target="https://ir.sqm.com/English/news/news-details/2020/SQM-Announces-Sustainable-Development-Plan/default.aspx"/>
+		<title level="m">SQM Announces Sustainable Development Plan</title>
+		<imprint>
+			<date type="published" when="2020-09">2020. 10September 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Telecoupled land-use changes in distant countries</title>
+		<author>
+			<persName><forename type="first">Jing</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yu-Xin</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianguo</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2095-3119(16)61528-9</idno>
+		<ptr target="https://doi.org/10.1016/S2095-3119(16)61528-9"/>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Integrative Agriculture</title>
+		<title level="j" type="abbrev">Journal of Integrative Agriculture</title>
+		<idno type="ISSN">2095-3119</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="368" to="376"/>
+			<date type="published" when="2017-02">2017</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Community resilience to cyclone and storm surge disasters: Evidence from coastal communities of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Salim</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Emdad</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mahed-Ul-Islam</forename><surname>Choudhury</surname></persName>
+			<idno type="ORCID">0000-0002-8511-1011</idno>
+		</author>
+		<idno type="DOI">10.1016/j.jenvman.2020.110457</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Management</title>
+		<title level="j" type="abbrev">Journal of Environmental Management</title>
+		<idno type="ISSN">0301-4797</idno>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="page">110457</biblScope>
+			<date type="published" when="2020-06"/>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Community resilience to cyclone and storm surge disasters: Evidence from coastal communities of Bangladesh</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jenvman.2020.110457</idno>
+		<ptr target="https://doi.org/10.1016/j.jenvman.2020.110457"/>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manage</title>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<date type="published" when="2020">2020. 110457</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Mining Communities from a Resilience Perspective: Managing Disturbance and Vulnerability in Itabira, Brazil</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Wasylycia-Leis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alberto</forename><surname>Fonseca</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-014-0230-1</idno>
+		<ptr target="https://doi.org/10.1007/s00267-014-0230-1"/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Management</title>
+		<title level="j" type="abbrev">Environmental Management</title>
+		<idno type="ISSN">0364-152X</idno>
+		<idno type="ISSNe">1432-1009</idno>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="481" to="495"/>
+			<date type="published" when="2014-01-28">2016. 2014</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical paper</note>
+	<note>Just Transition of the Workforce, and the Creation of Decent Work and Quality Jobs</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">NetLogo (and NetLogo User Manual)</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wilensky</surname></persName>
+		</author>
+		<ptr target="http://ccl.northwestern.edu/netlogo"/>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>Center for Connected Learning and Computer-Based Modeling, Northwestern University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Court Judgement</title>
+		<author>
+			<persName><surname>Ta</surname></persName>
+		</author>
+		<ptr target="https://causas.1ta.cl/causes/38/expedient/2539/books/31/?attachmentId=4007"/>
+		<imprint>
+			<date type="published" when="2019-09-10">2019. 10 September 2020</date>
+		</imprint>
+	</monogr>
+	<note>Primer Tribunal Ambiental</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
