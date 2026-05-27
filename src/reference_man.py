@@ -1,6 +1,7 @@
 class ParseTEI:
     ns = {"tei": "http://www.tei-c.org/ns/1.0"}
     biblStruc = ".//tei:biblStruct"
+    header = ".//tei:teiHeader"
 
 
 class Reference:
@@ -108,12 +109,7 @@ class Reference:
 
         return Reference(authors, title, journal, date, doi, xml_id)
 
-#%%
 import xml.etree.ElementTree as ET
-
-class ParseTEI:
-    ns = {"tei": "http://www.tei-c.org/ns/1.0"}
-    biblStruc = ".//tei:biblStruct"
 
 class Publication:
 
@@ -130,13 +126,33 @@ class Publication:
     @staticmethod
     def from_xlsx(xlsx_row):
         xmlfile = "../data/refs_table/" + xlsx_row['TeiFile'] + '.xml'
-
-        tree = ET.parse(xmlfile)
-        root = tree.getroot()
-
+        root = Publication.parse_xml(xmlfile)
         references = []
 
         for bibl in root.findall(ParseTEI.biblStruc, ParseTEI.ns):
             references.append(Reference.from_xml_element(bibl))
 
         return Publication(xlsx_row['Title'], references)
+
+    @staticmethod
+    def from_xml(xmlfile):
+        root = Publication.parse_xml(xmlfile)
+        references = []
+
+
+        for bibl in root.findall(ParseTEI.biblStruc, ParseTEI.ns):
+            references.append(Reference.from_xml_element(bibl))
+
+        header = root.findall(ParseTEI.header, ParseTEI.ns)
+        if header is None or len(header) == 0:
+            title_text = None
+        else:
+            title = header[0].find(".//tei:titleStmt/tei:title[@type='main']", ParseTEI.ns)
+            title_text = title.text if title is not None else None
+
+        return Publication(title_text, references)
+
+    @staticmethod
+    def parse_xml(xmlfile):
+        tree = ET.parse(xmlfile)
+        return tree.getroot()

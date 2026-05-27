@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Assessing the Impact of Quarrying as an Environmental Ethic Crisis: A Case Study of Limestone Mining in a Rural Community</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-04-09">9 April 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Chengyu</forename><surname>Xie</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jian</forename><surname>Zhou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Danial</forename><forename type="middle">Jahed</forename><surname>Armaghani</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Qingfa</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wei</forename><surname>Pan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Babalwa</forename><surname>Kafu-Quvane</surname></persName>
+							<email>bkafu-quvane@ufh.ac.za</email>
+							<idno type="ORCID">0000-0003-1888-7327</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Education</orgName>
+								<orgName type="institution">University of Fort Hare</orgName>
+								<address>
+									<postCode>5700</postCode>
+									<settlement>Alice</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sanelisiwe</forename><surname>Mlaba</surname></persName>
+							<email>mlabas@cput.ac.za</email>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Applied Sciences</orgName>
+								<orgName type="institution">Cape Peninsula University of Technology</orgName>
+								<address>
+									<postCode>8000</postCode>
+									<settlement>Cape Town</settlement>
+									<country>South Africa;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Assessing the Impact of Quarrying as an Environmental Ethic Crisis: A Case Study of Limestone Mining in a Rural Community</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2024-04-09">9 April 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3C1CDA118D8A1A1D3E96415E67E3245C</idno>
+					<idno type="DOI">10.3390/ijerph21040458</idno>
+					<note type="submission">Received: 11 March 2024 Revised: 3 April 2024 Accepted: 5 April 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>environmental ethics</term>
+					<term>crisis</term>
+					<term>quarrying</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In this study, we investigated the impact of quarrying as an environmental ethical crisis. The need for the study arose when we realised the deteriorating effect of the quality of life in our community, which is located next to a limestone quarry. To obtain a deeper understanding of the adverse impact on the environment and the quality of life of the people living in the community around the quarry, we explored the workers from the community, and the members of the communitybased organisation's (CBO) experiences. We employed a qualitative method research approach, using a single case study design. We adopted a utilitarian perspective and Pinchot's conservation as ethical systems that determine morality based on the greatest good for the greatest number. Both provide a framework for analysing environmental problems and ethical crises associated with limestone quarrying. We generated data using face-to-face interviews and focus group discussions. We present and discuss data through the following themes: analysis of the social and cultural impacts on local communities and indigenous people, assessment of the ecological consequences on biodiversity and habitat destruction, and examination of the effects on water resources, air quality, and soil erosion. The results show that the negative effects of the quarry on the environment have always worried the local people. The company's disrespect for the community and ignorance of the laws governing quarry activities is the root of the ethical dilemma. The detrimental effects that the operations have on human health and safety as well as the environment is the other ethical dilemma, which includes, land degradation, vibrations, air, and water pollution.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Limestone quarries provide various gains, such as societal, environmental, and economic. In addition to creating jobs and boosting the gross domestic product (GDP) of the nation, quarrying is essential to South Africa's growth and development. It extracts a wide range of useful materials from the ground, such as coal, metals, stone, etc. Quarrying involves investigating potential sites of extraction, then getting the required material out of the ground, and finally blasting to get out the substance of interest. According to <ref type="bibr" target="#b0">[1]</ref>, limestone quarries provide raw materials which are used in the production of asphalt, concrete and other construction materials, which are used in the construction industry. Limestone is used in agriculture to adjust the pH level of the soil and to improve the soil quality. Furthermore, post-mining land in properly managed quarries is restored and rehabilitated for activities that include landscaping, reforestation, and local biodiversity preservation (conserving habitats and protecting endangered species. Quarries provide materials for construction projects, for roads and bridges, thus contributing to the local infrastructure, and thereby improving accessibility and connectivity in the surrounding area <ref type="bibr" target="#b1">[2]</ref>. However, quarrying activities have a negative effect on the surrounding towns, the environment, and the health and safety of the workers and residents of the quarries such as landscape degradation, habitat destruction, air and water pollution, and noise pollution <ref type="bibr" target="#b2">[3]</ref>. Despite the negative effects that quarrying has on the environment, human health, and safety, it is a welcome solution to difficulties for underprivileged people. There is a growing awareness among our societies and government officials that we run the risk of leaving future generations with a depleted environment if we carry on with our current level of environmental exploitation. As a result, our societies are creating community-based organisations (CBO) to support the government and business sectors in their environmental preservation efforts. Improving the standard of living for people who live in the areas surrounding quarries is the main goal of these CBOs. Our societies fully comprehend what <ref type="bibr" target="#b3">[4]</ref> (p. 115) implies when he states that "the sustainability of the mining industry requires vigilance from everyone involved: governments, shareholders, communities, and industry". In order to achieve a development that is socially just, environmentally sustainable, and economically efficient, mineral development must be completed in harmony with the environment, as recognised by the South African Constitution and its ensuing laws <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>Our concern is motivated by the adverse environmental impacts and the effects that those impacts have had on the quality of life, of people, landscape restoration, and habitat reclamation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Location and the Geology of the Area</head><p>Surrounding land use includes a natural ridge and valley to the south and west of the site, grazing and subsistence agriculture to the north, and the historical plant and stockpile area to the east (see Figure <ref type="figure" target="#fig_0">1</ref>). The only major infrastructure in proximity to the site is the N2 highway which at its closest point is approximately 1.5 km to the east (see Figure <ref type="figure" target="#fig_2">2</ref>). The closest receptors to the site are the school and some homesteads forming part of the Sierra Village located approximately 600 m north of the site. The other village is located approximately 1km over the ridge to the west (See Figure <ref type="figure" target="#fig_2">2</ref>). <ref type="bibr" target="#b1">[2]</ref>. However, quarrying activities have a negative effect on the surrounding towns, the environment, and the health and safety of the workers and residents of the quarries such as landscape degradation, habitat destruction, air and water pollution, and noise pollution <ref type="bibr" target="#b2">[3]</ref>. Despite the negative effects that quarrying has on the environment, human health, and safety, it is a welcome solution to difficulties for underprivileged people. There is a growing awareness among our societies and government officials that we run the risk of leaving future generations with a depleted environment if we carry on with our current level of environmental exploitation. As a result, our societies are creating communitybased organisations (CBO) to support the government and business sectors in their environmental preservation efforts. Improving the standard of living for people who live in the areas surrounding quarries is the main goal of these CBOs. Our societies fully comprehend what <ref type="bibr" target="#b3">[4]</ref> (p. 115) implies when he states that "the sustainability of the mining industry requires vigilance from everyone involved: governments, shareholders, communities, and industry". In order to achieve a development that is socially just, environmentally sustainable, and economically efficient, mineral development must be completed in harmony with the environment, as recognised by the South African Constitution and its ensuing laws <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>Our concern is motivated by the adverse environmental impacts and the effects that those impacts have had on the quality of life, of people, landscape restoration, and habitat reclamation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Location and the Geology of the Area</head><p>Surrounding land use includes a natural ridge and valley to the south and west of the site, grazing and subsistence agriculture to the north, and the historical plant and stockpile area to the east (see Figure <ref type="figure" target="#fig_0">1</ref>). The only major infrastructure in proximity to the site is the N2 highway which at its closest point is approximately 1.5 km to the east (see Figure <ref type="figure" target="#fig_2">2</ref>). The closest receptors to the site are the school and some homesteads forming part of the Sierra Village located approximately 600 m north of the site. The other village is located approximately 1km over the ridge to the west (See Figure <ref type="figure" target="#fig_2">2</ref>).   The closest major water courses are two rivers, one located 3 km to the east, and another river located 2 km to the west of the site. There is, however, a non-perennial drainage line in close proximity to the site (175 m to the north) into which any surface runoff from the site would flow. This drainage line then flows eastwards towards the Korana River (see Figure <ref type="figure" target="#fig_0">1</ref>). The National Environmental Screening Tool of 2018, (Department of Forestry, Fisheries and the Environment, Republic of South Africa) identified very high sensitivities for terrestrial and aquatic biodiversity due to some of the sites falling within a critical biodiversity area according to the Eastern Cape Biodiversity Plan.</p><p>It is important to explore the mountains surrounding the area of study. The geological foundations of the Elundini Mountains, according to <ref type="bibr" target="#b6">[7]</ref>, in the Eastern Cape province of South Africa reflect a complex history of sedimentation, metamorphism, tectonic activity, and erosion, resulting in a diverse and visually stunning landscape (see Figure <ref type="figure" target="#fig_4">3</ref>). The wider Drakensberg Range, of which these mountains are a part, is renowned for having a varied geological makeup. The oldest sedimentary and metamorphic rock formations make up the majority of them. Most of the underlying rocks are sedimentary in character, such as limestone, sandstone, and shale. These rocks evolved over millions of years because of sediment deposition in the former lake and marine environments. These sedimentary rocks underwent tremendous heat and pressure throughout time, which caused them to metamorphose into tougher, more resilient rock types such as quartzite and slate <ref type="bibr" target="#b7">[8]</ref>. The closest major water courses are two rivers, one located 3 km to the east, and another river located 2 km to the west of the site. There is, however, a non-perennial drainage line in close proximity to the site (175 m to the north) into which any surface runoff from the site would flow. This drainage line then flows eastwards towards the Korana River (see Figure <ref type="figure" target="#fig_0">1</ref>). The National Environmental Screening Tool of 2018, (Department of Forestry, Fisheries and the Environment, Republic of South Africa) identified very high sensitivities for terrestrial and aquatic biodiversity due to some of the sites falling within a critical biodiversity area according to the Eastern Cape Biodiversity Plan.</p><p>It is important to explore the mountains surrounding the area of study. The geological foundations of the Elundini Mountains, according to <ref type="bibr" target="#b6">[7]</ref>, in the Eastern Cape province of South Africa reflect a complex history of sedimentation, metamorphism, tectonic activity, and erosion, resulting in a diverse and visually stunning landscape (see Figure <ref type="figure" target="#fig_4">3</ref>). The wider Drakensberg Range, of which these mountains are a part, is renowned for having a varied geological makeup. The oldest sedimentary and metamorphic rock formations make up the majority of them. Most of the underlying rocks are sedimentary in character, such as limestone, sandstone, and shale. These rocks evolved over millions of years because of sediment deposition in the former lake and marine environments. These sedimentary rocks underwent tremendous heat and pressure throughout time, which caused them to metamorphose into tougher, more resilient rock types such as quartzite and slate <ref type="bibr" target="#b7">[8]</ref>. plicated tectonic past. In addition, the erosive powers of water over millions of years have moulded the Elundini Mountains' untamed topography and deep river valleys. The landscape is still being shaped by this continuous erosion process, which also contributes to the distinctive geological features of the area by revealing various rock layers. This ongoing process of erosion continues to shape the landscape, exposing different rock layers and contributing to the unique geological features of the region. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Regulations Regarding Mining Activities</head><p>Regulations regarding mining activities vary greatly depending on the country. In South Africa, there is legislation governing mining activities to ensure the safety of workers, nearby communities, and the environment. To begin with, the constitution of the country stipulates that each individual has a right to an environment that is not harmful to their health or well-being, and to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that prevent pollution and ecological degradation; promote conservation; secure ecologically sustainable development and use of natural resources while promoting justifiable economic and social development <ref type="bibr" target="#b5">[6]</ref>. The area has seen tectonic activity, including folding and faulting, according to <ref type="bibr" target="#b7">[8]</ref>, which has led to the uplift and deformation of the terrain (see Figure <ref type="figure" target="#fig_4">3</ref>). Numerous geological formations, including synclines and anticlines, are evidence of the region's complicated tectonic past. In addition, the erosive powers of water over millions of years have moulded the Elundini Mountains' untamed topography and deep river valleys. The landscape is still being shaped by this continuous erosion process, which also contributes to the distinctive geological features of the area by revealing various rock layers. This ongoing process of erosion continues to shape the landscape, exposing different rock layers and contributing to the unique geological features of the region.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Regulations Regarding Mining Activities</head><p>Regulations regarding mining activities vary greatly depending on the country. In South Africa, there is legislation governing mining activities to ensure the safety of workers, nearby communities, and the environment. To begin with, the constitution of the country stipulates that each individual has a right to an environment that is not harmful to their health or well-being, and to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that prevent pollution and ecological degradation; promote conservation; secure ecologically sustainable development and use of natural resources while promoting justifiable economic and social development <ref type="bibr" target="#b5">[6]</ref>.</p><p>When it comes to blasting methods in mining, safety zones are typically designated to prevent harm to personnel, equipment, and nearby structures. These safety zones are determined based on factors such as the type of explosives used, the size of the blast, the geology of the area, and local regulations <ref type="bibr" target="#b8">[10]</ref>. Measures are implemented to prevent any pollution occurring during mining activities <ref type="bibr">[11]</ref>. The waste generated as a result of the mining activities is disposed of appropriately <ref type="bibr">[12]</ref>. The South African National Standards (SANS) are set for noise and dust generation during mining activities to ensure the health, safety, and sustainability of buildings <ref type="bibr" target="#b9">[13]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Overview of the Use of Limestone in South Africa and Globally</head><p>Limestone is essential to the development of South Africa and the world economy, performing a variety of functions in a number of industries and promoting infrastructural development, economic expansion, and environmental sustainability <ref type="bibr" target="#b10">[14,</ref><ref type="bibr" target="#b11">15]</ref>. Limestone deposits are abundant in South Africa, especially in the country's northwest and northern parts. Because it provides raw materials for the production of cement, lime, and other industrial processes, limestone mining is important to the economy of the country. In South Africa, limestone is a key component in the creation of cement.</p><p>Major cement producers in the country rely on limestone quarries to supply the raw material for their manufacturing plants, which produce cement used in construction projects across the region. It helps enhance crop yields and supports sustainable agricultural practices. Limestone is utilised in various industrial applications in South Africa, including the manufacturing of steel, glass, chemicals, and paper products. It serves as a crucial raw material in these industries, contributing to their economic growth and development. Limestone is also valued for its aesthetic and historical significance in South Africa. It is used in the construction of heritage buildings, monuments, and landmarks, preserving the country's architectural heritage and cultural identity <ref type="bibr" target="#b12">[16]</ref>.</p><p>According to research, limestone is a crucial component used worldwide in the manufacturing of cement and concrete. Building materials are made by crushing it and combining it with other materials. They are then utilised all over the world to construct roads, bridges, buildings, and other infrastructure projects. It is a source of calcium carbonate, which finds application in numerous industrial processes as a whitening agent, pigment, and filler. Limestone is used in environmental remediation projects, especially for wastewater treatment and acid mine drainage mitigation. Its alkaline qualities aid in the improvement of water quality in rivers, lakes, and industrial discharge sites by neutralising acidic pollutants. Because of its durability and aesthetic appeal, limestone is a popular material for countertops, floors, building facades, and decorative elements in architecture <ref type="bibr" target="#b11">[15,</ref><ref type="bibr" target="#b13">17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Background of Quarrying and Its Significance in the Mining Industry</head><p>Quarrying is a form of mining technology used to remove non-fuel and non-metal materials from rocks. The operation removes limestone, sand, and gravel from the geological bedrock. The minerals are extracted from the rock using a variety of procedures such as hard rock mining, which involves rock drilling, dynamite blasting, and other advanced ways <ref type="bibr" target="#b14">[18]</ref>. Research shows that limestone is a calcareous rock that has at least 70% calcium carbonate content (CaCO 3 ). Utilising limestone goes all the way back to prehistoric times when it was utilised by early humans to create weapons, construct homes, and construct furnaces. Taung in the Northern Cape is where South Africa's limestone production began, deposits that were made up of a high-grade secondary limestone formation. An extensive geological search was launched in 1949 because it became evident that the rapidly expanding uranium industry would require large amounts of lime and the Taung reserves would not support such expansion <ref type="bibr" target="#b15">[19,</ref><ref type="bibr" target="#b16">20]</ref>. A primary limestone close to Silver Stream was found as a result of the search. Throughout South Africa, the limestone industry has expanded ever since. Cement manufacturing, metallurgy (steel refining), agriculture (fertilisers, fungicides, livestock feed), aggregate, and lime processing are the five primary businesses in South Africa that employ limestone minerals. Cement manufacturing is the largest of these industries <ref type="bibr" target="#b16">[20]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Explanation of Environmental Ethics and Their Relevance to Studying Quarrying Impacts</head><p>People hold different views about what is desirable or not, and their views not only form the basis of their attitudes towards the environment, but the ethical distinctions they make between what is morally wrong or right, good, or bad or what deserves respect or not. Acting morally is a key component of environmental ethics. Differing moral stances are what define arguments and disagreements over the state of the environment today. According to research, a lot of our attitudes toward nature have their roots in antiquated traditions that placed humans at the centre of the moral universe. According to <ref type="bibr" target="#b17">[21,</ref><ref type="bibr" target="#b18">22]</ref>, anthropocentrically oriented environmental ethics hold that the environment exists to give humans material satisfaction. Researchers use a ruthless developer as a metaphor to explain that humans maximally exploit nature in an unrestrained manner. For example, one of the impacts of quarrying is land degradation, whereby indigenous trees which are of economic and medicinal value are removed. This also disturbs biodiversity as certain habitats for some species are destroyed.</p><p>There are environmental ethicists with an ecological sensibility. They respect and treat the land accordingly as it is a community of life <ref type="bibr" target="#b18">[22]</ref>. Biocentrism places the biological world at the centre of the planet and focuses on the intrinsic value of life. It does not include usefulness to human beings in its criteria. This value protects the land from the onslaught of mechanised man, hence <ref type="bibr" target="#b19">[23]</ref> states that something is good when it preserves the integrity, stability, and beauty of a biotic community. It is wrong when it tends otherwise. Quarrying destroys the entire local ecosystem. The gains made from quarrying, like providing job opportunities and impacting the economy are all short-term. The preservation of vegetation, animals, and the overall ecosystem needs to be considered as well. The authors of <ref type="bibr" target="#b18">[22]</ref> mention the intrinsic value of the beauty of surroundings, and nature itself. Approaches to morality can justify attitudes and principles that if widely adopted would lead to a less destructive and more respectful treatment of nature. Maintaining such an environment can be valuable within even a human-centred ethical framework since humans require an environment in which they can thrive <ref type="bibr" target="#b18">[22]</ref>. Our world heritage, the wildness that we inherited from our ancestors, needs to be appreciated and protected in order for future generations to have it all. From a sustainability perspective, this does entail that any such rationale needs to properly include the worth of nature (natural beauty) for future generations. Natural environments are destroyed by quarrying, depriving future generations of their beauty. The economic growth brought about by quarrying comes at a great cost that will be borne by future generations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Introduction of the Case Study: Limestone as a Prominent Quarrying Material</head><p>Sierra is a little settlement in the Eastern Cape province in South Africa (see Figure <ref type="figure" target="#fig_0">1</ref>) that is part of the OR Tambo Municipality. There are just 150 people that live in this isolated community. The primary economic activities in Sierra for the longest time were animal husbandry and subsistence farming, which were made possible by the area's micro forest and perennial river. A young man who was born and reared in Sierra came up with the plan to open a limestone quarry in the community to promote both social and economic advancement. He identified a gap in the local cement production industry, so he came up with the concept to blast and extract limestone so that people could:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Purchase raw limestone locally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Make bricks for local consumption.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Produce cement.</p><p>The young man explained his plan and assured them that if the quarry was a success, local people would be given priority when it came to jobs there. They would once again be given priority when they ascended to more senior roles. In addition to infrastructure development, the community was promised a skill transfer program to address the most apparent skill gaps in the area. The community members gave the young man permission to move forward with his planned development because they regarded it as a viable answer to one of their issues-the high rate of youth unemployment. The next concern is how to extract minerals to expand our economy without endangering the environment or endangering human health and safety. This study uses the conservationist ethic of Gifford Pinchot, sometimes known as Pinchot, to address this question.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Overview of the Existing Literature on Quarrying Impacts and Environmental Ethics</head><p>According to the South African Mineral Resources Government's Annual Report, 2017, the infrastructure development connected to South Africa's quarrying mines employed over 471,000 people overall in the country's fourth quarter of 2015. This demonstrates the significance of the quarrying industry to the economy of the nation as well as to the welfare and means of subsistence of nearby communities <ref type="bibr" target="#b20">[24,</ref><ref type="bibr" target="#b21">25]</ref>. But quarrying devastates the environment in ways like shifting the soil, making it infertile, changing the landscape, losing plants and vegetation, turning hillsides into unsightly scars, deteriorating the ecology and aesthetics, lowering the water table, changing, or eliminating natural drainage systems, and polluting the environment <ref type="bibr" target="#b22">[26]</ref><ref type="bibr" target="#b23">[27]</ref><ref type="bibr" target="#b24">[28]</ref>.</p><p>According to <ref type="bibr" target="#b20">[24]</ref>, these quarries' dust has posed health and environmental risks. In order to identify the consequences of quarrying on the environment, a health risk assessment of the areas surrounding quarries in Southwest Nigeria was conducted. During blasting operations and product transportation, quarrying sites generate dust, which contributes to air pollution. The climate of the region, the amount of dust in the air, the kind of rocks being mined, and the chemical composition of the dust all affect the surrounding ecosystem <ref type="bibr" target="#b25">[29,</ref><ref type="bibr" target="#b26">30]</ref>. Dust has a direct effect on animals and plants, resulting in lung problems in animals and poor growth in plants. However, noise pollution has been the most common type of pollution brought on by quarrying operations. Almost every aspect of the environment-landscape, water, soil, subsoil, flora, fauna, etc.-has been touched by gypsum extraction, mainly the karstic forms. Not only does it threaten the caverns and the natural resources they hold, but it also impacts the surface waters, significantly altering the hydrographic network. Additionally, groundwater, which is currently found at the bottom of a quarry, is also affected <ref type="bibr" target="#b27">[31]</ref>. Research shows that quarrying is faced with many challenges due to sustainability issues and environmental concerns. The quarrying mines' poor management and operations have had a severe negative influence on the environment. <ref type="bibr" target="#b28">[32]</ref><ref type="bibr" target="#b29">[33]</ref><ref type="bibr" target="#b30">[34]</ref>. Rock drilling, blast, and other sophisticated methods that are used to extract minerals from the rock may result in land use change, leading to excessive noise, deforestation, soil erosion, alteration of soil profiles, contamination of local streams and wetlands, and dust <ref type="bibr" target="#b30">[34]</ref>. From a sustainability perspective, the value of natural beauty for future generations must be fully considered. Generations to come will no longer be able to enjoy the beauty of natural surroundings due to quarrying. Quarrying promotes economic expansion, but at a great cost that will be borne by future generations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Exploration of Key</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.2.">Biodiversity and Quarrying</head><p>Research shows that open mining has a devastating negative impact on the surrounding environment situated nearer the quarry. Activities that are performed result in ecological destruction, destroying natural habitats. Heavy metals are well-known industrial pollutants and have a toxic effect on animals and plants. They accumulate in the food chain and are deadly harmful to both animals and plants <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b31">[35]</ref><ref type="bibr" target="#b32">[36]</ref><ref type="bibr" target="#b33">[37]</ref>. However, quarries, gravel pits, and other open-pit mines can be very beneficial for environmental conservation since they provide untouched habitats for endangered and protected species, according to a number of scientific studies <ref type="bibr" target="#b30">[34,</ref><ref type="bibr" target="#b34">38,</ref><ref type="bibr" target="#b35">39]</ref>. Quarries and gravel pits provide a vital home for plants and animals that are being driven out of other areas by development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.3.">Land Degradation in Relation to Quarrying</head><p>Environmental damage from quarrying activities includes soil displacement, landscape change, and soil infertility. This has been observed to have significant effects on the environment and agricultural industry <ref type="bibr" target="#b0">[1]</ref>. A study by <ref type="bibr" target="#b29">[33]</ref> found that some places may be subject to soil erosion caused by quarrying operations, which results in stormwater runoffs. It has been difficult for most African communities living near quarrying mines because water runoff floods farmlands, and in some cases, these mines pump water from open pits into the river or stream that the community depends on for daily needs and agricultural practices. The humus in the soil, which is necessary for plant growth, is destroyed when surface vegetation is cleared away for quarrying.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10.">Discussion of Various Theoretical Frameworks Used in Assessing Environmental Ethics in Quarrying</head><p>There are different theories that stress the morality that acknowledges the importance of nature. According to the utilitarian perspective, a decision is morally correct if it maximises the good for the greatest number of individuals <ref type="bibr" target="#b36">[40]</ref>. This perspective encourages maximising benefits for humans at the expense of the environment. The greatest good for the greatest number is its guiding principle. This theory's contribution to the field of environmental ethics can be attributed to the fact that it acknowledges that some distant outcomes or anticipated repercussions do matter in moral thinking <ref type="bibr" target="#b37">[41]</ref>. Secondly, the highest moral standard, according to <ref type="bibr" target="#b38">[42]</ref> is to maximise human enjoyment while reducing suffering. The environment is essential in the context of human happiness. The preservation of an environmental life support system is necessary for human satisfaction. Beyond the bare necessities of life, medicine, economic gains, artistic pleasures, and other natural resources with useful qualities are what make people happy. An extended anthropocentric theory claims that humans have a responsibility to protect the environment, protecting the environment is necessary for the welfare of coming generations. Concern for the environment is ultimately for the benefit of the next generation of humans.</p><p>The utilitarian theory is in favour of the intergenerational equity principle. There is a concern for future generations, which is founded on the intergenerational equity principle, according to <ref type="bibr" target="#b36">[40]</ref>. The benefits of nature must be enjoyed by future generations in the same ways that we as the current generation do. This implies that there needs to be a balance between our personal interests and the interests of our descendants. Serving nature is helping the next generation of humans. The long-term consequences of environmental exploitation, including quarrying, marine pollution, etc., will be felt most keenly by humans for many generations in the future. Quarrying is important in South Africa since it helps the country's local economic development. In addition, using the materials that are extracted improves trade and opens job opportunities. According to the Department of Mineral Resources 2017 report, the market study of the construction sector revealed an exponential rise in the actual value added to the GDP during the previous ten years. Human-centred ethics that are solely focused on the advantages of the current generation, such as quarrying, which gives greater emphasis to the country's development and more economic growth, will result in unequal development. This results in growth at the expense of environmental destruction. The impact of it though may not be felt by the present generation its evil effects will be most acutely observed in the lives of future generations.</p><p>Detailing the utilitarian ethical framework, ages ago, Bentham Jeremy, declared that the utilitarian ethical framework establishes morality based on the greatest good for the greatest number <ref type="bibr" target="#b39">[43]</ref>. We can describe Pinchot's conservation in terms of the utilitarian system based on this description. Conservation, in my opinion, might help solve the environmental issues brought on by limestone quarrying. Pinchot lays a solid basis for his conservation ideas, which opened the door for other laws aimed at preserving the environment. Encouraging a better planet for ourselves and our future generations to live in is the main goal of the conservation movement. Pinchot thought it was crucial to resolve conflicts of interest by making decisions based on what would be best for the greatest number of people over the long term. It opposes the wasting of natural resources and, more significantly, it advocates for granting everyone the same access to resources and the advantages they provide. Pinchot defined conservation as "applying common sense to common problems for the common good" <ref type="bibr" target="#b40">[44]</ref> (p. 72).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="11.">Research Methodology</head><p>An investigation was conducted on a case study of a limestone quarry in the Eastern Cape, located in the small community of Sierra. Purposive sampling was used in this investigation. Purposive sampling involves the researcher intentionally choosing research participants based on how well they will fit the study's goals. Research shows that purposive sampling is carried out with a specific goal and based on the researcher's judgment, either on the ownership of the characteristics sought for an in-depth study or on the specific selection or handpicking of information-rich cases <ref type="bibr" target="#b41">[45]</ref><ref type="bibr" target="#b42">[46]</ref><ref type="bibr" target="#b43">[47]</ref><ref type="bibr" target="#b44">[48]</ref>. Purposive sampling is generally utilised to choose appropriate examples and skilled individuals who possess an in-depth understanding of the problem at hand.</p><p>We handpicked the quarry based on its relevance to the problem we were exploring. Through purposive sampling, we selected eight workers who were from the surrounding communities and five members of the community-based organisation (CBO). The participants were a mixture of both genders, and their ages were varied. They were chosen because they were a good source of information for the study.</p><p>Focus groups, also known as discussion groups or group interviews, are popular in social research for using group interview settings for data generation. They are open discussions between the researcher and the research participants, exposing the researcher to different perceptions that the participants hold about a particular topic <ref type="bibr" target="#b42">[46]</ref>. Focus group interviews with the workers and semi-structured interviews with the members of the community-based organisation were major tools to generate data in this study. Case studies benefit from having multiple sources of evidence <ref type="bibr" target="#b45">[49]</ref>. We used semi-structured interviews with the members of the community-based organisation because they allowed us to ask follow-up questions for clarity. By doing so, the trustworthiness of what we were looking for was achieved.</p><p>To create intelligible accounts of data we used a process of data analysis, which involves categorising and re-combining evidence to produce empirically based findings <ref type="bibr" target="#b33">[37,</ref><ref type="bibr" target="#b45">49]</ref>. Data analysis, according to <ref type="bibr" target="#b45">[49]</ref>, is the process of tabulating, analysing, classifying, testing, and recombining evidence to generate conclusions with an empirical foundation. It is possible to create understandable accounts of data through the process of data analysis. According to <ref type="bibr" target="#b42">[46]</ref>, qualitative researchers use data analysis to interpret their findings by looking for patterns, themes, categories, and regularities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.">Quarrying Impact on the Environment: Presentation of Empirical Evidence on the Environmental Impacts of Quarrying Activities</head><p>In exploring the impact of limestone quarrying on the environment, the following questions were discussed:</p><p>• What sociocultural impacts did the quarry have on the people of surrounding communities?</p><p>• What environmental impacts did the quarry have on the communities around it?</p><p>The following subthemes emerged from the data: analysis of social and cultural impacts of limestone quarries on communities and their people, assessment of the ecological consequences on biodiversity and habitat destruction, and examination of the effects on water resources, air quality, and soil erosion. The workers were interviewed separately from the members of community-based organisations. We wanted their views as they were directly involved in the quarry operations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.1.">Analysis of the Social and Cultural Impacts on Local Communities and Indigenous People</head><p>Data shows that people living close to the quarry are more vulnerable to the devastation produced by quarrying operations. Despite the beneficial effects on the local and national economies, the local populations nonetheless confront a variety of significant issues as a result of the quarrying mines <ref type="bibr" target="#b46">[50]</ref>. Research illustrates how mining activities impact the well-being of local communities and the environment. One such scenario involves the interaction between mining enterprises and indigenous populations of the Arctic region, particularly in the extraction of placer diamonds. Ethnological expertise informs these projects, emphasising considerations such as the indigenous community's interests, compensation for damages incurred, support for traditional crafts, and employment opportunities. In another study, gender dynamics within indigenous communities in the Arctic are explored concerning their involvement in mineral extraction projects. This research reveals that indigenous women prioritise environmental preservation and safeguarding their living conditions, while men are more focused on economic aspects such as income and employment opportunities <ref type="bibr" target="#b47">[51,</ref><ref type="bibr" target="#b48">52]</ref>. Beneficial effects of the quarry include giving young people work opportunities and fostering local economic growth. Community members, however, are extremely unhappy with the negative effects and believe the project's promise of a better life was a scam. When mining firms disregard the community or fail to include them in development initiatives aimed at raising living conditions in the areas where they operate, the surrounding communities typically experience actual problems of the mines rather than just imagined ones.</p><p>Data reveal that people in Sierra, especially those who lived close to the quarry, started to notice that their homes were becoming cracked over time. For individuals who remained to farm for subsistence, there was a decrease in annual harvest and a reduction in plant growth, along with a rise in respiratory ailment incidence. Along with the high prevalence of waterborne illnesses among the locals, they also observed that the majority of the animals in the village that drank from the perennial river were certain to become ill. Therefore, the list of detrimental consequences on the community's environment that have resulted from the quarry's operation includes degradation of the biota and habitat, influence on the quality of the water, and contamination of the air and land.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.2.">Assessment of the Ecological Consequences on Biodiversity and Habitat Destruction</head><p>According to the members of the community-based organisation, a portion of the tiny forest was destroyed early in the project to create space for the building of shops, restrooms, offices, and workshops. Because native trees had both commercial and therapeutic uses, their removal led to land deterioration. The loss of trees also disrupted biodiversity since it eliminated some species' habitats. The engineering processes involved in blasting and extraction are directly responsible for the environmental disruption produced by quarrying. The participants identified several clear effects of quarrying, including habitat loss, noise, dust, vibrations, and erosion that alter the geomorphology of the area and modify its use, changing the surrounding visual environment. Although there are other types of machinery used in quarries that cause vibrations, blasting is thought to be a primary contributor <ref type="bibr" target="#b30">[34]</ref>. Data reveals that at Sierra, blasting and drilling are used to extract minerals. The people who live near the blasting zone connect the blasting to the cracks in their homes. They added that a few stone-throwing events have also occurred during the blasting, which has led to a few mishaps like glass shattering in some homes. Karst topography has considerable scenic value, as noted by <ref type="bibr" target="#b49">[53]</ref> a century ago, which amplifies the visual impact of quarrying. They argue that the removal of stones, which is the principal geomorphic impact of quarrying destroys habitats including relics and active caves.</p><p>According to <ref type="bibr" target="#b50">[54]</ref>, caves develop one of the most peculiar terrestrial ecosystems. Such communities are determined for life by the lack of light, and based on the degree of darkness, such environments are divided into the following zones; twilight zone, where various fauna are found; the transition zone of complete darkness where common species which make sorties to the outside world; a zone of deep darkness with full cave-adapted species, and the stagnant zone of darkness, with little air exchange and high concentrations of carbon dioxide. Numerous bat species, such as those that feed on nectar and others that eat insects, spend their nights in the twilight or transition zones of caves. The world's largest known animal colonies are made up of insectivorous bats <ref type="bibr" target="#b51">[55]</ref>. These zones are also home to plants, animals, and birds. The habitat that caves provide disappears as rocks are removed by quarrying, killing off species that have adapted to the deep, stagnant zones mentioned above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.3.">Examination of the Effects on Water Resources, Air Quality, and Soil Erosion</head><p>The participants' responses show that dust polluted the air, and this has been the situation in Sierra Village since the project's inception and the inhabitants have several incidences of respiratory illnesses. They also reported that blasting activities disrupt the groundwater and surface water flow, which lowers the amount and quality of drinking water available to them and wildlife downstream from the quarry site. Water pollution can also be caused by improper waste management. The participants also reported that prior to the development and operation of the quarry, the Sierra community recognised that there were issues with the amount and quality of water. However, the quarry has made things worse because animals are now dying, and the community members must boil and purify water before drinking it to prevent waterborne illnesses.</p><p>Ref. <ref type="bibr" target="#b52">[56]</ref> is of the view that dust is a major cause of air pollution, the intensity of which varies depending on the local climate, the amount of dust particles in the surrounding air, the size of the dust particles, and their chemical makeup. For instance, dust from limestone quarries is primarily alkaline. In addition to its propensity to cause respiratory problems and surface deposition, air pollution can also physically harm plants by abrading their leaves and obstructing or destroying their interior structures <ref type="bibr" target="#b52">[56]</ref>. Surface water flow is altered by quarrying-related engineering activity <ref type="bibr" target="#b31">[35]</ref>. Blasting alters the flow of groundwater, which in turn alters the flow of surface water. Therefore, releasing quarry water into neighbouring streams increases the time between flood occurrences. The dissolution and settling of dust in water bodies is the source of water pollution in the vicinity of limestone quarries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="13.">Results</head><p>The Environmental Impact of Quarrying as an Ethical Crisis Residents in the community have been continuously concerned about all the negative environmental effects of the quarry. The company ignored the neighbourhood and did not know about the laws controlling quarry operations, which led to an ethical dilemma. The harm that the operations cause to people and the environment is the other ethical dilemma. Being a utilitarian who was greatly impacted by Pinchot's conservationism, I firmly believe that the project's execution was immoral since it was unable to provide "the greatest good for the greatest number of people." The project did not improve the community members' quality of life; rather, a small group of wealthy people profited from it constantly. The project also resulted in abandoned quarries with disturbed vegetation and a loss of biodiversity, which is against all conservationist principles. A group of community members came together to form a community-based organisation called "Ikamva-lethu," which means "our future," since they firmly believed that the project needed to be more inclusive and supportive of the community. Ikamva-lethu sought to discuss the best ways to address the community's problems with quarry management. The quarry CEO revealed fresh information a few weeks prior to the start of the engagements. The quarry was being transferred to GT as part of a corporate rescue plan because the quarry company had already racked up ZAR 200 million in debt as a result of losses and lawsuits. Nevertheless, there was a bright spot to those depressing reports: GT management was eager to collaborate with CBOs to improve environmental preservation. After that, Ikamva-lethu was given the assignment to draft suggestions, which they were to provide to the incoming management after the engagements had started. One of the key principles of Ikamva-lethu is that the development must involve the community and the quarry must function and grow in harmony with the surrounding ecosystem.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="14.">Recommendations Using Principles of Conservationism</head><p>Ikamva-lethu's recommendations to the new management are all well-guided by the fundamentals of conservationism. The authors of <ref type="bibr" target="#b53">[57]</ref> distilled the concepts of conservationism into three main points: distribution of resources to all people, prevention of waste, and development. Pinchot was adamant about growth because he thought that conservation necessitated both forward-thinking planning and prioritising the rights and needs of the current generation. This idea, in my opinion, is right in line with what Ikamva-lethu stands for. They are not opposed to mineral extraction, but they do require that quarrying be conducted in a way that is environmentally friendly and takes into account the health and safety of the public as well as the natural environment. Planning and executing correctly will be the most effective way to do this. The authors of <ref type="bibr" target="#b53">[57]</ref> recognised the finite nature of resources and the need to exercise caution to avoid squandering them. To ensure that operating procedures are planned sustainably and that less waste is generated, Ikamva-lethu needs to bring this fact to the attention of the new management.</p><p>Pinchot was a fervent supporter of equitable resource distribution and did not only believe in development; rather, he believed in development that benefited the greatest number of people. In my opinion, the quarry fell short in this regard; years after the project started, not a single community member owned a part of the quarry. Ikamva-lethu and GT management must collaborate closely to develop plans for enabling the fair distribution of minerals in the quarry, whether in the form of shares or royalties. Pinchot thought it was crucial to resolve conflicts between interests by making decisions based on "the greatest good for the greatest number in the long run" <ref type="bibr" target="#b40">[44]</ref>.</p><p>Adopting conservationism, in my opinion, would help to guarantee that community members' grievances are addressed and that more people will ultimately profit from the initiative. Most criticisms levelled at conservationism claim that it is overly anthropocentric. While I agree that conservationism frequently has a greater concern for human welfare, it also acknowledges that society and nature are interdependent, that human welfare depends on the welfare of nature, and that nature occasionally needs human interaction to maintain the integrity of its evolutionary cycle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="15.">Incorporating Conservationism to Mitigate the Negative Environmental Impact</head><p>The quarry project prioritised the extraction and exploitation of minerals, with little regard for the project's effects on human health and safety or the environment. Since the project's inception, the environmental authorisation requirements have not been strictly followed. However, the Sierra community is aware of what <ref type="bibr" target="#b3">[4]</ref> (p. 11) means when he states that "vigilance from everyone involved is required for a project to succeed." They are prepared to collaborate with the developers to make the quarry project a success and to guarantee that the development will not negatively impact their environment, public health, or safety. They understand that environmental conservation is the responsibility of all parties. According to the chairperson of Ikamva-lethu, the developers' lack of environmental planning and consideration during the project's early phases is to blame for several issues related to the quarry. He went on to say that the community wanted GT to take responsibility for all the social evils the quarry firm had created over the years by meticulously planning all of its operations and putting in place stringent mitigation strategies and appropriate monitoring equipment. They anticipate that the new management will address the problem of skills transfer and that GT will implement a socioeconomic program aimed at empowering the community and giving them a stake in the quarry.</p><p>Following the guidelines of conservationism, Ikamva-lethu needs to properly inform the GT management of the following corrective measures:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Correct planning of the corrective measures is necessary. The corrective measures should take precedence over sustainable development and concentrate more on methods to stop the degradation of landforms, habitats, garbage, etc. • To guarantee that the project will please developers and community members and achieve "the greatest good for the greatest number of people in the long run," common grounds for decision-making for each challenge must be developed. • To ensure that the interests of the community and developers are aligned over the long term, platforms must be established to maximise community involvement.</p><p>Taking into account Sierra's current situation, the following suggestions and mitigating measures are offered; it is advised that the new administration incorporate them into their EMP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Research should be conducted to find out what can be completed to restore the environment, such as revegetating old quarries and using restoration blasting-a carefully planned method of blasting carbonate rock quarries that, according to <ref type="bibr" target="#b54">[58]</ref>, can create buttresses, talus slopes, and headwalls that can be revegetated to produce plant assemblages and landforms that resemble those that naturally occur on valley sides. Examining the effects of gold mining on both the economy and the environment, a case study in Ecuador illustrates efforts to mitigate past environmental damage. Notably, former mine sites are evaluated for their potential in tourism development, aiming to generate employment opportunities and income for local residents, while also addressing existing environmental and social challenges <ref type="bibr" target="#b55">[59]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Suggest moving those who live near the blast zone; doing so will protect their health and safety by removing the possibility of homes falling and hurting families. The Constitution of South Africa Act, and the Interim Protection of Informal Land Rights Act, must be followed if residents living near the explosion zone consent to the relocation. These legislative clauses guarantee that the affected groups receive just and equal treatment and that no one will be in a worse situation than they are in at the moment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>In order to remove vibrations, it is necessary to monitor the vibrations and notify the community members when blasting is scheduled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Installation of dust control devices, such as water sprinklers, at the unit level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Use geographic information systems (GIS) to create a framework for assessing water quality and a standard syntax for it. To give decision-makers using water resources a solid foundation, these systems need to facilitate forecasting of water quality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Investigate waste prevention techniques to ensure that generated by-products do not wind up in water sources; this will also help to preserve scarce resources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Increase community involvement, especially when it comes to environmental conservation; to do this, community trust needs to be built, and measures need to be taken to guarantee that a share of the quarry's ownership is given to locals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="16.">Conclusions</head><p>Measures for the extraction of minerals should be approached comprehensively, harmonise the interests of all the people involved, from the standpoint of environmental ethics, taking into account the social and moral aspects of people's lives, their culture, ethnicity, traditions, etc. In this case, moral behavior is a key component of environmental ethics.</p><p>The negative impacts of limestone quarries need to be carefully managed through proper planning, regulation, and implementation of best practices to maximise the gains while minimising the adverse effects on the environment and local communities. Planning with the future in mind can help minimise a quarry's environmental impact during its operational phase, according to <ref type="bibr" target="#b56">[60]</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Land use and environmental sensitivity.</figDesc><graphic coords="2,76.17,434.56,443.02,254.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Land use and environmental sensitivity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Locality map.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Locality map.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Map showing contour lines indicating the topography of the site and surrounding areas [9].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Map showing contour lines indicating the topography of the site and surrounding areas [9].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>Concepts: Sustainability, Biodiversity, and Land Degradation in Relation to Quarrying 9.1. Sustainability and Quarrying</figDesc></figure>
+		</body>
+		<back>
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding: This research received no external funding.</p><p>Institutional Review Board Statement: Not applicable.</p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement:</head><p>The data are unavailable due to privacy or ethical restrictions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Environment and social impacts of stone quarrying: Southwestern-Ethiopia, in case of bahir dar zuria wereda zenzelma kebele</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Endalew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Res. Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="29" to="38" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mine reclamation planning and management: Integrating natural habitats into post-mining land use</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hendrychová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Svobodova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kabrna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<date type="published" when="2020">2020. 101882</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Critical Issues of Sustainability Associated with Quarry Activities</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ojeaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chinelo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Crimson Publishers</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mudd</surname></persName>
+		</author>
+		<title level="m">The Environmental sustainability of mining in Australia: Key mega-trends and looming constraints. Resour. Policy</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="98" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Evidence Informed Policy Making in South Africa</title>
+		<ptr target="https://www.dffe.gov.za/sites/default/files/reports/report_guidelinesgoodpractices_evidencefromed_policymaking.pdf" />
+		<imprint>
+			<date type="published" when="2023-11-11">2023. 11 November 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Environmental Affairs</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<ptr target="https://www.gov.za/documents/constitution/constitution-republic-south-africa-act-200-1993-repealed-28-jan-1994" />
+		<title level="m">The Constitution of the Republic of South Africa Act</title>
+		<imprint>
+			<date type="published" when="1993-11-11">1993. Act 200 of 1993. 11 November 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reader&apos;s Digest Illustrated Guide to Southern Africa; The Reader&apos;s</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mayhew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Handler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Bulpin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digest Association South Africa (Pty) Limited: AAChappaqua</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<pubPlace>NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Hatch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Corstorphine</surname></persName>
+		</author>
+		<title level="m">The Geology of South Africa</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan</publisher>
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<ptr target="https://www.ecedtea.gov.za/documents/" />
+	</analytic>
+	<monogr>
+		<title level="m">GNR%20326%20EIA%20Regulations%207%20April%202017.pdf</title>
+		<imprint>
+			<date type="published" when="2017-04-07">7 April 2017. 10 September 2023</date>
+			<biblScope unit="volume">324</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Measurement and Rating of Environmental Noise with Respect to Land Use, Health, Annoyance and to Speech Communication</title>
+		<ptr target="https://sahris.sahra.org.za/sites/default/files/additionaldocs/" />
+	</analytic>
+	<monogr>
+		<title level="m">Appendix%20K%20 Noise%20Impact%20Assessment%20Report%20</title>
+		<imprint>
+			<date type="published" when="2008-11-11">2008. 2009. 2008. 11 November 2023</date>
+		</imprint>
+	</monogr>
+	<note>SANS 10103</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Edition 1.1-Ambient Air Quality Limits for Common Pollutants</title>
+		<author>
+			<persName><surname>Sans</surname></persName>
+		</author>
+		<ptr target="https://cer.org.za/wp-content/uploads/2014/06/2014-05-30-FA16-Ambient-AQ-Standards-Discussion-Document-30-10-2007.pdf" />
+		<imprint>
+			<date type="published" when="1929">1929. 2005. 2005. 11 November 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Iron age patterns and Sotho history on the southern highveld: South Africa</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Archaeol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="318" to="332" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Remote sensing in management of mining land and proximate habitat</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Koruyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deliormanli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Karaca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Momayez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yalçin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. South. Afr. Inst. Min. Metall</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="667" to="672" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">An overview of the Permian (Karoo) coal deposits of southern Africa</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cairncross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Afr. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="529" to="562" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stone quarrying induces organ dysfunction and oxidative stress in meriones libycus</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Al-Otaibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Ajarem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Abdel-Maksoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maodaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Allam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Al-Basher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Mahmoud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Ind. Health</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="679" to="692" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Impact of Stone Quarrying on the Environment and the Livelihood of Communities in Mandera County</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ming'ate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mohamed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kenya. J. Sci. Res. Rep</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Lime in South Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K E</forename><surname>Douglas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. South. Afr. Inst. Min. Metall</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="13" to="24" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Dolomite and Limestone in South Africa: Supply and Demand</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Agnello</surname></persName>
+		</author>
+		<ptr target="https://www.dmr.gov.za/LinkClick.aspx?fileticket=yRfl_ElkxDE=&amp;portalid=0" />
+		<imprint>
+			<date type="published" when="2005-11-11">2005. 2005. 11 November 2023</date>
+		</imprint>
+	</monogr>
+	<note>Department of Minerals and Energy. Pretoria, 1-67</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Environmental Ethics and Sustainability: A Casebook for Environmental Professionals</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Taback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Boca Raton, FL, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Loubser</surname></persName>
+		</author>
+		<title level="m">Environmental Education: Some South African Perspectives</title>
+		<meeting><address><addrLine>South Africa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pretoria</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.; Van Schaik</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The river of the mother of God</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leopold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The River of the Mother of God and Other</title>
+		<editor>
+			<persName><forename type="first">Aldo</forename><surname>Leopold; Flader</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Callicott</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Madison, WI, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Wisconsin Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="123" to="278" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Health impact assessment of quarrying in some parts of southwestern Nigeria</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ajibade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Olisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oladipupo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Adegoke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Adebayo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arab. J. Geosci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Stone quarrying and livelihood transformation in peri-urban Kumasi</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Asante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Afriyie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Res. Humanit. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="93" to="197" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Searching and cracking: Stone quarrying, livelihood and the environment in the daglama quarry site in the ho municipality. West Afr</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bewiadzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Awubomu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Glover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Environmental impact of quarrying of building stones and laterite blocks: A comparative study of two river basins in Southern Western Ghats</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vandana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shiekha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Maya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Padmala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">India. Environ. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Impact of aggregate quarrying and crushing on socio-ecological components of Chottanagpur plateau fringe area of India</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Swades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mandal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">661</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effect of quarrying activity on biodiversity: Case study of Ogbere site, Ogun state Nigeria</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lameed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ayodele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Afr. J. Environ. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="740" to="750" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Investigation of environmental effect of stone quarrying activities on soil and water in akpoha and ishiagu communities of ebonyi state</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kalu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ogbonna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nigeria. Int. J. Constr. Manag</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1185" to="1199" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impact of quarrying gypsum in a semidesert karstic area</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pulido-Bosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Calaforra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Pulido-Leboeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Torres-García</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Geol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="583" to="590" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Sorbas, SE Spain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Application of the dpsir framework to environmental degradation assessment in northern Ghana</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Agyemang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Natural Resources Forum</title>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell Publishing Ltd</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="212" to="225" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effects of quarry activities on some selected communities in the lower Manya Krobo district of the eastern region of Ghana</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Nartey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Nanor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Klake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmos. Clim. Sci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Environmental impact assessment of quarries and stone cutting industries in Palestine: Case study of Jammain</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sayara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Prot. Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="32" to="38" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName><forename type="first">V</forename><surname>Munnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hochmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hlabane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Law</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Social and Environmental Consequences of Coal Mining in South Africa; Environmental Monitoring Group: Cape Town</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Oxford Handbook of Qualitative Research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leavy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Heavy metal polluted soils: Effect on plants and bioremediation methods</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">U</forename><surname>Chibuike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Obiora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Soil Sci</title>
+		<imprint>
+			<date type="published" when="2014">2014. 2014. 752708</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Effects of hydromorphological integrity on biodiversity and functioning of river ecosystems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elosegi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Díez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">657</biblScope>
+			<biblScope unit="page" from="199" to="215" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Value of Nature: Utilitarian Perspective</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Udoudom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GNOSI Interdiscip. J. Hum. Theory Prax</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="31" to="46" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Assessing the public perceptions of treated wastewater reuse: Opportunities and implications for urban communities in developing countries</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">E</forename><surname>Akpan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Omole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bassey</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Heliyon 2020, 6, e05246. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Anthropocentrism vs. nonanthropocentrism: Why should we care? Environ. Values</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcshane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="169" to="185" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Crimmins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Bentham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Greatest Good for the Greatest Number in the Long Run: TR Pinchot and the Origins of Sustainability in America</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<ptr target="http://scholar.law.colorado.edu/articles/59" />
+		<imprint>
+			<date type="published" when="2015-09-03">2015. 3 September 2023</date>
+			<biblScope unit="page">72</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>University of Colorado Law School</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Introducing Qualitative Research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nieuwenhuis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Pretoria</publisher>
+			<pubPlace>South Africa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Manion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keith</surname></persName>
+		</author>
+		<title level="m">Research Methods in Education; Routledge: London, UK</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Your Guide to Case Study Research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>John</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Van Schaik Publishers: Pretoria, South Africa</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">How to Design and Evaluate Research in Education</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Fraenkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>McGraw-Hill Companies</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Yin</surname></persName>
+		</author>
+		<title level="m">Case Study Research: Design and Methods; SAGE: Newcastle upon</title>
+		<meeting><address><addrLine>Tyne, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Communities-company relation in limestone mining region of southwest Nigeria: The ewekoro socioeconomic view</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Afeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adeogun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Dev. Econ. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="85" to="98" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Sustainable development of the arctic indigenous communities: The approach to projects optimization of mining company</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Novoselov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Potravny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Novoselova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gassiy</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Sustainability 2020, 12, 7963. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Economic Behavior of the Indigenous Peoples in the Context of the Industrial Development of the Russian Arctic</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Potravnaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="101" to="126" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Limestone quarrying and quarry reclamation in Britain</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Geol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="167" to="172" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Biodiversity and Cultural Property in the Management of Limestone Resources: Lessons from East Asia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Whitten</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>The World Bank</publisher>
+			<pubPlace>Washington, DC, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Living with Karst: A Fragile Foundations</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Veni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Duchene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Groves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Huppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Kastning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Wheeler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>American Geological Institute</publisher>
+			<pubPlace>Alexandria, VA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Effects of Quarrying Activities on the Environment in Nairobi County: A Case Study of Embakasi District</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Eshiwani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1" to="78" />
+			<pubPlace>Nairobi, Kenya</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Nairobi Research Archive</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A fight for conservation by Gifford Pinchot</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pinchot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Double Day</title>
+		<imprint>
+			<biblScope unit="volume">1910</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Potential Environmental Impacts of Quarrying Stone in Karst-A Literature Review</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Langer</surname></persName>
+		</author>
+		<ptr target="http://geology.cr.usgs.gov/pub/ofrs/OFR-01-0484/" />
+		<imprint>
+			<date type="published" when="2001-07-01">2001. 1 July 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Gold mining impact assessment on the economy and the environment in Ecuador</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Chavez Ferreyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Potravny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gorn. Z</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="62" to="65" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Reclamation and environmental management in dimension stone mining</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ashmole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Motloung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SAIMM</title>
+		<imprint>
+			<biblScope unit="page" from="156" to="178" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher&apos;s Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

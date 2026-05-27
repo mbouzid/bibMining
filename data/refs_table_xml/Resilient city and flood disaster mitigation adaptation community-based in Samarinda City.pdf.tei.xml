@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Resilient city and flood disaster mitigation adaptation community-based in Samarinda City</title>
+				<funder ref="#_Taw9QkF">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rini</forename><surname>Rachmawati</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Doctoral Study Program in Geography</orgName>
+								<orgName type="department" key="dep2">Faculty of Geography</orgName>
+								<orgName type="institution">Universitas Gadjah Mada</orgName>
+								<address>
+									<postCode>55281</postCode>
+									<settlement>Yogyakarta</settlement>
+									<country key="ID">Indonesia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Development Geography</orgName>
+								<orgName type="department" key="dep2">Faculty of Geography</orgName>
+								<orgName type="institution">Universitas Gadjah Mada</orgName>
+								<address>
+									<postCode>55281</postCode>
+									<settlement>Yogyakarta</settlement>
+									<country key="ID">Indonesia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Iswari</forename><forename type="middle">Nur</forename><surname>Hidayati</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Geographic Information Science</orgName>
+								<orgName type="department" key="dep2">Faculty of Geography</orgName>
+								<orgName type="institution">Universitas Gadjah Mada</orgName>
+								<address>
+									<postCode>55281</postCode>
+									<settlement>Yogyakarta</settlement>
+									<country key="ID">Indonesia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Slamet</forename><surname>Suprayogi</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Environmental Geography</orgName>
+								<orgName type="department" key="dep2">Faculty of Geography</orgName>
+								<orgName type="institution">Universitas Gadjah Mada</orgName>
+								<address>
+									<postCode>55281</postCode>
+									<settlement>Yogyakarta</settlement>
+									<country key="ID">Indonesia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Resilient city and flood disaster mitigation adaptation community-based in Samarinda City</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9BAA95074AD0D09012026FD73B0EA76C</idno>
+					<idno type="DOI">10.1016/j.jum.2025.12.004</idno>
+					<note type="submission">Received 30 April 2025; Received in revised form 11 November 2025; Accepted 14 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>City resilience Flood disaster Urban resilience index Community-based adaptation Rap resilience city</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A resilient city is a concept that refers to a city's ability to survive, adapt, and recover from various disturbances, including natural disasters such as floods. A resilient city does not only depend on strong physical infrastructure, but also on its social, economic, and institutional capacities. The application of the resilient concept means strengthening the community's ability to participate in the planning and implementation of flood mitigation strategies. To achieve resilient community resilience in cities, it is necessary to enhance the capacity of urban communities to anticipate the impacts of disasters. The objective of this study is to analyse the resilience of the community of Samarinda City to flood disasters. The research used quantitative methods with data collection through questionnaires. The population in the study was 1500 households directly affected by flooding, and the sample consisted of 316 households spread across 10 subdistricts. Data analysis used the Rap Resilient City unit of analysis with the MDS method using SPSS with parameters of multidimensional dimensions, ecological dimensions, economic dimensions, socio-cultural dimensions, ethical dimensions, and technological dimensions. The research results show that the resilience of Samarinda City is divided into two resilience index values: the multidimensional aspect is categorized as moderately sustainable (56 MDS), the economic dimension (61 MDS), and the socio-cultural dimension (61 MDS). These dimensions are moderately sustainable due to the increase in mining and industrial areas in Samarinda City, which has influenced the socioeconomic conditions of the community. while the index values for the ethical dimension (50 MDS), ecological dimension (49 MDS), and technological dimension (47 MDS) are less sustainable. This is due to land use changes, insufficient early warning system facilities, and developed land in riverbank areas. The findings reveal a gap between the economic dimension and the ethical, ecological and technological dimensions in achieving a resilient urban community. Achieving resilient urban community resilience requires a holistic approach by integrating various dimensions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Climate change has become a global challenge that directly impacts ecological, social, agricultural, and water systems, especially in urban areas. Climate change is characterised by rising global temperatures and sea levels, as well as an increased frequency and intensity of extreme weather events, including heavy rainfall, which is becoming increasingly unpredictable <ref type="bibr" target="#b16">(IPCC, 2007)</ref>. Global climate change has led to natural disasters, including floods, which often have a significant impact on urban areas. Large cities, especially in developing countries like Indonesia, face serious challenges in terms of resilience, adaptation, and disaster mitigation <ref type="bibr" target="#b34">(Subair et al., 2015)</ref>. Climate change poses a challenge to urban communities as cities continue to grow <ref type="bibr" target="#b8">(Carmin et al., 2012;</ref><ref type="bibr" target="#b22">Leichenko, 2011)</ref>.</p><p>Indonesia is one of the countries experiencing the impacts of global climate change and is highly vulnerable to natural disasters <ref type="bibr" target="#b10">(Crunch, 2020)</ref>. The impacts of climate change in urban areas include high rainfall intensity, which contributes to hydrometeorological disasters such as floods, and changes in land use that are inconsistent with ecological principles <ref type="bibr">(Adger, 2003;</ref><ref type="bibr" target="#b7">Bryant, 2005)</ref>. In addition to the issue of flooding, urbanisation presents a range of challenges for cities. These include imbalances in development, environmental concerns, waste management, water and air pollution, slum settlements, and changes in land use <ref type="bibr" target="#b17">(Ischak, 2015)</ref>. As urbanisation rates increase, cities simultaneously evolve and become increasingly susceptible to various risks <ref type="bibr">(Sander Van Der Leeuw, 2018)</ref>. Urban issues will result in property damage and loss of life for communities <ref type="bibr" target="#b28">(Pahleviannur et al., 2023)</ref>.</p><p>Samarinda City is one of the cities that is vulnerable to the impacts of climate change and flood disasters. As demonstrated in the research, the city of Samarinda is predisposed to significant risk of flooding due to the confluence of several geophysical factors, including high rainfall intensity, extensive areas of faulting and plains, swamps, undulating terrain, and the presence of 20 river basins <ref type="bibr">(BPBD Samarinda City, n.d.)</ref>. These findings are supported by a thorough disaster risk assessment (KRB). Flood disasters remain an unresolved problem, necessitating mitigation and adaptation strategies to enhance community resilience <ref type="bibr" target="#b21">(Khan et al., 2022)</ref>. Major cities face challenging urban resilience issues <ref type="bibr" target="#b31">(Renald et al., 2016)</ref>. To assess the resilience of urban communities, it can be seen from the environmental aspects, the social dimension of the community, the economic and technological dimensions <ref type="bibr" target="#b15">(Godschalk., 2003;</ref><ref type="bibr" target="#b11">Cutter et al., 2008)</ref>. The capacity of urban communities to withstand various forms of pressure without incurring significant harm is indicative of their resilience. A resilient city is defined by its ability to anticipate, survive, and recover from the impacts of disasters. In addition to government efforts and policies, it must be accompanied by community participation and awareness <ref type="bibr" target="#b36">(Twigg, 2004;</ref><ref type="bibr" target="#b30">Rachmawati &amp; Budiarti, 2016)</ref>. Achieving city resilience is contingent upon the existence of a resilient community. To mitigate the impact of potential disasters, it is essential that communities establish early warning systems, conduct evacuation drills, and implement mitigation actions <ref type="bibr" target="#b29">(Qasim et al., 2015;</ref><ref type="bibr" target="#b9">Chen &amp; Cong, 2023)</ref>.</p><p>The notion of resilient urban communities necessitates the integration of multiple dimensions that are interdependent. Urban resilience can be achieved when communities exhibit a certain level of disaster resilience <ref type="bibr" target="#b37">(Twigg, 2015;</ref><ref type="bibr" target="#b20">Khairunisa &amp; Alwin, 2022)</ref>). In disaster contexts, resilient urban communities typically possess strengths across several domains, including economic, informational, and social capital, as well as effective communication and organisational capacity <ref type="bibr" target="#b26">(Norris et al., 2008)</ref>. The ability of urban communities to demonstrate such resilience largely depends on their capacity for collective organisation and coordinated action <ref type="bibr" target="#b1">(Ainuddin &amp; Routray, 2012)</ref>.</p><p>The problem of flooding in the city of Samarinda has a major impact on the socio-economic stability of the community and the infrastructure system. Despite various mitigation efforts that have been made, the level of resilience of the people of Samarinda has not been widely studied. This study seeks to address this gap with a comprehensive multidimensional analysis of ecological, economic, socio-cultural, ethical, and technological dimensions. The novelty of this study lies in its multidimensional approach. Therefore, the objective of this study is to analyse the resilience of the Samarinda community to flooding by examining multiple dimensions, including ecological, economic, socio-cultural, ethical, and technological dimensions. This research is of significance in addressing the issues and challenges faced by urban communities and in strengthening the resilience of Samarinda City as a supporting city for the Nusantara Capital City (IKN). The objective is to prepare a resilient urban community and a resilient urban system against flood disasters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1.">Literature review</head><p>The following concepts of urban resilience have been implemented in various countries: Community Based Resilience Analysis (CoBRA), the development of this concept was motivated by the necessity to evaluate the resilience of communities to the impact of drought disasters. The concept of resilience, as it pertains to arid regions, has been developed specifically for African countries, utilising a five-dimensional framework encompassing the social, financial, natural, human, and physical dimensions. The concept under discussion here focuses exclusively on the capacity of local communities to adapt to drought disasters <ref type="bibr">(UNDP, 2015)</ref>. The City Resilience Index (CRI), this concept is utilised to evaluate and monitor the various factors that influence the resilience of urban areas around the world. This concept further develops the understanding of the systems, processes, and functions that shape urban resilience. The dimensions utilised in this study encompass health, economy, infrastructure, environment, and governance <ref type="bibr" target="#b3">(Arup, 2015)</ref>. The Baseline Resilience Indicator for Communities (BRIC), the development of this concept was undertaken for the United States of America, with a comparison of states with each other being the method of choice. Conceptually, BRIC is better placed to understand the factors driving the resilience of a U.S. state and to monitor improvements in resilience over time <ref type="bibr" target="#b12">(Cutter &amp; Habets, 2025)</ref>. This concept employs data-based indicators to assess community adaptation capacity, but is macro-level and interprets cities in terms of global climate resilience <ref type="bibr" target="#b39">(Brugge et al., 2005)</ref>. The Resilience Capacity Index (RCI) <ref type="bibr" target="#b35">(Teaman, 2011)</ref>. This concept was developed by a member of BRR (Building Resilient Regions) to measure how well a city can adapt to disaster pressures based on the strengths and weaknesses of economic and socio-demographic dimensions. The RCI is exclusively utilised within metropolitan areas. The concept under discussion aims to identify socioeconomic inequalities; however, its application is limited to environmental and governance aspects. The Climate and Disaster Resilience Initiative (CDRI). The CDRI concept is one of the concepts utilised to measure the level of urban resilience in Asian countries, including Indonesia, against climate-related or hydrometeorological disasters. The CDRI is a tool that is applied to identify the strengths and weaknesses of an area that is frequently affected by disasters. In this process, climate and environmental aspects are taken into account <ref type="bibr" target="#b18">(Joerin &amp; Shaw, 2011)</ref>. The five resilience concepts under discussion utilise diverse approaches, ranging from the urban scale (CRI, BRI, RCI, CDRI) to the community scale (COBRA). The present study employs a multidimensional resilience analysis approach to comparatively analyse extant concepts at the micro level. The aforementioned approach encompasses economic, socio-cultural, environmental, ethical and technological aspects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study area</head><p>The research was conducted in the city of Samarinda, located on the island of Kalimantan. Geographically, Samarinda is located along the equator at latitude 0 • 21′18"-0 • 9′16" and longitude 116 • 15′16"-117 • 24′16". The city covers an area of 71,800 ha, and is divided by the Mahakam River. Its territory is adjacent to the districts of Muara Badak and Tenggarong to the north; Anggana to the east; Sanga-Sanga and Loa Janan to the south; and Loa Kulu and Tenggarong to the west. The city of Samarinda is administratively divided into 10 districts, with the administrative centre located in the Samarinda City district. The geographical location of the research is illustrated in Fig. <ref type="figure" target="#fig_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Research design</head><p>The research design utilised quantitative data, with Rap Resilience City serving as the unit of analysis, to assess the resilience of the Samarinda City populace in the face of flooding. The unit of analysis for the study, namely the Rap Resiliency City, was approached via the MDS method, which was employed in several stages. The various stages of the process are illustrated in Fig. <ref type="figure" target="#fig_2">2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Data sources and types</head><p>The data utilised in this study was obtained from two sources. The primary data obtained from questionares collected communities directly affected by flooding in Samarinda City. Secondary data was obtained from reports by the Regional Disaster Management Agency (BPBD) of Samarinda City regarding the affected areas and the number of households (HH) impacted by the flood disaster, and from the Housing and Settlement Department of Samarinda City regarding the number of houses affected by the flood disaster. Relevant government documents related to urban resilience and flood disasters were also consulted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Study population and sample</head><p>The research population consists of 1500 households in Samarinda City affected by flooding (BPBD Samarinda City, 2024). The sample with a sample size of 316 households, taking into account representation from various areas affected by flooding using the Slovin formula. The sample size was determined as follows:  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Instrumentation, reliability, and validation</head><p>The study utilised a questionnaire incorporating a Likert scale. Initially, the questionnaire was administered to disaster awareness groups and experts in the field of urban disasters. In light of the feedback provided in the pretest comments, several questions were subjected to revision, including the utilization of general language and the formulation of inquiries concerning the reasons behind the community's continued habitation in flood-prone areas. The questionnaire was completed within a time frame of 7 min, and field observations were conducted in July 2024 in the city of Samarinda.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Sampling procedure</head><p>The sampling procedure is based on population density distribution and flood vulnerability (affected areas). The following is the distribution of sample collection: 1. The Samarinda Utara Subdistrict (84 households) 2. The Samarinda City Subdistrict (74 households). 3. The Palaran Subdistrict (63 households). 4. The Loa Janan Ilir Subdistrict is inhabited by 13 households. 5. The Samarinda Ilir Subdistrict (13 households). 6. The Samarinda Seberang District (14 households) is a notable example of this phenomenon. 7. The Samarinda Ulu District (13 households). 8. The Sambutan District comprises 14 households. 9. The district of Sungai Kunjang is comprised of 14 households. 10. The district of Sungai Pinang comprises 14 households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Data collection</head><p>The quantitative research method, utilising the Rapid Resilience City analysis unit, was employed to analyse the resilience of urban communities. This approach enabled a multidimensional assessment of the factors deemed crucial for the resilience of urban communities to flood disasters, encompassing ecological, economic, socio-cultural, ethical, and technological dimensions. The evaluation of each dimension is facilitated by indicators that reflect the capacity of urban communities to manage and adapt to flood disaster risks <ref type="bibr" target="#b25">(Moser, 2016;</ref><ref type="bibr" target="#b35">Teaman, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8.">Data analysis</head><p>To analyse the sustainability of flood-prone cities, the Multi-Dimensional Scaling (MDS) sustainability test was employed, utilising the modified Rapid Resilient City analysis unit based on Rapid Assessment Techniques for Fisheries <ref type="bibr" target="#b2">(Alder et al., 2000)</ref>. The methodological framework encompasses the following stages: first, an assessment of the current condition of flood-prone cities; second, a review of attributes <ref type="bibr">(ecological, economic, socio-cultural, ethical, and technological dimensions)</ref>; third, the determination of scores; fourth, multidimensional scaling; fifth, Monte Carlo analysis; sixth, leverage analysis; and seventh, sustainability analysis of city resilience. MDS interprets the S-Stress and R2 values as follows: values less than 0.25 or S or &lt;0.25 and R2 approaching 1. The scale of the sustainability index ranges from 0 to 100. In this study, the city's sustainability status is divided into four categories, as outlined below:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.9.">Ethical considerations</head><p>The researchers prepared a letter of introduction requesting research permission from UGM for the Samarinda City government, which was then forwarded to the sub-district and neighbourhood (RT) levels. Furthermore, when distributing questionnaires to the community, the researchers provided a concise explanation of the research's objective, emphasising that participation in the study was voluntary and could be discontinued at any time. The identities of the informants were kept entirely anonymous (see Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Analysis of the sustainability of flood-prone cities in Samarinda</head><p>The findings of the multidimensional resilience analysis of Samarinda City yielded a city resilience sustainability index value of 56 MDS for the disaster-prone area. This value indicates that the resilience of Samarinda City is quite sustainable. As demonstrated in Table <ref type="table" target="#tab_1">2</ref>, the values of the sustainability index for each dimension, the stress values, and R2 can be found.</p><p>As demonstrated in Table <ref type="table" target="#tab_1">2</ref>, the stress value from the multidimensional test is relatively low at 0.14, with a coefficient of determination R2 of 0.94. Consequently, the findings of the ecological, economic, social, cultural, ethical and technological sustainability analysis are favourable, with stress values being adequately low (&lt;0.25) and the highest coefficient of determination (R 2 ) being 0.97 and the lowest 0.91. The findings concerning these variables suggest that each variable is, in effect, employed to a satisfactory degree in explaining the index and status of the sustainability resilience of Samarinda City. Nevertheless, improvements are required in the technological and ecological dimensions.</p><p>As illustrated in Fig. <ref type="figure" target="#fig_3">3</ref>, the multidimensional sustainability of flood-prone cities is evaluated as being moderately sustainable in terms of economic and socio-cultural dimensions. The ecological and ethical dimensions are categorized as less sustainable due to ecological conditions in Samarinda City, including land use conversion and increased industrial mining areas, particularly in Palaran District, North Samarinda District, Sungai Kujang District, and Lower Samarinda District. Moreover, the technological dimension is  regarded as being of lesser sustainability, primarily due to the restricted availability of disaster management infrastructure and the substantial concentration of technological facilities within Samarinda City District, which functions as the administrative core. In order to enhance the sustainability status of the city, it is essential to optimise the management of sensitive dimensions that significantly influence the aspects of sustainability in flood-prone urban resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Sustainability of the economic dimension of Samarinda City resilience</head><p>The analysis yielded results that indicate the community resilience index of Samarinda City in the economic dimension to be fairly sustainable, with an index of 61.00. This is attributable to the fact that the average income of people affected by flooding is derived from employment in the mining industry. The economic sustainability index for urban resilience in disaster-prone areas is presented in Table <ref type="table" target="#tab_2">3</ref>.</p><p>The economic dimension is a key indicator in determining the sustainability of urban resilience in the economic dimension, namely community income affected by flooding (30.87) and community income management in handling flooding (26.57). These two indicators are primarily due to the fact that the majority of the population works as civil servants or in the coal mining industry, which offers above-average incomes and provides health and disaster insurance through their employers. Meanwhile, the lowest index value is in the employment opportunity indicator in flood-prone areas outside the mining sector (9.84). A portion of the population resides in Samarinda City District as the administrative and commercial center, Samarinda North District, Palaran District, Sungai Kujang District, Samarinda Lower District, Samarinda Upper District, and Sambutan District, which are industrial mining areas. Based on the economic dimension, it can be concluded that to enhance the sustainability of urban community resilience in flood-prone areas, efforts must be made to provide employment opportunities and increase alternative income sources for communities during and after floods, enabling them to sustain their families independently. Another action that the government must take is to allocate sufficient budgets from both the national and regional budgets to manage flood disasters and encourage investment activities to boost community economic growth. The economic dimension plays a significant role in reducing disaster risks in an area, as economic vulnerability reflects the fragility of a community in facing disasters <ref type="bibr" target="#b28">(Pahleviannur et al., 2023)</ref>.  Source: Research Data Processing Results (2024)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Sustainability of the socio-cultural dimension of Samarinda City resilience</head><p>Based on the analysis results, the social and cultural resilience index of Samarinda City shows a fairly sustainable status with an index of 61.00. This sustainability is due to the participation of disaster awareness groups based in Samarinda City, as shown more clearly in Table <ref type="table" target="#tab_3">4</ref>.</p><p>The sensitive indicators that are key factors in determining the resilience of the community of Samarinda City in the socio-cultural dimension are community groups and NGOs in disaster management (11.29), non-governmental organizations (NGOs) engaged in disaster management and community participation (9.64). These two indicators are high due to the average educational level of the community being bachelor's degree holders and the formation of disaster-aware communities by indigenous peoples. the lowest index value is in limited access to disaster information in communities with primary school education and illiteracy. Some of the community lives in the Samarinda City District as the center of education and government, the Samarinda Seberang District and the North District as the center of Dayak tribal settlements. Based on the socio-cultural dimension, it can be concluded that to enhance the sustainability of urban resilience in the disaster-prone area of Samarinda City, it is necessary to improve education and access to information regarding disaster response during or after flood disasters. The government must provide basic service facilities, including clean water, sanitation, and evacuation routes and assembly points to facilitate community access. Collaboration between the government and the community is a crucial aspect in achieving community resilience and adaptation in the face of disasters, aligning with the values present in the community <ref type="bibr" target="#b13">(Djalante &amp; Thomalla, 2011;</ref><ref type="bibr" target="#b0">Adger, 2010;</ref><ref type="bibr" target="#b33">Smith, 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">The sustainability of the ethical dimension of resilience in Samarinda City</head><p>Based on the analysis results, the community resilience index of Samarinda City in the ethical dimension shows a status of unsustainability with an index of 50.00. This condition reflects a lack of firmness in enforcing rules for communities that damage the environment, particularly in slum areas along the Mahakam River. For a clearer understanding of the sustainability status of the ethical dimension of Samarinda City's resilience, please refer to Table <ref type="table">5</ref>.</p><p>The sensitive indicators in determining the lack of sustainability of community resilience in Samarinda City in the ethical dimension are the limited reporting media and the lack of firmness in enforcing rules for environmental damage perpetrators (1.99), green open spaces along the riverbanks (3.17), sanctions for environmental damage perpetrators (3.68), the use of riverbanks for housing construction, indiscriminate waste disposal in the Mahakam and Karang Mumus rivers, insufficient greening programs along riverbanks, and penalties for violations of land use regulations. Some communities in the districts of Samarinda Utara, Palaran, Samarinda Ulu, Sambutan, and Sungai Kujang have experienced land use conversion from green open spaces to mining areas. To enhance the ethical dimension, collaboration between the government and the community is needed to enforce regulations related to land use along the Mahakam River, impose penalties for violations, and establish community groups to raise awareness about the importance of maintaining environmental quality through socialization efforts prohibiting the disposal of waste into the Mahakam River. Source: Research Data Processing Results (2024)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Sustainability of the ecological dimension of Samarinda City resilience</head><p>The analysis yielded results that indicate the community resilience index of Samarinda City in the ecological dimension to be in a state of unsustainability, with an index value of 49.00. This condition demonstrates that development and land conversion do not adhere to ecological principles. The ecological dimension sustainability index for the resilience of Samarinda City is presented in Table <ref type="table" target="#tab_5">6</ref>. Sensitive indicators that are leverage factors in determining unsustainability in the ecological dimension are spatial planning and population patterns concentrated in flood-prone areas (1.95), carrying capacity and population density, as well as flood control facilities (3.61) for communities living in slum areas (3.10). Some communities reside along the banks of the Mahakam River and Karang Mumus River, and there has been a land-use conversion from green open spaces to mining areas in the districts of Samarinda Utara, Palaran, Samarinda Ulu, Sambutan, and Sungai Kujang. Therefore, intensive monitoring is needed of settlement distribution patterns and developed land in riverbank areas. To enhance the ecological dimension, the government and community must integrate environmental protection into spatial planning. The government should enforce environmental protection regulations for critical areas, and local governments should mandate or replicate stricter environmental protection regulations <ref type="bibr">(Leonie et al., 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Sustainability of the technological dimension of Samarinda City's resilience</head><p>The analysis yielded results that indicate the resilience index of Samarinda City in the technology dimension to be less sustainable, with an index of 47.00. This condition suggests that the government and community still lack awareness of the importance of</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 5</head><p>The role of ethical dimensions on city resilience.</p><p>Indikator Leverage of Attributes Index Score Index Value Policy on the provision of public complaint facilities against perpetrators of environmental damage 0.73 18.25 1.99 Community participation in the Mahakam River Cleanup Program 47,50 5.19 Greening program on riverbanks 1.16 29,00 3.17 The existence of environmental care community groups 3.70 92,50 10.10 Throw rubbish in rivers/canals 4.05 100 11.56 Space utilization permit 1.35 33,75 3.68 Sanctions for violations of space utilization 1.35 33,75 3.68 Utilization of river banks for housing 4.09 100 11.16 Category (Less Sustainable) 50.00 Source: Research Data Processing Results (2024) technology in mitigating flood disasters in Samarinda City. In order to facilitate a more nuanced comprehension of the subject matter, the Technology Sustainability Index is presented in Table <ref type="table" target="#tab_6">7</ref>.</p><p>The sensitive indicators that serve as leverage factors in determining unsustainability in the technology dimension are the use of technology in weather modification (0.74), urban drainage systems (0.74), and the utilization of flood control structures (1.48). Flood control measures in the form of polders are only present in the Samarinda Utara sub-district, and an early warning system for flood disasters is in place in the Samarinda City sub-district. Aside from these two sub-districts, there is no utilization of technology to enhance the resilience of the community in Samarinda City. Other indicators that need to be managed effectively include narrow drainage systems and the provision of real-time early warning systems for disasters. This is important for disseminating disaster information to the community so that they can prepare themselves or enhance their readiness to secure valuable items such as vehicles, household goods, important documents, and most importantly, avoid loss of life. Limitations in technological innovation, both in early warning systems and flood-resistant infrastructure <ref type="bibr" target="#b5">(Bicknell et al., 2007)</ref>. Utilization of technological facilities supporting disaster mitigation, such as the development of green infrastructure and more effective early warning systems <ref type="bibr" target="#b6">(Birkmann et al., 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Economic dimensions of city resilience</head><p>The economic growth of Samarinda City has increased based on the Gross Regional Domestic Product (PDRB) and Local Revenue (PAD), driven by trade and mining activities. Economic growth is very important in determining the sustainability of community resilience in disaster-prone areas. The resilience of Samarinda City's community in the economic dimension is seen from the relatively stable income of residents living in flood-prone areas, as most of them work as mining employees and civil servants who have health insurance, vehicle insurance, and mining employees specifically have natural disaster insurance from the company. In the event of a flood disaster, there are special vehicles to transport them to work, and humanitarian assistance policies are in place for employees. The economic income of the community is above average, allowing them to build or renovate their homes according to flood levels. Adaptations made by the community include constructing two-story homes, with the second floor designated for storing valuable items and documents, and raising the house porch based on floodwater levels. This strengthens the sustainability and resilience of the economic dimension of the community in Samarinda City in facing flood disasters, particularly in the districts of Samarinda City, Samarinda North, Samarinda Ulu, Samarinda Hilir, and Palaran. To enhance the sustainability of community economic resilience, strategic steps need to be developed, such as providing alternative job opportunities beyond mining to prevent job losses, thereby avoiding hindrances to the resilience of communities living in flood-prone areas. The creation of sustainable job opportunities not only helps increase the income of urban communities but also strengthens their capacity and accelerates economic recovery in the face of disasters <ref type="bibr" target="#b32">(Shabnam, 2014;</ref><ref type="bibr" target="#b33">Smith, 2022;</ref><ref type="bibr" target="#b23">Liesner, 2021;</ref><ref type="bibr" target="#b14">Fernandez et al., 2011;</ref><ref type="bibr" target="#b41">Yuan et al., 2022)</ref>. For further research, the economic and budgetary effectiveness of disaster management should be analyzed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">The socio-cultural dimension of Samarinda City resilience</head><p>Active community participation is essential in realizing the resilience of the Samarinda community against flooding. This participation includes involvement in simulations, preparedness, and contribution to the creation of evacuation routes. The sustainability of urban communities in the socio-cultural dimension is closely linked to the level of education and the institutionalization of indigenous communities. With the majority having a university education background, this facilitates understanding of the risks and impacts of flood disasters, thereby encouraging participation. The presence of the Dayak indigenous community strengthens social capital in flood disaster management, both structurally-by preserving stilt houses as a form of local identity and as a flood prevention measure by raising house pillars above floodwater levels-and non-structurally, through the value of mutual aid during disasters. This strengthens the resilience of Samarinda City's community in the social and cultural dimensions, particularly in facing flood disasters, especially in Samarinda City District, which serves as the administrative and educational center, Samarinda North District, and Samarinda Seberang District, which is the center of the Dayak indigenous community. To enhance the sustainability of Samarinda City's community resilience, it is necessary to improve access to information, disaster education, and prepare basic community needs in other areas. Collaboration between the government and the community can strengthen community capacity and effectiveness in addressing the impacts of flood disasters, thereby accelerating the recovery process <ref type="bibr" target="#b19">(Johnson et al., 2021;</ref><ref type="bibr" target="#b4">Atilano et al., 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Ethical and ecological dimensions of resilience in Samarinda City</head><p>Social and Cultural Dimensions of Samarinda City Resilience Active community participation is essential in realizing the resilience of Samarinda City against flood disasters. This participation includes involvement in simulations, preparedness, and contribution to the creation of evacuation routes. The sustainability of the city's community in the social-cultural dimension is closely linked to the level of education and the institutionalization of the indigenous community. With the majority of the community having a university education background, this facilitates understanding of the risks and impacts of flood disasters, thereby encouraging participation. The presence of the Dayak indigenous community strengthens social capital in flood disaster management, both structurally-by preserving stilt houses as a form of local identity and as a flood prevention measure by raising house pillars above floodwater levels-and non-structurally, through the value of mutual aid during disasters. This strengthens the resilience of Samarinda City's community in the social and cultural dimensions, particularly in facing flood disasters, especially in Samarinda City District, which serves as the administrative and educational center, Samarinda North District, and Samarinda Seberang District, which is the center of the Dayak indigenous community. To enhance the sustainability of Samarinda City's community resilience, it is necessary to improve access to information, disaster education, and prepare basic needs for communities in other areas. Collaboration between the government and the community can strengthen community capacity and effectiveness in addressing the impacts of flood disasters, thereby accelerating the recovery process <ref type="bibr">(Stephane et al., 2016;</ref><ref type="bibr" target="#b24">Miller, 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Technology dimension</head><p>The sustainability and resilience of the technological dimension are currently unsustainable. This is due to the fact that the use of technology in flood disaster management is still far from optimal, flood disaster management infrastructure and early warning systems are not well distributed, being only available in North Samarinda District while other districts have none. Environmental degradation, such as deforestation, mining industry development, uncontrolled urbanization, land use conversion, and river water pollution, all contribute to increased flood ris <ref type="bibr" target="#b40">(Wilby &amp; Keenan, 2012)</ref>. To enhance the sustainability of urban communities' resilience to flood disasters, optimal efforts are needed in managing the ethical and ecological dimensions. Steps that can be taken include environmental rehabilitation, urbanization control, and improving the quality of natural resource management. In the technological dimension, it is necessary to provide technological facilities that support disaster mitigation, such as the development of green infrastructure and more effective early warning systems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>The Samarinda city's community resilience index to flood disasters is divided into two categories. Firstly, a fairly sustainable index is multi-dimensional, incorporating economic and socio-cultural dimensions. As indicated in the following indicators, the less sustainable index includes the ecological, technological, and ethical dimensions: a) The economic dimension is one of the indicators that is both sensitive and decisive in building the resilience of the people of Samarinda city. This is evidenced by public opinion, flood disaster management, and the economic growth of the people of Samarinda city. The economic growth of the community is influenced by the development of the mining industry, which can significantly enhance the community's socioeconomic resilience. b) Encouraging community participation through disaster-aware groups and NGOs is essential for effective disaster management.</p><p>Community-led self-help initiatives play a critical role in fostering a culture of awareness, which is vital for building collective consciousness and preparedness in the development of a resilient urban community c) The lack of sustainability in the ethical dimension can be attributed to several factors: the construction of residential properties along riverbanks, waste disposal into the Mahakam River, the absence of reforestation efforts, and inadequate enforcement of penalties for violations of spatial planning regulations. d) Uneven population distribution patterns, with concentrations observed in government centres and built-up land in flood-prone areas and massive conversion of forest land into the mining land. This results in a lower level of ecological sustainability. e) It is essential that the urban drainage system and disaster facilities of the early flood warning system be expanded to meet the needs of the flowing water.</p><p>A disparity exists between economic sustainability and environmental sustainability, characterised by the utilization of low-technology. This phenomenon can be attributed to the absence of integrated policies, whereby economic development is not aligned with ecological principles and technological utilization. Consequently, economic activities have a detrimental effect on environmental conditions. In order to achieve resilience and sustainability, it is essential that resilient urban communities align various dimensions in a harmonised manner. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Research location of Samarinda City and flood observation areas. Sources: BPBD Samarinda (images a, c, d); Field Observation (image b).</figDesc><graphic coords="3,115.60,503.95,313.06,157.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Sample size. N = Population size. E = Percentage of sampling error tolerance that is still acceptable, e = 0,05 N: (e) 2 = 1:500 × (0; 05) 2 = 1:500 × 0; 0025 = 3; 75 = 1 + 3; 75 = 4; 75 n = 1:500 4; 75 = 315; 79then rounded up to 316</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Urban resilience analysis procedure.</figDesc><graphic coords="4,115.60,53.45,313.06,245.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Diagram Multidimensional (Source: Data analysis (2024).</figDesc><graphic coords="6,115.65,53.43,312.91,122.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Alwin:</head><figDesc>Writingoriginal draft, Writingreview &amp; editing, Visualization, Methodology, Conceptualization. Rini Rachmawati: Writingreview &amp; editing, Validation, Supervision, Methodology, Conceptualization. Iswari Nur Hidayati: Writingreview &amp; editing, Validation, Supervision, Methodology, Conceptualization. Slamet Suprayogi: Writingreview &amp; editing, Validation, Supervision, Methodology, Conceptualization.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Category sustainability urban resilience.</figDesc><table><row><cell>Index Value</cell><cell>Sustainability Status</cell></row><row><cell>0-25</cell><cell>Bad (Unsustainable)</cell></row><row><cell>26-50</cell><cell>Less (Less Sustainable)</cell></row><row><cell>51-75</cell><cell>Enough (Sustainable Enough)</cell></row><row><cell>76-100</cell><cell>Good (Highly sustainable)</cell></row></table><note><p>Source:<ref type="bibr" target="#b27">Nurmalina, 2014.</ref> </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Results of MDS, Monte Carlo and statistical parameters of sustainability of city resilience in disaster-prone areas of samarinda city.</figDesc><table><row><cell>Variables</cell><cell>Indekx</cell><cell></cell><cell>Difference</cell><cell>Category</cell><cell cols="2">Statistical Values</cell><cell>Iterasi</cell></row><row><cell></cell><cell>Sustainability</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>MDS</cell><cell>Monte Carlo</cell><cell></cell><cell></cell><cell>S</cell><cell>R 2</cell><cell></cell></row><row><cell>Multi-dimensional</cell><cell>56</cell><cell>56,63</cell><cell>0,39</cell><cell>Sustainable Enough</cell><cell>0,14</cell><cell>0,94</cell><cell>2</cell></row><row><cell>Ecological dimensions</cell><cell>49</cell><cell>49,05</cell><cell>0,56</cell><cell>Less Sustainable</cell><cell>0,14</cell><cell>0,92</cell><cell>2</cell></row><row><cell>Dimensions Economy</cell><cell>61</cell><cell>61,31</cell><cell>0,60</cell><cell>Sustainable Enough</cell><cell>0,14</cell><cell>0,95</cell><cell>2</cell></row><row><cell>Dimensions socio-cultural</cell><cell>61</cell><cell>61,90</cell><cell>0,29</cell><cell>Sustainable Enough</cell><cell>0,16</cell><cell>0,97</cell><cell>2</cell></row><row><cell>Dimensions Ethics</cell><cell>50</cell><cell>50,40</cell><cell>0,28</cell><cell>Less Sustainable</cell><cell>0,15</cell><cell>0,95</cell><cell>2</cell></row><row><cell>Technology dimensions</cell><cell>47</cell><cell>47,52</cell><cell>0,22</cell><cell>Less Sustainable</cell><cell>0,13</cell><cell>0,91</cell><cell>2</cell></row></table><note><p>Source: Research Data Processing Results (2024)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Sustainability Index of economic dimension in urban resilience.</figDesc><table><row><cell>Indikator</cell><cell>Leverage of Attributes</cell><cell>Index Score</cell><cell>Index Value</cell></row><row><cell>Disaster insurance</cell><cell>1.7</cell><cell>42.50</cell><cell>12.20</cell></row><row><cell>Post disaster damage recovery policy</cell><cell>1.51</cell><cell>37.75</cell><cell>10.84</cell></row><row><cell>Job opportunities in flood disaster areas</cell><cell>1.37</cell><cell>34.25</cell><cell>9.84</cell></row><row><cell>Community income in flood disaster areas</cell><cell>4.3</cell><cell>100</cell><cell>30.87</cell></row><row><cell>Flood disaster management budget policy</cell><cell>3.7</cell><cell>92.50</cell><cell>26.57</cell></row><row><cell>Category (Sustainable Enough)</cell><cell></cell><cell></cell><cell>61.00</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Socio-cultural dimension Sustainability Index.</figDesc><table><row><cell>Indikator</cell><cell>Leverage of</cell><cell>Index</cell><cell>Index</cell></row><row><cell></cell><cell>Attributes</cell><cell>Score</cell><cell>Value</cell></row><row><cell>Availability of basic services (clean water,</cell><cell>0.80</cell><cell>20.00</cell><cell>2.44</cell></row><row><cell>sanitation, transportation, electricity, etc.)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Readiness of contingency plans, existence of</cell><cell>0.90</cell><cell>22.50</cell><cell>2.75</cell></row><row><cell>evacuation routes or flood posts</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NGO that operates in the field of disaster</cell><cell>3.16</cell><cell>79.00</cell><cell>9.64</cell></row><row><cell>management</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Group culture in disaster management (mutual</cell><cell>3.70</cell><cell>92.50</cell><cell>11.29</cell></row><row><cell>cooperation)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>The influence of education level on compliance</cell><cell>0.50</cell><cell>12.50</cell><cell>1.53</cell></row><row><cell>with regulations and handling of disaster problems</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Access to information on disaster management</cell><cell>0.35</cell><cell>8.75</cell><cell>1.07</cell></row><row><cell>conditions (RTRW maps and disaster risk maps)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Local wisdom</cell><cell>2.20</cell><cell>55.00</cell><cell>6.71</cell></row><row><cell>Community participation</cell><cell>2.90</cell><cell>72.50</cell><cell>8.85</cell></row><row><cell>The existence of government institutions that</cell><cell>1.20</cell><cell>30.00</cell><cell>3.66</cell></row><row><cell>handle disaster issues</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nationally applicable regulations on disaster</cell><cell>1.40</cell><cell>35.00</cell><cell>4.27</cell></row><row><cell>management</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Category (Sustainable Enough)</cell><cell></cell><cell></cell><cell>61.00</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>The role of ethical dimensions in urban resilience.</figDesc><table><row><cell>Indikator</cell><cell>Leverage of</cell><cell>Index</cell><cell>Index</cell></row><row><cell></cell><cell>Attributes</cell><cell>Score</cell><cell>Value</cell></row><row><cell>Land Use conformity with spatial</cell><cell>1.20</cell><cell>18.25</cell><cell>1.95</cell></row><row><cell>planning</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Availability and condition of green open</cell><cell>2.00</cell><cell>47,50</cell><cell>5.08</cell></row><row><cell>spaces</cell><cell></cell><cell></cell><cell></cell></row><row><cell>clean and healthy residence</cell><cell>1.70</cell><cell>29,00</cell><cell>3.10</cell></row><row><cell>Conditions of reservoirs or water</cell><cell>1.90</cell><cell>92,50</cell><cell>9.88</cell></row><row><cell>catchment areas</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Water resources: groundwater</cell><cell>1.70</cell><cell>100</cell><cell>10.82</cell></row><row><cell>conservation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Buildings:number of occupants</cell><cell>4.60</cell><cell>33,75</cell><cell>3.61</cell></row><row><cell>Building: flood disaster control facility</cell><cell>1.20</cell><cell>33,75</cell><cell>3.61</cell></row><row><cell>Built up land</cell><cell>3.40</cell><cell>100</cell><cell>10.92</cell></row><row><cell>Policy for relocating people to disaster-</cell><cell>1.90</cell><cell>47,50</cell><cell>5.08</cell></row><row><cell>safe areas</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Category (Less Sustainable)</cell><cell></cell><cell></cell><cell>49.00</cell></row></table><note><p>Source: Research Data Processing Results (2024)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc>The role of technology dimension on city resilience.</figDesc><table><row><cell>Indikator</cell><cell>Leverage of</cell><cell>Index</cell><cell>Index</cell></row><row><cell></cell><cell>Attributes</cell><cell>Score</cell><cell>Value</cell></row><row><cell>Utilization of flood control structures</cell><cell>0.60</cell><cell>15.00</cell><cell>1.48</cell></row><row><cell>Giant Sea Wall Construction Policy</cell><cell>1.40</cell><cell>35.00</cell><cell>3.45</cell></row><row><cell>Early Information System</cell><cell>0.58</cell><cell>35.50</cell><cell>3.89</cell></row><row><cell>Urban drainage system improvement</cell><cell>1.80</cell><cell>45.00</cell><cell>4.43</cell></row><row><cell>River Normalization</cell><cell>1.04</cell><cell>26.00</cell><cell>2.56</cell></row><row><cell>Biopores or infiltration wells</cell><cell>0.50</cell><cell>12.50</cell><cell>1.23</cell></row><row><cell>Weather modification</cell><cell>0.20</cell><cell>5.00</cell><cell>0.50</cell></row><row><cell>Policy on construction before and run</cell><cell>0.30</cell><cell>7.50</cell><cell>0.74</cell></row><row><cell>off</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Category (Less Sustainable)</cell><cell></cell><cell></cell><cell>47.00</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Urban Management xxx (xxxx) xxx</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research was a part of <rs type="grantName">Recognition of final Student Project (Rekognisi Tugas Akhir/RTA</rs>) 2024 Number <rs type="grantNumber">5286/UN1.P1/PT. 01. 03/2024</rs> from <rs type="institution">Universitas Gadjah Mada, Indonesia</rs> led by <rs type="person">Prof. Dr. Rini Rachmawati</rs>, <rs type="person">S.Si</rs>., M.T. Therefore, the authors thank <rs type="institution">Universitas Gadjah Mada</rs> who has supported this research activity and ist funding.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Taw9QkF">
+					<idno type="grant-number">5286/UN1.P1/PT. 01. 03/2024</idno>
+					<orgName type="grant-name">Recognition of final Student Project (Rekognisi Tugas Akhir/RTA</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interests</head><p>There is no conflict of interest in the completion of this article. All authors have agreed to publish this article. On behalf of the authors we declare that this manuscript is original research that has not been published and is not being considered for publication elsewhere.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social capital, collective action, and adaptation to climate change. Economic geography</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1944%2D8287.2003.tb00220.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1944-8287.2003.tb00220.x" />
+	</analytic>
+	<monogr>
+		<title level="m">Der klimawandel: Sozialwissenschaftliche perspektiven</title>
+		<meeting><address><addrLine>Wiesbaden</addrLine></address></meeting>
+		<imprint>
+			<publisher>VS Verlag für Sozialwissenschaften</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Earthquake hazards and community resilience in Baluchistan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ainuddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Routray</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11069%2D012%2D0201%2Dx</idno>
+		<ptr target="https://doi.org/10.1007/s11069-012-0201-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Natural Hazards</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="909" to="937" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">How good is good? A rapid appraisal technique for evaluation of the sustainability status of fisheries of the North Atlantic</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Alder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Pitcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preikshot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kaschner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Feriss</surname></persName>
+		</author>
+		<ptr target="http://bridgetferriss.weebly.com/uploads/2/4/6/1/24614157/alderferriss_2000_rapfish_ubc_fish_report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Sea Around Us Methodology Review</title>
+		<imprint>
+			<biblScope unit="page" from="136" to="182" />
+			<date type="published" when="2000-01">2000. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The corneal endothelium following 20 years of PMMA contact lens wear</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R F</forename><surname>Arup</surname></persName>
+		</author>
+		<ptr target="https://pubmed.ncbi.nlm.nih.gov/3449296/" />
+	</analytic>
+	<monogr>
+		<title level="j">CLAO Journal</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="157" to="160" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Disaster risk management: Vulnerability and resilience in the coastal barangays of zamboanga city</title>
+		<author>
+			<persName><forename type="first">Atilano</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.4505919</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.4505919" />
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electronic Journal. , Article</title>
+		<imprint>
+			<biblScope unit="page">117885</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Adapting cities to climate change: Understanding and addressing the development challenges</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bicknell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Satterthwaite</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781849770361</idno>
+		<ptr target="https://doi.org/10.4324/9781849770361" />
+	</analytic>
+	<monogr>
+		<title level="m">Adapting cities to climate change: Understanding and addressing the development challenges</title>
+		<imprint>
+			<date type="published" when="2007-01">2007. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Framing vulnerability, risk and societal responses: The move framework</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Birkmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Cardona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Carre~ No</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Barbat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneiderbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kienberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zeil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Welle</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11069%2D013%2D0558%2D5</idno>
+		<ptr target="https://bpbd.samarindakota.go.id/" />
+	</analytic>
+	<monogr>
+		<title level="m">Disaster risk assessment of Samarinda City</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="2022" to="2026" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bryant</surname></persName>
+		</author>
+		<ptr target="https://www.cambridge.org/highereducation/books/natural-hazards/" />
+		<title level="m">Natural hazards. Natural Hazards</title>
+		<imprint>
+			<date type="published" when="2005-08">2005. August</date>
+			<biblScope unit="page" from="13" to="14" />
+		</imprint>
+	</monogr>
+	<note>3429C8A1EEC20B9A886E02211C0A9F95#overview</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Progress and challenges in urban climate adaptation planning: Results of a global survey</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nadkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rhie</surname></persName>
+		</author>
+		<ptr target="http://web.mit.edu/jcarmin/www/urbanadapt/UrbanAdaptationReportFINAL.pdf" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Massachusetts Institute of Technology</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perceived disaster preparedness between Asian Americans and other races: Mediating roles of information seeking and self-efficacy</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cong</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bjsw/bcac166</idno>
+		<ptr target="https://doi.org/10.1093/bjsw/bcac166" />
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Social Work</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="956" to="976" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Disaster year in review 2024</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R E D</forename><surname>Crunch</surname></persName>
+		</author>
+		<ptr target="http://www.cred.be/" />
+		<imprint>
+			<date type="published" when="2020-04">2020. April, 1-2</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A place-based model for understanding community resilience to natural disasters</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Webb</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2008.07.013</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2008.07.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="598" to="606" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Baseline resilience indicators for communities</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Habets</surname></persName>
+		</author>
+		<ptr target="https://www.openicpsr.org/openicpsr/project/209669/version/V2/view;jsessionid&amp;equals" />
+	</analytic>
+	<monogr>
+		<title level="m">Hazards &amp; Vulnerability Research Institute (HVRI)</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>DDC94B01CDFED3E0536F4681F1E092D2</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Community resilience to natural hazards and climate change: A review of definitions and operational frameworks</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Djalante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomalla</surname></persName>
+		</author>
+		<idno type="DOI">10.3850/s1793924011000952</idno>
+		<ptr target="https://doi.org/10.3850/s1793924011000952" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Environment and Disaster Management (AJEDM) -Focusing on Pro-Active Risk Reduction in Asia</title>
+		<imprint>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page">339</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chapter 5 climate and disaster resilience mapping in city clusters</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/S2040%2D7262%282011%290000006011</idno>
+		<ptr target="https://doi.org/10.1108/S2040-7262(2011)0000006011" />
+	</analytic>
+	<monogr>
+		<title level="m">Climate and disaster resilience in cities</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">A</forename><surname>Sharma</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="81" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">From research and development to full scale production military fiber optic links</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Godschalk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica Status Solidi (B): Basic Research</title>
+		<imprint>
+			<biblScope unit="page" from="91" to="95" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Climate change 2007 synthesis report</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<ptr target="https://www.ipcc.ch/report/ar4/syr/" />
+	</analytic>
+	<monogr>
+		<title level="m">Intergovernmental panel on climate change core writing team IPCC</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Urbanization and environmental impact</title>
+		<author>
+			<persName><surname>Ischak</surname></persName>
+		</author>
+		<ptr target="https://jurnal.ugm.ac.id/jurnal-humaniora/article/view/734" />
+	</analytic>
+	<monogr>
+		<title level="j">Humaniora</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="39" to="55" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Chapter 3 mapping climate and disaster resilience in cities</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joerin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/S2040%2D7262%282011%290000006009</idno>
+		<ptr target="https://doi.org/10.1108/S2040-7262(2011)0000006009" />
+	</analytic>
+	<monogr>
+		<title level="m">Climate and disaster resilience in cities</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">A</forename><surname>Sharma</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="47" to="61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Disaster risk governance in Bangladesh: How do NGOs find themselves in the network?</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S H</forename><surname>Swapan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ashikuzzaman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/09754253211040205</idno>
+		<ptr target="https://doi.org/10.1177/09754253211040205" />
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Urbanization ASIA</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="240" to="256" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Analysisi of community preparednes in dealing wih flood disasters in he village of west panunggangan in the Cibodas district tangerang city</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Khairunisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alwin</surname></persName>
+		</author>
+		<idno type="DOI">10.32663/georaf.v7i2.2993</idno>
+		<ptr target="https://doi.org/10.32663/georaf.v7i2.2993" />
+	</analytic>
+	<monogr>
+		<title level="j">Georafflesia Journal: Scientific Articles on Geography Education</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="128" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comprehensive disaster resilience index: Pathway towards risk-informed sustainable development</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T I</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sarkodie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Yaseen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Nadeem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Ali</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2022.132937</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2022.132937" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<imprint>
+			<biblScope unit="page" from="366" to="132937" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Climate change and urban resilience</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Leichenko</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cosust.2010.12.014</idno>
+		<ptr target="https://doi.org/10.1016/j.cosust.2010.12.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Environmental Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="164" to="168" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The economic impact of commonwealth immigration</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liesner</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2230109</idno>
+		<ptr target="https://doi.org/10.2307/2230109" />
+	</analytic>
+	<monogr>
+		<title level="j">The Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">322</biblScope>
+			<biblScope unit="page" from="425" to="428" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Legal frameworks for environmental protection</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0309132519837814</idno>
+		<ptr target="https://doi.org/10.1177/0309132519837814" />
+	</analytic>
+	<monogr>
+		<title level="j">Palgrave Macmillan. Progress in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="473" to="491" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Reflections on climate change communication research and practice in the second decade of the 21st century</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wcc.403</idno>
+		<ptr target="https://doi.org/10.1002/wcc.403" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Wiley Research DE&amp;I Statement and Publishing Policies</publisher>
+			<biblScope unit="page" from="345" to="369" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Community resilience as a metaphor, theory, set of capacities, and strategy for disaster readiness</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Norris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pfefferbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Wyche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Pfefferbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10464%2D007%2D9156%2D6</idno>
+		<ptr target="https://doi.org/10.1007/s10464-007-9156-6" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="127" to="150" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Analysis of sustainability index and status of rice availability system in several regions in Indonesia</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nurmalina</surname></persName>
+		</author>
+		<ptr target="https://scholar.google.co.id/Scholar?Hl=Id&amp;As_Sdt=0%2C5&amp;Scioq" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal Agro Economic</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="79" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Socio-economic vulnerability to flood disasters in the downstream of the citanduy watershed, Western parts of pangandaran regency, West java</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Pahleviannur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">K</forename><surname>Ayuni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Widiastuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Umaroh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Aisyah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Afiyah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Azzahra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Chairani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Dhafita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Rohmah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sudrajat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mardiatno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rachmawati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rahardjo</surname></persName>
+		</author>
+		<idno type="DOI">10.23887/mkg.v24i2.66370</idno>
+		<ptr target="https://doi.org/10.23887/mkg.v24i2.66370" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Geographic Communication Media</publisher>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="189" to="205" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Risk perception of the people in the flood prone Khyber Pukhthunkhwa province of Pakistan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Qasim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nawaz Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Prasad Shrestha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qasim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2015.09.001</idno>
+		<ptr target="https://doi.org/10.1016/j.ijdrr.2015.09.001" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disaster Risk Reduction</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="373" to="378" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Use of space and the need for planning in the disaster-prone area of code river, yogyakarta, Indonesia</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rachmawati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Budiarti</surname></persName>
+		</author>
+		<idno type="DOI">10.22146/ijg.17633</idno>
+		<ptr target="https://doi.org/10.22146/ijg.17633" />
+	</analytic>
+	<monogr>
+		<title level="j">The Indonesian Journal of Geography</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="178" to="190" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Toward resilient and sustainable City adaptation model for flood disaster prone city: Case study of Jakarta Capital Region</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Renald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tjiptoherijanto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Suganda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Djakapermana</surname></persName>
+		</author>
+		<idno type="DOI">10.21494/iste.op.2018.0267</idno>
+		<ptr target="https://doi.org/10.21494/iste.op.2018.0267" />
+	</analytic>
+	<monogr>
+		<title level="m">Are cities resilient? Risques Urbains</title>
+		<imprint>
+			<publisher>Sander Van Der Leeuw</publisher>
+			<date type="published" when="2015">2016. November 2015. 2018</date>
+			<biblScope unit="volume">227</biblScope>
+			<biblScope unit="page" from="334" to="340" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Natural disasters and economic growth: A review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shabnam</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13753%2D014%2D0022%2D5</idno>
+		<idno>13753- 014-0022-5</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disaster Risk Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="163" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Unemployment and economic stability in disaster-prone areas</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="https://www.cambridge.org" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Community resilience in responding to climate change through livelihood strategies (Case study of fishing villages on Ambon Island, Maluku)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Subair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Kolopaking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Adiwibowo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Pranowo</surname></persName>
+		</author>
+		<idno type="DOI">10.15578/jsekp.v9i1.1186</idno>
+		<ptr target="https://doi.org/10.15578/jsekp.v9i1.1186" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marine and Fisheries Socio-Economics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Resilience&apos; of U.S. metros measured by online index developed by UB researchers</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Teaman</surname></persName>
+		</author>
+		<ptr target="https://www.buffalo.edu/news/releases/2011/07/12707.html" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Disaster risk reduction: Mitigation and preparedness in development and emergency programming</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Twigg</surname></persName>
+		</author>
+		<ptr target="www.odihpn.org" />
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Disaster risk reduction mitigation and preparedness disaster in development and emergency programming</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Twigg</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781452275956.n101</idno>
+		<ptr target="https://doi.org/10.4135/9781452275956.n101" />
+	</analytic>
+	<monogr>
+		<title level="j">Encyclopedia of Crisis Management</title>
+		<imprint>
+			<biblScope unit="issue">0</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<ptr target="https://www.undp.org/sites/g/files/zskgke326/files/migration/nairobi_gc_red/CoBRRA_Conceptual_Framework.pdf" />
+		<title level="m">Understanding community resilience: Findings from Community-based resilience analysis assessments</title>
+		<imprint>
+			<publisher>United Nations Development Programme Drylands Development Centre</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The transition in Dutch water management</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Der Brugge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rotmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loorbach</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10113%2D004%2D0086%2D7</idno>
+		<idno>10113-004-0086-7</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Regional Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="164" to="176" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Adapting to flood risk under climate change</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Wilby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Keenan</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0309133312438908</idno>
+		<ptr target="https://doi.org/10.1177/0309133312438908" />
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Physical Geography: Earth and Environment</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="348" to="378" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Smart flood resilience: Harnessing community-scale big data for predictive flood risk monitoring, rapid impact assessment, and situational awareness</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Farahmand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Esmalian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">I</forename><surname>Patrascu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mostafavi</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/2634%2D4505/ac7251</idno>
+		<ptr target="https://doi.org/10.1088/2634-4505/ac7251" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Research: Infrastructure and Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">25006</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

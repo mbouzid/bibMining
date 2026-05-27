@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Desalination in Chile&apos;s mining regions: Global drivers and local impacts of a technological fix to hydrosocial conflict</title>
+				<funder>
+					<orgName type="full">Universidad de Los Lagos</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Centro de Estudios del Desarrollo Regional y Políticas Públicas (CEDER)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Regional Office of the David Rockefeller Center for Latin American Studies</orgName>
+					<orgName type="abbreviated">DRCLAS</orgName>
+				</funder>
+				<funder ref="#_Fwgxube">
+					<orgName type="full">Inter-American Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-09-23">23 September 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Scott</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+							<email>sodell@mit.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Environmental Solutions Initiative (ESI)</orgName>
+								<orgName type="laboratory">Environment, and Society Program</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology (MIT)</orgName>
+								<address>
+									<settlement>Mining</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yutao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Environmental Solutions Initiative (ESI)</orgName>
+								<orgName type="laboratory">Environment, and Society Program</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology (MIT)</orgName>
+								<address>
+									<settlement>Mining</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Desalination in Chile&apos;s mining regions: Global drivers and local impacts of a technological fix to hydrosocial conflict</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-09-23">23 September 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B4F672AD0F2BF446D4C07B4A2441E47F</idno>
+					<idno type="DOI">10.1016/j.jclepro.2021.129104</idno>
+					<note type="submission">Received 9 January 2021; Received in revised form 10 August 2021; Accepted 17 September 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Water desalination Extractive industries Climate change Conflict Political ecology Chile</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines the nature and impacts of an expansion of the use of desalinated seawater by the mining industry, within the context of climate change. Specifically, it investigates how and why large-scale desalination operations have been employed to respond to community-based conflict over scarce freshwater resources in mining regions, and with what effect. This question was examined through interviews, focus groups, and participant observation among community members, mining company representatives, and government officials in three case study sites in Chile that have experienced recent conflict over water: regions surrounding the Escondida and Los Pelambres mines, which are both employing desalination to resolve concerns over water, and the Andina mine, which is not. Methods also included interviews and a focus group with national-level stakeholders in the capital, Santiago, and analysis of data on water use in Chile's copper mining industry overall. Findings indicate that a broad range of stakeholders are optimistic about the potential for desalination to reduce conflict over water in mining regions. In practice, the intervention has eased tensions with and brought benefits to highland communities near mining operations, but is likely to displace socioenvironmental harms of mining to coastal regions. Moreover, the addition of seawater supplies to mining operations will not reduce freshwater use overall, but rather, permit an expansion of mining production and its associated local and global impacts. The article concludes that desalination cannot resolve socioenvironmental conflict in mining regions if the underlying political and economic structures that cause the need for them in the first place are not addressed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Copper production in Chile, the world's largest supplier of the resource, increased by 17 percent between <ref type="bibr">2000</ref><ref type="bibr">and 2009</ref><ref type="bibr">, and 8 percent between 2010</ref><ref type="bibr" target="#b0">and 2018</ref><ref type="bibr">(COCHILCO, 2019, pp. 20-1), pp. 20-1)</ref>. This growth tracks with a global commodity boom driven in part by China's economic growth, which increased demand for metals for manufactured goods and infrastructural development <ref type="bibr" target="#b29">(Gallagher, 2016)</ref>. This in turn contributed to an 8 percent increase in consumption of continental water supplies by Chile's copper industry between 2012 and 2018, from 12,379 liters per second (l/s) to 13,358 l/s. This increase raises to 30 percent if seawater is included, from 13,357 l/s in 2012 to 17,351 in 2018 <ref type="bibr">(COCHILCO, 2019, p. 76)</ref>. At the same time, global climate change has contributed to a "mega drought" in Chile's central region beginning in 2010, with annual precipitation deficits as high as 45 percent and associated declines in snowpack, reservoirs, groundwater, and river discharge <ref type="bibr" target="#b31">(Garreaud et al., 2020)</ref>.</p><p>This simultaneous change in Chile's water supply and increase in demand has contributed to a trend of community-based conflict over water in mining regions, such as protests, a hunger strike, and a road blockade related to water scarcity, destruction of glaciers, pollution, and flooding <ref type="bibr" target="#b6">(Babidge, 2016;</ref><ref type="bibr" target="#b28">Furnaro, 2018;</ref><ref type="bibr" target="#b44">Kronenberg, 2013;</ref><ref type="bibr" target="#b47">Maher, 2018;</ref><ref type="bibr" target="#b61">Schorr, 2018;</ref><ref type="bibr" target="#b66">Urkidi, 2010)</ref>. Political ecologists have described concerns of this nature as "hydrosocial," emphasizing that water supplies are not only affected by environmental and technical factors-as the more common term, "hydrological," would imply-but political and economic ones as well <ref type="bibr" target="#b13">(Budds, 2012;</ref><ref type="bibr" target="#b14">Budds et al., 2014;</ref><ref type="bibr" target="#b46">Linton and Budds, 2014)</ref>.</p><p>This article is part of a broader research project, with shared methods, examining how stakeholders are responding to these hydrosocial concerns, 1 and will focus specifically on a technological 'fix' that has attracted a high level of public and private support: the large-scale desalination of seawater. Chile's Ministry of Mining estimates that between 2009 and 2018, the amount of desalinated water used by the copper industry increased from 180 l/s to 2117 l/s (COCHILCO, 2019), and that by 2029, seawater consumption (desalinated and brackish combined) will reach 10,820 l/s, or 43 percent of the water used by the industry <ref type="bibr">(Montes Prunes and Cantallopts, 2018b, pp. 12-3)</ref>. In 2013, members of the national Chamber of Deputies went so far as to propose a bill that would have required large mining operations to employ desalination (Cámara de Diputados de <ref type="bibr">Chile, 2013)</ref>. Even without such a formal mandate in place, however, there were sixteen desalination operations worth USD 10 billion proposed for Chilean mines as of 2014 <ref type="bibr" target="#b59">(Ramirez, 2014)</ref>.</p><p>This optimism for desalination to resolve hydrosocial concerns is not limited to Chile nor the mining industry. Under the looming threat of climate change, <ref type="bibr" target="#b43">Jones et al. (2019)</ref> show that from the year 2000, the number of desalination plants worldwide increased nearly three-fold to more than 15,000, while production capacity is now approximately six times the 2000 level, at 95 million m<ref type="foot" target="#foot_0">foot_0</ref> /day. Nearly a third of the desalinated water produced globally is destined for industry <ref type="bibr" target="#b43">(Jones et al., 2019)</ref>.</p><p>Yet existing literature raises several concerns over the environmental impacts of desalination operations. First, desalination requires large amounts of energy and associated greenhouse gas emissions. <ref type="bibr" target="#b19">Cornejo et al. (2014)</ref> estimate that for each cubic meter of desalinated water produced, reverse osmosis plants-which currently account for 69 percent of global production <ref type="bibr" target="#b43">(Jones et al., 2019)</ref>-consume 4.0-4.5 kWh of electrical energy and emit 0.08-4.3 kg CO 2 , with the latter depending on "influent levels of total dissolved solids (TDS), pretreatment technology selection, and electricity mix" (p. 242). 2  Brine, or concentrated saltwater produced as waste during the desalination process, is also of concern. <ref type="bibr" target="#b43">Jones et al. (2019)</ref> estimate that on a global average, approximately 1.5 units of brine are produced for every unit of desalinated water, or 141.5 million m 3 /day, with most likely being disposed of in the ocean (p. 1349). The salinity of the brine causes it to concentrate along the bottom of the ocean floor and lower the levels of dissolved oxygen in the water, resulting in harms to benthic organisms that ripple through the ocean food chain <ref type="bibr" target="#b22">(Darre and Toor, 2018;</ref><ref type="bibr" target="#b43">Jones et al., 2019)</ref>. In addition to concentrated salt, <ref type="bibr" target="#b22">Darre and Toor (2018)</ref> note that chemicals used to pre-treat seawater before entering into reverse osmosis plants may leach back into seawater, "and the concentration of contaminants such as nitrate, phosphate, and naturally occurring radioactive materials can be 4-10 times higher in the brine than the source water" (p. 107). Heavy metals such as copper eroded from the desalination equipment can also enter the surrounding seawater, resulting in "severe effects on marine organisms, including reduced growth, cancer, nervous system damage, and even death" <ref type="bibr">(Darre and Toor, 2018, p. 107)</ref>.</p><p>These environmental concerns are inextricably linked to social ones: of possible concern for Chilean communities is how the dynamics of brine and other pollutants in the sea could affect the livelihoods of artisanal fishermen and women, the tourist industry that benefits from long coastal beaches, and human health of those connected to the affected seas through consumption, employment, or proximate residence. Specific to mining communities is the question of whether desalination operations will relieve pressure on local freshwater supplies.</p><p>The rapid expansion of desalination operations as a response to local and global socioenvironmental concerns thus raises questions related to the results and impacts of the intervention, especially in communities already vulnerable to industrial operations, environmental injustice, and the impacts of climate change on water. This article contributes insight into these questions through targeted qualitative research in three case study sites on how and why desalination has been employed to resolve hydrosocial conflict in mining regions, and with what effect. This analysis builds upon more quantitative research on desalination in the mining industry published previously in this journal <ref type="bibr" target="#b32">(Herrera-León et al., 2019;</ref><ref type="bibr" target="#b36">Ihle and Kracht, 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>This project and the broader study of which it is a part pursues a methodology of combining analysis of large-scale trends related to desalination in Chilean mining operations with qualitative research on localized impacts in individual communities affecting and affected by these trends. The first method thus analyzes publicly available data to establish the extent of desalination operations in mining regions and consider their potential impacts on freshwater use nation-wide. This data was obtained primarily from the Copper Commission of the Chilean Ministry of Mining (Comisión Chilena de Cobre, COCHILCO).</p><p>Second, the project included semi-structured interviews among national-level stakeholders in the capital city of Santiago to explore perceptions of the extent and impacts of desalination at a broad scale. Sampling for these interviews followed purposive methods, including criterion, snowball, and opportunistic techniques <ref type="bibr" target="#b11">(Bradshaw and Stratford, 2010)</ref>. Specifically, the project sought participants who could speak authoritatively from diverse perspectives within government, the private sector, and civil society. A total of twenty-four individuals participated in this method, including six from government, eight from the private sector, and ten from civil society. 3 As semi-structured interviews, the meetings consisted of a series of questions asked to elicit quantifiable, comparable answers (such as yes/no results). Participants were then generally asked to expound upon their answers. Interviews tended to last between thirty and 45 min. <ref type="foot" target="#foot_1">4</ref> The interviewer also asked  2 There is optimism for the potential of renewable sources such as wind and solar to contribute to the energy needs of desalination operations. See <ref type="bibr" target="#b12">Branke et al., 2018;</ref><ref type="bibr" target="#b15">Chavez-Crooker et al. (2015)</ref>; <ref type="bibr" target="#b21">Crisp (2012)</ref>; and <ref type="bibr" target="#b22">Darre and Toor (2018)</ref>.</p><p>questions specific to the topical positionality of participants to gain further insight into their particular perspective on the research questions. The results of the structured question specific to the topic of this article are shown in Fig. <ref type="figure" target="#fig_3">4</ref>, in Section 3.1, below. These first two methods fed into the heart of the research project: case study analysis in three field sites that have experienced recent conflict over water between local communities and a large-scale copper mining operation. Field sites were selected based on several criteria. First, cases were prioritized in which a portion of the mining operations employed desalination to address hydrosocial conflict and a portion did not, in order to compare drivers and outcomes of the intervention. Second, cases were sought that represent diverse mine ownership, including the state-owned National Copper Corporation of Chile (CODELCO), and domestic and international private firms, to ensure that results were not isolated to a specific company type. Third, cases were identified that face a set of key issues as the source of hydrosocial conflict: scarcity, pollution, flooding, and destruction of glaciers. Three sites were identified based on these criteria, as summarized in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Within each field site, the project employed the same sampling methods used for the national-level methods to identify and conduct interviews with stakeholders representing local and regional government, the mining company, and community members. In addition, the research prioritized accessing participants from diverse communities affected by the mine-not only those in the Andean valleys near the mine sites themselves, but also in coastal regions affected by the desalination, shipping, and electricity generation facilities of the mining operations. Interviews were conducted with a total of fifty-five participants across the field sites, broken down by stakeholder group and  watershed region as summarized in Table <ref type="table" target="#tab_1">2</ref>.</p><p>After completing these interviews, 5 the researcher produced a summary of the preliminary results. The researcher then conducted focus groups in each field site and in Santiago to request feedback on these findings and observe reactions to them from diverse stakeholders. It proved more difficult to recruit participants for focus groups than for interviews, suggesting that participants may be less willing to discuss the topic-which can be politically sensitive in Chile-in front of others. In total, the focus groups included ten participants: two representing mining companies, two government, and six civil society. 6 Fieldwork was conducted between September 2017 and November 2018.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Data on desalination and mining at the national level</head><p>Fig. <ref type="figure" target="#fig_0">1</ref> shows water used, by source, in Chile's copper mining industry from 2009 to 2018. The data indicate that the use of seawater-including both brackish and desalinated water-has grown rapidly in the past decade, from 3 percent (316 l/s) of the total in 2009 to percent (3,993 l/s) in 2018, and from 1 percent (180 l/s) to 12 percent (2,117 l/s) for desalinated seawater specifically. Mining operations have also increased their capacity to use recirculated water in their operations by 77% between 2011 7 and 2018 <ref type="bibr" target="#b17">(COCHILCO, 2020)</ref>. Yet this increase in the use of alternative sources has not correlated with a reduction in the use of continental water, such as rivers and groundwater. Instead, continental water use also grew by 9 percent between 2009 and 2018, from 12,270 to 13,358 l/s. Fig. <ref type="figure" target="#fig_1">2</ref> indicates that these trends are projected to continue, with the use of seawater expanding by 230 percent between 2018 and 2029, and continental water use still increasing by percent.</p><p>This growth of demand for both continental and seawater may be explained in part by a projected expansion of copper production-estimated at 28 percent between 2017 and 2029 <ref type="bibr">(Montes Prunes and Cantallopts, 2018b, p. 11)</ref>. However, the average annual growth in demand for water by the industry will double that of average annual growth in copper production between 2018 and 2029, at 4.2 and 2.1 percent, respectively <ref type="bibr">(Montes Prunes and Cantallopts, 2018b, p. 11)</ref>. This is due to both declining ore grades and a shift from mining copper oxides to copper sulfides (Montes Prunes and Cantallopts, 2018b). Thus, the industry would require an increased supply of water only to maintain current levels of production, let alone increasing production as projected.</p><p>The rapid development of reverse osmosis desalination operations (as opposed to thermal-see <ref type="bibr" target="#b43">Jones et al., 2019)</ref> across the globe in recent decades demonstrates the technical feasibility of the technology to be deployed to address such concerns, especially for an industry used to large infrastructure projects. However, desalinated water is much more expensive than continental water-especially due to the energy costs of pumping it from the coast to high-altitude mines <ref type="bibr" target="#b32">(Herrera-León et al., 2019)</ref>. Data from 2013 cited by the Chilean Library of Congress put the  5 Interviews with three participants were completed during the focus group phase of research.</p><p>6 Due to the specificity of selection criteria, the small number of people who fit them, and the difficulty in accessing interviewees willing to participate in the project (due to their time constraints or the sensitivity of the topic), statistically representative sampling was neither feasible nor desirable for methods 2, 3, and 4. 7 The first year for which data were available.</p><p>average cost of freshwater for a mining company at USD 1.60 per cubic meter, compared to USD 5.10 for desalinated seawater, with USD 3.60 due to expenses in transporting the water to the mine site (García <ref type="bibr" target="#b30">Bernal, 2017</ref>; see also Comisión Nacional de <ref type="bibr">Productividad, 2017, p. 195;</ref><ref type="bibr">Herrera-León et al., 2019, p. 8</ref>). Yet as Fig. <ref type="figure" target="#fig_2">3</ref> demonstrates, the growth in optimism surrounding desalination in Chile has coincided with a growth in global copper prices. The commodity boom that began in the early 2000s has hit peaks and valleys since then, but has consistently remained well beyond prices prior to that period. And presentations in the World Copper Conference in Chile attended as part of this research project in April 2018 indicated optimism in the industry over future demand for the metal. This evidence, combined with the very fact that desalination plants were being built so rapidly in the country, indicates that increased commodity prices were making the increased costs of desalination worth it for companies at the time of fieldwork. It should be noted, however, that these dynamics will be affected by the economic impacts of the COVID-19 pandemic, underscoring the need for continued research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Perceptions of desalination at the national level</head><p>Fig. <ref type="figure" target="#fig_3">4</ref> shows the results of an interview question posed to nationallevel stakeholders in Santiago as to whether they believed desalination operations reduce tensions over water in Chile's mining regions. 9 A clear majority of respondents answered in the affirmative, with high percentages among government and the private sector in particular. One interviewee from a company involved in desalination stated: "The future of Chile is desalination as a support for the security of water resources for mining, agriculture, and human consumption …" 10 This is unsurprising given the financial incentive the interviewees' company had to promote the technology. Within the mining industry, however, perspectives on desalination were more nuanced, ranging from an assertion that it is absolutely necessary for the industry to continue operating in Chile, to wariness of its implementation. A first reason given for wariness is that desalination is expensive. One leader of an industry group stated:</p><p>… [Y]ou have to seek an equilibrium between the communities and the economic viability of the project, because in effect, the first temptation is to give everything to the communities to prevent a problem, but that makes a project unviable.</p><p>A second concern that arose is related to the environmental impacts of desalination. A CEO of one mining company stated: Do we really know the long-term impacts of desalination for that local area and the increase in salinity in the immediate area? Do we know the 50, 60, 100-year impacts of that? We have done really good environmental studies, but I think it's a serious issue to continue to monitor, with ongoing excessive desalination plants.</p><p>The interviewee also questioned whether desalination may enable the continuance of unsustainable water demand, stating: "I think desalination plants sometimes could give a false sense of, well, we can continue wasting water."</p><p>With regard to community impacts, one company executive stated: "… I don't currently see a high level of conflict over desalination plants. I think that there is a social consciousness of their importance to reduce the use of freshwater." Yet this interviewee and a CEO interviewee both also referenced negotiation with fishermen over desalination operations, indicating a recognition that this particular group does muster some level of resistance.</p><p>A water expert from the private sector argued that infrastructural development in general cannot resolve concerns over water, unless it is situated within broader changes to the social context in which water is used:</p><p>In general, infrastructure doesn't resolve the fundamental problem … If you don't have a social structure, the people aware that you have to save water, you have to seek crops that are more efficient from a hydrological perspective, you have to adapt to a certain water culture … [I]f there isn't a structure … an entity that … makes it clear to people that that is necessary, and then after comes the [infrastructure], the situation is going to continue being the same.</p><p>Among the three groups of respondents, participants from civil society were the most skeptical of the potential for desalination to resolve hydrosocial conflict. Among the four respondents who said that desalination will reduce conflict in mining regions, all included a caveat that it may produce other problems. For example, one environmental lawyer stated:</p><p>You are changing one problem for another, because probably these companies will have less troubles with the communities that are around the mines, but they are going to face problems with the communities in the coast. 11   The results of these interviews among experts in Santiago thus indicate that although a perception dominates that an expansion of desalination will relieve tension over water in mining communities, an underlying concern also exists that it may create new environmental problems and/or rounds of social conflict.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Case study 1: Escondida Mine</head><p>On April 7, 2018, Australian mining company BHP inaugurated the largest desalination plant of its kind in Latin America. Located a stone's throw from the fishing village of Coloso, the project required the labor of 6,000 workers over the course of three years and had a final price tag of USD 3.4 billion <ref type="bibr">(Norte Minero, 2018)</ref>. The plant would provide the company's Escondida Mine with 2,500 liters of desalinated water per second-beyond the 500 l/s already processed by a smaller plant built twelve years earlier-by pumping the water 170 km to a reservoir at the mine site itself at an elevation of 3,200 m above sea level (Norte <ref type="bibr">Minero, 2018)</ref>. Such an energy-intensive process required an expansion of the Kelar Thermoelectric Power Plant, located in another coastal community, Mejillones, approximately 80 km to the north.</p><p>The project was publicized as a step toward BHP's goal of reducing its dependence on groundwater in the Atacama Desert region-one of the world's driest <ref type="bibr" target="#b9">(BHP, 2018</ref>). Yet it was also needed to fuel the company's addition of a third concentrator that increased production by 52 percent, "… giving the operation copper processing capacity more than any other mine" <ref type="bibr" target="#b8">(BHP, 2016</ref><ref type="bibr" target="#b7">(BHP, , 2013))</ref>. Construction of the plant followed years of tension with indigenous Atacameño communities over scarce water resources in the highland regions of the Atacama <ref type="bibr" target="#b4">(Babidge, 2013</ref><ref type="bibr" target="#b6">(Babidge, , 2016))</ref>, and community representatives were included on the guest list to the inauguration ceremony. Fig. <ref type="figure" target="#fig_4">5</ref> presents a map of the region affected by the Escondida operation and key sites discussed in this case study.</p><p>No formal community protest against the desalination plant existed 8 Private sector includes CODELCO employees and industry-oriented civil society groups, and government includes high-level former officials. Cases in which participants were involved in more than one sector were categorized based on the stakeholder group they were judged to represent most clearly. 9 The exact wording of the question varied slightly between participants, due to the conversational nature of the semi-structured interview format taken for this project. 10 Unless otherwise noted, all quotations from interviews or focus groups have been translated from Spanish to English. An exception is if stating the original language of the interview could potentially reveal the identity of a confidential interviewee.</p><p>11 Originally in English.</p><p>at the time of fieldwork, and none seemed imminent. Two months after the plant was inaugurated, the president of Coloso-the community most directly affected by the operation-reported in an interview that community members had not at that point noticed negative effects from it on their fishing, although they travel three to four hours away to arrive at their fishing grounds. At the same time, he did note the potential for marine impacts from the operation:</p><p>And now ... they add this desalination plant that [processes] lots of liters per second … and returns all that salt to the sea … Logically, that is going to cause an impact, right? Because it isn't normal. It isn't normal. But those are the costs, they say, of a developing country-it creates jobs, and that's what they're talking about at the global level.</p><p>Of particular interest in this quotation is a certain resignation toward localized impacts on the community in order to satisfy development priorities at national and global scales-a concept commonly referred to in Chile as "zona de sacrificio" (sacrifice zone) dynamics. This perspective is likely influenced by the large footprint (see <ref type="bibr" target="#b54">Northey et al., 2013</ref><ref type="bibr" target="#b55">Northey et al., , 2016) )</ref> of the mine's operations in the area, including the port from which BHP ships the copper concentrate produced by the mine. 12  A similar dynamic was evident in Mejillones, which hosts several industrial operations in addition to the Kelar power plant mentioned above. For BHP alone, in addition to Kelar, all supplies needed for Escondida enter via the Mejillones port, while the site is also the planned location for a future desalination plant for the Spence copper mine. The area also hosts industrial facilities for sulfuric acid, explosives, and cement <ref type="bibr" target="#b65">(Fundación Terram, 2016)</ref>. Terram lists Mejillones as one of five zonas de sacrificio of Chile <ref type="bibr" target="#b65">(Fundación Terram, 2016)</ref>, and interviewees from the environmental office of the Municipality of Mejillones confirmed that there is a sense within the community that it is a zona de sacrificio. The interviewees specifically noted that the Kelar plant has raised concerns over air pollution (prior to a decision by BHP to switch the plant from coal to natural gas), destruction of fish eggs as the plant sucks up water from the bay, and social impacts from the high worker population that has come to the area, such as stress on the healthcare system.</p><p>Shifting from the coastal region to the higher elevation region in which the mine is located, there is some optimism that the impacts of the desalination plant may have positive outcomes for highland communities. BHP states that the plant is part of an effort to wean Escondida off of continental water supplies altogether by 2030 (BHP, 2018), with notable focus on the Punta Negra and Monturaqui aquifers. 13 The company thus sees the desalination plant as having had positive impacts on their relationships with highland communities, including the Atacameño community of Peine, which is nearest the mine and has a history of conflict with BHP over water <ref type="bibr" target="#b6">(Babidge, 2016</ref>). An indigenous affairs specialist from the company stated that representatives of the community came to the inauguration of the new desalination plant, and that they were pleased with the company's efforts to address water concerns in this way.  <ref type="formula">2017</ref>), and include plants whose type is labelled "copper" and that are categorized as in operation or under construction. Plant labels indicate the operation with which they are associated.</p><p>12 Serious concern was also expressed in the community over possible heavy metals contamination in the population. 13 Since the end of fieldwork for this project, the mine has increased its production of desalinated water, enabling it to end extraction from high Andean aquifers sooner (BHP, 2020).</p><p>An interview with the president of Peine did not necessarily invalidate this claim, but did indicate that the community's perception of the desalination plant is more nuanced than the company representative suggested. He stated:</p><p>All extraction has its impactfor good or bad. For example … in Coloso, as I understand it, they take the water and … treat it to leave it as fresh as possible. But this salt goes back to the sea. And this obviously damages the ecosystem of the coast, the fish. Now if we're talking of humans, obviously the impacts are much less significant in this regard.</p><p>It should be noted that this perception of low human impacts underscores a dynamic observed in interviews of a disconnect in communication between highland and coastal communities. That is, if desalination does hurt marine environments, this could have human impacts on the fishing communities dependent upon them for their livelihoods, much as highland agricultural livelihoods are affected by water scarcity. This disconnect points to a communication imbalance between distant-yet similarly harmed-communities, and the company, which possesses the resources necessary to maintain communication with both highland and coastal communities.</p><p>Other evidence also brings into question the nature and feasibility of BHP's retreat from the highland aquifers. In a 2015 article, <ref type="bibr" target="#b5">Babidge (2015)</ref> cited an informant from Peine who protested Escondida's ability to continue operating in the Salar de Punta Negra then because, as he stated, they had already "destroyed" it. Similarly, the president of Peine stated in the interview for this project: "Minera Escondida … also extracted water from the Salar de Punta Negra … for almost 20 years … which is now dried up." In addition, since the end of fieldwork, the Chilean government's Superintendent of the Environment opened a case against Escondida for over-extracting from wells in the Tilopozo sector (SMA, 2020). These observations suggest that Escondida may have had no choice but to find alternatives to the continental water supplies because they had exhausted them.</p><p>An interviewee in the Antofagasta office of the government General Directorate of Water (Dirección General de Aguas, DGA) also suggested that returning water rights in Monturaqui to communities may be complicated because Escondida and another mine, Antofagasta Mineral's Zaldívar, both use the water source, and were granted water rights above the recharge rate due to previous government practices. So even if Escondida were to return its full rights on paper, the actual amount that could be granted for future use may be less. 14  Another important trend that emerged from interviews is that participants sense an impact from desalination, but do not possess the capacity to determine what those impacts may be. The quotations cited above from the presidents of Coloso and Peine show this to be the case among both highland and coastal communities. The perception is reflected as well even in an interview in the Antofagasta office of the DGA:</p><p>The topic of <ref type="bibr">[continental]</ref> water is, in quotes, "easy" to analyze. Although it is complex, it is easy to analyze because this amount of water that is moved here is moved there. It's easy. But the topic on the coast is differentvery different. It is much more specialized, much more complex … I am not an expert on the topic … If I want to analyze water, I measure the quantity that I have and look at its quality. In the sea, no.</p><p>Thus, even for a water specialist, the vastness and complexity of the ocean makes the impacts of desalination difficult to define. Seawater is thus viewed as a separate entity from continental water that requires a different set of knowledge and analytical tools. 15</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Case study 2: Los Pelambres Mine</head><p>The Los Pelambres Mine, operated by the private Chilean company Antofagasta Minerals, is located near the Argentina border above an agricultural valley of the Coquimbo region. In response to community protest in the Salamanca municipality, the local administrative unit that hosts the mine, the company committed in the 2015 "Salamanca Agreement" to use desalinated water to supply any future expansion of its operations. The resulting plant, for which-since the time of Fig. <ref type="figure">6</ref>. Map of Case Study 2: Los Pelambres Mine. Data sources and descriptions: Administrative boundaries, roads, rivers, water bodies, and elevation obtained from <ref type="bibr" target="#b33">Hijmans (2020)</ref>. Rivers are permanent/perennial water lines, water bodies are permanent/perennial water areas, and roads are primary. Cities, towns, and villages obtained from IMF, 2019, 2020, and 2019a, respectively. Mina Los Pelambres was located via INE, 2016. Desalination plants obtained from Infraestructura de Datos Geoespaciales de Chile, 2017, and include plants whose type is labelled "copper" and that are categorized as in operation or under construction. Plant labels indicate the operation with which they are associated. Los Pelambres' desalination plant (currently under construction in Punta Chungo) was not included at the time of this data's publication, and so was added separately. 14 It should be noted that beyond copper mining, highland communities are facing concerns over the impact of newer lithium mines in the Salar de Atacama on water supplies. 15 It should be noted that despite this relative lack of understanding of ocean dynamics, interviews with BHP indicate that the company recognizes concerns over brine effluence, energy use, and the potential for marine life to be sucked into the desalination process, and have worked to affect such concerns.</p><p>fieldwork-construction has begun, is the main focus of this section. At the same time, the government committed in the Salamanca Agreement to work with Antofagasta to study the possibility of a desalination plant to supply water to communities in the region. Some research participants thus referred to both plants in their responses. The fact that these desalination plants were under consideration, but not yet construction, at the time of fieldwork permits a useful examination of a different period in community relations related to desalination plants than the Escondida case. Fig. <ref type="figure">6</ref> offers a map of the region surrounding the Los Pelambres mine and key sites discussed in this section.</p><p>Los Pelambres' desalination plant is part of a broader program referred to as the "Complementary Infrastructure Project" (Proyecto de Infraestructura Complementaria, INCO), which will invest USD 1.3 billion to expand annual production of the mine by 15 percent <ref type="bibr">(Antofagasta Minerals, 2019a)</ref>. At an event commemorating the launch of the project in April 2019, Chilean President Sebastian Piñera made clear that this is in line with Chile's modernist economic development model, which prioritizes economic growth fueled in large part by natural resource extraction. He stated that the project will permit Los Pelambres to "… [add] more millions of tons to the 6 million tons of copper that [Los Pelambres has] produced in the past 19 years …" (Antofagasta Minerals, 2019b). 16 He further stated, "… the beginning of the construction of this complementary infrastructure will mean not only good news for the region, for the company, but also for our economy, which needs more investment, more innovation, and more entrepreneurship to create more jobs and opportunities" <ref type="bibr">(Antofagasta Minerals, 2019a)</ref>.</p><p>Similar to Escondida (see 13 ), since fieldwork concluded, Los Pelambres has released a new proposal to increase the production of the desalination plant, which would allow the mine to cease extraction from the Choapa River by 2025 (Antofagasta Minerals, 2020). However, at the time of fieldwork, a noteworthy difference from the Escondida case was that Los Pelambres did not intend to formally cease using continental water supplies. 17 Antofagasta Minerals did tout that "Standard &amp; Poor's … awarded a green evaluation … to part of the financing for proyecto INCO, given that in the future, it will permit a reduction of use of continental water" (Antofagasta Minerals, 2019a 18 ). Yet one interviewee noted that the plant would only be turned on in times of scarcity, to reduce dependence on freshwater supplies, and company interviewees also highlighted that Los Pelambres already possesses more continental water rights than it uses. Nevertheless, there was some optimism that desalination may resolve conflicts over water in the region. For example, an official from the Municipality of Salamanca noted that since the Salamanca Agreement was signed, the community had been calm, suggesting that protests over scarcity were successfully diffused through a commitment to desalination.</p><p>Yet among both company and community interviewees, skepticism of the potential for desalination to fully resolve conflict over water remained. One perspective that emerged in this regard is that desalination may help to address concerns over water scarcity between the company and the community, but that problems will persist. One civil society interviewee who works on water attributed this to the fact that the company did not plan to return water rights to the community, stating: "This would resolve it if today the mine were able to return the freshwater rights that they are using to the watershed … and start using desalinated water [instead] … But it's not like that." An interviewee from the company also raised the concern that once the desalination plant is built, community members may expect the company to free up more continental water supplies for farmers. The implication is that if this is not the case, further rounds of conflict could emerge.</p><p>Yet an agricultural technician raised concerns over the potential contradiction of solving scarcity in the highlands with new infrastructure on the coast:</p><formula xml:id="formula_0">… [A]</formula><p>desalination plant also pollutes in the spot where it is located. So … we are fighting for an issuethat they don't use more freshwater and don't pollute the valley anymore … however, we are also asking that they build a desalination plant that to a certain extent pollutes the oceanand not only the ocean, [but also] the place where it is built.</p><p>The mayor of the coastal commune of Los Vilos raised these issues prominently in an interview with El Siglo magazine in April 2019, expressing concern that his community could become a zona de sacrificio by hosting Los Pelambre's port, tailings dam, and desalination plant <ref type="bibr" target="#b25">(Espinoza, 2019)</ref>.</p><p>At the same time, interviews also offered a counter-narrative to the idea that desalination operations portend good for highland communities and ill for coastal ones. The president of the Oversight Board of the Choapa River highlighted that under the plans proposed at that time, the mine would have the water it needs via its desalination plant, the coastal communities would have the water they need via the government plant, but the highland agricultural communities would still be left with scarcity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Case study 3: Andina mine</head><p>The Andina Mine is operated by CODELCO in the mountains above the Santiago Metropolitan area and agricultural communities of the Valparaíso region, and experienced major social conflict over the potential for damage to glaciers from a 2013 proposal, known as Andina 244, that would have nearly tripled production. In response to protests, CODELCO withdrew the proposal. Andina did not have a desalination plant at the time of fieldwork, nor plans to develop one. Thus, many of the questions about impacts of desalination operations addressed in the other two case studies do not apply here. However, the Andina case is interesting precisely because it does not have a desalination plant, so differences between it and the other cases may lend insight into factors that contribute to the adoption or rejection of desalination as a hydrosocial fix.</p><p>It is clear that the absence of desalination in the Andina case is not because of a reluctance or inability on the part of CODELCO to invest in the technology. The company's vice president for corporate affairs and sustainability did note that desalinated water is six to seven times more expensive than alternative sources. Despite this, however, CODELCO planned to spend USD 1 billion to construct Chile's second largest desalination plant to service the Radomiro Tomic mine in the Antofagasta Region <ref type="bibr" target="#b0">(Andrés Cambero and Cohen, 2018)</ref>. Nor does the Andina case not have a desalination plant because it would be logistically infeasible due to distance or the elevation to which the desalinated water would need to be pumped. Mina Andina is located approximately 170 km by road from Las Ventanas, the coastal city where a CODELCO smelter is located, and presumably the site where a hypothetical desalination operation would be located. This is the same distance that Escondida pumps its desalinated water, and similar to the distance by road from Los Vilos to Mina Los Pelambres (157 km). All three mines have elevations above 3000 m, though Andina is slightly higher than the other two: 3700-4200 m compared to 3600 m above sea level for Los Pelambres and 3200 m above sea level for Escondida. 19  Andina's Director of Environmental Vulnerability and Territorial Management, who also used to work in the DGA, asserted instead that in comparison to mines in the northern region, Andina does not have a 16 Translated from Spanish. 17 The factors behind Los Pelambres' and Escondida's change of plans require further research. 18 Translated from Spanish. 19 This altitude difference represents higher energy costs required to transport the desalinated water relative to Pelambres' and Escondida's costs, so would need to be taken into consideration if CODELCO were to consider a desalination plant for Andina.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S.D. Odell</head><p>desalination plant because water is less scarce in the area surrounding the mine and Andina uses a lower percentage of it. In addition, he argued that the presence of sensitive environmental areas and the country's Indigenous Law lead to stricter conditions in the north.</p><p>Data on water use by the mining industry in Chile lend support to the first of these reasons. Fig. <ref type="figure" target="#fig_5">7</ref> shows water used by large-scale mining, by region, as a percentage of total water use in each of Chile's regions beginning with O'Higgins and moving north to Tarapacá (left vertical axis), as well as the total amount of seawater used by the mining industry in each region (right vertical axis). Note that this latter figure includes both desalinated and brackish seawater. At the time the data was collected, the Atacama and Antofagasta regions were the only ones in which seawater was being employed by the mining industry, and these regions also have two of the three highest percentages of water used by the mining industry. Of particular note are the regions in which the three case studies for this project are located: Valparaíso (Andina), in which the mining industry used only 1 percent of water and no seawater; Coquimbo (Los Pelambres), in which the mining industry used 2 percent of water and no seawater; and Antofagasta (Escondida), in which the mining industry used 50 percent of water and 3.2 cubic meters per second of seawater-both by far the highest figures for the regions analyzed. Looking to future water use, COCHILCO (2018b) projects that copper mines in the three southern regions (O'Higgins, Metropolitan, and Valparaíso) will continue operating without the use of seawater through 2029, while seawater use will begin and/or increase in each of the remaining northern regions over the same period. This supports the hypothesis that mining companies in regions in which the industry uses a higher percentage of scarcer water resources are more likely to use seawater in their operations.</p><p>At the same time, a civil society participant in the focus group for the Andina case highlighted overuse of water resources by mining companies and the associated role of social movements in Escondida's decision to employ desalination in the Antofagasta region:</p><p>It is super difficultespecially for Aguas Potables Rurales [providers of potable water in rural areas] or for agriculture-to use desalinated water. Mining has done it in the north -Escondidaonly because Escondida wasted all its options for drying up salt flats. Because the indigenous communities pushed them and won. But if not, they would have continued with the cheapest option, which was that.</p><p>In other words, the participant acknowledged the role of scarcity in creating incentives for mining companies to pursue desalination operations, but attributed that scarcity to poor management of water resources by the mining company. Regardless of its cause, however, the participant asserted that scarcity alone was insufficient to force Escondida to build a desalination plant-social protest by communities harmed by the company's water practices also played a role. This perception is supported by evidence from Case Study 1-the references to over-extraction and the long history of protest of Escondida's use of water by Atacameño communities. In Case Study 2, this is supported by Los Pelambres' decision to build a desalination plant after explicit calls for desalination by protesters in Salamanca. In contrast, while hydrosocial protests have occurred in Case Study 3, they have tended to focus most prominently on the impacts of mining on glaciers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Analysis and discussion</head><p>Results of this research project thus indicate that though the largescale adoption of seawater desalination may ease some tensions in mining regions, it is also likely to transform and move sources of water conflict downstream and toward communities that are potentially more vulnerable to harms-a process encapsulated by the term hydrosocial displacements <ref type="bibr">(Odell, 2021a)</ref>. Whether, how, and where desalination is deployed to address conflict, and with what effect, depend on four factors of hydrosocial displacements, as follows. 20</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Geographical constraints</head><p>A key finding from the case studies is that desalination is more likely to emerge where water is scarcer and the mining industry uses a higher percentage of freshwater. Thus, the relatively water-secure Andina has no plans for desalination, while the severely water-constrained Escondida built the largest plant in the country. In between, Los Pelambres planned to build a plant that could be turned on and off as needed. Part of this scarcity depends upon physical geography-Antofagasta is by far the most arid of the three regions. However, it should be noted that scarcity is also a socially produced phenomenon that depends upon how much water is used, and by whom. Thus, BHP's intensive use of local aquifers and expanding production inherently necessitated that it find alternative water sources, such as seawater.</p><p>Another geographical factor that affects why and how desalination plants have been used in Chile's mining regions is the nature of the 20 A related topic with similar constraints and impact considerations is deepsea tailings placement (DSTP) and submarine tailings disposal (STD). See <ref type="bibr" target="#b20">Coumans, 2018;</ref><ref type="bibr" target="#b35">Hughes et al. (2015)</ref>; <ref type="bibr" target="#b45">Kwong et al. (2019)</ref>; <ref type="bibr" target="#b60">Ramirez-Llodra et al. (2015)</ref>; <ref type="bibr" target="#b67">Vare et al. (2018)</ref>. Conceptual connections between desalination and DSTP/STD merits further research and analysis. country's coastline. In addition to being one of the longest in the world, the coast is close to mining operations. That is, despite the fact that all three mines are located at more than 3000 m above sea level, none are further than 200 km from the coast, making desalination a relatively feasible option for mines in Chile.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Technical, economic, and political feasibility</head><p>As discussed in Section 3.1, the need for the mining industry to obtain more water supplies even to sustain existing levels of production, combined with the rapid introduction of reverse osmosis plants across the globe, demonstrate the technical demand for and feasibility of deploying desalination as a fix to hydrosocial concerns in mining regions. These findings also lend evidence to a pending analytical question (see <ref type="bibr" target="#b48">McEvoy and Wilder, 2012;</ref><ref type="bibr" target="#b49">Meerganz von Medeazza and Moreau, 2007)</ref>, suggesting that a variant of the Jevon's Paradox <ref type="bibr" target="#b42">(Jevons, 1965)</ref> does function for desalination, by which greater access to the water resource is accompanied by increased demand for it. At the same time, the commodity boom beginning in the mid-2000s made investments in the technology economically feasible.</p><p>In terms of political feasibility, the interview results indicated a certain optimism over desalination at the national level, among all three sector groups of government, the private sector, and civil society. At the local level, in both the Pelambres and Escondida cases, desalination has been employed as a means to relieve pressure on freshwater supplies in highland communities, and has been met with relatively little protest in coastal communities. Finally, climate change has created uncertainty among the mining industry that contributed to optimism toward desalination as a stable water supply.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Downstream dynamics</head><p>Related to the aforementioned geographical factors, desalination plants are most likely to be built on or near the coast. In their review of global desalination dynamics, <ref type="bibr" target="#b43">Jones et al. (2019)</ref> estimate that 49 percent of brine is produced within a kilometer of the coastline, and an additional 31 percent is produced within 10 km. This makes intuitive sense given the ready source of saline water from the sea, but is also due to the fact that disposing of brine in the ocean is "extremely economical" <ref type="bibr" target="#b43">(Jones et al., 2019</ref><ref type="bibr">(Jones et al., , p. 1351))</ref>. In both the Escondida and Pelambres cases, desalination plants are or will be built in coastal regions to address concerns over water scarcity in highland regions nearer the mine. Given the observed or potential impacts of desalination plants and the energy production required to operate them, this will represent a transference of hydrosocial impacts downstream from highlands to coasts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Relations of power</head><p>Power disparities are evident between mining companies and communities in terms of the high level of financing required to construct desalination plants, technical expertise necessary to assess their impacts, and weight in the national political and economic context. At the same time, the cases indicate that even when a high degree of water scarcity is present, community protest against companies' continental water use and/or in favor of desalination as an alternative can tip the scales toward desalination as a hydrosocial fix, underscoring the power of grassroots movements.</p><p>In terms of relations among communities affected by mining, the aforementioned downstream dynamics indicate a certain influence possessed by highland communities by virtue of geography. This upstream/downstream dynamic may provide a balancing mechanism that allows communities most vulnerable to the direct harms of the mining operation to voice concerns-a potential positive corrective dynamic in the Escondida case in particular, given that indigenous Atacameño communities have long been recipients of environmental and social harms in the highlands. Yet the cases also raise concern that desalination may result in new harms in coastal communities that have also long been the recipients of negative industrial impacts. The comparison of the Los Vilos community with the Coloso and Mejillones communities indicates that regions already subject to zonas de sacrificio dynamics are less likely to protest the addition of yet another industrial operation, although the impacts may not be any less.</p><p>Finally, the construction of desalination operations reveals preexisting communication disparities between companies and communities. That is, while mining companies maintain contact with distant communities affected by their operations (such as Coloso on the coast and Peine in the highlands), the communities themselves may lack the resources or opportunities to do so with each other, thus preventing recognition of and coordinated responses to shared harms.</p><p>These observations underscore findings by <ref type="bibr" target="#b64">Swyngedouw (2015</ref><ref type="bibr" target="#b63">Swyngedouw ( , 2013))</ref>, <ref type="bibr" target="#b27">Fragkou and McEvoy (2016)</ref>, and Fragkou and Budds (2020) that the deployment and impacts of desalination technologies are dependent upon the political, economic, and social contexts in which they are situated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>The analysis conducted in this article should not be employed to conclude unequivocally that desalination ought not be used to relieve hydrosocial concerns in mining regions. Indeed, both the Escondida and Pelambres cases indicate that desalination may result in a reduction of tensions in, and even important benefits to, those highland communities nearest the mines, and that immediate social and environmental impacts in coastal regions may be less prominent. Yet evidence also raises the concern that desalination as a fix to water conflict may result in hydrosocial displacements, in which the underlying social and environmental concerns of stakeholders are not resolved, but merely transformed and moved elsewhere. In this case, water scarcity is addressed in the highlands by building a major industrial facility in coastal regions that could pose risks for marine environments and associated social issues. This is of particular concern in pre-existing zonas de sacrificio, where communities may raise relatively little protest to yet one more industrial operation, but are nonetheless vulnerable to harm from the pile-on effects of new environmental and social impacts.</p><p>From a broader view, and echoing <ref type="bibr" target="#b64">Swyngedouw's (2015</ref><ref type="bibr" target="#b63">Swyngedouw's ( , 2013) )</ref> and <ref type="bibr">Fragkou and Budd's (2020)</ref> findings, desalination-as both a particular artifact and a stand-in for technological fixes to socioenvironmental concerns more broadly-is being employed at present simply to maintain a business-as-usual approach to extraction and consumption. In addition, it functions as a discursive tool for mining companies-and the governments that host them-to portray their operations as technologically advanced and responsive to changing climatic realities, even if the causes of these challenges remain insufficiently mitigated. In another framing, desalination is permitting an accumulation of previously untapped, common water resources in the hands of private entities, which in turn are being used to advance the accumulation of metals in an increasingly resource-poor environment <ref type="bibr" target="#b26">(Fragkou and Budds, 2020)</ref>. Indeed, in both the Pelambres and Escondida cases, desalination is not merely permitting mining operations to maintain current output, but to dramatically expand it to meet increased global demand.</p><p>At both local and global scales, it is exactly these forms of production and consumption that are fueling the environmental and social harms that desalination is being employed to address, creating a positive feedback loop. The drought suffered by Chile in recent years, which has contributed to calls for desalination, may almost certainly be attributed to climate change caused by global consumption patterns. At the same time, community protests against companies' water practices represent only part of broader concerns about how the social, economic, and environmental footprints of ever-expanding open-pit mines are affecting perceptions of what it means to live a good life, in place, across generations. Desalination is thus unlikely to permanently resolve sources of hydrosocial conflict in mining regions, and may even exacerbate them over the long-term.</p><p>From a policy perspective, desalination should be avoided as a response to highland water conflict if it will simply create new socioenvironmental harms and associated conflict in coastal regions. In addition, stakeholders must acknowledge that the introduction of seawater resources to mining operations removes a natural limiting factor of metal production. This may require more state resources and oversight in order to prevent or mitigate social and environmental impacts that will result from steadily expanding mining production. Finally, the findings of this research underscore the civic need and pragmatic necessity for government officials, civil society actors as part of the electoral process and grassroots movements, as well as mining companies as key actors in the communities in which they operate, to consider whether and how the expansion of mining production and associated desalination operations currently in progress in Chile-and of interest to other mining countries-fits into broader economic, environmental, and social priorities, both in specific regions and at national and global scales. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Consumption of water in the copper mining industry, Chile, 2009-2018 (liters/second). Recycled water is not included in this figure. Data source: (COCHILCO, 2020, p. 32). See also Montes Prunes and Cantallopts, 2018a, p. 4.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Projected continental and seawater use in Chile's copper mining industry, 2018-2029. Data source: Montes Prunes and Cantallopts, 2018b, p. 12.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Global copper prices, 1980-2019. Based on grade A cathode, LME spot price, CIF European ports. Annual prices represent the average of monthly prices for that year, with 2019 including January through September. Data source: IMF, 2019.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Perceptions of whether desalination operations reduce tensions over water in mining regions, Santiago experts. 8</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig.5. Map of Case Study 1: Escondida Mine. Data sources and descriptions: Administrative boundaries, roads, rivers, water bodies, and elevation obtained from<ref type="bibr" target="#b33">Hijmans (2020)</ref>. Rivers are permanent/perennial water lines, water bodies are permanent/perennial water areas, and roads are primary. Cities, towns, and villages obtained from INE, 2019, 2020, and 2019a, respectively. Atacameño communities and Mina Escondida were located via INE, 2016. Note that not all Atacameño communities are shown. Desalination plants obtained from Infraestructura de Datos Geoespaciales de Chile (2017), and include plants whose type is labelled "copper" and that are categorized as in operation or under construction. Plant labels indicate the operation with which they are associated.</figDesc><graphic coords="6,37.59,55.65,347.04,347.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Percent of water used by the mining industry (left axis) and amount of seawater used by the mining industry (right axis), by region. Data source: Consejo Minero, 2019.</figDesc><graphic coords="9,112.76,55.42,369.79,178.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Visualization, Writingoriginal draft, Writingreview &amp; editing.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,37.59,55.66,347.04,245.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Summary of case study criteria.</figDesc><table><row><cell>Mining</cell><cell>Desalination</cell><cell>Ownership</cell><cell>Conflict source</cell></row><row><cell>operation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Case 1:</cell><cell>Yes</cell><cell>Private, foreign</cell><cell>Scarcity</cell></row><row><cell>Escondida</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Case 2:</cell><cell>Planned</cell><cell>Private,</cell><cell>Flooding, scarcity,</cell></row><row><cell>Pelambres</cell><cell></cell><cell>domestic</cell><cell>contamination</cell></row><row><cell>Case 3: Andina</cell><cell>No</cell><cell>Public</cell><cell>Glaciers, scarcity,</cell></row><row><cell></cell><cell></cell><cell>(CODELCO)</cell><cell>contamination</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Summary of case study interview participants.</figDesc><table><row><cell>Case study</cell><cell>Stakeholder group</cell><cell></cell><cell cols="2">Watershed region</cell></row><row><cell>Case 1: Escondida</cell><cell>Company</cell><cell>6</cell><cell>Valley</cell><cell>6</cell></row><row><cell></cell><cell>Government</cell><cell>3</cell><cell>Coast</cell><cell>8</cell></row><row><cell></cell><cell>Civil Society</cell><cell>7</cell><cell>N/A</cell><cell>2</cell></row><row><cell></cell><cell>Total</cell><cell>16</cell><cell></cell><cell></cell></row><row><cell>Case 2: Pelambres</cell><cell>Company</cell><cell>5</cell><cell>Valley</cell><cell>14</cell></row><row><cell></cell><cell>Government</cell><cell>4</cell><cell>Coast</cell><cell>2</cell></row><row><cell></cell><cell>Civil Society</cell><cell>12</cell><cell>N/A</cell><cell>5</cell></row><row><cell></cell><cell>Total</cell><cell>21</cell><cell></cell><cell></cell></row><row><cell>Case 3: Andina</cell><cell>Company</cell><cell>4</cell><cell>Valley</cell><cell>15</cell></row><row><cell></cell><cell>Government</cell><cell>6</cell><cell>Coast</cell><cell>3</cell></row><row><cell></cell><cell>Civil Society</cell><cell>8</cell><cell>N/A</cell><cell>0</cell></row><row><cell></cell><cell>Total</cell><cell>18</cell><cell></cell><cell></cell></row><row><cell>Totals</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Stakeholder group</cell><cell></cell><cell></cell><cell cols="2">Watershed region</cell></row><row><cell>Company</cell><cell>Government</cell><cell>Civil Society</cell><cell>Valley</cell><cell>Coast</cell></row><row><cell>15</cell><cell>13</cell><cell>27</cell><cell>35</cell><cell>13</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>Three of the national-level participants were also included in the case study totals shown in Table1, due to their additional familiarity with specific case study sites.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>Given the semi-ethnographic methodology espoused by this project, questions were not asked in identical fashion in each interview, but rather were asked in conversational form. This does reduce confidence in quantitative comparisons of the results, but was important for humanizing the interview process and eliciting in-depth opinions and insight into each question.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This research project was funded by a <rs type="grantName">Grassroots Development Fellowship</rs> from the <rs type="funder">Inter-American Foundation</rs>. I am also grateful to the following institutions, with which I held unpaid research affiliations during fieldwork in Chile: the <rs type="funder">Centro de Estudios del Desarrollo Regional y Políticas Públicas (CEDER)</rs> of the <rs type="funder">Universidad de Los Lagos</rs>; <rs type="person">Alianza Valor Minero</rs>; and the <rs type="funder">Regional Office of the David Rockefeller Center for Latin American Studies (DRCLAS)</rs>, through my affiliation as a non-resident tutor at <rs type="institution">Harvard University</rs>'s Mather House. I extend special thanks to <rs type="person">Anthony Bebbington</rs>, <rs type="person">James Murphy</rs>, <rs type="person">Karen Frey</rs>, <rs type="person">Ed Carr</rs>, and anonymous peer reviewers for invaluable insight on this research project and manuscript. I am grateful to <rs type="institution">Clark University, Georgetown University</rs>, and the <rs type="institution">Massachusetts Institute of Technology</rs> for institutional support during the research and writing of this manuscript. The views and opinions expressed in this article are the responsibility of the author, and do not necessarily reflect those of the individuals or institutions listed above.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Fwgxube">
+					<orgName type="grant-name">Grassroots Development Fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Chile&apos;s Codelco Receives Approval for $1 Billion Desalination Plant</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Andrés Cambero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/CBO9781107415324.004</idno>
+		<ptr target="https://doi.org/10.1017/CBO9781107415324.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Reuters</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Se inicia construcción del proyecto más importante de Los Pelambres en 14 años</title>
+		<idno type="DOI">10.1017/CBO9781107415324.004</idno>
+		<ptr target="https://doi.org/10.1017/CBO9781107415324.004" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>WWW Document</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Antofagasta Minerals obtiene mayor crédito de su historia para financiar inversión en Minera Los Pelambres [WWW Document]</title>
+		<ptr target="http://www.aminerals.cl/comunicaciones/noticias/2019/inauguracion-inco-presidencia/" />
+		<imprint>
+			<date type="published" when="2019-06">2019. 10.6.19</date>
+			<publisher>Antofagasta Minerals</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Minera Los Pelambres opererá principalmente con agua de mar a partir de</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Antofagasta Minerals</publisher>
+			<biblScope unit="page" from="2025" to="2026" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Socios&quot;: the contested morality of &quot;partnerships&quot; in indigenous community-mining company relations, northern Chile</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jlca.12020</idno>
+		<ptr target="https://doi.org/10.1111/jlca.12020" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Lat. Am. Caribb. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="274" to="293" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The problem with &quot;transparency&quot;: moral contests and ethical possibilities in mining impact reporting</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.3167/fcl.2015.730106</idno>
+		<ptr target="https://doi.org/10.3167/fcl.2015.730106" />
+	</analytic>
+	<monogr>
+		<title level="j">Focaal</title>
+		<imprint>
+			<biblScope unit="page" from="70" to="83" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Contested value and an ethics of resources: water, mining and indigenous people in the Atacama Desert</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/taja.12139</idno>
+		<ptr target="https://doi.org/10.1111/taja.12139" />
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Aust. J. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="84" to="103" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Billiton Approves Escondida Water Supply Project [WWW Document]</title>
+		<author>
+			<persName><surname>Bhp</surname></persName>
+		</author>
+		<ptr target="https://www.bhp.com/community/community-news/2013/07/bhp-billiton-approves-escondida-water-supply-project" />
+		<imprint>
+			<date type="published" when="2013-07-18">2013. 18 July 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Escondida Celebrates 25 Years of Operation with the Opening of its Third Concentrator Plant [WWW Document]</title>
+		<author>
+			<persName><surname>Bhp</surname></persName>
+		</author>
+		<ptr target="https://www.bhp.com/media-and-insights/news-releases/2016/04/escondida-celebrates-25-years-of-operation-with-the-opening-of-its-third-concentrator-plant.a" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="7" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><surname>Bhp</surname></persName>
+		</author>
+		<title level="m">Stewardship of a Vital Shared Resource</title>
+		<meeting><address><addrLine>Melbourne)</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Water Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Escondida pone fin a la extracción de agua de acuíferos altoandinos 6</title>
+		<author>
+			<persName><surname>Bhp</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Qualitative research design and rigour</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bradshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stratford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Qualitative Research Methods in Human Geogaphy</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Hay</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ontario</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Combining concentrating solar power with multiple effect distillation at inland locations -an economically viable option for Northern Chile?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Branke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Fluri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Lefort</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.5067160</idno>
+		<ptr target="https://doi.org/10.1063/1.5067160" />
+	</analytic>
+	<monogr>
+		<title level="m">AIP Conf. Proc</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">2033</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">La demanda, evaluación y asignación del agua en el contexto de escasez: un análisis del ciclo hidrosocial del valle del río La Ligua</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Budds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Rev. Geogr. Norte Gd</title>
+		<imprint>
+			<biblScope unit="page" from="167" to="184" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The hydrosocial cycle</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Budds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Linton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mcdonnell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2014.08.003</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2014.08.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Desalination plants: technology to supply water to mining processes and local populations, opportunities and environmental impact</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chavez-Crooker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Obreque-Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pérez-Flores</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Contreras-Vera</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/221155010403151230143038</idno>
+		<ptr target="https://doi.org/10.2174/221155010403151230143038" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="282" to="295" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><surname>Cochilco</surname></persName>
+		</author>
+		<title level="m">Anuario de estadísticas del cobre y otros minerales</title>
+		<meeting><address><addrLine>Santiago</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="1999" to="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><surname>Cochilco</surname></persName>
+		</author>
+		<title level="m">Anuario de estadísticas del cobre y otros minerales</title>
+		<meeting><address><addrLine>Santiago</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="2000" to="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Productividad en la Gran Minería del Cobre</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Comisión Nacional de Productividad</publisher>
+			<pubPlace>Santiago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Carbon footprint of water reuse and desalination: a review of greenhouse gas emissions and estimation tools</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Cornejo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V E</forename><surname>Santana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Hokanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mihelcic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/wrd.2014.058</idno>
+		<ptr target="https://doi.org/10.2166/wrd.2014.058" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Water Reuse Desalin</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="238" to="252" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Into the deep: science, politics and law in conflicts over marine dumping of mine waste</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Coumans</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/issj.12199</idno>
+		<ptr target="https://doi.org/10.1111/issj.12199" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. Soc. Sci. J</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="303" to="323" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Desalination and water reuse-sustainably drought proofing Australia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Crisp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Desalin. Water Treat</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="323" to="332" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Desalination of water: a review</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Darre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Toor</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40726-018-0085-9</idno>
+		<ptr target="https://doi.org/10.1007/s40726-018-0085-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Pollut. Reports</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="104" to="111" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Plantas desaladoras [WWW Document]</title>
+		<ptr target="https://www.ide.cl/index.php/medio-ambiente/item/1686-plantas-desaladoras" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Infraestructura de Datos Geoespaciales de Chile</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Plantean la desalinización del agua de mar para su uso en procesos productivos mineros</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>de Diputados de Chile, Cámara</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">No queremos que Los Vilos sea zona de sacrificio</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Espinoza</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>El Siglo</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Desalination and the disarticulation of water resources: Stabilising the neoliberal model in Chile</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fragkou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Budds</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/tran.12351</idno>
+		<ptr target="https://doi.org/10.1111/tran.12351" />
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Inst. Br. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="448" to="463" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Trust matters: why augmenting water supplies via desalination may not overcome perceptual water scarcity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Fragkou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcevoy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.desal.2016.06.007</idno>
+		<ptr target="https://doi.org/10.1016/j.desal.2016.06.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Desalination</title>
+		<imprint>
+			<biblScope unit="volume">397</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hegemony and passivity in mining regions: containing dissent in north-central Chile</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Furnaro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2018.07.009</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2018.07.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The China Triangle: Latin America&apos;s China Boom and the Fate of the Washington Consensus</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gallagher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Costo económico del uso de agua desalada en la minería chilena</title>
+		<author>
+			<persName><forename type="first">García</forename><surname>Bernal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Asesoría Técnica Parlamentaria</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">): a climate dynamics perspective</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Garreaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Boisier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rondanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Montecinos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Sepúlveda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Veloso-Aguila</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/joc.6219</idno>
+		<ptr target="https://doi.org/10.1002/joc.6219" />
+	</analytic>
+	<monogr>
+		<title level="m">The Central Chile Mega Drought</title>
+		<imprint>
+			<date type="published" when="2010">2020. 2010-2018</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="421" to="439" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Applying a multiobjective optimization approach in designing water supply systems for mining industries. The case of Chile</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Herrera-León</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Lucay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Cisternas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kraslawski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2018.11.081</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2018.11.081" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="994" to="1004" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Free spatial data</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hijmans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>WWW document</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Url</surname></persName>
+		</author>
+		<ptr target="https://www.diva-gis.org/Data" />
+		<imprint>
+			<biblScope unit="page" from="12" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Ecological impacts of large-scale disposal of mining waste in the deep sea</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Shimmield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Howe</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep09985</idno>
+		<ptr target="https://doi.org/10.1038/srep09985" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The relevance of water recirculation in large scale mineral processing plants with a remote water supply</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Ihle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kracht</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2017.12.219</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2017.12.219" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="page" from="34" to="51" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Commodity data portal [WWW document]</title>
+		<author>
+			<persName><surname>Imf</surname></persName>
+		</author>
+		<ptr target="https://www.imf.org/en/Research/commodity-prices" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. Monet. Fund. URL</title>
+		<imprint>
+			<biblScope unit="page" from="11" to="17" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><surname>Ine</surname></persName>
+		</author>
+		<ptr target="https://www.arcgis.com/apps/webappviewer/index" />
+		<title level="m">Cartografía Precenso [WWW Document</title>
+		<imprint>
+			<date type="published" when="2016-12-14">2016. 14 December 2020</date>
+		</imprint>
+	</monogr>
+	<note>html?id=fce27486b3ff45fab8d7056a6e70f33d</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ine</surname></persName>
+		</author>
+		<ptr target="https://geoine-ine-chile.opendata.arcgis.com/datasets/87" />
+		<imprint>
+			<date type="published" when="2017">2019. 2017</date>
+			<publisher>WWW Document</publisher>
+			<biblScope unit="page" from="0" to="1" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Aldeas Censo</title>
+		<author>
+			<persName><surname>Ine</surname></persName>
+		</author>
+		<idno>ry=156.239%2C-57.986%2C56.923%2C-9.972</idno>
+		<ptr target="https://geoine-ine-chile.opendata.arcgis.com/datasets/" />
+	</analytic>
+	<monogr>
+		<title level="m">f4ae4f7205f94587986e3d14538b5817_0?geomet</title>
+		<imprint>
+			<date type="published" when="2017-12">2019. 2017. December 2020</date>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Pueblos Censo</title>
+		<author>
+			<persName><surname>Ine</surname></persName>
+		</author>
+		<ptr target="https://geoine-ine-chile.opendata.arcgis.com/datasets/" />
+	</analytic>
+	<monogr>
+		<title level="m">917688f966a542a8bae903353c0091b9_0</title>
+		<imprint>
+			<publisher>WWW Document</publisher>
+			<date type="published" when="2017-12">2020. 2017. December 2020</date>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The Coal Question</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Jevons</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<pubPlace>New York City</pubPlace>
+		</imprint>
+	</monogr>
+	<note>third ed. Sentry Press</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The state of desalination and brine production: a global outlook</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T H</forename><surname>Van Vliet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Smakhtin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.12.076</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.12.076" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">657</biblScope>
+			<biblScope unit="page" from="1343" to="1356" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Linking ecological economics and political ecology to study mining, glaciers and global warming</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kronenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/eet.1605</idno>
+		<ptr target="https://doi.org/10.1002/eet.1605" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Policy Gov</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="75" to="90" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Comparison of environmental impacts of deep-sea tailings placement versus on-land disposal</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T J</forename><surname>Kwong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Apte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Asmund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D E</forename><surname>Haywood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Morello</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11270-019-4336-1</idno>
+		<ptr target="https://doi.org/10.1007/s11270-019-4336-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Water Air Soil Pollut</title>
+		<imprint>
+			<biblScope unit="volume">230</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The hydrosocial cycle: defining and mobilizing a relationaldialectical approach to water</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Linton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Budds</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2013.10.008</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">8</biblScope>
+			<date type="published" when="2013">2014. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Squeezing psychological freedom in corporatecommunity engagement</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maher</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10551-018-3898-y</idno>
+		<ptr target="https://doi.org/10.1007/s10551-018-3898-y" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Bus. Ethics</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Discourse and desalination: potential impacts of proposed climate change adaptation interventions in the Arizona-Sonora border region</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcevoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wilder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2011.11.001</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2011.11.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="353" to="363" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Modelling of water-energy systems. The case of desalination</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Meerganz Von Medeazza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moreau</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2006.10.006</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2006.10.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1024" to="1031" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Minera escondida inaugurará su segunda planta desalinizadora en Coloso</title>
+	</analytic>
+	<monogr>
+		<title level="j">Norte Min</title>
+		<imprint>
+			<biblScope unit="page" from="11" to="14" />
+			<date type="published" when="2018">2018</date>
+			<publisher>Norte Minero</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Plataforma de Agua [WWW Document]</title>
+		<author>
+			<persName><forename type="first">Consejo</forename><surname>Minero</surname></persName>
+		</author>
+		<ptr target="https://consejominero.cl/agua/" />
+		<imprint>
+			<date type="published" when="2019-08-10">2019. 10 August 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montes Prunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cantallopts</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.molbrainres.2004.05.008</idno>
+		<ptr target="https://doi.org/10.1016/j.molbrainres.2004.05.008" />
+		<title level="m">Consumo de agua en la minería al</title>
+		<imprint>
+			<date type="published" when="2017">2018. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Proyección de consumo de agua en la minería del cobre</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montes Prunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cantallopts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018b. 2018-2029</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Using sustainability reporting to assess the environmental footprint of copper mining</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Northey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mudd</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2012.09.027</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2012.09.027" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="118" to="128" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Water footprinting and mining: where are the limitations and opportunities?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Northey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Mudd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Saarivuori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wessman-Jääskeläinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haque</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2016.07.024</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2016.07.024" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="1098" to="1116" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Hydrosocial displacements: Climate change and community relations in Chile&apos;s mining regions. Dissertation submitted to Clark University, Graduate School of Geography</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 28000622</date>
+		</imprint>
+	</monogr>
+	<note>ProQuest Dissertations &amp; Theses Global</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Hydrosocial displacements: Sources and impacts of collaboration as a response to water conflict near three Chilean mines</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2021.102305</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2021.102305" />
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Pol</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<date type="published" when="2021-12">2021. December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Hydrosocial displacements: Climate change and community relations in Chile&apos;s mining regions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<ptr target="https://environmentalsolutions.mit.edu/publications/" />
+	</analytic>
+	<monogr>
+		<title level="m">MIT-ESI White Paper</title>
+		<imprint>
+			<date>September</date>
+		</imprint>
+	</monogr>
+	<note>2021b</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Chile miners in US$10bn desalination drive</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ramirez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BN Am</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Submarine and deep-sea mine tailing placements: a review of current practices, environmental issues, natural analogs and knowledge gaps in Norway and internationally</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ramirez-Llodra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Trannum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Evenset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Finne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hilario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Flem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schaanning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vanreusel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2015.05.062</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2015.05.062" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar. Pollut. Bull</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="13" to="35" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Oportunidades desiguales: empresas y Estado en conflictos sobre la minería en Chile</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schorr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estud. Atacameños</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="239" to="255" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Antofagasta: SMA formula cargo grave a Minera Escondida por impacto sobre recurso hídrico</title>
+		<author>
+			<persName><surname>Sma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Chile</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Supt. del Medio Ambient. del Gob</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Into the sea: desalination as hydro-social fix in Spain</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Swyngedouw</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00045608.2013.754688</idno>
+		<ptr target="https://doi.org/10.1080/00045608.2013.754688" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Assoc. Am. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="261" to="270" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">Mobilizing the seas: reassembling hydro-modernities</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Swyngedouw</surname></persName>
+		</author>
+		<idno type="DOI">10.7551/mitpress/9780262029032.003.0008</idno>
+		<ptr target="https://doi.org/10.7551/mitpress/9780262029032.003.0008" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Liquid Power. The MIT Press</publisher>
+			<biblScope unit="page" from="191" to="222" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">INFOGRAF ÍAS: Conoce las Zonas de Sacrificio ambiental del país</title>
+		<author>
+			<persName><forename type="first">Fundación</forename><surname>Terram</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">A glocal environmental movement against gold mining: pascua-Lama in Chile</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Urkidi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolecon.2010.05.004</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolecon.2010.05.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="219" to="227" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Scientific considerations for the assessment and management of mine tailings disposal in the deep sea</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Vare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Howe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Neira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Z</forename><surname>Ramirez-Llodra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reichelt-Brushett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rowden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Shimmield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Soto</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmars.2018.00017</idno>
+		<ptr target="https://doi.org/10.3389/fmars.2018.00017" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Mar. Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

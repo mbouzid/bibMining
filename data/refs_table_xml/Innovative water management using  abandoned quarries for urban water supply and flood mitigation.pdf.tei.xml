@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Innovative water management using abandoned quarries for urban water supply and flood mitigation</title>
+				<funder ref="#_aWZjDZP">
+					<orgName type="full">DST-IITM Water Innovation Centre for Sustainable Treatment, Reuse and Management for Efficient, Affordable</orgName>
+				</funder>
+				<funder ref="#_JCwGwTC">
+					<orgName type="full">Department of Science and Technology, Government of India</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mariappan</forename><surname>Rinishakartheeshw</surname></persName>
+							<idno type="ORCID">0000-0002-6692-5773</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geology</orgName>
+								<orgName type="institution">Anna University</orgName>
+								<address>
+									<postCode>600025</postCode>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kaveri</forename><surname>Sivaraj</surname></persName>
+							<email>kasivaraj@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geology</orgName>
+								<orgName type="institution">Anna University</orgName>
+								<address>
+									<postCode>600025</postCode>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">•</forename><surname>Puthan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Veettil</forename><surname>Razisadath</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geology</orgName>
+								<orgName type="institution">Anna University</orgName>
+								<address>
+									<postCode>600025</postCode>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lakshmanan</forename><surname>Elango</surname></persName>
+							<email>elango34@hotmail.com</email>
+							<idno type="ORCID">0000-0002-6692-5773</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geology</orgName>
+								<orgName type="institution">Anna University</orgName>
+								<address>
+									<postCode>600025</postCode>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Civil Engineering</orgName>
+								<orgName type="laboratory">Hydraulics and Water Resources Engineering Group</orgName>
+								<orgName type="institution">Indian Institute of Technology Madras</orgName>
+								<address>
+									<postCode>600036</postCode>
+									<settlement>Chennai</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Innovative water management using abandoned quarries for urban water supply and flood mitigation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4F9A73FA90A517B94C4228AD498682A8</idno>
+					<idno type="DOI">10.1007/s10668-024-04716-0</idno>
+					<note type="submission">Received: 14 September 2023 / Accepted: 28 February 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Rainfall-runoff</term>
+					<term>Water demand</term>
+					<term>Evaporation</term>
+					<term>Mike 11 NAM</term>
+					<term>Hydrological modelling</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Floods and droughts are becoming common and concurrently occurring in different parts of the world due to changing global climate. Innovative and sustainable water management strategies are necessary to overcome the issues of flooding and drought, especially in large urban regions. This study aims to use abandoned quarries as an innovative and sustainable measure for flood mitigation and improved urban water supply. Chennai, one of the large metropolises of India, is a typical example of a city experiencing periodic floods and droughts. The MIKE11 Nedbor-Afstromings Model (NAM) was used to assess the efficacy of the proposed intervention and temporally varying water diversion strategies among the different water storage options. The approach was also tested with extreme rainfall cases and flood events in 2015, and it was confirmed that the presented method would reduce the surplus flow in the river and improve the water supply. The approach considered here is promising as it is possible to increase the urban water supply and reduce the impact of flooding. The innovative approach has dual benefits and can be adopted in regions with abandoned quarries under changing climatic conditions, leading to frequent flooding and droughts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Urbanization adversely impacts the environment and exerts pressure on the sustainable management of natural resources. In addition, climate change has also emerged as a global issue in the recent past, significantly affecting water resources. In recent decades, the consequences of floods and droughts, directly linked to water resources, have increased in frequency and severity. Intense and frequent extreme rainfall due to tropical cyclones and associated floods has become more common in coastal and low-lying cities <ref type="bibr" target="#b10">(IPCC, 2023)</ref>. Urban development in floodplains further increases the danger of floods since it decreases the runoff peak width and increases discharge volume.</p><p>Climate models indicate the occurrence and severity of monsoonal rainfall and droughts in the future <ref type="bibr" target="#b16">(Krishnan et al., 2020)</ref>. The droughts will have a direct impact on water scarcity. Further, droughts are directly linked to precipitation variability and water scarcity. Further, increased water loss from reservoirs due to evaporation, especially in summer, affects the urban water supply. On the other hand, floods due to high rainfall also cause more significant damage to society and property. The flood damage may be reduced with the help of reservoirs, which are used as buffer storage in the upper part of the catchment to reduce the peak flow. Single and multi-purpose reservoirs are essential for flood management and utilizing flood water to fulfil future water needs <ref type="bibr" target="#b17">(Liu et al., 2015)</ref>. Thus the reservoirs help reduce flood risks by storing excess water during high rainfall events, thereby postponing the flood peaks <ref type="bibr" target="#b3">(Brunner et al., 2021)</ref>. The reservoirs and their operation schedule also enhance the region's resilience to flood and drought risks <ref type="bibr" target="#b12">(Jing et al., 2022)</ref>. Thus, reservoirs play a crucial role in regulating the flood and drought risks under changing climatic regimes <ref type="bibr" target="#b29">(Sun et al., 2023)</ref>.</p><p>Many studies have been conducted on reservoir operation and optimization <ref type="bibr" target="#b7">(Garrote et al., 2023;</ref><ref type="bibr" target="#b20">Mansouri et al., 2023)</ref>, routing <ref type="bibr" target="#b21">(Mo et al., 2023)</ref>, flood control <ref type="bibr" target="#b9">(Hsu et al., 2015;</ref><ref type="bibr" target="#b25">Raje &amp; Mujumdar, 2010)</ref> and water supply using a variety of approaches, tools and algorithms <ref type="bibr" target="#b1">(Ahbari et al., 2019;</ref><ref type="bibr" target="#b5">Chang et al., 2017)</ref>. Despite several measures of flood and drought management, the damage caused by them is increasing with time, indicating that solutions are not simple and require integrating technology and human systems <ref type="bibr" target="#b11">(Jain and Singh 2023)</ref>. The problems of floods and droughts are more complex, especially in relatively flat coastal regions of the world that are affected by erratic rainfall due to the impacts of climate change. In such scenarios, looking for additional water retention areas is vital.</p><p>Given reservoirs' significant role in flood and drought management, areas with abandoned quarries could utilize them as supplementary reservoirs instead of constructing new ones. Across the globe, many rock quarries are left abandoned once the minable resources are exhausted. While there are existing plans for post-excavation rehabilitation, they often go unimplemented due to various reasons. As a result, many quarries remain abandoned, indirectly impacting the environment, local ecosystem and nearby communities. Though there are measures to utilize the waste generated during the mining activity <ref type="bibr" target="#b2">(Benjeddou et al., 2023)</ref> there is no tangible use of abandoned quarries for other purposes. Though the quarries have to be restored to the condition that existed before mining activities, it is often impossible to achieve this as a vast quantity of earthen materials is necessary to fill the quarries. Even the huge coal mines in several regions of the world are being converted into water bodies <ref type="bibr" target="#b13">(Kantor-Pietraga et al., 2023)</ref>, leading to some environmental issues <ref type="bibr" target="#b18">(Lund &amp; Blanchette, 2023)</ref>. In contrast, the environmental impact of water storage in abandoned rock quarries will be considerably less. Several abandoned rock quarries have supplied crushed stone for concrete in the building industry. From the vast pool of over a hundred thousand rock quarries worldwide, thousands of rock quarries that have supplied construction aggregates are in India and are in a state of neglect. These unused quarries can be used as water retention ponds for sustainably managing water resources, contributing towards achieving the United Nations' Sustainable Development Goals. A systematic study is necessary to explore the feasibility of this. Hence, this study aims to assess the feasibility of using abandoned rock quarries as an innovative water management measure to improve water supply and mitigate floods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Study area</head><p>As a tropical country, India is highly vulnerable to extreme events and has witnessed them often in the past. Flood and drought events in India have increased since 1950 due to enhanced localized and short-duration intense rainfall events. Moreover, in the future, extreme events are expected to increase. In 2021 alone, several states in India, including Maharashtra, Kerala, and Assam, were hit by severe floods that claimed many lives and caused extensive damage to infrastructure and property. Highly urbanized coastal cities in India, like Mumbai and Chennai, are affected more often due to heavy rainfall events leading to severe flooding. In coastal cities like Chennai, the climatic extremes and changes in the microclimate due to urban heat island effects intermittently result in floods and water scarcity. Some significant reasons for floods in Chennai are (a) high-intensity rainfall in short duration, cloud bursts and thunderstorms; (b) urban drains with an insufficient carrying capacity; (c) urbanization and reduction in the water storage area, flood buffering space and wetlands; and (d) lack of proper operating guidelines for the reservoirs. The city also suffers to meet the water supply and demand gap in general, more so during years of deficit rainfall. For instance, the city suffered from severe floods in 2015 and water scarcity in 2018.</p><p>The hydrological basin of Chennai covers an area of about 6119 km 2 consisting of eight sub-basins. Adyar sub-basin is among them, occupying about 14% of the entire basin (Fig. <ref type="figure">1</ref>). Topographically, the basin is low-lying and flat, with altitudes ranging from 0 to 165 m. The area experiences a semi-arid tropical climate with a very high relative humidity of 40% to 70% due to its proximity to the sea. The average atmospheric temperature of the area is about 30 ℃, with a maximum temperature of around 44 ℃ during May and a minimum temperature of about 18 ℃ during December. The average annual rainfall of the area, estimated using the data from 1951 to 2020, is 1338 mm. This area usually receives rainfall during (i) northeast monsoon from October to December (56%) (ii) southwest monsoon from June to September (36%) (iii) pre-monsoon from March to May (6%) and (iv) postmonsoon during January and February (2%). The Adyar River is non-perennial and it flows mostly during monsoons and drains into the Bay of Bengal. The area often receives heavy rains due to cyclones caused by the depression in the Bay of Bengal during northeast monsoons. Generally, the number of rainy days in a year varies from 120 to 140 days. Geologically, the area comprises charnockite as the basement, which is overlayed by clay, clayey loam and sandy loam. Chembarambakkam is one of the four major water supply reservoirs of Chennai in the Adyar basin (Fig. <ref type="figure">1</ref>). This reservoir is the largest in terms of storage among the reservoirs around the city, with a capacity of 108 MCM and the surplus from this reservoir is the major contributor to the Adyar river. This reservoir meets irrigation, industrial purposes and about 30% of the urban water supply. The inflow to this reservoir is from its catchment and adjacent basins (Fig. <ref type="figure">1</ref>) by inter-basin transfer through canals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Methodology</head><p>In order to assess the feasibility and efficacy of utilizing the abandoned quarries as an innovative water management measure, we have developed a Rainfall-Runoff (RR) model of the region. The various stages of the work and methods followed are shown in Fig. <ref type="figure">2</ref>. Developing an RR model for this catchment requires geospatial and temporal data. Topography, LULC, soil and geology of the area, along with details observed during the field visits, such as local land use, groundwater usage and soil infiltration capacity, were used to derive the range of the parameters for the RR model. The abandoned quarries located Fig. 2 Methodology adopted for the study</p><p>within the catchment are demarcated from the satellite images as well as by the ground truth verification, and a few pictures of the quarries are shown in Fig. <ref type="figure" target="#fig_1">3</ref>. The aerial extent of the abandoned quarries in the catchment was estimated using satellite imageries. As the study aims to use them for water storage and flood mitigation, the quarries' capacity in the three-dimensional configuration was arrived at trigonometrically, using a gravity plumb line and measuring the angle of the side slope. These quarries are generally partly filled with water from their small catchment, direct rainfall, and groundwater seepage. The depth to quarry water level was measured periodically once in 3 months during 2019-2023 using a water level indicator. The total dissolved solids (TDS) of the water stored in the quarries were also determined during field visits using a portable meter (YSI ProDSS multiparameter digital water quality meter) in situ.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Data acquisition and processing</head><p>The Shuttle Radar Topographic Mission from the United States Geological Survey-DEM with 30 × 30 m resolution was employed to determine the basin's physical characteristics. The land use land cover map was prepared using the Indian Remote Sensing Satellite (LISS III-February 2017) data, and the soil map was obtained from the Tamil Nadu Agriculture Department. In addition, several field visits were made to understand the present topography and condition of the catchment. After the detailed hydrological study during field visits and from topographic maps, the macro and micro levels of the watershed were delineated to identify the possible ways of linking the reservoir with the quarries. Based on this, the area was divided into three watersheds, WS1 in the north, WS2 in the middle and WS3 in the south (Fig. <ref type="figure" target="#fig_2">4a</ref>). The macro catchment analysis was performed to estimate the quantum of runoff generated within the catchment and from the adjacent basins.</p><p>The daily rainfall data from 1951 to 2020 from the rain gauge stations of the study area were collected from the Indian Meteorological Department (IMD) and the Water Resources Department (WRD), Tamil Nadu. The Thiessen polygon method (Fig. <ref type="figure" target="#fig_2">4b</ref>) was used to identify the weightage of influencing rain gauge stations within the study area. For model calibration and validation, the temporal data such as rainfall, evaporation and abstraction were considered based on the water year from 2010 to 2020, which is from June to May for India. The lake water level and inflow to the reservoir details were obtained from the Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB). For identifying and assessing the area inundated due to floods earlier, details of several historical flood events from the National Disaster Management Authority and the Radar Imaging Satellite (RISAT) data were used. All the other maps required for this study were prepared using ArcGIS 10.4 software.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Model set-up</head><p>A hydrological model for the Chembarambakkam catchment to simulate the RR process was developed using MIKE11 NAM. <ref type="bibr" target="#b6">Filianoti et al. (2020)</ref> compared different RR models and observed that MIKE11 NAM performs well with minimal data requirements. As the catchment area of the present study is small and based on the successful application of this model by other researchers, the NAM model was chosen for this study. The MIKE 11-NAM developed by <ref type="bibr" target="#b23">Nielsen and Hansen (1973)</ref> is a deterministic, lumped conceptual RR model with a set of linked mathematical statements described in a simplified quantitative form and includes the characteristics of the land area and the entire hydrological cycle <ref type="bibr" target="#b0">(Agrawal &amp; Desmukh, 2016)</ref>.</p><p>The MIKE11 NAM model simulates the RR process in a lumped way. In NAM, it is possible to treat the study area as a single catchment or numerous small catchments within the same modelling framework and the values of the model parameters are usually the average values for the entire catchment <ref type="bibr">(DHI, 2021)</ref>. The model simulates the RR process by continuously accounting for the water content in three different and mutually interrelated storages: surface storage, lower or root zone storage and groundwater storage <ref type="bibr">(DHI, 2021;</ref><ref type="bibr" target="#b19">Madsen, 2000)</ref>. The changes made in the model parameters will affect the runoff, that is, the increase in the values of certain parameters will increase the runoff. In contrast, the increase in other parameters will lead to a decrease in the runoff. Some of the model parameters can be evaluated from the physical aspects of the catchment, and the final values have to be arrived at by the calibration process.</p><p>The model was developed for the Chembarambakkam catchment with three sub-catchments by continuously accounting for the basin's overland flow, interflow, base flow and precipitation. The model is based on the semi-empirical equations and physical structures.</p><p>The temporal rainfall, evaporation and observed discharge data were used to conceptualize and calibrate the model. After model conceptualization, the calibration was performed by varying the range of the nine major model parameters using the software's built-in autocalibration tool. Among these nine parameters, not all could be estimated in the field. So, many trial and error runs in setting up the range were performed to procure the best fit. The model was used for the simulation of runoff under different rainfall conditions, such as excess, normal, and deficit rainfall. Various scenarios were considered to understand the efficacy of different strategies of diversion and operation of water supply systems either from the reservoir or from quarries or both, depending on the hydrological conditions. The model was used to understand the efficacy of diverting varying quantities of water from the reservoir to the quarries. Thus, the scenarios considered for modelling are (0) no interventions; (1) diversion of 150 cusecs and first preference of water supply from the quarries; (2) diversion of 150 cusecs and first preference of water supply from the reservoirs; (3) diversion of 400 cusecs and first preference of water supply from the quarries; (4) diversion of 400 cusecs and first preference of water supply from the reservoir.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Rainfall-runoff modelling</head><p>The catchment of the Adyar River is heavily urbanized, and its urban agglomeration has increased by more than 20% in the last 2 decades <ref type="bibr" target="#b26">(Razi Sadath et al., 2023)</ref>. RR modelling of the Chembarambakkam catchment (304.4 km 2 ), which consists of three watersheds (Fig. <ref type="figure" target="#fig_2">4a</ref>), was carried out. As explained earlier, this model requires nine parameters for simulating the RR process. Umax and Lmax are the two critical parameters that depend on the region's LULC (Fig. <ref type="figure" target="#fig_3">5a</ref>) and soil map (Fig. <ref type="figure" target="#fig_3">5b</ref>). The significant categories of LULC are agriculture (71.1%), built-up (6.4%), forest (1.3%), wasteland (1.9%) and waterbodies (19.3%). Similarly, the categories of land use of the three sub-basins were estimated, and the corresponding range of Umax values was arrived at. Clay, clay loam, loamy sand, sandy clay, sandy clay loam and sandy loam are the soil types present in the area, and the range of Lmax values were derived based on this. The initial conditions for relative water content in surface and root zone storage were assigned based on the expected field conditions at the end of the preceding water year. The other parameters of the model were assessed based on the field observations and values used in other catchments.</p><p>The estimation of exact values of the nine model parameters has to be carried out only by the calibration process. The temporal data, such as rainfall, evaporation, and abstraction for the period from the water year 2010-2011 to 2014-2015, were used for calibration. The rainfall data of weighted averages from three rain gauge stations, Sriperumbudur, Chembarambakkam and Kesavaram (Fig. <ref type="figure" target="#fig_2">4b</ref>), with gauge weights of 0.24, 0.73 and 0.02, respectively, were used as a single time series in the model. During November-December 2015, this region received 1 in 100 years of extreme rainfall. The simulated runoff generated in the catchment was compared with the observed runoff realized at the Chembarambakkam reservoir. This process was continued by trial and error using the auto-calibration mode of Mike 11 NAM until a reasonable match between the observed and simulated runoff was obtained. Several trial and error runs were performed to fine-tune the model. During this calibration process, the model parameters were automatically changed within the allowable range given to get the best possible fit between the observed and simulated runoff. At the end of this process, the values of the model parameters were arrived at. The values arrived after calibration were reasonably comparable with the model parameters reported by <ref type="bibr" target="#b30">Teshome et al. (2020)</ref>, <ref type="bibr" target="#b22">Nannawo et al. (2022)</ref> and <ref type="bibr" target="#b24">Odiyo et al. (2012)</ref>. The range of model parameters initially considered and the values arrived after calibration are given in Table <ref type="table">1</ref>. The correlation coefficient between the observed and simulated runoff was 0.9, and the Kling-Gupta efficiency (KGE) <ref type="bibr" target="#b8">(Gupta &amp; Kling, 2011)</ref> was 0.81 at the end of the autocalibration (Fig. <ref type="figure" target="#fig_4">6a</ref>). The fitness of the model through KGE was also cross-checked by comparing with <ref type="bibr" target="#b28">Schwemmle et al. (2021)</ref> and <ref type="bibr" target="#b15">Knoben et al. (2019)</ref>.</p><p>After calibration of MIKE11 NAM, the efficacy of model prediction was also assessed by validation. The model validation process was carried out by comparing the observed and simulated runoff beyond the period considered for calibration. The observed runoff data for the water year from 2016-2017 to 2019-2020 was used for this purpose. The model performed well in predicting the runoff, and the correlation coefficient between the observed and simulated values was 0.87 and the KGE was 0.76 (Fig. <ref type="figure" target="#fig_4">6b</ref>).</p><p>Table 1 Range of model parameters and values derived after calibration Parameter Range considered Derived values WS 1 WS 2 WS 3 Umax 5-66.4 41.6 13.7 13.8 Lmax 50-890 366 257 281 CQOF 0-1 0.321 0.317 0.323 CKIF 200-1000 938.4 399.8 344.4 CK12 3-80 23 24.1 24.6 TOF 0-0.99 0.128 0.005 0.067 TIF 0-0.99 0.054 0.011 0.038 TG 0-0.99 0.025 0.031 0.048 CKBF 500-10000 8311 2513 2757</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Prediction of runoff under different rainfall scenarios</head><p>The area receives rainfall primarily during monsoon periods due to cyclonic storms. The analysis of daily rainfall over the past 70 years indicates that though the annual average is 1338 mm, the standard deviation (SD) is much larger, about 358 mm. This suggests that the variance in the annual rainfall is much higher. The past water years were segregated as excess, normal and deficit years to understand the variation in annual rainfall over the runoff generation. The segregation of years was carried out based on the annual rainfall received in a particular year. The years in which the Annual Rainfall (AR) was greater than or equal to AR + SD were classified as excess rainfall years. The years in which the AR was between AR-SD and AR + SD were classified as normal rainfall years. The years in which the AR was less than or equal to AR-SD were classified as deficit rainfall years. Among the 70 years, 9, 50 and 11 years were categorized as excess, normal and deficit rainfall years (Fig. <ref type="figure" target="#fig_5">7a</ref>). In the past 70 years, the city has suffered due to floods during excess rainfall years and also due to insufficient domestic water supply during deficit rainfall years. To study the effect of excess, normal and deficit rainfall year scenarios on the catchment's runoff, the daily average rainfall of these three categories was estimated. Subsequently, we used the calibrated NAM to simulate the runoff for these three categories of rainfall year. For these scenarios, the initial conditions were assigned as stated previously, and the runoff was simulated using the calibrated parameters. As expected, runoff has been observed since late June and continues till December. In the case of normal and deficit rainfall years, the runoff begins in October and ends in December. However, the simulated peak runoff is at least two times more for the normal rainfall year than the deficit rainfall year. In the excess rainfall year scenario, considerable runoff is observed since the beginning of November and lasts till December. Occasional heavy spells of rainfall usually associated with cyclones during November and December result in a few runoff peaks (Fig. <ref type="figure" target="#fig_5">7b</ref>). The simulated peak runoff is at least five times more than the runoff of the normal rainfall year scenario. Though the SD was considered to differentiate excess and deficit rainfall years from a normal rainfall year, the peak simulated runoff for the excess rainfall scenario is much higher. Thus, in the case of excess rainfall years, the possibility of flooding is imminent. This highlights the possible risks of flooding during extreme events in the future. Five to six times runoff in an excess rainfall year compared to a normal rainfall year also indicates the impact of urbanization in this catchment. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Quarries as intervention measures</head><p>The gap between the domestic water requirement and supply has been increasing over the years in this region. Including quarries as a part of the water supply system of Chennai city will benefit considerably <ref type="bibr" target="#b27">(RaziSadath et al., 2023)</ref>. The domestic water supply depends on storage in the five reservoirs around Chennai. Though measures are being taken to augment water supply by other means, such as inter-basin transfer, desalination and wastewater reuse, surface water resources play a significant role in meeting the water demand. The region witnesses floods and water scarcity alternatively within a few years. On average, the study region experiences floods once in 7 years. Interventions are hence necessary to augment the water storage and mitigate floods. The abandoned rock quarries in the study region were considered for improving water storage and moderating the surplus flow in the river. The two sets of abandoned quarries (Fig. <ref type="figure" target="#fig_6">8</ref>) <ref type="bibr" target="#b14">(Kartheeshwari &amp; Elango, 2022</ref>) located close to the Chembrambakkam reservoir were identified, and the feasibility of transferring water by gravity was assessed. Since the reservoir bed is at a higher level than the top of the quarries, it is possible to divert the water by gravity flow. The Sikkarayapuram quarries are a set of 22 pits, which can hold a capacity of about 22.6 MCM, and this cluster is located at a distance of 1.8 km to the east of the reservoir. The other set of ten pits, called Erumaiyur quarries, is located south of the reservoir and has a capacity of 5.6 MCM. Collectively, the storage capacity of quarries is approximately one-third of the reservoir's capacity. The water stored in the quarry is also expected to infiltrate and recharge the groundwater. However, as these are quarries in massive rock regions, the hydraulic conductivity of these rocks varies from 9.1E-07 to 1.7E-0.5 <ref type="bibr" target="#b4">(Chandra et al., 2008)</ref> and infiltration loss will be much less. The daily water level measurements indicated that the water loss is predominantly due to evaporation. Hence, the advantage of diverting water from the reservoir to these quarries was assessed to improve the water supply and mitigate floods.</p><p>Since the water stored in the quarries is proposed for urban water supply, the quality of the water was assessed. The TDS of the water stored in quarries varied from 120 to 350 ppm, which indicates that the water is relatively fresh. This water can be used for domestic water supply after passing through a water treatment plant located within 8 km of the Sikkarayapuram and Erumaiyur quarries.</p><p>The effect of the proposed intervention measures was assessed using the developed RR model for excess, normal and deficit rainfall years. The simulated runoff of these scenarios was used to optimize the diversion of water from the reservoir to the quarries and prioritize pumping for water supply from the reservoir or quarries or both (Fig. <ref type="figure" target="#fig_7">9</ref>). Estimation of water supply, evaporation loss and surplus flow for the three rainfall scenarios and four operational strategies were carried out. The impact of the proposed operational strategies on improving water supply and mitigation of floods are discussed in the following sections.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.1">Improvement in water supply</head><p>As stated earlier, Chennai suffers due to an increase in the supply and demand gap, which becomes critical in years of deficit rainfall. The effect of three rainfall scenarios with four different operational strategies on runoff and their impact on the domestic water supply was assessed. The volume of water available for urban water supply was estimated using the simulated runoff generated by the model considering the intervention of using the quarries. The daily variation in water available for supply with the proposed interventions is shown in Fig. <ref type="figure">10</ref>, along with the actual amount of water supplied. The additional amount of water that can be supplied during the three rainfall scenarios was arrived at using the daily quantum of water that was supplied. For the 11 excess rainfall years, the daily average of the actual quantum of water that CMWSSB supplied was estimated. The advantage of the proposed intervention is evident through the substantial improvement in the domestic water supply in all three rainfall scenarios. Especially in the fourth operational strategy of diversion of 400 cusecs and the water supply and priority to the reservoir was found to be the best (Fig. <ref type="figure">10</ref>). In the case of excess rainfall year, the quantum of water supplied with the proposed interventions has improved by more than two-fold (Fig. <ref type="figure">10</ref>). The supply could be maintained at the constant level almost until the end of the water year. A similar supply pattern will prevail during normal rainfall years. The proposed interventions will be highly beneficial even in years of deficit rainfall, wherein water supply can be maintained steadily throughout the year except during July and August. Thus even in a deficit rainfall year, the quantum of water available for domestic water supply will also be marginally higher (Fig. <ref type="figure">10</ref>).</p><p>The city's domestic water supply is managed by pumping water from the reservoir alone and without diverting it to the quarries. As the reservoir's water spread area is considerably large and has shallow water depth, an enormous amount of water is lost due to evaporation. Since the amount of evaporation is directly proportional to the surface area of the water body, the proposed intervention of diverting water and storing it in the quarries (depth &gt; 70 m bgl) with less surface area when compared with the reservoir will be beneficial. The proposed intervention of diverting and maximizing the storage of water in the quarries has resulted in a considerable reduction in the evaporation loss in all the scenarios (Fig. <ref type="figure">11</ref>). In the years of normal and deficit rainfall, the substantial benefit is possible by way of reduction in the loss of water due to evaporation (Fig. <ref type="figure">11</ref>). The amount of water lost due to evaporation is reduced by about 6 MCM/year, 4 MCM/year and 0.2 MCM/year on an average during excess, normal and deficit rainfall years scenarios respectively. The proposed interventions will help to improve the water supply and save water by reducing evaporation loss, which can also be used to meet domestic water demand. Even in the deficit year scenario, the diversion of 400 cusecs of water and the water supply initially from the reservoir (strategy 4) will reduce evaporation loss and improve water supply marginally (Fig. <ref type="figure">11</ref>). This operation strategy appears to be the best option to keep the water storage in the reservoir to the minimum by both diversion and water supply. In this strategy, the water supply is initially made from the reservoir. Later, the supply is sustained from the quarries, thereby reducing the evaporation loss (Fig. <ref type="figure">11</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.2">Mitigation of floods</head><p>The analysis of the past 70 years' rainfall data indicates that the study region receives excess rainfall approximately once every 7 years, as mentioned earlier. The Chembarambakkam reservoir was initially conceived to improve command irrigation during the early 1930s. However, the reservoir was declared as the water supply reservoir to meet the everincreasing city's demand. The reservoir operation curve thus mandates augmenting surface water storage. During unprecedented heavy rainfall events, the surplus water is released into the Adyar River after the reservoir has attained its full capacity. Moreover, when the surplus water exceeds the river's carrying capacity, the flood water inundates the heavily urbanized flood plains. Hence, the effect of the proposed intervention was analyzed in excess, normal and deficit rainfall years. However, the problem of flooding is not likely during the normal and deficit rainfall years. During these scenarios, the runoff generated in the catchment will just be sufficient to meet the requirements, and no flow needs to be routed to the river. The estimated surplus from the catchment released into the Adyar river with and without intervention after meeting the irrigation, industrial, and domestic needs and using the quarries as balancing reservoirs is shown in Fig. <ref type="figure" target="#fig_0">12</ref>, along with the daily surplus rainfall for November and December. The proposed interventions helped to store a substantial quantum of water in the quarries from where the domestic water supply could be maintained at the required level of 240 MLD. Due to this, the quantum of surplus released into the river daily has significantly reduced (Fig. <ref type="figure" target="#fig_0">12</ref>). Moreover, the interventions have also delayed the release of surplus flows into the Adyar River by a few days. The proposed interventions have reduced the quantum of water released by about 26 MCM/year on average for all operational strategies. The interventions will also help to conserve about 2%, 30%, 13% and 38% of water during different operational strategies under excess rainfall scenarios, which otherwise would have been released as surplus.</p><p>Fig. <ref type="figure" target="#fig_0">12</ref> Temporal variation in surplus under different operational strategies during excess rainfall scenario Thus, the study indicated the benefit of using abandoned quarries as balancing reservoirs, especially during extreme rainfall events under changing climate. To assess the benefits of these proposed operational strategies during an extreme rainfall event, a 1 in 100-year event that occurred in 2015 was used. The calibrated MIKE11 NAM simulated the runoff for the rainfall received during 2015-2016. The expected surplus flow from the catchment to the Adyar river was estimated using the model simulated runoff. The estimated surplus available for release into the Adyar River with the interventions under different operational strategies is shown in Fig. <ref type="figure" target="#fig_8">13</ref>, along with the observed surplus measured during 2015-2016. Figure <ref type="figure" target="#fig_8">13</ref> shows the advantage of the proposed interventions by way of a significant reduction in the peak runoff as well as the efficacy of the interventions in moderating the river discharge. This will also delay and reduce the peak flow. And, a considerable quantum of water that would have otherwise been lost as surplus flow could be stored in abandoned quarries. The interventions will not result in surplus flow to the Adyar river during the normal and deficit rainfall scenarios. Figure <ref type="figure" target="#fig_8">13</ref> compares hydrographs of the actual 2015 flood event and the possible release pattern after the intervention. The peak flow could be reduced from 800 m 3 /s to 720 m 3 /s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.3">Water balance under different operational strategies</head><p>A cross-comparison of the impact of different operational strategies on the annual water balance was made (Fig. <ref type="figure" target="#fig_9">14</ref>). It is evident that the interventions are certainly improving the water supply and reducing the surplus flow. Among the four operational strategies considered, strategy (4) the diversion 400 cusecs and water supply-first priority to the reservoir, has resulted in maximum benefits. Strategy 4 will meet the planned water supply in excess and normal scenarios and up to 85% even in the deficit rainfall year scenario. Further, it reduces the evaporation loss from about 30 to 60% and the surplus from 50 to 70% on average for all strategies. Though strategy 4 appears to be the best, the difference between this strategy and strategy 2 is not much for water supply. However, this strategy will reduce the runoff by about 10 MCM/year compared to strategy 2. Due to only the marginal reduction of about 10% surplus flow, strategy 2 will be ideal for implementation by considering the construction cost.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Conclusions</head><p>Floods and droughts are becoming common and it is necessary to plan for innovative and sustainable water management strategies to overcome these problems. We proposed using abandoned quarries as detention storage to mitigate floods and improve urban water supply. A model was developed to assess the rainfall-runoff under different strategies of water diversion between the reservoir and adjacent abandoned quarries. The strategies framed were assessed under yearly excess, normal and deficit rainfall conditions. The performance of the RR model was ascertained by R 2 and KGE which were nearer to 1. The model's accuracy could have been improved with hourly rainfall data, field estimates of some model parameters and high-resolution elevation data. One of the four strategies in the developed approach improves water supply even during deficit rainfall conditions. Further, the use of quarries delays the time to peak and discharge during floods in excess rainfall years. Thus, we have identified an ideal strategy of diversion to the quarries for mitigation of floods and reduction of evaporation loss thereby improving the water supply. The study suggested a novel solution of using the abandoned quarries by a systematic development of a robust rainfall-runoff model for sustainable management of the available water resources for the environmental well-being of the region. This approach, which collectively addresses climate change threats like flood mitigation and water scarcity, can be employed in other regions with a water supply reservoir and abandoned quarries. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 Fig. 2</head><label>12</label><figDesc>Fig. 1 Chembarambakkam catchment in the outskirts of Chennai metropolitan area</figDesc><graphic coords="5,49.59,57.85,340.20,195.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Abandoned quarries in Sikkarayapuram and Erumaiyur in Adyar sub-basin</figDesc><graphic coords="6,49.65,431.43,340.08,167.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 a</head><label>4</label><figDesc>Fig. 4 a Three sub-watersheds of the study area. b Thiessen polygon based on rain gauge stations</figDesc><graphic coords="7,49.65,57.85,340.08,144.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5 a</head><label>5</label><figDesc>Fig. 5 a LULC and b Soil maps of the area</figDesc><graphic coords="8,49.65,468.59,340.08,130.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6</head><label>6</label><figDesc>Fig. 6 Comparison of temporal variation in cumulative runoff during calibration and validation</figDesc><graphic coords="10,49.59,57.85,340.20,114.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 a</head><label>7</label><figDesc>Fig. 7 a Annual rainfall from 1951 to 2020. b Rainfall and simulated runoff under different scenarios</figDesc><graphic coords="11,49.59,57.85,340.20,334.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 8</head><label>8</label><figDesc>Fig. 8 Location of abandoned quarries and their capacities with the proposed diversion channels (Background image: Google Earth)</figDesc><graphic coords="12,49.65,57.85,340.08,132.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 9</head><label>9</label><figDesc>Fig.9Inflow and outflow from the reservoir and using quarries as measures of intervention</figDesc><graphic coords="13,49.59,57.85,340.20,149.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 13</head><label>13</label><figDesc>Fig. 13 Temporal variation in rainfall, observed and estimated surplus discharged to the Adyar river under four different operational strategies during the 2015 extreme event</figDesc><graphic coords="17,77.97,429.11,283.44,160.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 14</head><label>14</label><figDesc>Fig. 14 Water supply, evaporation and surplus flow under different operational strategies during excess, normal and deficit rainfall scenarios</figDesc><graphic coords="18,49.65,57.85,340.08,207.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="16,77.97,422.95,283.44,177.00" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding This work was supported by the <rs type="funder">DST-IITM Water Innovation Centre for Sustainable Treatment, Reuse and Management for Efficient, Affordable</rs> and <rs type="projectName">Synergistic Solutions</rs> project funded by the <rs type="funder">Department of Science and Technology, Government of India</rs> (Grant No: <rs type="grantNumber">DST/TM/WTI/WIC/2K17/82(G)</rs>). We thank the <rs type="institution">Tamil Nadu Water Resources Department, India Meteorological Department</rs> and <rs type="person">Chennai Metropolitan Water Supply</rs> and <rs type="person">Sewerage Board</rs> for providing the necessary data.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_aWZjDZP">
+					<orgName type="project" subtype="full">Synergistic Solutions</orgName>
+				</org>
+				<org type="funding" xml:id="_JCwGwTC">
+					<idno type="grant-number">DST/TM/WTI/WIC/2K17/82(G)</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data availability Data relevant to this work may be shared based on the approval of the funding agency.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions LE-planned and conceptualized this study and edited the manuscript. MRK-performed fieldwork, data collection, modelling and manuscript preparation. KS and PVR-carried out the data interpretation. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declarations</head><p>Conflcit of interests The author declare that they have no conflict of interest.</p><p>Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p><p>View publication stats</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Rainfall runoff modeling using MIKE 11 NAM-a review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Desmukh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Science and Innovative Engineering and Technology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="659" to="667" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ability of the performance criteria to assess and compare reservoir management approaches</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahbari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agoumi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11269-007-9210-z</idno>
+		<ptr target="https://doi.org/10.1007/s11269-007-9210-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Water Resources Management</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1541" to="1555" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Thermal and acoustic features of lightweight concrete based on marble wastes and expanded perlite aggregate</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Benjeddou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ravindran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Abdelzaher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Buildings</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">992</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An extremeness threshold determines the regional response of floods to changes in rainfall extremes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Swain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Willkofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Done</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gilleland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ludwig</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s43247-021-00248-x</idno>
+		<ptr target="https://doi.org/10.1038/s43247-021-00248-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Commun Earth Environ</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">173</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Estimation of hard rock aquifers hydraulic conductivity from geoelectrical measurements: A theoretical development with field application</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dewandel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2008.05.023</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2008.05.023" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="218" to="227" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Floodwater utilization for cascade reservoirs based on dynamic control of seasonal flood control limit levels</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chang</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">D.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guo</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">D.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Du</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">D.</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">D.</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.1007/s12665-017-6522-z</idno>
+		<ptr target="https://doi.org/10.1007/s12665-017-6522-zDHI" />
+	</analytic>
+	<monogr>
+		<title level="m">Mike-11: A modelling system for rivers and channels, reference manual. DHI-Water and Development</title>
+		<meeting><address><addrLine>Horsholm, Denmark</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017. 2021</date>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">An evaluation matrix to compare computer hydrological models for flood predictions</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Filianoti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gurnari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Zema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bombino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sinagra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tucciarelli</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/hydrology7030042</idno>
+		<ptr target="https://doi.org/10.3390/hydrology" />
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">30042</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Effectiveness of adaptive operating rules for reser-voirs</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garrote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Granados</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spiliotis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Martin-Carrasco</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11269-022-03386-9</idno>
+		<ptr target="https://doi.org/10.1007/s11269-022-03386-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Water Resources Management</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2527" to="2542" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">On typical range, sensitivity, and normalization of mean squared error and nash-sutcliffe efficiency type metrics</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">V</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Water Resources Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">10601</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Multi-phase intelligent decision model for reservoir realtime flood control during typhoons</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2014.12.013</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2014.12.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">522</biblScope>
+			<biblScope unit="page" from="11" to="34" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Inter-governmental panel of climate change AR6 synthesis report climate change 2023</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<ptr target="https://report.ipcc.ch/ar6syr/pdf/IPCC_AR6_SYR_LongerReport.pdf" />
+		<imprint>
+			<date type="published" when="2023-04-23">2023. April 23. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Strategies for flood risk reduction in India</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ISH Journal of Hydraulic Engineering</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="165" to="174" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Joint flood control scheduling strategy of large cascade reservoirs: A case study of the cascade reservoirs in the upper reaches of the Yangtze River in China</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Jing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Flood Risk Management</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">12802</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Planning recreation around water bodies in two hard coal post-mining areas in Southern Poland</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kantor-Pietraga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krzysztofik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Solarski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page">10607</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">2021 Chennai floods-an overview</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Kartheeshwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elango</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12594-022-2079-x</idno>
+		<ptr target="https://doi.org/10.1007/s12594-022-2079-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Geological Society of India</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="865" to="866" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Inherent benchmark or not? Comparing Nash-Sutcliffe and Kling-Gupta efficiency scores</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Knoben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Freer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Woods</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology and Earth System Sciences</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="4323" to="4331" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Assessment of climate change over the Indian region: A report of the ministry of earth sciences (MOES), government of India</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sanjay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gnanaseelan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mujumdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-15-4327-2</idno>
+		<ptr target="https://doi.org/10.1007/978-981-15-4327-2" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer Nature</publisher>
+			<biblScope unit="page">226</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Optimal design of seasonal flood limited water levels and its application for the Three Gorges Reservoir</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2015.05.055</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2015.05.055" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">527</biblScope>
+			<biblScope unit="page" from="1045" to="1053" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Closing pit lakes as aquatic ecosystems: Risk, reality, and future uses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Blanchette</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Wiley Interdisciplinary Reviews: Water</publisher>
+			<biblScope unit="page">1648</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Automatic calibration of a conceptual rainfall-runoff model using multiple objectives</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Madsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0022-1694(00)00279-1</idno>
+		<idno>1016/ S0022-1694(00) 00279-1</idno>
+		<ptr target="https://doi.org/10" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="276" to="288" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Multi objective simulation-optimization operation of dam reservoir in low water regions based on hedging principles</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mansouri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fathian</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nikbakht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shahbazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Asadi Lour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Asareh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11356-022-25089-9</idno>
+		<ptr target="https://doi.org/10.1007/s11356-022-25089-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science and Pollution Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="41581" to="41590" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Simulation of one-dimensional dam-break flood routing based on HEC-RAS</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ruan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Earth Science</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1027788</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Evaluating the dynamics of hydroclimate and streamflow for data-scarce areas using MIKE11-NAM model in Bilate river basin Ethiopia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Nannawo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Lohani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Eshete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Ayana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Modeling Earth Systems and Environment</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="4563" to="4578" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Numerical simulation of the rainfall-runoff process on a daily basis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/nh.1973.0013</idno>
+		<idno>1973. 0013</idno>
+		<ptr target="https://doi.org/10.2166/nh" />
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="171" to="190" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Rainfall-runoff modelling for estimating Latonyanda River flow contributions to Luvuvhu River downstream of Albasini Dam</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Odiyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Phangisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Makungo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics and Chemistry of the Earth</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="5" to="13" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Reservoir performance under uncertainty in hydrologic impacts of climate change</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Raje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Mujumdar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.advwatres.2009.12.008</idno>
+		<idno>12. 008</idno>
+		<ptr target="https://doi.org/10.1016/j.advwatres" />
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Water Resources</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="312" to="326" />
+			<date type="published" when="2009">2010. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Forecasting land use/ cover changes and their influence on groundwater recharge in Chennai, India: Recommendations for sustainable ur-ban development</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Razi Sadath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elango</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinisha Kartheeshwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keerthan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urban Water Journal</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">WEAP model based evaluation of future scenarios and strategies for sustainable water management in the Chennai Basin, India, AQUA-water infrastructure</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Razisadath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinishakartheeshwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elango</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/aqua.2023.144</idno>
+		<ptr target="https://doi.org/10.2166/aqua.2023.144" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems and Society</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2062" to="2080" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Diagnostic efficiency-specific evaluation of model performance</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwemmle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Demand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Weiler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology and Earth System Sciences</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2187" to="2198" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Roles of reservoirs in regulating basin flood and droughts risks under climate change: Historical assessment and future projection</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology: Regional Studies</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">101453</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Verification of the MIKE11-NAM model for simulating streamflow</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Teshome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Bayabil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Thakural</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Welidehanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Protection</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<biblScope unit="page">152</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

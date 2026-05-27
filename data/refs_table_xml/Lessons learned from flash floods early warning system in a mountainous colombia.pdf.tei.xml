@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lessons learned from flash floods early warning system in a mountainous rur-urban region of Colombia</title>
+				<funder>
+					<orgName type="full">III</orgName>
+				</funder>
+				<funder ref="#_RvbbWV8">
+					<orgName type="full">City of Manizales</orgName>
+				</funder>
+				<funder ref="#_ztYruNr #_zrzFNhn #_G7gA4CQ">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-05-27">27 May 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Cristhian</forename><forename type="middle">Camilo</forename><surname>Luna</surname></persName>
+							<email>cclunab@unal.edu.co</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Master in Civil Engineering</orgName>
+								<orgName type="department" key="dep2">Water Resources Engineering</orgName>
+								<orgName type="institution">Universidad Nacional de Colombia</orgName>
+								<address>
+									<settlement>Sede Manizales</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeannette</forename><surname>Zambrano Nájera</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Civil Engineering</orgName>
+								<orgName type="institution">Universidad Nacional de Colombia</orgName>
+								<address>
+									<settlement>Sede Manizales</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jorge</forename><surname>Julián</surname></persName>
+							<idno type="ORCID">0000-0002-9674-7621</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Vélez</forename><surname>Upegui</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Civil Engineering</orgName>
+								<orgName type="institution">Universidad Nacional de Colombia</orgName>
+								<address>
+									<settlement>Sede Manizales</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Lessons learned from flash floods early warning system in a mountainous rur-urban region of Colombia</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2025-05-27">27 May 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8F3659CD833BAAF1830DF6C009059D67</idno>
+					<idno type="DOI">10.1016/j.envc.2025.101199</idno>
+					<note type="submission">Received 17 December 2024; Received in revised form 6 May 2025; Accepted 26 May 2025 Environmental Challenges 20 (2025) 101199</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Flash floods Early-warning systems Multi-hazard early warning systems Rainfall thresholds</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The city of Manizales, Colombia, located in the tropical Andes, faces recurrent hydroclimatological risks due to its mountainous terrain, high rainfall variability, and urban expansion into vulnerable areas. This article presents the evolution of different Early Warning System (EWS) into a Multi-Hazard Early Warning Systems (MHEWS), based on the United Nations' framework for disaster risk reduction. The transition was enabled through the integration of real-time hydroclimatic monitoring, development of tailored rainfall and river level indicators, and collaborative governance involving academia, communities and local authorities. Key indicators such as A25, A10 min , P10Level, and i med have enhanced predictive capacity, though limited historical event data constrain full validation and efficiency assessment. Lessons learned emphasize the importance of adapting international alert protocols to local dynamics, improving real-time data coverage, and strengthening community participation. The study also highlights institutional and governance challenges, including short lead times, limited forecasting tools, and the absence of comprehensive disaster databases. Despite these limitations, the Manizales case demonstrates that localized innovation, institutional collaboration, and risk aware culture can drive the effective development of MHEWS in low-and middle-income mountainous regions. This experience offers transferable insights for similarly exposed cities across the tropics.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Floods are a widespread problem on a global scale, and rank among the most devastating disasters worldwide as they cause a large amount of damage and deaths. In 2018, the World Meteorological Organization (WMO) reported a total of 11,072 disasters between 1970 and 2019, of which 44 % were due to floods and 35 % to storms. Thus, water-related events account for the majority of global disasters. In addition, their frequency is increasing: the same study highlights that climate and water-related disasters rose by 9 % during the decade 2010-2019 compared to <ref type="bibr">2000-2010, and by 14 % compared to 1990-1999.</ref> Storms and floods together accounted for 85 % of total economic losses <ref type="bibr" target="#b59">(WMO, 2020)</ref>. This information, recorded in the Emergency Events Database (EM-DAT) of the Centre for Research on the Epidemiology of Disasters (CRED) (<ref type="url" target="https://www.emdat.be/">https://www.emdat.be/</ref>), has led the WMO to indicate that both climate and water are the primary drivers of global health and economic challenges.</p><p>The 2022 National Water Study, conducted by the Institute of Hydrology, Meteorology and Environmental Studies (IDEAM in Spanish) of Colombia, indicates that 17.2 % of the national area was classified as potentially floodable zones in the country for that year. Additionally, the study includes an inventory based on statistics from the National Unit for Disaster Risk Management (UNGRD in Spanish), detailing flood events, flash floods, and torrential floods up to 2021. A total of 15,898 flood events were recorded in Colombia over the 2020-2021 period <ref type="bibr" target="#b27">(IDEAM, 2023)</ref>. In fact, given the magnitude and recurrence of extreme hydrometeorological events in Colombia, IDEAM emphasizes that the urgent need to "prioritize the generation of knowledge supported by systematic measurements of flow conditions in hydrological systems to strengthen flood hazard scenarios" (IDEAM, 2023). Among the various types of floods, those of a sudden nature are of particular concern; flash floods can be defined as those events of short duration, with high peak flows, commonly triggered by intense precipitation over small areas <ref type="bibr" target="#b36">(NOOA, 2012)</ref>. Flash floods commonly occur in watersheds with steep topography, where hydrological response time is limited to a few hours or less. These events have been considered one of the most significant natural hazards <ref type="bibr" target="#b23">(Han et al., 2015;</ref><ref type="bibr" target="#b25">Hosseini et al., 2020;</ref><ref type="bibr" target="#b33">Morin et al., 2009)</ref>, as they cause extensive damage, economic losses and human casualties <ref type="bibr" target="#b21">(Gaume et al., 2009;</ref><ref type="bibr" target="#b28">Karbasi et al., 2018)</ref>.</p><p>The implementation of Early Warning Systems (EWS) has been considered one of the most effective tools for reducing risks associated with flash floods, as well as other hazards. EWS are defined as: "an integrated system of hazard monitoring, forecasting and prediction, disaster risk assessment, communication and preparedness activities, systems and processes that enable individuals, communities, governments, businesses and others to reduce disaster risks in advance of hazardous events" <ref type="bibr">(UN, 2006;</ref><ref type="bibr">UNDRR, 2016)</ref>. In fact, these systems have proven to be very efficient; although the number of people affected by natural hazards has increased, the number of fatalities has decreased by approximately by factor of three over the past 50 years <ref type="bibr" target="#b60">(WMO, 2021)</ref>. In recognition of their importance, the United Nations Secretary-General launched the Early Warnings for All (EW4All) initiative in 2022, with the goal of ensuring that all countries have EWS by 2027. This initiative is expected to be part of the framework of a Multi-Hazard Early Warning System (MHEWS).</p><p>Risk knowledge is fundamental to identifying vulnerable areas and define mitigation strategies, which requires a comprehensive understanding of hazards, vulnerabilities, and exposure. However, most studies tend to focus primarily on knowledge of the hazard (such as flood risk) while often neglecting vulnerabilities and exposure <ref type="bibr" target="#b2">(Alcántara-Ayala and Oliver-Smith, 2019;</ref><ref type="bibr">WMO and UNDRR, 2022a)</ref>. The use of mapping techniques supported by Geographic Information Systems (GIS) has become widespread globally <ref type="bibr" target="#b31">(Mausmi et al., 2024)</ref>. In terms of hazard identification, four main methodological approaches are recognized: 1) statistical or correlation analyses 2) hydrological and/or hydraulic modelling, 3) probabilistic, and 4) compound methods <ref type="bibr" target="#b24">(Henao Salgado and Zambrano Nájera, 2022)</ref>. The first approach is widely used due to its minimal data requirements, but it is gradually being replaced as it does not allow to evaluate the physical processes occurring within a catchment, nor does it support forecasting. The second one hydrological and hydraulic modelling is gaining attention but is data intensive, primarily high-resolution cartographic information, as well as short-term rainfall data, which are not available in many regions. As a result, real-time rainfall data are used instead. For flash floods in particular, the need for improved spatiotemporal resolution is even greater. Probabilistic methods represent a more advanced option, since they not only assess the impacts of hazards, but also incorporate uncertainty analyses regarding the behavior of the involved variables. Lastly, compound methods integrate elements from the other three approaches, offering a more holistic and flexible framework for hazard assessment.</p><p>Several authors agree that among various indicators used to support EWS, the most commonly used have been precipitation indicators Rainfall Thresholds (RT), whether based on accumulated rainfall or rainfall intensity <ref type="bibr" target="#b9">(Calvello et al., 2015;</ref><ref type="bibr" target="#b22">Guzzetti et al., 2007)</ref>. River levels are also frequently used, and more complex approaches incorporate compound indicators, in which various forms of precipitation and river level are associated <ref type="bibr" target="#b63">(Zambrano Nájera et al., 2024)</ref>.</p><p>Real-time monitoring plays a crucial role in enhancing risk knowledge and serves to define community alerts, especially in regions where short-term rainfall forecasts or coupled climate models are not available. Although various techniques exist for monitoring environmental variables associated with flash floods, the most used are real-time data from the ground-based rainfall and river-level monitoring stations. In these cases, high temporal resolution is critical, due to the rapid onset of flash flood events. Storms, as well as other weather events, can usually be predicted several hours in advance. However, the broader movement of climate systems in which storms occur can often be forecast days ahead, and the underlying conditions that favor them months in advance. Nevertheless, the design of warning systems varies significantly depending on the specific hazard, the impact it could generate and the local response capacity <ref type="bibr">(WMO and UNDRR, 2022b)</ref>. Despite advancements in weather forecasting, small-scale phenomena such as flash floods are usually triggered by isolated precipitation peaks, which are normally beyond the spatial and temporal resolution of numerical weather prediction models. This introduces high levels of uncertainty, making it rather difficult to achieve satisfactory levels of accuracy in predicting these phenomena <ref type="bibr" target="#b3">(Alfieri et al., 2012)</ref>. To mitigate this gap, radar or radar-based modeling is often used. In the absence of radar coverage, some countries use numerical forecasts coupled with satellite derived rainfall estimates. Although this approach can be useful for regional or national-scale monitoring, especially when timely access to the information is available. In any case, satellite-based information is inadequate for flash floods prediction because these phenomena require high spatial and temporal resolution <ref type="bibr" target="#b65">(Zanchetta and Coulibaly, 2020)</ref>.</p><p>Communication refers to the set of processes and procedures used to generate warnings and convey preparedness levels, in a format that is appropriate and understandable for those who must take action <ref type="bibr" target="#b8">(Brown et al., 2019;</ref><ref type="bibr">UNDP, 2018)</ref>. This is a key item as it ensures that the affected population respond appropriately to each hazard. Therefore, warning messages should be tailored according to the needs and characteristics of the different user groups <ref type="bibr" target="#b57">(WMO, 2010)</ref>. It has been established that it is essential to evaluate the effectiveness of communication to assess whether users understand the level of risk <ref type="bibr" target="#b41">(Santos, 2013)</ref>. As this is a major challenge, several authors emphasize the importance of training and education, as well as ensuring the credibility and reliability of systems <ref type="bibr" target="#b34">(Morss et al., 2008;</ref><ref type="bibr" target="#b56">WMO, 2008)</ref>. A wide range of tools to communicate warnings are available, including emails, SMS, radio broadcasts, mobile applications, web platforms and traditional media. Numerous EWS operate worldwide, and the methods of disseminating warnings vary considerably. Symbols and color codes are the most common ways of communicating warnings. For instance, many systems employ horizontal wavy lines to indicate water, sometimes accompanied by a house partially submerged in these lines. The level of urgency to act can be emphasized by the degree to which the house is submerged. This visual representation is considered intuitive and easily understood without requiring further explanation, thereby increasing the likelihood of drawing attention <ref type="bibr" target="#b35">(Neußner, 2021)</ref>. Additionally, many EWS use color coding to identify alert levels, typically using a scale of green (safe), yellow (caution), orange (alert) and red (danger). The WMO states that these color codes are primarily comprehensible to specialist staff <ref type="bibr" target="#b58">(WMO, 2011)</ref>, but this is a fairly widespread practice <ref type="bibr" target="#b35">(Neußner, 2021)</ref>.</p><p>Finally, response preparedness refers to the capacity of communities to understand the risks they face, the ability to act on triggered warnings, and familiarity with triggering a contingency plan <ref type="bibr">(WMO and UNDRR, 2022b)</ref>. This involves not only knowing the responses they should take before a hazard materializes, but also awareness of the procedures to follow during and after the event. Therefore, communities must clearly know which authorities to contact, the protocols to follow and the established response chains.</p><p>The development of modern EWS, and the complexity of recent disasters, underscore the necessity of transitioning toward MHEWS. This is justified because extreme rainfall events can trigger multiple cascading hazards, such as landslides, and flash floods in upstream areas, which in turn cause flooding downstream, as well as other associated events (lightning strokes, falling trees, etc.). Several international initiatives to assess extreme rainfall are already recognized, including severe weather alerts (WMO, <ref type="url" target="http://severe.worldweather.wmo.int/">http://severe.worldweather.wmo.int/</ref>), flood monitoring (NASA, <ref type="url" target="http://trmm.gsfc.nasa.gov/">http://trmm.gsfc.nasa.gov/</ref>; and others mentioned by <ref type="bibr">Alfieri et al.)</ref>, and flash floods (HRC, <ref type="url" target="http://www.hrc-lab.org/giving/FFGS_index.php">http://www.hrc-lab.org/giving/FFGS_i  ndex.php</ref>). In addition, there are initiatives to collect information on alerts such as the Global Disaster Alert and Coordination System (GDACS) <ref type="bibr" target="#b17">(De Groeve et al., 2006)</ref>, developed by the European Commission Joint Research Centre (EC-JRC) <ref type="bibr" target="#b3">(Alfieri et al., 2012)</ref>. Additionally, these authors emphasize the need to improving hazard visualization tools and enhance the means of communicating alerts to the community. In this sense, critical information to be communicated, according to <ref type="bibr" target="#b3">Alfieri et al. (2012)</ref>, should be the location and type of hazard, its duration and severity, and the probability of exceeding alert thresholds, and in the case of probabilistic forecasts, the potential damage and number of people affected.</p><p>This article explores the lessons learned from the evolution of a manual Landslide Early Warning System (LEWS) to the incorporation of a Flood Early Warning System (FEWS) for four watersheds, and an EWS for volcanic lahars; culminating in the development of a MHEWS. Key lessons learned from this transition are presented, highlighting their potential for guiding the design and implementation of future early warning systems. It also identifies specific challenges and limitations within the current system, underscoring areas in need of further improvement. Moreover, the article offers insights tailored to various stakeholders -including government authorities, territorial planning professionals, and risk managers-to enhance risk governance and adaptive capacity in the region. These findings are framed within key research gaps in EWS literature. While lessons from flood EWS often focus on event-specific events or the four components of EWS <ref type="bibr" target="#b13">(Cools et al., 2016)</ref>, this article documents the evolution from two single EWS to an MHEWS, emphasizing the integration of academic and interinstitutional factors across stages of development.</p><p>The most critical transition occurred with the automation and integration of the individual into a MHEWS. This shift enabled operational synergies across hazard types and facilitated the incorporation of Community-Based Early Warning Systems (CBEWS). The region's mountainous terrain, with its steep slopes and microclimatic variability, creates particular challenges for monitoring multiple simultaneous hazards. Although community-level dynamics are essential for EWS design, they fall beyond the scope of this analysis.</p><p>Unlike previous studies focusing on single-hazard systems <ref type="bibr" target="#b12">(Chahinian et al., 2023)</ref> or standard evaluation frameworks <ref type="bibr" target="#b13">(Cools et al., 2016)</ref>, this work provides a comprehensive account of the shift to a multi-hazard approach. It highlights key innovations, particularly in technical and institutional integration, and offers practical, transferable lessons. These are organized around the four foundational components of EWS, offering actionable insights for practitioners operating in similarly complex environments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study area</head><p>The study area is the municipality of Manizales (Caldas), located in the central-western region of Colombia (Fig. <ref type="figure" target="#fig_0">1</ref>). Manizales had a population of 400,436 inhabitants in 2018 <ref type="bibr">(DANE, 2019)</ref> and has an approximate area of 571.8 km 2 , 86 % of which corresponds to the rural area. The municipality extends along the western flank of the Central Cordillera from its summit down to the Cauca River. Due to its geographic location, the city experiences a bimodal rainfall regime, characterized by two low-precipitation seasons (December to February [DJF] and June to August [JJA]) and two high-precipitation seasons (March to May [MAM] and September to November [SON]). However, precipitation patterns vary significantly across its urban area, with notable temporal and spatial differences <ref type="bibr" target="#b40">(Rincón et al., 2015;</ref><ref type="bibr" target="#b62">Zambrano Nájera et al., 2020)</ref>. The city encompasses eight distinct microclimates,  with an average annual temperature of 18 • C. Annual precipitation averages around 2000 mm in urban areas but can reach up to 3500 mm in higher-altitude zones. During the rainiest months, precipitation ranges between 100 and 500 mm, while during low-precipitation months rainfall varies from 50 to 300 mm. This climatic heterogeneity reflects the complex interplay between regional and local atmospheric dynamics shaping the city's weather patterns. The tropical bimodal rainfall regime <ref type="bibr" target="#b62">(Zambrano Nájera et al., 2020)</ref>, results in short-duration, high-intensity storms lasting between 25 and 55 min, driving rapid hydrological responses with high sediment loads <ref type="bibr" target="#b24">(Henao Salgado and Zambrano Nájera, 2022)</ref>. The Chinchiná River basin (1052.25 km²) crosses the municipality from southeast to northwest, serving as a key hydrographic boundary. The area's mountainous terrain, ranging from 800 to 2450 m a.s.l. <ref type="bibr" target="#b14">(CORPOCALDAS, 2020)</ref>, is characterized by steep slopes, volcanic soils, and narrow V-shaped creeks. The nearby Nevado del Ruiz volcano (5321 m a.s.l.) further influences the area's geomorphological and hydrological dynamics.</p><p>Table <ref type="table" target="#tab_0">1</ref> summarizes the characteristics of the principal creeks analyzed in this study. While certain natural morphologies -such as elongated shapes-might theoretically mitigate flood risk, anthropogenic alterations, including channel straightening, wastewater discharges, and mining activities, have instead exacerbated flooding issues (Fig. <ref type="figure" target="#fig_0">1</ref>). Although the Chinchiná River is not naturally flood-prone, it has become severely polluted due to contamination from its tributaries, particularly the Manizales creek <ref type="bibr" target="#b6">(Bastidas, 2007;</ref><ref type="bibr">Corpocaldas, 2017)</ref>. This combination of geomorphological vulnerability and anthropogenic intervention explains the basin's disproportionate flood risk relative to its natural capacity for regulation. It is important to note that the city currently lacks access to real-time rainfall forecast, weather radar, or regionally coupled climate models for short-term prediction. For this reason, the EWS relies solely on a network of real-time hydroclimatological monitoring stations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodology</head><p>Lessons learned were identified through the progressive evolution of the system from the initial LEWS, followed by the incorporation of a FEWS, and culminating in the development of a comprehensive MHEWS (the EWS for volcanic lahars is still manual, which is why it was not taken into account in the analysis). The United Nations International Strategy for Disaster Risk Reduction (UNISDR) defines four core components for the implementation of an EWS <ref type="bibr" target="#b5">(Basher et al., 2006)</ref>: a) risk knowledge, b) monitoring, forecasting, and warning c) communication of early warnings and d) response preparedness. These components were used to classify and analyze the most relevant features across the various stages of EWS development in Manizales. Additionally, disaster events that occurred in the study area were included in the analysis to illustrate the impact of the EWS's evolution (Fig. <ref type="figure" target="#fig_2">2</ref>). The information gathered for each component was chronologically organized along a timeline to assess the progressive development of the EWS and, ultimately, to extract the lessons learned from its transformation into an MHEWS. This assessment was conducted through a systematic chronological analysis of all system components, drawing on multiple complementary data sources. The primary sources included institutional records such as technical reports, emergency response protocols, and hydroclimatic monitoring data spanning from 1996 to 2024.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1.">Risk knowledge</head><p>To determine the risk knowledge elements, available information was sought in institutional studies, including academic research, territorial planning instruments and other relevant regional studies. Particular attention was given to the available cartographic resources and locally developed risk indicators. Technical planning documents addressing physical, socioeconomic, and environmental aspects were identified, especially those aimed at guiding the orderly transformation of urban and rural areas in the short, medium, and long term. Community participation played a critical role in shaping these knowledge inputs. However, given the breadth and complexity of communityrelated factors, an in-depth analysis is beyond the scope of this article and is intended to be addressed in a separate publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">Monitoring and warnings</head><p>An identification of the characteristics of the real-time monitoring network available in the area was conducted, with a focus on the number of monitoring devices over time. Emphasis was placed on meteorological and hydrometeorological stations responsible for collecting hydroclimatic data, which are transmitted to a centralized monitoring center for analysis and to issue alerts to the central stations of first responders. These responders are tasked with activating sound alarms within communities. Additionally, the different versions of the real-time alerts and data visualization platforms available were identified and analyzed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">Communication and dissemination</head><p>To evaluate the evolution of communication tools, the following aspects were considered: 1) tools for first responders to receive technical information and associated protocols, 2) communication chains from the official fire department to the community, and 3) internal community communication chains and mechanisms. In the first point, real-time visualization tools for variables that trigger alerts were recognized, along with interpretation protocols based on hazard typologies and their alert levels, using color-coded systems. The second point involved identifying the communication channels used by the Official Fire Department to notify the community in a timely manner, including realtime voice messages transmitted via sound alarm stations installed in strategically chosen locations. Additional mechanisms, such as sound alarms, prerecorded messages, and direct communication with community leaders, were also identified. Finally, the third point, CBEWS implemented were included in the analysis. These systems function as a communication framework among community members, with defined protocols for hazard identification, monitoring, and information dissemination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.4.">Preparedness and response</head><p>Response elements were classified into two categories: preparedness before the emergency and response during and after the emergency. Emergency plans, training, and education, preparedness exercises, interinstitutional coordination strategies, and response protocols were identified as preparedness tools, while real-time communication mechanisms with the population, collaboration between authorities and organizations, and post-event evaluation were considered as response instruments during the emergency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.5.">Observed disasters</head><p>Within the evolution of the EWS, disasters represent a cross-cutting component that interacts with all others, serving as a key element in evaluating their effectiveness. The occurrence of disasters is a constant subject of study, providing feedback to improve the EWS design and implementation. A detailed evaluation of the efficiency of the EWS for landslides and floods was carried out in <ref type="bibr" target="#b63">Zambrano et al. (2024)</ref>. The frequency and impacts of disasters, primarily floods, landslides, and gales or strong winds, were determined using official reports, supplemented by press reports, in order to establish associations with the evolution of the EWS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head><p>The timeline (Fig. <ref type="figure" target="#fig_3">3</ref>), developed from the compilation and synthesis of the most relevant features of LEWS and FEWS, served as a reference to evaluate their gradual integration and evolution into a comprehensive MHEWS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Risk knowledge</head><p>Risk knowledge has evolved under different approaches depending on the resources and information available. In 1996, the city documented its first landslide-related indicator, defined as 25-day accumulated rainfall (A25). A corresponding threshold of 200 mm was identified as critical for triggering landslides, which was calibrated on a hillside of the city with volcanic ash soils <ref type="bibr" target="#b43">(Terlien, 1996)</ref>. This indicator was implemented through manually prepared daily reports and remained a functional tool in the city for many years.</p><p>Manizales has been a pioneering city in the developing building codes and land-use policies due to its environmental conditions characterized by exposure to earthquakes, landslides, floods, fires, and other hazards. Since the 1970s and 1980s, early development plans began to articulate a long-term vision for the city. However, the first official territorial planning instrument, the Land Use Plan (POT in Spanish), was created in 2001. This initial POT represented the city's first institutional approach to territorial planning, with difficulties in accurately diagnosing the urban land-use needs (Alcaldía de Manizales, 2001). To address its shortcomings, an updated version was published in 2003, introducing modifications in land use and economic activities (Alcaldía de <ref type="bibr">Manizales, 2003)</ref>.</p><p>However, this 2003 POT version fell short of achieving its intended goals. That same year, the Mayor's Office of Manizales established the A25 thresholds for alert levels as follows: yellow alert between 200 and 300 mm, orange alert between 300 and 400 mm, and red alert for values exceeding 400 mm. Nevertheless, the city continued its urban expansion into highly vulnerable areas, exacerbating vulnerability to disasters, for which it was determined that rainfall was the main trigger <ref type="bibr" target="#b32">(Mejía et al., 2005)</ref>. In response, a second update of the POT was developed in 2007. Urban boundaries were expanded to provide areas for housing construction in lower-risk zones, improve mobility, and enhance public spaces. This update involved significant community participation in both planning and review phases (Alcaldía de Manizales, 2007). Research on rainfall in Manizales continued, and by 2010, the spatial and temporal variability of rainfall was documented as a phenomenon that defines climatic zones and intra-daily (intradiurnal) rainfall processes <ref type="bibr" target="#b16">(Cortés Cortés, 2010)</ref>. That same year, territorial planning incorporated a watershed-based approach for the first time. The Immediate Action Plan (PAI in Spanish) for the Manizales creek watershed was formulated, which, in addition to regulating land use, aimed to resolve existing environmental conflicts within the watershed.</p><p>In 2012, the A25 indicator thresholds were validated using rainfall records in the city and their correlation with the occurrence of 112 landslides. <ref type="bibr" target="#b51">(Vélez et al., 2012)</ref>. It was found that 96 % of the landslides occurred with A25 values below 400 mm, while only 23 % occurred under 200 mm. That same year, Colombia enacted Law 1523 of 2012, establishing the National Disaster Risk Management System and adopting the National Policy for Disaster Risk Management. The law aimed to contribute to the safety, well-being, and quality of life. This law formulated planning instruments such as Risk Management Plans, the National Disaster Risk Management Plan, the National Strategy for Emergency Response, and departmental, district, and municipal risk management plans and response strategies <ref type="bibr">(Ley 1523</ref><ref type="bibr">(Ley , 2012))</ref>. This law promoted the incorporation of risk management into land-use and development planning. Additionally, it recognized the risk knowledge component as a foundational pillar in risk reduction and disaster management, and the policy emphasized integrating it across all phases. Following this, in 2016, the policy was implemented through the Municipal Disaster Risk Management Plan of Manizales (PMGRD in Spanish). Its objective was to guide the actions of the government and the population in risk knowledge, risk reduction, and disaster management, thereby contributing to the achievement of the United Nations Sustainable Development Goals outlined in the Sendai Framework for Disaster Risk Reduction 2015-2030 <ref type="bibr">(Corpocaldas and Alcaldía de Manizales, 2016)</ref>. Also, in 2016, a second watershed-focused territorial planning initiative was carried out through the Watershed Management  and Planning Plan (POMCA) for the Chinchiná River. One of the components of this POMCA is risk management, within which landslides and floods were identified as primary hazards in the watershed. This was done using physical modeling, multivariate and probabilistic methods, stochastic analyses, and correlations techniques. One of the main outcomes of this work was hazard maps and the identification of vulnerable zones to support more informed land management and reduce the impact of these hazards <ref type="bibr">(Corpocaldas, 2017)</ref>.</p><p>By 2017, the POT had reached the end of its validity period. As a result, a review was conducted to assess the extent to which its original objectives had been achieved. The outcome was an updated version aimed at properly adapting territorial management to the city's overall conditions, emphasizing a territorial occupation model based on watershed-based approach. In its risk management component, the 2017-2031 POT recognizes landslides and floods as the most recurrent hazards. According to this POT, the urban area is located in an interfluve zone, which increases its susceptibility to floods. Areas adjacent to the main rivers and creeks that flow through the city were designated as hazard zones. High-hazard zones include floodplains formed by alluvial deposits and debris flows with slopes below 15 degrees; thus, in urban areas, several neighborhoods of the city were identified as hazard or high-hazard zones (Alcaldía de Manizales, 2017).</p><p>In 2018, the first proposal for a rainfall intensity indicator based on a ten-minute accumulation window -which was called A10 min -was presented. This achievement marked the full establishment of the city's first FEWS, a process that had begun in 2014 (Fig. <ref type="figure" target="#fig_3">3</ref>). This A10 min indicator was developed from a study involving hydrological modelling in El Guamo, Manizales, and Olivares creek watersheds, which belong to the urban area and therefore have up-to-date, detailed cartographic data (IDEA UNAL, 2018). The modelling was performed using freely available TETIS v8.3b software, a continuous, conceptual and distributed model, developed by the Department of Hydraulic Engineering and Environment of the Polytechnic University of Valencia <ref type="bibr" target="#b19">(Francés et al., 2007</ref>; J. J. <ref type="bibr" target="#b50">Vélez et al., 2009)</ref>. This model uses the Kinematic Wave methodology, coupled with the geomorphological characteristics of the catchment Geomorphologic Kinematic Wave (GKW), to simulate wave propagation along the channel network (J. <ref type="bibr" target="#b53">Vélez et al., 2002</ref><ref type="bibr" target="#b52">Vélez et al., , 2005))</ref>. Model parameters were derived from a previous modelling carried out for the Chinchiná River basin. Hydrographs were generated for level stations corresponding to return periods 2.33, 15, 40 and 100 years, using three temporal rainfall distribution patterns with three Antecedent Moisture Conditions (AMC). Hydraulic modelling was then conducted using the IBER finite-volume model, developed by the Water and Environmental Engineering Group, GEAMA (Universidade da Coruña), the Mathematical Engineering Group (Universidade de Santiago da Coruña), the Flumen Institute (Universitat Politécnica de Catalunya) and the International Centre of Numerics Methods in Engineering <ref type="bibr" target="#b7">(Bladé et al., 2014;</ref><ref type="bibr" target="#b11">Cea and Bladé, 2008)</ref>.</p><p>Based on the results of hydrological and hydraulic modeling, a correlation was established between precipitation and water levels for critical sections in the creeks <ref type="bibr" target="#b10">(Castillo Ruales et al., 2020)</ref>. Precipitation thresholds were obtained based on ten-minute precipitation data. Critical sections -defined in the hydraulic model and their critical levelswere those where the stream reached 80 % capacity, 100 % capacity and bankfull overflow, as previously established. These critical levels were then matched with ten-minute maximum precipitation values from the hyetographs produced by the hydrological model. The intersection point defined the precipitation thresholds. Taking into account short lead time available for issuing alerts, the A10 min indicator was proposed as a practical solution. It was defined as the accumulated precipitation within a moving 10-minute time window, updated every 5 min. Thresholds for the A10 min indicator were defined for the El Guamo, Manizales, and Olivares watersheds (UNAL, 2018).</p><p>However, these initial flood thresholds could not be calibrated at the time ( <ref type="formula">2017</ref>), as the level data series were still under development and no flood events had yet been recorded in the watersheds. Therefore, calibration and validation has been carried out in real time through system implementation and citizen-reported data.</p><p>In 2020, the Monitoring Centre for Risk Management (CMGRD, in Spanish) was implemented in Manizales (including EWS for landslides, floods and seismic events). Then, within the framework of Phases II and III of this project, new studies were initiated in 2022 to enhance indicators and thresholds for the city's urban area, including the upper Chinchiná River basin (Fig. <ref type="figure" target="#fig_0">1</ref>), this area encompassed neighborhoods previously affected by floods and landslides, aiming to improve the performance of both the A10 min and A25 indicators.</p><p>For floods, a statistical correlation was performed using various hydrometeorological variables. Initially, an extreme events database was compiled, separating hydrographs and their corresponding hyetographs for all meteorological stations within each basin. For each event, the following characteristics were obtained using moving time windows of 5, 10, 15, and 20 min of accumulated precipitation: Initial and peak water levels, Maximum precipitation, Maximum water level, Time from peak rainfall to peak water level, Time to peak water level from maximum intensity, and rainfall duration. Once these variables were identified, correlation analysis were performed to determine which of the variables best explained a flood surge. Based on this analysis, a composite function was proposed that incorporates initial water level and ten-minute precipitation to forecast water level increase. This relationship was referred to as the P10Level indicator. Yellow, orange, and red thresholds were determined from calibration and validation events selected from the extreme event database, for which impact reports were available. These thresholds are expressed as precipitation curves dependent on the real-time monitored water level, and if exceeded, they trigger yellow, orange, and red hazard levels, respectively. The same methodology was applied to the El Guamo and Olivares creek basins.</p><p>For landslides, a new indicator for sudden events, referred to as i med , was developed. The indicator represents the mean intensity of a rainfall event that triggers landslides. For this indicator, physical modeling was conducted using the TRIGRS and Scoops3D models. These tools simulate both shallow planar failure and deep-seated circular failure mechanisms, along with landslide hazard zoning maps. Approximately 596 rainfall events -associated with recorded landslides-were simulated. The result was the definition of rainfall thresholds as intensity-duration rainfall curves, which were calibrated using historical data <ref type="bibr" target="#b30">(Marin et al., 2024)</ref>.</p><p>Thus, since 2022, Manizales has four operational indicators for the simultaneous assessment of flood and landslide hazards: A25 and i med for landslides, and A10 min and P10Level for floods. Two of these, P10Level and i med , have also proven effective in forecasting related events such as pluvial floods, tree falls, among others <ref type="bibr" target="#b63">(Zambrano Nájera et al., 2024)</ref>. This advancement has played a critical role in the city's transition towards an MHEWS, which has been operational since 2023. That same year, a series of community workshops were held to support local risk knowledge. These participatory sessions focused on reconstructing the historical memory of past disasters, contributing to the identification and validation of areas at risk of floods and landslides. Moreover, these workshops played a key role in the implementation of new CBEWS, thereby reinforcing social engagement and resilience in disaster risk management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Monitoring and warning</head><p>For the study of the city's climate and hydrology, meteorological stations (measuring precipitation, temperature, wind speed and direction, relative humidity, solar radiation, barometric pressure and evaporation) have been installed since the late 20th century. These were later complemented by hydrometeorological stations (measuring precipitation, temperature, and water levels). In 1997, the Metropolitan Waste Management Company (EMAS) of Manizales, in collaboration with the Universidad Nacional de Colombia, Manizales Campus (UNAL in Spanish), installed the city's first meteorological station at the La Esmeralda Landfill (J. Pachón <ref type="bibr">Gómez et al., 2018)</ref>. This station was intended for operational and environmental control and became the first in the city capable of transmitting data to UNAL Manizales via radio frequency-based telemetry system, updating every 10-minutes, which has endured to this day due to its reliability under adverse weather conditions (J. Pachón <ref type="bibr">Gómez et al., 2018)</ref>. Years later, in 2002, a second meteorological station was installed at the UNAL Manizales campus for academic purposes and to contribute to the city's monitoring efforts. At this point, data resolution improved to five-minute intervals and has remained so to this day. A year later, in 2003, the automatic meteorological network was established with the participation of the Manizales Mayor's Office and the Regional Environmental Institution CORPO-CALDAS, adding two new meteorological stations at different points in the city and a central station at the UNAL Manizales building to receive all the data sent by the four stations available at that time. This was done in response to the disasters that caused significant losses that year. That same year, the program called "Guardians of the Slope" (Guardianas de la Ladera in Spanish) was implemented, which remains active to this day and has gained international recognition. This program stands out for being entirely composed of women, primarily mothers who are head of household, especially those in vulnerable conditions, who are trained with the objective of inspecting, monitoring, and performing periodic maintenance on the drainage infrastructures, streams, and rivers. They also work to raise awareness among communities about the importance of local risk management (Corporación para el Desarrollo de Caldas, 2006). In the following years, the number of meteorological stations gradually increased until 2008, when the first hydrometeorological station was installed as a joint effort between UNAL Manizales and the Universidad de Caldas to support urban watershed research. In 2011, a new institution joined the effort -Caldas Hydroelectric Power Plant (CHEC in Spanish) -which contributed with the addition of a new meteorological station to the network. That same year, a public web portal was developed to allow real-time monitoring and visualization of the city's climate data, with updates every five minutes (J. Pachón <ref type="bibr">Gómez et al., 2018)</ref>. The following year, the central monitoring station database was upgraded to unify variable formats and enhance long-term monitoring. By then, the network comprised 15 meteorological stations and three hydrometeorological stations.</p><p>Due to the disasters that occurred in 2011, including major floods, underscored the urgent need to improve EWS for floods. For this reason, in 2014, the city began the implementation of FEWS through the installation of six new meteorological and 19 hydrometeorological stations in the watersheds of the El Guamo, Olivares, Manizales creek, as well as in urban sectors of the Chinchiná River. These watersheds were selected considering the city's 2007 POT, which indicates that flood conditions vary considerably in Manizales. By 2015, the network had expanded to include 21 meteorological and 22 hydrometeorological stations.</p><p>By 2016, the department of Caldas (Fig. <ref type="figure" target="#fig_0">1</ref>) already had five types of networks managed by UNAL Manizales: meteorological, hydroclimatological, air quality, seismological, and groundwater. Due to rapid infrastructure development and growing data output, the need to consolidate these networks into an Environmental Information System (EIS) became clear. This led to the creation of the Integrated Environmental Monitoring System of Caldas (Sistema Integrado de Monitoreo Ambiental de Caldas-SIMAC), following the recommendations of the 1972 Stockholm Conference, which emphasized the need for environmental monitoring systems for tracking natural resources and climate change <ref type="bibr" target="#b61">(Zambrano Nájera and Delgado Trujillo, 2017)</ref>. In 2017, the Geoportal SIMAC platform was launched to the public, developed by UNAL in partnership with the Manizales Mayor's Office and CORPO-CALDAS (<ref type="url" target="https://cdiac.manizales.unal.edu.co/geoportal-simac/">https://cdiac.manizales.unal.edu.co/geoportal-simac/</ref>). This platform provides real-time data visualization from the existing networks. Since then, the Geoportal has been publishing real-time information from the data repository (UN and CORPOCALDAS, 2014) which is continuously fed by the networks. Among these, the hydroclimatic networks stand out due to its extensive spatial and temporal coverage, with data recorded every five-minute intervals.</p><p>Subsequently, in 2020, the CMGRD was formally established in Manizales under the coordination of the city's Risk Management Unit (UGR in Spanish) of the Manizales Mayor's Office. This center enabled the automated implementation of EWS for landslides and floods, using the two indicators available at that time: A25 for the city and A10min for the El Guamo, Olivares and Manizales creek basins (UNAL, 2021). This process was consolidated in 2021 with the launch of the EWS platform (Fig. <ref type="figure" target="#fig_4">4A</ref>), which is operated 24 hours a day by the Official Fire Department of Manizales under the coordination of UGR. The platform displays the alert levels in real-time for each EWS-designated station in the case of landslides, and for watersheds in the case of floods (Figs. <ref type="figure" target="#fig_4">4B</ref> and <ref type="figure" target="#fig_4">4C</ref>).</p><p>The alert levels result from the processing, analysis, and application of the indicators to the data sent by the hydroclimatic network stations, which by this time already comprised 23 meteorological and 30 hydrometeorological stations in the city. This platform highlights the region where any of the thresholds are exceeded. This is due to the considerable spatial variability of precipitation, which is heavily influenced by local phenomena, making it challenging to accurately predict the exact locations where flooding will occur. In 2023, the EWS platform was updated to include the P10Level and i med indicators, developed in 2022, promoting its evolution toward an MHEWS. The following year, the development of a user-friendly, real-time EWS platform began, designed to be easy to use, intuitive, and accessible for users. In 2024, the hydroclimatic network was further strengthened with the installation of seven new meteorological stations operated by community observers in rural areas that previously lacked monitoring coverage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Communication</head><p>In Manizales, communication has occurred in two main communication channels (Fig. <ref type="figure" target="#fig_5">5</ref>). The first involves technical collaboration between the academic sector and the Fire Department; for example, UNAL provides scientific and technological support, including expertise in equipment operation, data transmission, and system maintenance. UNAL is also responsible for the development of monitoring platforms like the Geoportal SIMAC and EWS platform. The Fire Department, as the official emergency response authority, utilizes this technical information to support decision-making and public assistance. It also provides operational feedback to improve system accuracy. This technicaloperational partnership facilitates a continuous exchange of risk knowledge beyond emergency situations. The second communication channel involves direct public alerts from the Fire Department to the community. These alerts are disseminated through sound alarm stations and prerecorded warning messages, complemented by a permanent call center that answers public inquiries. Additional communication mechanisms include loudspeaker announcements, radio broadcasts, and press releases, all aimed at ensuring timely and effective dissemination of risk information.</p><p>The communication channel between UNAL and the Firefighters -UGR -was officially established in 2003 as part of the project to set up the automatic monitoring network, as described in the Monitoring and warning section. Since its creation, this channel has been strengthened over time through projects focused on risk knowledge and monitoring. Communication between official entities and local communities predates the EWS. The development and evolution of the EWS have significantly enhanced institutional monitoring systems for disaster risk management, particularly for floods, debris flows, landslides, and lahars. Concurrently, alert communication strategies have been continuously updated to align with best practices in early warning systems.</p><p>Following the disasters of 2011, the first documented CBEWS was established in the Manizales stream watershed. This initiative created clear communication channels among community members, organized groups, and assigned specific roles for hazard monitoring to facilitate the dissemination of alerts. Furthermore, with support from local businesses, the community installed the first sound alarm station. Subsequently, as part of the FEWS implementation in 2014 across various city watersheds, seven additional sound alarm stations were installed. These locations were selected based on vulnerable sites identified by the community and the expertise of environmental authorities derived from previous events. Years later, in 2023, five new CBEWS were established in vulnerable neighborhoods with a history of disasters: Providencia, Lusitania, El Guamo, Eucaliptus, and Llanogrande. In these communities, protocols and communication channels were established, workshops on interpreting indicators and thresholds were conducted, and long-range radio frequency equipment was provided to enable collaboration with official authorities during emergencies.</p><p>Following the launch of the EWS platform, icons were designed using colors commonly employed in international models (Fig. <ref type="figure" target="#fig_4">4A</ref>) to distinguish flood alerts from other events. During an emergency, firefighters supplement this information with additional data to more precisely locate the incident, often achieved through phone calls or community emergency radios. Once the flood hazard is confirmed, firefighters activate sound alarms to alert residents. For this purpose, the platform integrates an alarm control center, which consists of a panel displaying the names of the sound alarm stations. By clicking on any of these, a pre-recorded message or a real-time direct message can be broadcast to provide instructions to the population while responders proceed to the emergency site. If the emergency is caused by landslides, the UGR disseminates information through the press.</p><p>Additionally, a communication channel between the academic sector and the community has been established in the city through various initiatives. UNAL, through research projects, has established direct contact with vulnerable communities to gather local needs and experiences that contribute to risk knowledge, strengthen monitoring systems,  and improve communication during emergencies. Likewise, communities have turned to the university for assistance in using monitoring tools, interpreting indicators and thresholds, and following emergency protocols.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Response preparedness</head><p>Historical records indicate that emergency response efforts in Manizales date back to 1990, with the development of the Comprehensive Plan for Disaster Prevention and Emergency Response (PADEM, in Spanish). This plan focused on designing a framework for emergency prevention and management by establishing strategies and protocols to mitigate and enhance response capacity in the face of adverse events (Alcaldía de Manizales, 2019; <ref type="bibr">Corpocaldas and Manizales, 2016)</ref>. The first documented emergency response preparedness initiative was the General Response Plan for Emergencies and Disasters of the Municipality of Manizales (PGRED, in Spanish), developed in 2001 by the Manizales Mayor's Office. This document outlined the first formal initiatives to structure emergency and disaster response in the city. It laid the foundation for emergency preparedness and response by organizing risk management and establishing initial procedures for disaster response (Alcaldía de <ref type="bibr">Manizales, 2001)</ref>. Subsequently, in 2003, the Manizales Emergency Plan (PEM, in Spanish) was developed, aiming to guide emergency response efforts. It defined the interinstitutional structure and assigned responsibilities across the preparedness, alert, response, and recovery phases. Additionally, it established coordination mechanisms and protocols for information transmission to ensure the functionality of the city's infrastructure (Alcaldía de <ref type="bibr">Manizales, 2003)</ref>.</p><p>The PEM provides a general framework for response and recovery procedures, while specific contingency plans were developed for different types of hazards.</p><p>Response preparedness in Manizales has continued to evolve through the National Emergency Preparedness Exercise (SNRE, in Spanish), which has been held annually since 2011. The city has demonstrated a strong commitment to this exercise, which aims to enhance the country's disaster response capacity by evaluating and improving coordination systems for a variety of threats. Since its implementation, the SNRE has engaged public and private entities, as well as social and community organizations. Each year, the exercise focuses on different risk scenarios, such as earthquakes, floods, landslides, or volcanic eruptions.</p><p>Along with the establishment of the community-based EWS in 2011, response strategies were organized in the Manizales stream basin. Evacuation routes were defined, and meeting points were designated to address emergencies such as flash floods. Later, Municipal Decree No. 0329 of July 19, 2013, formally established the composition and operation of the Municipal Disaster Risk Management Council (COMGR, in Spanish). This council serves as the governing body responsible for designing, coordinating, and implementing measures aimed at disaster prevention and impact reduction, with the objective of safeguarding lives, ensuring public safety and property, and supporting recovery efforts <ref type="bibr">(Decreto No 329 de, 2013 [Alcaldía de Manizales]</ref>, 2013). The COMGR is composed of the mayor (or their delegate) and representatives from various local entities, including the UGR, public service companies, CORPOCALDAS, the Colombian Civil Defense, the Colombian Red Cross, the Manizales Fire Department, the Secretariat of Public Works, and the National Police.</p><p>The council is responsible for developing a specific action plan in the event of an emergency, which includes the coordination of response entities such as the firefighters, civil defense teams, health services, and local authorities. It also ensures the activation of alerts and the implementation of communication channels, including alarm stations, emergency radios, and telephone networks, to inform both the community and the relevant agencies. Additionally, the response plan outlines operational procedures carried out by the firefighters and civil defense teams, followed by post-emergency evaluation and improvement measures. Furthermore, the COMGR promotes training programs and periodic preparedness drills to strengthen institutional and communitylevel capacity in emergency response protocols. During an emergency, the COMGR activates response protocols, beginning with the issuance of alerts through digital platforms and alarm systems. Subsequently, emergency response teams are deployed to the affected area, while clear instructions are communicated to the community. Lastly, health and public service entities are prepared to provide support both during and after the emergency.</p><p>Following the enactment of Law 1523 of 2012, which adopted the National Disaster Risk Management Policy and established the National Disaster Risk Management System, Manizales developed its PMGRD and the Municipal Emergency Response Strategy (EMRE, in Spanish) in 2016. The PMGRD was designed for a 12-year implementation period, aims to guide governmental and civil society initiatives in identification, mitigation, and management of risk, and strengthening safety and promoting sustainable urban development. It defines the risk scenarios in Manizales and outlines programs, projects, and actions for effective risk management across prevention, mitigation, preparedness, response, and recovery phases <ref type="bibr">(CORPOCALDAS and Alcaldía de Manizales, 2016)</ref>. The EMRE, a component of the PMGRD, focuses specifically on preparedness and response, organizing and coordinating resources and stakeholders involved in emergency management. This strategy establishes intervention protocols, evacuation routes, assembly areas, and communication systems to ensure a rapid and efficient emergency response, minimizing its impact on the population and facilitating a swift and organized recovery <ref type="bibr">(Corpocaldas and Manizales, 2016)</ref>. Additionally, Manizales has the Specific Recovery Action Plan (PAER, in Spanish), which is formulated within the PMGRD framework to provide a structured approach to post-disaster rehabilitation and reconstruction following the EMRE guidelines. Together, the PMGRD, EMRE, and PAER constitute a comprehensive and complementary response instruments, forming part of a disaster risk management approach for the city <ref type="bibr">(Corpocaldas and Alcaldía de Manizales, 2016)</ref>.</p><p>Within the framework of emergency prevention and response, the Manizales Mayor's Office developed the National Strategy for Strengthening Community Organizations (ENFOCA) in 2020 to expand knowledge and build community capacity for emergency prevention and management throughout the city's districts. This strategy promoted a culture of prevention and equipped communities with tools such as EWS while also empowering community leaders to develop localized emergency plans. Later, in 2022, the periodic implementation of the Municipal Emergency Preparedness Exercises (SMRE, in Spanish) began, with the objective of improving planning, coordination, and communication among institutions and emergency response agencies. These exercises enhanced the city's ability to respond to various risk scenarios. A year later, alongside the establishment of new community-based Early Warning Systems (EWS), Community Emergency Preparedness Exercises (SCRE, in Spanish) were conducted to prepare vulnerable communities for emergency situations. These exercises were designed based on risks previously identified through collaborative efforts between the community, the National University of Colombia in Manizales, and official entities. The most recent advancement in the response preparedness component of the EWS was the update of the PMGRD and EMRE, which took place in August 2024. This revision was undertaken to modernize and adapt risk management strategies in response to recent changes in governance dynamics and urbanization trends.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Disasters</head><p>In Manizales, disasters -including landslides, floods and gales-have resulted in severe consequences, ranging from damage to urban infrastructure to loss of human lives (see Fig. <ref type="figure" target="#fig_3">3</ref>; events marked with red borders indicate fatalities). The historical disasters record in the city for this study was compiled from 1996 onward, using data from the risk management portal of the Manizales Mayor's Office, as well as reports from the press and official sources, as detailed below.</p><p>In 2002, the overflow of the Chinchiná River caused flooding in the Providencia sector (Fig. <ref type="figure" target="#fig_0">1</ref>), affecting 135 people. The following year, in 2003, saw a series of floods throughout the year resulted in 16 fatalities, approximately 3000 people affected, and severe damage to infrastructure (Alcaldía de Manizales, 2019). Moreover, 116 landslides occurred that year, leading to 39 deaths and 51 injuries, making 2003 a particularly tragic year for Manizales. In response, the city implemented several risk measures, including the establishment of thresholds for the A25 indicator, the deployment of an automated meteorological network, the development of communication channels between academia and official agencies, and the formulation of the PEM.</p><p>In 2005, nine landslides occurred, resulting in 11 fatalities and five injuries. Studies conducted in this period confirmed that rainfall is the primary trigger for both landslides and floods in the city. In 2006, a torrential flood struck the upper basin of the Chinchiná River in the sector known as Termales, causing 11 deaths (Alcaldía de Manizales, 2019). That same year, five additional landslides led to two fatalities and one injury. During this time, the hydroclimatic monitoring network continued to expand, enhancing the city's capacity to anticipate and respond.</p><p>In 2007, seven landslides occurred, resulting in one fatality and seven injuries. During this period, the second update of the Territorial Development Plan (POT) was underway. Subsequently, in 2008, a torrential flood in the Manizales stream caused one death and affected 1665 people (Alcaldía de Manizales, 2019). Additionally, severe gales that year led to significant infrastructure damage. In response, the city began monitoring stream water levels by installing its first hydrometeorological station, marking a crucial step in strengthening early warning capabilities.</p><p>In 2009, several gales caused minor damage to infrastructure. However, the following year, a series of torrential flows and gales directly affected 120 people (Alcaldía de Manizales, 2019). Additionally, four landslides resulted in one fatality and seven injuries. In response, the city conducted studies on climate zoning and the spatial rainfall distribution and formulated the PAI for the Manizales creek.</p><p>The year 2011 stands out as one of the most catastrophic in Manizales's disaster history. A sequence of floods and torrential flows caused 20 deaths, destruction of housing, an extensive material loss <ref type="bibr" target="#b10">(Castillo Ruales et al., 2020;</ref><ref type="bibr" target="#b39">Quintero, 2013;</ref><ref type="bibr" target="#b42">Serna, 2012)</ref>. Severe damage was also reported in the industrial zone and essential water supply infrastructure that supplies a large part of the city <ref type="bibr" target="#b39">(Quintero, 2013)</ref>. In total, 1025 people were affected, prompting the first proposal for the implementation of a FEWS by risk management authorities, which was carried out in subsequent years. This year also saw six landslides, one of which resulted in 48 fatalities, 16 injuries, and numerous missing persons, affecting approximately 1000 people. As a result, 2011 marked significant advancements in monitoring: the launch of a real-time climate monitoring web portal, the strengthening of the hydroclimatic network, the establishment of the first CBEWS, and the installation of the first acoustic warning station. In 2012, the thresholds for the A25 indicator were validated, and the hydroclimatic monitoring network database was updated.</p><p>In 2014, intense rainfall and thunderstorms triggered floods and gales, causing emergencies and severe infrastructure damage. At that time, the city was already in the process of implementing the FEWS for its watersheds, alongside the installation of new hydrometeorological, meteorological, and acoustic warning stations (Alcaldía de Manizales, 2019). Similarly, in 2016, floods and gales resulted in material losses. However, by then, the city had already formulated the POMCA for the Chinchiná river basin and had established the SIMAC, PMGRD, EMRE, and PAER.</p><p>2017 marks the most recent major disaster in the city's history. Shortly after the Mocoa tragedy with 333 people died <ref type="bibr" target="#b20">(García-Delgado et al., 2019)</ref>, Manizales experienced similarly extreme rainfall, resulting in 17 deaths, 230 injuries, and 3126 individuals affected by approximately 30 landslides and floods across different areas of the city <ref type="bibr" target="#b63">(Zambrano Nájera et al., 2024)</ref>. At this point in history, the city was implementing the 2017-2031 POT, the SIMAC Geoportal, and was developing the A10 min indicator.</p><p>In recent years, with the exception of a landslide in 2022 that resulted in two deaths and nine injuries, floods and gales have not caused any fatalities and have been limited to infrastructure damage in the city. Despite this, the Manizales EWS has continued to evolve through the development of new indicators, platforms, and communication and emergency response strategies, as outlined in the respective components of the EWS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Lesssons learned</head><p>This section summarizes key insights derived from the evolution of the Early Warning System (EWS) into a Multi-Hazard Early Warning System (MHEWS) in Manizales, with a focus on technical limitations, institutional challenges, and opportunities for improvement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Gaps in spatial coverage and forecasting capabilities</head><p>As shown in Fig. <ref type="figure" target="#fig_0">1</ref>, the eastern and southern portions of the Chinchiná River basin remain unmonitored in terms of rainfall, primarily because this area lies outside the jurisdiction of Manizales. Due to legal constraints in Colombia, municipal investments in other jurisdictions are restricted. However, water supply enterprise Aguas de Manizales operates stations in this area, which could be integrated into the system to address critical lead-time challenges. The implementation of the compound P10Level indicator, which combines water level and rainfall data, has partially resolved this issue by improving the detection of downstream flood risks. Still, it does not offer extended lead times and remains reactive in nature.</p><p>However, a persistent limitation is the absence of a centralized and comprehensive disaster impact database. While occurrences of hydrometeorological hazards are recorded, their impacts (casualties, economic losses, evacuation times) are poorly documented. This deficiency significantly hampers the validation and optimization of alarm thresholds and emergency response protocols.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Forecasting tools and governance barriers</head><p>The system lacks properly calibrated and validated short-term weather forecast models, which limits the ability to anticipate rainfall distribution and intensity in the short term. Although the use of radar has been proposed to bridge this gap, the high cost and need for trained personnel have made its implementation infeasible in the short and medium term.</p><p>Governance-related challenges -such as delays in station maintenance or lack of continuity due to political turnover-further threaten the system's effectiveness. The diversity of flood events, from sudden pluvial urban floods to prolonged rural flooding and lahars, requires maintenance and governance frameworks that transcend political cycles.</p><p>Although the real-time monitoring network has been considerably strengthened in a short period of time, and today there is a great deal of information on the level of rivers and creeks, the response time available to the authorities is very limited, in some cases only have about 15 min to act as has been shown in some events <ref type="bibr" target="#b63">(Zambrano et al., 2024)</ref>. For this reason, the need to move from flood forecasts with real-time precipitation information to precipitation forecasts becomes evident (radar has been considered. This option is not possible in the short or medium term, because of the large amount of capital required. In addition, highly trained human resources are required, which is not yet available at the local level. However, it is feasible to improve real-time information in the southern area of the Chinchiná River basin to complete the area with monitoring stations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Complex hydrological dynamics</head><p>The flooding in Manizales is of a very different nature. Some events in urban watersheds have characteristics of sudden events (with transit times ranging between 25 and 55 min), while other floods can be between 60 and 120 min for rural areas (especially on the Chinchiná River). Additionally, the Chinchiná River is exposed to lahars -volcanic debris flows-such as those triggered by the 1985 Nevado del Ruiz eruption. Although glacier area is progressively due to global warming, it is expected to reduce the likelihood of future lahars, this hazard must still be accounted for. Rain-induced landslides and soil loosening are also frequent on steep slopes contributing to the torrential category. This geomorphological complexity demands a higher level of knowledge in the study area compared to others, necessitating ongoing knowledge transfer through training for authorities and communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Challenges in threshold-based alerts and indicators design</head><p>The first flood indicator (A10 min ) with fixed thresholds faced multiple limitations:</p><p>• Short warning times: alerts remained on the Fire Department center platform for only 5-10 min, often too brief for response teams to act. The indicator, based on extreme 10-minute rainfall intensities, did not account for the complete event evolution. • Delayed response: although A10 min correctly predicted several flood events, hesitation among firefighters delayed the activation of sound alarms. • Inadequate data for calibration: several watersheds experienced floods without sufficient historical precipitation data to support reliable indicator calibration. Many stations had been installed only two years prior to the research, and intermittent operation due to logistical issues further constrained data collection. In some cases, this difficulty is even greater than in others, since the stations operate intermittently due to logistical and maintenance problems, which are governance aspects that need to be improved. • Pluvial vs. fluvial distinction: many events were pluvial (caused directly by intense rainfall) rather than fluvial (related to river overflow), emphasizing the need for indicators that consider rainfall behavior independently of river levels. That is, it has been shown that heavy rains cause more problems than river floods. • Downstream dynamics: recurrent flooding occurred after the Manizales Creek discharges into the Chinchiná River, influenced by rainfall in either basin. Real-time rain gauge coverage was only recently expanded in these areas.</p><p>To address these challenges, new indicators (P10Level and i med ) were introduced. The first combines rainfall intensity and water level data, while the second captures variations in rainfall intensity over time.</p><p>These indicators have demonstrated that activating them in an integrated manner rather than by individual hazard could expand their applicability to include other threats, such as pluvial flooding and tree falls, even though they were not originally designed for these purposes.</p><p>Another key lesson learned is the importance of adapting international alert coding to local contexts. For example, in the case of flooding, the yellow and orange alert level thresholds are no longer used. Discussions with local authorities revealed that flood events occur so rapidly that transitioning through yellow to orange, and even to red within just 5-10 min caused confusion and delays. Consequently, the system now shifts directly from green to red. Once thresholds are exceeded, the firefighters must take immediate action in all cases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5.">Towards sustainable and adaptive mhews</head><p>Based in previous lessons, adaptations where implemented in order to support the transition of the system into an MHEWS:</p><p>• Integrated indicator activation: indicators are now activated in an integrated manner. This means that alerts are no longer displayed separately by hazard type. Instead, all relevant indicators are evaluated simultaneously at each monitoring station (taking into account its influence area). Since both floods and landslides are triggered by rainfall, the first indicator to exceed its respective threshold automatically triggers an alert on the web-based platform. This allows for the coupled assessment of multiple hazards in real time. • From specific hazards to rainfall event typology: although the original indicators were not explicitly designed to detect certain hazard types -such as pluvial floods or tree falls-they have proven effective in predicting them. For example, the combination of P10Level, and i med indicators can reliably forecast sudden floods and landslides, and tree falls. As a result, the system now places greater emphasis on predicting the nature of rainfall events rather than individual hazards. A25, for instance, is used to track cumulative rainfall that may cause large-scale landslides or major floods, while P10Level, and i med are used to identify intense, short-duration events likely to cause localized flooding and other sudden impacts.</p><p>• Prioritizing strategic over excessive information: initially, each EWS was relatively simple, and communication between academic developers and emergency responders -such as firefighters-was straightforward. However, as the monitoring network expanded and the system evolved into an MHEWS, the increased complexity of the data created challenges in interpretation. In response, authorities requested a more strategic presentation of information to improve clarity and facilitate communication with the public. To achieve this, indicator data were aggregated and displayed by zones, simplifying visualization. • Efficiency indicators must assess all the system: to date, efficiency indicators have been developed based on the forecast accuracy of the hazard's indicators, but not on the performance of firefighters, who are responsible for making the decision to activate alerts. This gap is primarily due to the absence of systematic followup and record-keeping by the official fire department. The lack of structured documentation has hindered efforts to validate the system's performance using real emergency events. At present, press reports remain the primary source of information regarding firefighter actions, which significantly limits the ability to generate accurate and meaningful efficiency metrics. Recognizing the importance of evaluating EWS performance comprehensively, local initiatives have recently been launched to collect and systematize emergency data. The objective is to enable future calibration, validation, and refinement of the indicators based on empirical evidence, particularly regarding the activation and response times of first responders. However, the current dataset remains too limited to support the development of robust performance metrics. Despite these challenges, the transition from an EWS to an MHEWS has been driven by a growing recognition of the importance of collaborative governance among all relevant regional stakeholders. This cooperation has been essential for the ongoing operation, maintenance, and evolution of the system. Strengthening these institutional arrangements remains a key priority for achieving a more effective, responsive, and sustainable MHEWS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.">Governance and institutional capacity</head><p>Despite the inclusion or risk management in urban planning instruments such as the POT and PMGRD, implementation has been uneven. Informal urbanization, often in steep or flood-prone areas, has exposed vulnerable populations to repeated hazards. Relocation plans are under way, but the transition will take years. In the interim, strengthening the MHEWS remains vital to protect these communities.</p><p>The level of sophistication does not influence the capacity of the FEWS, as a more sophisticated system does not automatically ensure that personnel are prepared to operate it or take action. Extensive training and information are required to achieve this. In this case, the FEWS has expanded significantly in a short period, and local authorities have faced multiple challenges, such as keeping firefighters properly trained, given their constant turnover and the need to manage a wide range of emergency situations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.7.">Community involvement and knowledge integration</head><p>Local community play an important role in achieving the efficiency of an EWS, as they can contribute to all parts of the system chain. Community contribute valuable local knowledge that complements scientific studies undertaken to achieve the goal of hazard identification, particularly in areas with lack of formal data. In this case, information from residents -often relayed through press articles or interviews-allows calibration and validation of hydrological and hydraulic models, which in turn has allowed to obtain P10Level indicator. Community participation also supports the identification of vulnerable zones and informs evacuation route planning. These routes, particularly important in landslide-prone zones, have now been formally integrated to MHEWS operational framework. Nonetheless, community engagement remains uneven, and training efforts must be scaled up to ensure consistent understanding and use of warning messages, especially in high-risk neighborhoods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>Currently, the need to implement EWS, as promoted by the WMO, highlights the importance of advancing towards the implementation of MHEWS. This need is especially urgent for small communities in lowand middle-income countries, particularly those located in tropical and mountainous regions where vulnerabilities are high, and resources are limited. The progress achieved in Manizales exemplifies both the significant progress that can be achieved and the persistent challenges encountered by researchers and authorities, that must be addressed. Key developments include the continuous evolution and updating of precipitation and river level thresholds and the inclusion of new indicators that contribute to the transition of EWS towards MHEWS. This evolution underscores the need for continuous feedback among the various components of an EWS adapted to complex urban mountain environments.</p><p>The timely integration of indicators operating at multiple spatiotemporal scales has enabled the transition from an EWS to an MHEWS in Manizales. However, the most recently proposed indicators have only been calibrated with a limited number of extreme events. As additional data become available from future occurrences, validation will be essential for developing robust efficiency indicators -an outstanding task for the MHEWS in the City of Manizales. Furthermore, future development efforts aim to incorporate additional hazards, including wildfires, soil erosion, drought, and thunderstorms with lightning.</p><p>Sustaining and expanding the MHEWS in Manizales will require continued investment in collaborative governance. The progress achieved to date has been made possible through cooperation among communities, academic institutions, the private sector, utility companies, and government agencies. Maintaining and strengthening these partnerships is critical to ensuring that the system remains socially relevant, technically sound, and environmentally responsive.</p><p>The success of the case study -transitioning from different EWS to an MHEWS -is largely attributed to a deeply rooted risk management culture. This culture has developed in response to repeated exposure to hazards and has become embedded in the city's educational, social, cultural, economic, and political fabric. It has fostered alliances, collaborations, and formal agreements among diverse actors, enabling a more unified approach to disaster risk reduction and resilience-building in the face of global climate challenges. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare the following financial interests/personal relationships which may be considered as potential competing interests:</p><p>Cristhian Camilo Luna Benavides reports financial support and equipment, drugs, or supplies were provided by Municipality of Manizales. Jeannette Zambrano Najera reports financial support and equipment, drugs, or supplies were provided by Regional Autonomous Corporation of Caldas <ref type="bibr">(Corpocaldas)</ref>. Cristhian Camilo Luna Benavides reports a relationship with Municipality of Manizales that includes: funding grants. Jeannette Zambrano Najera reports a relationship with Regional Autonomous Corporation of Caldas (Corpocaldas) that includes: funding grants. If there are other authors, they declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Location of LEWS, FEWS and part of EWS for volcanic lahars.</figDesc><graphic coords="3,93.09,348.96,409.10,377.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>C.C. Luna et al.Environmental Challenges 20 (2025) 101199</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Key components used to assess the transition from LEWS and FEWS to a MHEWS.</figDesc><graphic coords="5,87.59,55.42,420.05,212.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Timeline of the evolution from single EWS and subsequently to an MHEWS. Disaster events: Symbol size is proportional to the magnitude of the impact (symbols with red borders indicate events involving human fatalities). Monitoring &amp; warnings, Communication and Response: Symbol size represents the increase in the number of stations or communicatios tools over time.</figDesc><graphic coords="6,57.66,55.40,479.95,602.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Visualization tools of the Early Warning System (EWS) platform for Manizales. (A) Centralized interface for 24/7 monitoring by the Fire Department and municipal authorities; (B) color-coded alerts for flooding and (C) color-coded alerts for landslides.</figDesc><graphic coords="9,87.59,55.42,420.05,396.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. EWS communication channels of EWS in manizales.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation, Conceptualization. Jeannette Zambrano Nájera: Writingreview &amp; editing, Writingoriginal draft, Visualization, Validation, Methodology, Investigation, Funding acquisition, Formal analysis, Conceptualization. Jorge Julián Vélez Upegui: Writingreview &amp; editing, Writingoriginal draft,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of studied creeks in the Chinchiná River basin references: 1.<ref type="bibr" target="#b64">Zambrano et al. (2023</ref>), 2. Aristizábal (2013), 3. Bastidas (2007).</figDesc><table><row><cell>Creek</cell><cell>Area</cell><cell>Shape</cell><cell>Elevation</cell><cell>Flood</cell><cell>Key Alterations</cell></row><row><cell></cell><cell>(km²)</cell><cell></cell><cell>range</cell><cell>Likelihood</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>(m a.s.l.)</cell><cell></cell><cell></cell></row><row><cell>El Guamo 1</cell><cell>5.27</cell><cell>Near-</cell><cell>1200-2100</cell><cell>High</cell><cell>Channel</cell></row><row><cell></cell><cell></cell><cell>circular</cell><cell></cell><cell></cell><cell>straightening,</cell></row><row><cell>Olivares 2</cell><cell>51.48</cell><cell>Oval</cell><cell>900-2300</cell><cell>Very high</cell><cell>sediment Urban</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>drainage, steep</cell></row><row><cell>Manizales 3</cell><cell>27.66</cell><cell>Elongated</cell><cell>1000-2450</cell><cell>Extreme</cell><cell>relief Industrial</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>waste, gold</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>mining</cell></row></table><note><p>C.C. Luna et al.</p><p>Environmental Challenges 20 (2025) 101199</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This results have been obtained under several projects: interadministrative agreement <rs type="grantNumber">221/2016</rs> and <rs type="grantNumber">176/2020</rs> between the <rs type="institution">National University of Colombia Sede Manizales</rs> and the <rs type="institution">Regional Autonomous Corporation of Caldas (CORPOCALDAS)</rs> for the operation and maintenance of the hydrometeorological networks of the <rs type="institution">Integrated Environmental Monitoring System of Caldas (SIMAC)</rs>, as well as the agreements 2011300570, <rs type="grantNumber">2111111029</rs>, <rs type="grantNumber">2306281086</rs> with the <rs type="funder">City of Manizales</rs> for the training of the <rs type="projectName">Monitoring Center for Risk Management in the city of Manizales in its phases I, II</rs> and <rs type="funder">III</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ztYruNr">
+					<idno type="grant-number">221/2016</idno>
+				</org>
+				<org type="funding" xml:id="_zrzFNhn">
+					<idno type="grant-number">176/2020</idno>
+				</org>
+				<org type="funding" xml:id="_G7gA4CQ">
+					<idno type="grant-number">2111111029</idno>
+				</org>
+				<org type="funded-project" xml:id="_RvbbWV8">
+					<idno type="grant-number">2306281086</idno>
+					<orgName type="project" subtype="full">Monitoring Center for Risk Management in the city of Manizales in its phases I, II</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data will be made available on request.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Plan general de respuesta ante emergencias y desastres del municipio de manizales</title>
+		<imprint>
+			<date type="published" when="2001">2001b</date>
+			<publisher>Alcaldía de Manizales</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alcaldía</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manizales</forename></persName>
+		</author>
+		<ptr target="https://planeacion.manizales.gov.co/gestionriesgo/" />
+		<title level="m">Gestión del riesgo -manizales, 8 de Noviembre de</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Early warning systems: lost in translation or late by definition? A forin approach</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Alcántara-Ayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oliver-Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13753-019-00231-3</idno>
+		<ptr target="https://doi.org/10.1007/s13753-019-00231-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="317" to="331" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Operational early warning systems for water-related hazards in Europe</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Alfieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Salamon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pappenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wetterhall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thielen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Policy</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="35" to="49" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Estudio hidrológico dentro de la modelación hidráulica de cauces fluviales. Vulnerabilidad De Líneas Vitales De Acueducto y Alcantarillado</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aristizábal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2013. 2012</date>
+			<biblScope unit="page">179</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Global early warning systems for natural hazards: systematic and peoplecentred</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Basher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Synolakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Farnsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Steacey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. A: Math. Phys. Eng. Sci</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="2167" to="2182" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Determinación De La Carga Contaminante De Orígen Industrial Vertida Sobre La Quebrada Manizales /Juan Carlos Bastidas Tulcán</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Bastidas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Sede Manizales</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Luis Carlos Ramírez Ospina? directora Adela Londoño Carvajal. Universidad Nacional de Colombia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Iber: herramienta de simulación numérica del flujo en ríos</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Corestein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Escolano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Puertas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Cendón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dolz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Int. Métodos Numér. Para Cálc. Diseño Ing</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Gender Transformative Early Warning Systems: Experiences from Nepal and Peru</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Budimir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sneddon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shakya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Upadhyay</surname></persName>
+		</author>
+		<ptr target="https://floodresilience.net/resources/item/gender-transformative-early-warning-systems-experiences-from-nep" />
+	</analytic>
+	<monogr>
+		<title level="j">Practical Action</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<pubPlace>Rugby, Warwickshire, United Kingdom. Available</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Rio de Janeiro early warning system for rainfall-induced landslides: analysis of performance for the years 2010-2013</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Calvello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>D'orsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Piciullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Magalhaes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Lacerda</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2014.10.005</idno>
+		<ptr target="https://doi.org/10.1016/j.ijdrr.2014.10.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Reduct</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3" to="15" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Umbrales De Precipitación Basados En Intensidad Para Crecidas Torrenciales En La Quebrada Manizales</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Castillo Ruales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez Upegui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mejíafernández</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista EIA</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Colombia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bladé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Modelización matemática en lecho fijo del flujo en ríos. Modelos 1D y 2D en régimen permanente y variable</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="1" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Evaluation of an early flood warning system in Bamako (Mali): lessons learned from the flood of May</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chahinian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alcoba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dembélé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cazenave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bouvier</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jfr3.12878</idno>
+		<ptr target="https://doi.org/10.1111/jfr3.12878" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Flood Risk Manag</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2019">2023. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">la cuenca hidrográfica del río chinchiná departamento de caldas-POMCA chinchiná</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cools</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Innocenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsci.2016.01.006</idno>
+		<ptr target="https://doi.org/10.1016/j.envsci.2016.01.006.de" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Policy</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="117" to="122" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Lessons from flood early warning systems</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Plan de gestión ambiental regional PGAR</title>
+		<author>
+			<persName><surname>Corpocaldas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 2020-2031</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Guardianas de La ladera: un programa de cultura ciudadana en LA prevención del riesgo</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Corporación para el Desarrollo de Caldas</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Análisis De La Variabilidad Espacial y Temporal De La Precipitación En Una Ciudad De Media Montaña Andina. Manizales, Caso de estudio</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cortés Cortés</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Resultados Censo Nacional de Población y Vivienda</title>
+		<imprint>
+			<date type="published" when="2010">2010. 2019. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Modelling disaster impact for the global disaster alert and coordination system</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>De Groeve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vernaccini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Annunziato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">rd International ISCRAM Conference</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="409" to="417" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Por medio del cual se conforma el Consejo Municipal de</title>
+		<author>
+			<persName><surname>Decreto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013. 2013. 19 de Julio de 2013</date>
+		</imprint>
+	</monogr>
+	<note>Alcaldía de Manizales</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Split-parameter structure for the automatic calibration of distributed hydrological models</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2006.06.032</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2006.06.032" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Hydrol</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="226" to="240" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Dynamic and geomorphic characterizations of the Mocoa debris flow</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>García-Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Machuca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Medina</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10346-018-01121-3</idno>
+		<idno>10346- 018-01121-3</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Landslides</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="597" to="609" />
+			<date type="published" when="2017">2019. March 31, 2017</date>
+			<pubPlace>Putumayo Department, southern Colombia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A compilation of data on European flash floods</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gaume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bernardara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Newinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barbuc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bateman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Blaškovi? Ová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Blöschl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Borga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dumitrescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Daliakopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Irimescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kohnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koutroulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matreata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Medina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Preciso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Viglione</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jhydrol.2008.12.028</idno>
+		<ptr target="https://doi.org/10.1016/j.jhydrol.2008.12.028" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Hydrol</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="70" to="78" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Rainfall thresholds for the initiation of landslides in central and southern</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Guzzetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Peruccacci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Stark</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00703-007-0262-7</idno>
+		<ptr target="https://doi.org/10.1007/s00703-007-0262-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur., Meteorol. Atmos. Phys</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="239" to="267" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Changing properties of precipitation extremes in the urban areas</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Hazards</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="437" to="454" />
+			<date type="published" when="1957">2015. 1957-2013</date>
+			<pubPlace>Yangtze River Delta, China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Assessing flood early warning systems for flash floods</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Henao Salgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fclim.2022.787042</idno>
+		<ptr target="https://doi.org/10.3389/fclim.2022.787042" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Flash-flood hazard assessment using ensembles and Bayesianbased machine learning models: application of the simulated annealing feature selection method</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Hosseini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Choubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nabipour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shamshirband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Darabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Haghighi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2019.135161</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">711</biblScope>
+			<biblScope unit="page">135161</biblScope>
+			<date type="published" when="2019">2020. 2019.135161</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Estimación De Umbrales Preliminares Para La Activación Del Sistema de Alerta Temprana Por Inundaciones Para Las Cuencas Quebrada El Guamo</title>
+		<author>
+			<persName><surname>Idea Unal</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Olivares y Manizales</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><surname>Ideam</surname></persName>
+		</author>
+		<title level="m">Estudio Nacional del Agua</title>
+		<imprint>
+			<date type="published" when="2022">2023. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Loss of life estimation due to flash floods in residential areas using a regional model</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Karbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shokoohi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Saghafian</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11269-018-2071-9</idno>
+		<ptr target="https://doi.org/10.1007/s11269-018-2071-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Water Resour. Manag</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="4575" to="4589" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. 24 de abril de 2012</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ley 1523</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Landslide hazard and rainfall threshold assessment: incorporating shallow and deepseated failure mechanisms with physics-based models</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Marin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Marín-Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/geosciences141https://www.mdpi.com/2076-3263/14/10/28000280</idno>
+		<ptr target="https://doi.org/10.3390/geosciences141https://www.mdpi.com/2076-3263/14/10/28000280" />
+	</analytic>
+	<monogr>
+		<title level="j">Geosciences</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">280</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">An integration of geospatial and fuzzy-logic techniques for multi-hazard mapping</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mausmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Darshan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mohamedmaroof</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rineng.2024.101758</idno>
+		<ptr target="https://doi.org/10.1016/j.rineng.2024.101758" />
+	</analytic>
+	<monogr>
+		<title level="j">Results Eng</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">101758</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Zonificación de riesgos por deslizamientos en áreas urbanas andinas</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mejía</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-C</forename><surname>Chardon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Londoño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Estrada</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>FASE</publisher>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Instrumentos De Ayuda a La Toma De Decisión En Procesos De Ordenamiento Territorial</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Towards flash-flood prediction in the dry Dead Sea region utilizing radar rainfall information</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jacoby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Navon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bet-Halachmi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.advwatres.2008.11.011</idno>
+		<ptr target="https://doi.org/10.1016/j.advwatres.2008.11.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Water Resour</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1066" to="1076" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Morss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Demuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lazo</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/2008WAF2007088.1</idno>
+		<ptr target="https://doi.org/10.1175/2008WAF2007088.1" />
+		<title level="m">Communicating uncertainty in weather forecasts: a survey of the U.S. public. Weather Forecast</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="974" to="991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Early warning alerts for extreme natural hazard events: a review of worldwide practices</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neußner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2021.102295</idno>
+		<ptr target="https://doi.org/10.1016/j.ijdrr.2021.102295" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Reduct</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">102295</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Guía De Referencia Para Sistemas De Alerta Temprana De Crecidas Repentinas</title>
+		<author>
+			<persName><surname>Nooa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012. 2012</date>
+		</imprint>
+		<respStmt>
+			<orgName>The University Corporation for Atmospheric Research. National Oceanic and Atmospheric Administration</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Sistema Integrado de Monitoreo Ambiental De Caldas -SIMAC Red de Estaciones Meteorológicas e Hidrometeorológicas Automáticas De Manizales Estaciones Para La Gestión Del Riesgo Ante Desastres Por Deslizamientos PRIMERA PARTE</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pachón Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mejía</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia Sede Manizales</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Sistema Integrado de Monitoreo Ambiental De Caldas -SIMAC Red de Estaciones Meteorológicas e Hidrometeorológicas Automáticas De Manizales Estaciones Para La Gestión Del Riesgo Ante Desastres Por Deslizamientos SEGUNDA PARTE</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pachón Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mejía</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia Sede Manizales</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Quintero</surname></persName>
+		</author>
+		<title level="m">Diagnóstico de la gestión integral del riesgo por inundaciones y avenidas torrenciales en ríos urbanos del departamento de Caldas. Especialista En Prevención</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Atención y Reducción De Desastres. Universidad Católica de Manizales</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Spatio-temporal description of the rainfall in the Andean city of Manizales (Colombia) for storm design</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rincón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">E-Proceedings of the 36th IAHR World Congress: Deltas of the Future and What Happens Upstream</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="5437" to="5441" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Storm surge: Lost in Translation and Interpretation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Santos</surname></persName>
+		</author>
+		<ptr target="https://www.devex.com/news/sponsored/storm-surge-lost-in-translation-and-interpretation-82311" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">A orillas del riesgo en la quebrada Manizales</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Serna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patria</title>
+		<imprint>
+			<date type="published" when="2012-04-25">2012. 25 April</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Modelling Spatial and Temporal Variations in Rainfall-Triggered Landslides</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T J</forename><surname>Terlien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ITC</title>
+		<imprint>
+			<biblScope unit="page">32</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corpocaldas</forename></persName>
+		</author>
+		<ptr target="http://cdiac.manizales.unal.edu.co/" />
+		<title level="m">CDIAC -Centro de Datos e indicadores ambientales de Caldas</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Global survey of early warning systems</title>
+		<ptr target="http://www.unisdr.org/2006/" />
+	</analytic>
+	<monogr>
+		<title level="m">A Report Prepared At the Request of the Secretary-General of the United Nations</title>
+		<imprint>
+			<publisher>UN</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Informe final: estimación de umbrales preliminares para la activación del SAT para las cuencas Quebrada El Guamo</title>
+	</analytic>
+	<monogr>
+		<title level="j">Olivares y Manizales. INSTITUTO DE ESTUDIOS AMBIENTALES -IDEA</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>UNAL</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Informe Consolidado Proyecto Centro de Monitoreo para La Gestión del Riesgo de Manizales</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Alcaldía de Manizales</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<ptr target="https://www.eurasia.undp.org/content/dam/rbec/docs/UNDP%20" />
+		<title level="m">Five Approaches to Build Functional Early Warning Systems. United Nations Development Programme</title>
+		<imprint>
+			<publisher>UNDP</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Brochure%20Early%20Warning%20Systems.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Report of the Open-Ended Intergovernmental Expert Working Group On Indicators and Terminology Relating to Disaster Risk Reduction</title>
+		<ptr target="https://www.unisdr.org/we/inform/publications/51748" />
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>UNDRR</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Parameter extrapolation to ungauged basins with a hydrological distributed model in a regional framework</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Puricelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>López Unzu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francés</surname></persName>
+		</author>
+		<idno type="DOI">10.5194/hess-13-229-2009</idno>
+		<ptr target="https://doi.org/10.5194/hess-13-229-2009" />
+	</analytic>
+	<monogr>
+		<title level="j">Hydrol. Earth Syst. Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="229" to="246" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Red De Monitoreo Climático Para Dar Apoyo a la</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Duque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mejía</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Orozco</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Prevención y Atención de Desastres en Manizales</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">TETIS: a catchment hydrological distributed conceptual model</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vélez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys. Res. Abstr</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">3503</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Modelo Distribuido Para La Simulación Hidrológica De Crecidas En Grandes Cuencas. XX Congreso Latinoamericano de Hidráulica</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Vélez</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>La Habana, Cuba</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">&amp;</forename><surname>Wmo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Undrr</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-98989-7</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-98989-7" />
+		<title level="m">Towards the &quot;Perfect&quot; Weather Warning. Bridging Disciplinary Gaps through Partnership and Communication</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Golding</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">&amp;</forename><surname>Wmo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Undrr</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-98989-7</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-98989-7" />
+		<title level="m">Towards the &quot;Perfect&quot; Weather Warning. Bridging Disciplinary Gaps through Partnership and Communication</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Golding</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><surname>Wmo</surname></persName>
+		</author>
+		<ptr target="https://library.wmo.int/doc_num.php?explnum_id=4687" />
+		<title level="m">Guidelines on Communicating Forecast Uncertainty. World Meteorological Organisation</title>
+		<meeting><address><addrLine>Geneva, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Guidelines on Early Warning Systems and Application of Nowcasting and Warning Operations</title>
+		<author>
+			<persName><surname>Wmo</surname></persName>
+		</author>
+		<ptr target="https://library.wmo.int/doc_num.php?explnum_id=9456" />
+		<imprint>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>WMO</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><surname>Wmo</surname></persName>
+		</author>
+		<title level="m">Manual on Flood Forecasting and Warning</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<author>
+			<persName><surname>Wmo</surname></persName>
+		</author>
+		<ptr target="https://library.wmo.int/doc_num.php?explnum_id=10385" />
+		<title level="m">State of Climate Services: Move from Early Warnings to Early Action</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>WMO</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">WMO Atlas of mortality and economic losses from weather, climate and water extremes</title>
+		<author>
+			<persName><surname>Wmo</surname></persName>
+		</author>
+		<ptr target="https://library.wmo.int/index.php" />
+	</analytic>
+	<monogr>
+		<title level="m">? lvl=notice_display&amp;id=21930#.ZGSyzy8Rpm</title>
+		<imprint>
+			<publisher>WMO-No</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="1970" to="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Sistema De Información Ambiental Departamento De Caldas</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Delgado Trujillo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia Sede Manizales</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Short-term temperature variability in a tropical Andean city Manizales</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez Upegui</surname></persName>
+		</author>
+		<idno type="DOI">10.14483/2322939X.17091</idno>
+		<ptr target="https://doi.org/10.14483/2322939X.17091" />
+	</analytic>
+	<monogr>
+		<title level="j">Colombia. Rev. Vínculos</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="139" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Performance assessment of indicators of a multi-hazards early warning system in an urban mountain region</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano Nájera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Luna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez Upegui</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2024.104767</idno>
+		<ptr target="https://doi.org/10.1016/j.ijdrr.2024.104767" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Reduct</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<date type="published" when="2024">2024. 104767</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">Drenaje Urbano en Colombia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zambrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Vélez Upegui</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Recent advances in pluvial flash flood forecasting</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zanchetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Coulibaly</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w12020570</idno>
+		<ptr target="https://doi.org/10.3390/w12020570" />
+	</analytic>
+	<monogr>
+		<title level="j">Water</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">570</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

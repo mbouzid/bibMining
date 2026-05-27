@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">GIS-Based Evaluation of Mining-Induced Water-Related Hazards in Pakistan and Integrated Risk Mitigation Strategies</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-06-27">27 June 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jiang</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhuoying</forename><surname>Tan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aboubakar</forename><surname>Siddique</surname></persName>
+							<idno type="ORCID">0009-0004-2945-5321</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hilal</forename><surname>Ahmad</surname></persName>
+							<idno type="ORCID">0009-0004-2945-5321</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wajid</forename><surname>Rashid</surname></persName>
+							<idno type="ORCID">0000-0002-3003-4805</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Environmental &amp; Conservation Sciences</orgName>
+								<orgName type="institution">University of Swat</orgName>
+								<address>
+									<postCode>19130</postCode>
+									<settlement>Mingora</settlement>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jianshu</forename><surname>Liu</surname></persName>
+							<idno type="ORCID">0000-0002-3003-4805</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yinglin</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">GIS-Based Evaluation of Mining-Induced Water-Related Hazards in Pakistan and Integrated Risk Mitigation Strategies</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2025-06-27">27 June 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8C45CD0B74F15F3834C602F99A3CBCA9</idno>
+					<idno type="DOI">10.3390/w17131914</idno>
+					<note type="submission">Received: 4 June 2025 Revised: 22 June 2025 Accepted: 25 June 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>inclusive disaster risk reduction (IDRR)</term>
+					<term>water-related hazards</term>
+					<term>communitybased approaches</term>
+					<term>local governance</term>
+					<term>water resource vulnerability</term>
+					<term>GIS-based spatial risk mapping</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Mining activities in Pakistan's mineral-rich provinces threaten freshwater security through groundwater depletion, contamination, and flood-induced pollution. This study develops an Inclusive Disaster Risk Reduction (IDRR) framework integrating governance, social, environmental, and technical (GSET) dimensions to holistically assess mining-induced water hazards across Balochistan, Khyber Pakhtunkhwa, and Punjab. Using GIS-based spatial risk mapping with multi-layer hydrological modeling, we combine computational analysis and participatory validation to identify vulnerability hotspots and prioritize high-risk mines. Community workshops involving women water collectors, indigenous leaders, and local experts enhanced map accuracy by translating indigenous knowledge into spatially referenced mitigation plans and integrating gender-sensitive metrics to address gendered water access disparities. Key findings reveal severe groundwater depletion, acid mine drainage, and gendered burdens near Saindak and Cherat mines. Multi-sectoral engagements secured corporate commitments for water stewardship and policy advances in inclusive governance. The framework employs four priority-ranked risk categories (Governance-Economic 15%, Social-Community 30%, Environmental 40%, Technical-Geological 15%) derived via local stakeholder collaboration, enabling context-specific interventions. Despite data limitations, the GIS-driven methodology provides a scalable model for regions facing socio-environmental vulnerabilities. The results demonstrate how community participation directly shaped village-level water management alongside GSET analysis to craft equitable risk reduction strategies. Spatially explicit risk maps guided infrastructure upgrades and zoning regulations, advancing SDG 6 and 13 progress in Pakistan. This work underscores the value of inclusive, weighted frameworks for sustainable mining-water nexus management in Pakistan and analogous contexts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Mining operations in Pakistan's mineral-rich provinces, Balochistan's copper-gold belts, Khyber Pakhtunkhwa's chromite reserves, and Punjab's coal-gypsum formations intensify hydrological hazards that threaten water security across a region supporting over 3 million residents <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. These activities drive aquifer depletion, heavy metal contamination, and flood-amplified pollution in critical watersheds like the Indus River tributaries and Quetta Valley groundwater systems <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr">[6]</ref>. Climate change exacerbates these pressures through erratic monsoon patterns and prolonged droughts, creating compound risks where economic dependence on mining (contributing 2.4% to GDP) conflicts with environmental sustainability <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. As mineral extraction expands, the degradation of freshwater resources vital for drinking, irrigation (1.3 million hectares), and cultural practices demands integrated risk governance frameworks that dismantle sectoral silos <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>.</p><p>Empirical evidence reveals alarming hazard severity: groundwater tables in Chagai's copper zones decline by 1.5-3 m annually, arsenic in Balochistan's Dasht River exceeds WHO limits by ninefold, and 2022 monsoon floods mobilized 12,000 tons of mining waste into Indus tributaries <ref type="bibr" target="#b10">[11]</ref><ref type="bibr">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. These physical threats intersect with acute socio-ecological vulnerabilities. In total, 41% of Salt Range farmers report salinity-induced crop failures, women spend 4.7 h daily collecting water due to contaminated local sources, and Baloch tribes document irreversible damage to sacred springs <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. Such multi-dimensional impacts underscore the inadequacy of siloed technical assessments that ignore how hydrological risks cascade through social systems <ref type="bibr" target="#b15">[16]</ref>.</p><p>Conventional hazard evaluations in Pakistan remain fragmented across governance, technical, and spatial dimensions. Governance failures, such as 67% of mine noncompliance with environmental standards, stem from disjointed oversight by federal and provincial agencies and the exclusion of local communities from monitoring <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>. Technical models historically neglect gendered exposure pathways and indigenous knowledge of land-water interdependencies (particularly given Pakistan's ranking among the top 10 climate-vulnerable nations, where water stress threatens 78% of mining districts) <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>, while static risk ratings lack granularity to map contamination corridors. This systemic fragmentation, rooted in sectoral silos where environmental agencies prioritize geological risks and social ministries focus on compensation, has perpetuated policy failures, such as allocating 84% of Punjab's 2022 flood recovery funds to dam repairs while neglecting water quality restoration <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref>. The resulting policies address symptoms but ignore root causes like gendered toxin exposure and indigenous land dispossession.</p><p>Traditional Disaster Risk Reduction (DRR) frameworks exacerbate these gaps by prioritizing technical-geological risks while marginalizing governance and social equity <ref type="bibr">[27,</ref><ref type="bibr" target="#b27">28]</ref>. A meta-analysis of 35 peer-reviewed DRR studies in South Asian mining regions reveals only 11% incorporated gender-disaggregated data and fewer than 15% engaged indigenous communities, a pattern that amplifies vulnerabilities in marginalized groups <ref type="bibr" target="#b28">[29]</ref>. In response, the Inclusive Disaster Risk Reduction (IDRR) framework integrates four dimensions to directly address these deficiencies: (1) participatory governance (co-designing risk metrics with women and indigenous leaders) <ref type="bibr" target="#b29">[30]</ref>, (2) socio-cultural vulnerability mapping, (3) environmental thresholds for contamination/scarcity, and (4) technical-geological evaluations of aquifer vulnerability <ref type="bibr" target="#b30">[31]</ref>. Unlike conventional DRR, IDRR links hydrological risks to livelihood impacts and employs GIS-driven spatial prioritization to align interventions with community needs <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref>, ensuring policies address the root causes of water insecurity.</p><p>Building upon this integrative framework, this study employs GIS-based spatial risk mapping to synthesize field surveys, remote sensing, and participatory community inputs <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. Geographic Information Systems (GISs) enable visualization and analysis of spatial patterns by synthesizing diverse datasets such as field surveys, remote sensing imagery, and hydrological models <ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref>. This spatial approach facilitates the identification of critical hotspots, including water scarcity corridors, contamination zones, and governance deficits within mining-affected districts. The literature demonstrates that GISbased risk mapping enhances disaster preparedness and management by enabling layering of social, environmental, and technical data to produce actionable risk heatmaps <ref type="bibr" target="#b40">[41]</ref>. Moreover, GISs facilitate participatory mapping processes, allowing local knowledge to be integrated into formal assessments, which improves the legitimacy and relevance of risk interventions <ref type="bibr" target="#b41">[42]</ref>. GIS spatial risk mapping is a vital innovation that operationalizes the holistic, multidisciplinary IDRR framework, providing a scientific and practical platform for targeted disaster risk reduction beyond conventional isolated assessments <ref type="bibr" target="#b42">[43]</ref>.</p><p>The study's objectives are threefold: (1) develop targeted Inclusive Disaster Risk Reduction (IDRR) interventions by integrating spatial risk maps with local governance and capacity assessments to enhance resilience and mitigate hazards; (2) quantify spatial risk hierarchies across Pakistan's mining areas using GIS-generated vulnerability indices;</p><p>(3) develop risk validation and mitigation strategies through community workshops. This approach moves beyond theoretical DRR models to deliver actionable intelligence, such as prioritizing seismic retrofitting of tailings dams in Khyber Pakhtunkhwa or gender-responsive water filtration programs in Balochistan. The study advances SDG 6 (clean water) by demonstrating how gender-responsive filtration programs in Balochistan, co-designed with female water stewardship committees, reduce arsenic exposure for 22,000 households (SDG 6.1) and supports SDG 13 (climate action) through flood-resilient drainage upgrades in Saindak's copper belt, which cut mining waste mobilization during monsoons by 40% (SDG 13.1). By embedding indigenous water-sharing practices into governance frameworks and prioritizing risk corridors as resilience hubs, the findings operationalize SDG linkages, turning contamination maps into infrastructure plans and spatial risk data into climate adaptation budgets, thus bridging mineral extraction with measurable water security outcomes. By integrating community knowledge into a spatial framework, this model advances sustainable mining governance in Pakistan and offers a transferable approach for resource-dependent regions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study Area</head><p>This research focuses on active mining regions across Pakistan's three major mineral provinces--Balochistan (Saindak, Reko Diq copper-gold belts), Khyber Pakhtunkhwa (chromite mines in Bajaur, coal fields in Cherat), and Punjab (Salt Range coal-gypsum formations)--as shown in Figure <ref type="figure" target="#fig_0">1</ref>. These sites were prioritized based on documented water-related hazards impacting critical freshwater sources, including the Indus River tributaries (Zhob, Dasht, Hingol rivers), the Quetta Valley aquifer, and agricultural watersheds in Punjab. The selection criteria targeted mines where operational activities (waste rock disposal, tailings management, dewatering) directly threaten hydrological systems through (1) scarcity drivers (aquifer depletion in water-stressed zones like Chagai), (2) contamination pathways (acid mine drainage into the Mula River basin), and (3) flood vulnerabilities (sediment loading in seasonal nullahs of Koh-e-Suleman). Regions with high community dependence on affected water sources for drinking (&gt;2 million residents) and irrigation (1.3 million hectares of farmland) were emphasized to align with the study's inclusive disaster risk reduction framework. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Methodological Overview</head><p>This research develops a comprehensive Inclusive Disaster Risk Reduction (IDRR) framework to evaluate water-related hazards from mining operations across Pakistan's critical mineral regions. The methodology integrates IDRR with geospatial risk mapping across four contextual dimensions: Governance-Economic factors (policy enforcement efficiency, economic dependence on water resources), Social-Community dynamics (genderdisaggregated water access, traditional ecological knowledge), Environmental indicators (water scarcity thresholds, contamination susceptibility), and Technical-Geological parameters (mine stability, aquifer vulnerability), as shown in Figure <ref type="figure" target="#fig_1">2</ref>. Designed for Pakistan's high-risk mining landscapes, this approach prioritizes regions where extraction activities directly threaten freshwater security, particularly copper-gold belts in Balochistan (Saindak, Reko Diq), coal fields in Khyber Pakhtunkhwa (Cherat), and gypsum formations in Punjab's Salt Range, where operational hazards impact Indus River tributaries and agricultural watersheds serving over 3 million residents.</p><p>The assessment executes a five-phase IDRR-aligned workflow. First, contextual threshold definition establishes Pakistan-specific hazard benchmarks through expert consultation and hydrological literature, setting parameters like &gt;40% annual groundwater depletion as "Critical" risk. Second, participatory indicator co-development engages mining communities through gender-segregated focus groups. Third, IDRR implementation derives dimension weights via pairwise stakeholder comparisons, then computes mine hazard rankings. Fourth, geospatial analysis integrates field data with satellite-derived indices to generate risk heatmaps identifying scarcity corridors and contamination hotspots. Finally, community-based validation employs participatory mapping sessions to calibrate risk ratings using local ecological knowledge, ensuring ground-truth alignment with vulnerability patterns across Pakistan's mining districts. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">IDRR Framework Development (GSET Dimensions)</head><p>The Inclusive Disaster Risk Reduction (IDRR) framework was developed as a holistic and multi-dimensional approach to evaluate water-related hazards from mining activities across Pakistan's critical mineral provinces, specifically Balochistan, Khyber Pakhtunkhwa, and Punjab <ref type="bibr" target="#b43">[44,</ref><ref type="bibr" target="#b44">45]</ref>. This framework integrates four interconnected dimensions, Governance-Economic, Social-Community, Environmental, and Technical-Geological (GSET), that collectively capture the complex socio-environmental and technical dynamics of mining-induced water risks <ref type="bibr" target="#b45">[46]</ref>. The suitability of the IDRR framework for this study stems from its ability to encompass diverse yet interrelated factors influencing hazard severity and vulnerability, moving beyond siloed assessments toward a comprehensive and inclusive risk perspective <ref type="bibr" target="#b46">[47]</ref>. The GSET dimensions interact dynamically through cascading risk pathways: governance gaps exacerbate environmental degradation (AMD contamination), which disproportionately burdens social groups (women's extended water collection time). This cross-dimensional integration is operationalized through feedback loops, where technical vulnerabilities (aquifer depletion) trigger governance responses (policy reforms), creating a systemic risk assessment structure. The framework explicitly models these interactions using spatial interdependencies quantified in GIS overlays, ensuring holistic hazard evaluation beyond siloed dimensions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GSET Dimensions</head><p>• The Governance-Economic dimension evaluates regulatory enforcement, compensation mechanisms, political influences, and economic dependence on mining, recognizing that policy effectiveness and governance capacity strongly impact water protection measures. • The Social-Community dimension highlights gender-differentiated burdens, indigenous rights, livelihood vulnerabilities, and health impacts, reflecting the socio-cultural intricacies of water access and exposure to mining hazards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>Environmental factors include groundwater depletion, acid mine drainage severity, water scarcity, and biodiversity loss, all crucial in understanding ecological vulnerability and water resource degradation. • The Technical-Geological dimension focuses on aquifer vulnerability, tailings dam stability, and hydrogeological complexity, addressing the physical and geotechnical risks inherent to mining landscapes. Table <ref type="table" target="#tab_0">1</ref> summarizes these four dimensions and their key aspects, along with sources and severity remarks, serving as the foundational structure for the risk assessment. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GSP, 2024</head><p>Each aspect was prioritized using a Relevance Index (RI), exemplified by groundwater depletion with an RI of 8.7, underscoring its critical role in the overall hazard profile. This integrative framework thus sets the stage for detailed spatial risk quantification and mapping tailored to Pakistan's mining context.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RI =</head><p>Number of source citations × Severity score 10 (1)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Indicator Selection and Quantification</head><p>Indicator Selection Protocol</p><p>Indicator selection followed a systematic process beginning with a literature screening of over fifty potential indicators from peer-reviewed journals and databases. A Delphi expert panel evaluated their relevance, retaining those with an average rating ≥4.2. Community-based focus groups refined gender-sensitive metrics like the Indigenous Sacred Site Disruption Index. Indicators were quantified using various methods, such as Acid Mine Drainage (AMD) severity, calculated by normalizing pollutant concentrations against WHO standards. Table <ref type="table" target="#tab_2">2</ref> lists the finalized indicators for each GSET dimension, detailing their sources, scales, and geographic applicability, ensuring that the indicators are both scientifically robust and locally relevant.</p><p>• Acid Mine Drainage (AMD) Severity:</p><formula xml:id="formula_0">CI = ∑ C i S i × 1 n<label>(2)</label></formula><p>where C i = concentration of pollutant i (As, Cr) and S i = WHO standard.</p><p>• Grievance Redressal Effectiveness: </p><formula xml:id="formula_1">Effectiveness (%) = Resolved cases Total cases × 100<label>(3)</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Data Processing and Normalization</head><p>Data were sourced from international and national reports, including WHO health statistics, Pak-EPA mining compliance records, and World Bank water assessments. Geographic data on mining sites and local water bodies were integrated to calculate risk scores for each of the 159 districts in Pakistan, reflecting mining impacts on water resources. These data were normalized to a 1-5 risk scale based on quality, spatial resolution, and gender/community sensitivity. This normalization ensured consistent risk evaluation across diverse datasets, as detailed in Table <ref type="table" target="#tab_4">3</ref>. The final risk scores for each district were derived by aggregating the scores from the four dimensions, providing a comprehensive risk profile for each region. Community-sourced data underwent rigorous validation against scientific measurements to ensure reliability. Indigenous knowledge of contamination patterns and gender-disaggregated data were cross-verified from field sensors. Discrepancies &gt;15%, such as community-reported AMD severity vs. spectrometer results, triggered joint field investigations with hydrologists and tribal elders to reconcile differences through terrain walkthroughs and repeat sampling. This protocol maintained contextual richness while anchoring subjective insights to quantifiable physical evidence. Spatial risk mapping utilized a GIS workflow to create risk maps for all 20 main aspects of the context across the four GSET dimensions. Each dimension was weighted based on its relative importance-Environmental (40%), Social (30%), Governance (15%), and Technical (15%)-and aggregated to produce a total risk map. Kernel density estimation and overlay techniques were used to map judicial conflict hotspots and vulnerability corridors. Table <ref type="table" target="#tab_5">4</ref> presents the final composite risk map, highlighting contamination zones and water scarcity corridors. This mapping approach facilitates targeted interventions by identifying high-risk areas based on both technical and socio-environmental factors.</p><formula xml:id="formula_2">Total Risk = ∑ (W i × R i ) (4)</formula><p>where W i = weight of dimension i and R i = risk score. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Community Validation</head><p>Community validation ensured the accuracy and relevance of the risk maps by engaging local stakeholders through participatory workshops. These workshops, conducted with women water collectors, indigenous leaders, and farmers, helped ground-truth the water scarcity and contamination maps (Table <ref type="table" target="#tab_6">5</ref>). Focus Group Discussions (FGDs) validated gender-sensitive metrics, such as women's water collection time. A table in the discussion part summarizes the workshop details and outputs, including calibrated risk maps and community-endorsed water access metrics. This process enhanced the legitimacy of the IDRR framework by incorporating local ecological knowledge and ensuring community involvement in risk assessment. Potential recall bias in community knowledge was mitigated through temporal triangulation: only observations corroborated by ≥3 independent informants within a 5-year timeframe were integrated into risk maps. For instance, women's accounts of postpartum arsenicosis spikes were validated against clinic records, while elders' flood-impact memories required alignment with satellite erosion signatures. Unverifiable anecdotal claims were excluded. This approach leveraged local expertise while minimizing subjectivity in spatial risk scoring. Workshops engaged different participants across different sessions in all study regions: Balochistan (52% female), Khyber Pakhtunkhwa (55% female), and Punjab (50% female). Participants included women water collectors (40%), indigenous leaders (25%), farmers (20%), and local experts (15%), with proportional representation from mining-affected communities near Saindak (Balochistan), Cherat (KPK), and Salt Range (Punjab). This ensured geographical and demographic coverage while maintaining a minimum 1:1 gender ratio across all sites. Risk weighting integrated the four IDRR dimensions with specific indicator weights to generate a composite risk profile. The Environmental dimension was given the highest weight (40%), followed by Social (30%), Governance (15%), and Technical (15%). For example, within Governance, mine effluent compliance had a 40% weight, while women's water collection time carried a 40% weight within the social dimension. The next table outlines the weighting structure, which ensures that the most critical risk factors are prioritized. The weighted scores were then combined to produce the final risk map, which serves as a foundation for targeted risk reduction interventions and informs policymaking. The GSET weights for the dimensions were determined through a two-stage stakeholder consensus process. In Stage 1, experts, including hydrologists, gender specialists, and mining engineers, conducted pairwise comparisons using the Analytic Hierarchy Process (AHP). Stage 2 involved community prioritization workshops where villagers allocated risk 'votes' through participatory budgeting. Sensitivity analysis confirmed the stability of the resulting rankings. Potential biases from stakeholder consensus were mitigated through stratified facilitation: community workshops were conducted separately for marginalized groups (women, indigenous leaders) before integrating corporate/government perspectives. Power imbalances were quantified using divergence metrics, with final weights adjusted through blind facilitator arbitration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The results section presents the comprehensive outcomes of the Integrated Disaster Risk Reduction (IDRR) framework applied to mining-induced water hazards in Pakistan. Spatial risk mapping and quantitative assessments reveal critical patterns in hazard distribution, vulnerability corridors, and site-specific risks across Balochistan, Khyber Pakhtunkhwa (KPK), and Punjab. The following subsections detail the weighting of risk dimensions, spatial risk distributions, and identification of high-priority mining sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Weighting of Risk Dimensions and Indicators</head><p>The GSET risk framework assigned distinct weights to the Governance-Economic (15%), Social-Community (30%), Environmental (40%), and Technical-Geological (15%) dimensions, reflecting their relative contributions to water-related hazards (Table <ref type="table" target="#tab_8">6</ref>). Environmental risks dominated the weighting (40%) due to the acute impacts of groundwater depletion, acid mine drainage (AMD), and flood pollution on regional water security. Within this dimension, water scarcity (35%) and groundwater depletion (35%) were prioritized, underscoring their severity in mining districts like Chagai, where aquifers decline by 1.5-3 m annually. Social-Community risks (30%) emphasized gender disparities, with women's water collection time (40%) and indigenous sacred site disruption (25%) as key indicators. These metrics quantified disproportionate burdens, such as Baloch women spending 4.7 h daily collecting water. Governance-Economic risks (15%) focused on regulatory failures, where mine effluent compliance (40%) highlighted pervasive non-compliance (67% of mines exceeded National Environmental Quality Standards). Technical-Geological risks (15%) prioritized aquifer vulnerability (35%) and tailings instability (30%), critical in seismic zones like KPK.  The indicator-level weights (Table <ref type="table" target="#tab_8">6</ref>) further delineated localized vulnerabilities. For instance, AMD severity (15% of environmental weight) incorporated pH and heavy metal concentrations (e.g., arsenic in Balochistan's Dasht River at 9× WHO limits). Similarly, gender water burden (40% of social weight) was quantified via village-level surveys, revealing union councils in Saindak as extreme-risk zones. This weighting system enabled granular risk scoring across 159 districts, establishing a hierarchy of interventions-from policy enforcement in governance-deficient areas to technical upgrades in geologically unstable mines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Spatial Risk Distribution and Critical Mine Identification</head><p>GIS-based spatial risk mapping identified high-risk corridors and hotspots across Pakistan's mining regions. The following figures illustrate the distribution of risks across the four GSET dimensions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>1.</head><p>Governance-Economic and Social-Community Risk Patterns Figure <ref type="figure" target="#fig_2">3</ref> presents the spatial distribution of Governance-Economic and Social-Community risks across Pakistan's mining regions. The Governance-Economic risk map (Figure <ref type="figure" target="#fig_2">3A</ref>) and its subcomponents (A1-A5) highlight regulatory enforcement deficits, particularly in Balochistan (A1), where 67% of mines are non-compliant with National Environmental Quality Standards. The Social-Community risk map (Figure <ref type="figure" target="#fig_2">3B</ref>) reveals gender water burden hotspots in Khyber Pakhtunkhwa's chromite-mining districts (B1), with women spending up to 4.7 h daily collecting water. Additionally, social conflicts (B5) are concentrated in Punjab's Salt Range, corresponding to 58 active judicial cases related to mining-induced water contamination. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>Environmental and Technical-Geological Risk Patterns Figure <ref type="figure" target="#fig_3">4</ref> illustrates Environmental and Technical-Geological risk patterns. The Environmental risk map (Figure <ref type="figure" target="#fig_3">4A</ref>) shows extreme water scarcity and contamination in Balochistan, where 78% of mining districts experience groundwater depletion and acid mine drainage (AMD) severity. Sub-indicators identify flood pollution hotspots in Koh-e-Suleman (a4), where monsoon floods mobilized 12,000 tons of mining waste in 2022. The Technical-Geological risk map (Figure <ref type="figure" target="#fig_3">4B</ref>) indicates tailings instability in Reko Diq (b2), with 60% of dams lacking seismic reinforcement despite Zone 4 earthquake risks. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Synthesis of Total Risk</head><p>Figure <ref type="figure" target="#fig_4">5</ref> synthesizes the four risk dimensions into a total risk map, identifying extremerisk zones for targeted intervention. Overlaying governance, social, environmental, and technical risk scores reveals that Saindak (Balochistan) and Cherat (Khyber Pakhtunkhwa) are critical hotspots due to compounded vulnerabilities, including regulatory gaps, gender burdens, water scarcity, and tailings instability. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.1.">Total Risk Scores and Critical Mine Identification</head><p>The integrated risk scores prioritized mining sites requiring immediate intervention based on the compounded GSET risks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.2.">Critical Mine Risk Ranking</head><p>Table <ref type="table" target="#tab_10">7</ref> ranks Pakistan's top 10 critical mines based on integrated risk scores (summarized from Table <ref type="table" target="#tab_8">6</ref> weights). Saindak Copper-Gold (Balochistan) scores 20/20 (Critical) due to chromium contamination, aquifer depletion, and crop toxicity. Duddar Lead-Zinc (Balochistan) scores 18/20 (Critical), with lead levels 45 times above WHO limits. Reko Diq (Balochistan) and Cherat Coal (KPK) both score 17/20 (Critical), linked to sulfate enrichment and canal sedimentation, respectively. Lower-scoring sites like Chagai Silica Sand (15/20) face technical vulnerabilities such as salinization (TDS &gt; 4200 mg/L).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Community Workshops</head><p>Community and stakeholder workshops were vital for validating water risk maps and shaping mitigation strategies. Participants included women water collectors, indigenous leaders, farmers, hydrologists, mining engineers, policymakers, and health experts. Outcomes included calibrated risk maps, women-led monitoring protocols in 45 miningadjacent villages, corporate pledges to reduce groundwater extraction, and AI-based contamination monitoring as shown in Table <ref type="table" target="#tab_12">8</ref>. Policy dialogues advanced aquifer protection with gender-inclusive governance, while technical pilots trained 120 community members in GIS hazard mapping and flood warnings. Health interventions deployed mobile clinics and heavy metal screening to address arsenicosis. These workshops ensured community knowledge integration, inclusive participation, and multi-sectoral commitments for sustainable water management in Pakistan's mining regions.  The results provide a comprehensive assessment of mining-induced water hazards in Pakistan by integrating spatial risk mapping, community validation, and multi-dimensional risk weighting across governance, social, environmental, and technical factors. Key hotspots and vulnerable groups were identified, with critical mines prioritized for intervention. Community workshops reinforced the validity of risk maps and promoted inclusive mitigation strategies involving local stakeholders, industry, and policymakers. These findings establish a strong foundation for targeted water risk management in mining regions. The following Discussion further interprets these results, considering their broader implications for policy and sustainable disaster risk reduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This study advances the application of an Inclusive Disaster Risk Reduction (IDRR) framework through its novel integration of governance, social, environmental, and technical (GSET) dimensions, offering a systemic evaluation of mining-induced water hazards in Pakistan's mineral provinces. Spatial risk mapping via GIS identified acute groundwater depletion (1.5-3 m/year in Balochistan's copper zones) and acid mine drainage, correlating with field-validated contamination corridors in 78% of mining districts <ref type="bibr" target="#b49">[50,</ref><ref type="bibr" target="#b50">51]</ref>. GSET weighting (Governance-Economic 15%, Social-Community 30%, Environmental 40%, Technical-Geological 15%) revealed that environmental degradation synergistically amplifies socio-cultural vulnerabilities, exemplified by gendered water collection burdens intersecting with aquifer depletion in Saindak. These findings align with the IDRR methodology's emphasis on transcending sectoral silos, demonstrating how hydrogeological instability (e.g., 60% seismically noncompliant tailings dams) accelerates livelihood losses (41% crop failure in Punjab's Salt Range), necessitating multi-dimensional interventions.</p><p>The framework critically contextualizes hazards: groundwater depletion is exacerbated by governance failures and technical deficiencies (over-reliance on evaporation ponds), creating gendered burdens where women's water collection time increases during dry seasons. Acid mine drainage severity is amplified by environmental-social cascades, floods mobilize toxins into indigenous fishing grounds, disrupting livelihoods and sacred practices. This systems analysis reveals that hazards cannot be siloed; aquifer collapse in Chagai demands simultaneous technical (aquifer recharge), governance (extraction quotas), and social (gender-responsive filtration) interventions.</p><p>Participatory validation through 12 community workshops recalibrated risk indices by integrating indigenous hydrological knowledge and gender-disaggregated exposure data, resolving discrepancies in 35% of GIS-derived vulnerability zones <ref type="bibr" target="#b51">[52]</ref>. Women water collectors provided granular insights into seasonal arsenicosis spikes, refining the social-community risk weighting. Collaborative design of monitoring protocols, such as IoT-enabled pH sensors for AMD tracking and women-led groundwater stewardship committees, operationalized the IDRR framework's emphasis on equity. Concurrently, stakeholder engagement secured binding commitments from 67% of surveyed mines to reduce extraction rates by 30%, aligning technical mitigation with policy reforms like gender-inclusive water quotas. Incorporating indigenous knowledge faced institutional resistance: tribal flood-prediction methods were initially rejected by 60% of provincial engineers as "non-scientific," while women's water allocation proposals conflicted with patriarchal land titles. These tensions were mitigated through co-governance platforms where elders hold veto power on sacred-zone mining permits and gender quotas in water committees ensure that feminist epistemologies shape formal policy.</p><p>Implementation of the 30% extraction reduction is enforced through three integrated mechanisms: (1) IoT-enabled smart water meters installed at mine dewatering points, transmitting real-time usage to regulatory dashboards monitored by Pak-EPA; (2) corporate water stewardship contracts linking mining licenses to annual third-party audits; and (3) community-led monitoring protocols where women's groups verify groundwater restoration using simplified piezometers. These measures operationalize commitments through technological transparency, market incentives, and participatory accountability, particularly in high-risk zones like Chagai's copper belt, where aquifer depletion exceeds annually. Workshops directly translated community inputs into measurable mitigation: women-led monitoring protocols reduced arsenic exposure for 22,000 households in Saindak, while indigenous erosion techniques validated in Cherat workshops decreased sediment loading. However, corporate adoption gaps persisted; only 45% of pledged water stewardship actions were implemented within 12 months, highlighting the need for binding enforcement. This demonstrates workshops' efficacy in local risk reduction but underscores institutional barriers to scaling. Fulfillment likelihood remains precarious without enforcement teeth: the preliminary data show that only 52% of mines adhered to extraction quotas, as weak penalty structures incentivize non-compliance. Binding arbitration clauses in stewardship contracts and community-led litigation prove more effective than voluntary pledges alone.</p><p>The methodological synergy of GIS-based quantitative mapping (kernel density analysis, 0.5-2 km spatial precision) and qualitative validation established a replicable model for resource-dependent regions, prioritizing high-impact interventions in critical mines. Stakeholder-derived GSET weightings ensured context specificity, with environmental risks (40% weighting) dominating due to aquifer vulnerability and flood-driven waste mobilization. However, temporal data gaps in groundwater quality monitoring and inconsistent regulatory enforcement highlight the need for AI-augmented compliance tracking and institutional capacity building, as outlined in the methodology's adaptive governance pillar. Risk maps are operationalized through three pathways: (1) dynamic updates via satellite-derived water stress indices and community contamination reports fed quarterly into Pak-EPA dashboards; (2) mining license conditionalities that mandate infrastructure upgrades in "extreme-risk" zones; and (3) fiscal prioritization, where 65% of Punjab's 2025 water security budget targets GIS-identified scarcity corridors. This ensures that maps evolve with climatic shifts and directly inform permitting, zoning, and disaster funding. These insights provide a roadmap for scaling the IDRR-GSET framework to advance the SDG 6 and 13 targets in Pakistan. Future applications could integrate machine learning for dynamic risk forecasting while expanding community-led monitoring networks to 45 additional villages. By embedding gender-responsive metrics into national mining policies and leveraging IoT-AI fusion for real-time hazard alerts, this approach transforms risk assessments into resilience-building processes. The study thus bridges the gap between technical assessments and socio-environmental justice, demonstrating that inclusive, weighted frameworks are pivotal for balancing mineral extraction with intergenerational water security in geologically complex, equity-critical regions. While the IDRR framework offers systemic risk reduction, practical limitations include data gaps in conflict-affected Balochistan, institutional fragmentation delaying GIS map updates, and corporate resistance to third-party audits. These constraints highlight the need for adaptive funding mechanisms and stronger enforcement alliances between communities and regulators.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>This study pioneers a holistic assessment of mining-induced water hazards in Pakistan's mineral provinces through an Inclusive Disaster Risk Reduction (IDRR) framework that synergizes governance, social, environmental, and technical (GSET) dimensions. By integrating GIS-based spatial risk mapping (weighted 40% environmental, 30% social, 15% governance, 15% technical) with participatory community validation, the research identified critical vulnerability hotspots in Balochistan and Khyber Pakhtunkhwa, prioritizing mines threatening freshwater security through groundwater depletion, acid mine drainage, and gendered water burdens. Practical community impacts are quantified: women's water collection time decreased, correlating with increased girls' school attendance, while crop yields rose in compensated farms near Reko Diq. The inclusion of indigenous ecological knowledge and gender-sensitive metrics, validated through different community workshops, ensured socio-cultural impacts were explicitly addressed, strengthening risk assessment legitimacy.</p><p>Multi-stakeholder engagements yielded actionable pathways, including corporate commitments to reduce groundwater extraction by 30%. These pledges are enforced through IoT-enabled smart meters transmitting real-time data to regulatory dashboards, with third-party audits by WWF-Pakistan triggering license suspensions for noncompliance. The weighted risk framework enabled spatially targeted interventions like IoT-driven AMD monitoring and seismic retrofitting of tailings dams. Concretely, the framework guided Pakistan's 2025 Water Security Action Plan, allocating 65% of mining district budgets to GIS-prioritized aquifer recharge and filtration systems, with 78% adoption of technical recommendations province-wide. Despite data limitations, the methodology demonstrates scalability for resource-dependent regions, aligning with SDGs 6 and 13 through equity-focused risk analysis.</p><p>Applying inclusive governance faces structural barriers: provincial departments resisted tribal water proposals, while corporate lobbying diluted gender quotas in policy drafts. These tensions necessitate legislative reforms like the pending Balochistan Co-Management Act, granting indigenous veto rights on sacred zones. Future efforts should enhance monitoring infrastructure and institutional capacities while expanding community engagement. This holistic approach is essential for balancing mineral development with environmental sustainability and social justice in Pakistan and comparable contexts worldwide.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Study area map showing key mining regions in Pakistan, highlighting the selected mines for this study, along with rivers and significant water bodies.</figDesc><graphic coords="4,44.54,73.36,509.28,371.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Methodological flowchart illustrating the step-by-step process for assessing mining-induced water hazards using the IDRR framework and GIS-based risk mapping.</figDesc><graphic coords="5,63.65,141.87,470.45,446.95" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Water-related risk maps for the mining industry in Pakistan for the following risk categories: (A) total Governance-Economic risk, (B) total Social-Community risk, (A1) regulatory enforcement, (A2) compensation mechanisms, (A3) political influence, (A4) monitoring fragmentation, (A5) economic dependence, (B1) gender water burden, (B2) indigenous rights, (B3) livelihood vulnerability, (B4) health impacts, (B5) water conflicts.</figDesc><graphic coords="16,88.66,153.79,419.02,542.64" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Water-related risk maps for the mining industry in Pakistan for the following risk categories: (A) total Environmental risk, (B) total Technical-Geological risk, (A1) water scarcity, (A2) groundwater depletion, (A3) acid mine drainage, (A4) flood pollution, (A5) biodiversity loss, (B1) aquifer vulnerability, (B2) tailings instability, (B3) hydrogeological complexity, (B4) treatment deficiencies, (B5) landslide risks.</figDesc><graphic coords="17,167.37,200.29,376.70,507.26" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Total risk result map showing the risk zones and top 10 critical mines of Pakistan, highlighting the highest-risk mining sites based on the integrated risk assessment.</figDesc><graphic coords="18,49.36,169.07,496.56,372.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Water-related contextual aspects of mining operations in Pakistan.</figDesc><table><row><cell>GSET Dimension</cell><cell>Main Aspects of the Context</cell><cell>Remarks</cell><cell>Source</cell></row><row><cell></cell><cell></cell><cell>67% of mines are non-compliant</cell><cell></cell></row><row><cell>Governance-Economic</cell><cell>Regulatory Enforcement</cell><cell>with National Environmental Quality Standards (NEQS) for</cell><cell>PCRWR, 2023; Planning Commission, 2022</cell></row><row><cell></cell><cell></cell><cell>effluent discharge [48]</cell><cell></cell></row><row><cell></cell><cell>Compensation Mechanisms</cell><cell>&lt;30% of water-affected communities receive restitution; weak grievance redressal systems</cell><cell>Supreme Court of Pakistan, 2020</cell></row><row><cell></cell><cell></cell><cell>Mining leases granted in</cell><cell></cell></row><row><cell></cell><cell>Political Influence</cell><cell>protected zones (e.g., Indus River</cell><cell>IUCN Pakistan, 2024</cell></row><row><cell></cell><cell></cell><cell>buffer) due to lobbying</cell><cell></cell></row><row><cell></cell><cell>Monitoring Fragmentation</cell><cell>No integrated database for Punjab/Balochistan/KPK groundwater quality across</cell><cell>Pak-EPA, 2022</cell></row><row><cell></cell><cell>Economic Dependence</cell><cell>Mining contributes 2.4% to GDP, creating regulatory leniency in water protection</cell><cell>State Bank of Pakistan, 2023</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Cont.</figDesc><table><row><cell>GSET Dimension</cell><cell>Main Aspects of the Context</cell><cell>Remarks</cell><cell>Source</cell></row><row><cell></cell><cell></cell><cell>Women spend 4.7 h/day</cell><cell></cell></row><row><cell>Social-Community</cell><cell>Gender Water Burden</cell><cell>collecting water due to</cell><cell>PSLM Survey, 2023</cell></row><row><cell></cell><cell></cell><cell>contaminated local sources</cell><cell></cell></row><row><cell></cell><cell>Indigenous Rights</cell><cell>Baloch tribes near Reko Diq experience sacred spring depletion and pasture loss</cell><cell>Amnesty International, 2022</cell></row><row><cell></cell><cell></cell><cell>41% of Salt Range farmers report</cell><cell></cell></row><row><cell></cell><cell>Livelihood Vulnerability</cell><cell>crop failure from</cell><cell>FAO-Pakistan, 2024</cell></row><row><cell></cell><cell></cell><cell>mining-induced salinity</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Arsenicosis prevalence 3.2×</cell><cell></cell></row><row><cell></cell><cell>Health Impacts</cell><cell>higher near mines (12.7% vs. 4.1%</cell><cell>WHO Pakistan, 2023</cell></row><row><cell></cell><cell></cell><cell>national avg)</cell><cell></cell></row><row><cell></cell><cell>Water Conflicts</cell><cell>58 judicial cases filed (2020-2024) over mining contamination of community wells</cell><cell>Law &amp; Justice Commission, 2024</cell></row><row><cell></cell><cell></cell><cell>Groundwater depletion combined</cell><cell></cell></row><row><cell>Environmental</cell><cell>Water Scarcity</cell><cell>with reduced surface flows affects 78% of mining districts; Indus tributaries show 30-40% flow</cell><cell>PCRWR, 2022; ICIMOD, 2021</cell></row><row><cell></cell><cell></cell><cell>reduction during dry seasons</cell><cell></cell></row><row><cell></cell><cell>Groundwater Depletion</cell><cell>Aquifers in Chagai copper zone deplete by 1.5-3 m/year; 120+ wells abandoned</cell><cell>PCRWR, 2022; ICIMOD, 2021</cell></row><row><cell></cell><cell></cell><cell>Dasht River (Balochistan): pH</cell><cell></cell></row><row><cell></cell><cell>Acid Mine Drainage</cell><cell>3.5-5.2, arsenic 9× WHO limits</cell><cell>Pak-EPA, 2023</cell></row><row><cell></cell><cell></cell><cell>(0.45 mg/L)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>2022 monsoon mobilized</cell><cell></cell></row><row><cell></cell><cell>Flood Pollution</cell><cell>12,000 tons of mining waste into</cell><cell>NDMA, 2023</cell></row><row><cell></cell><cell></cell><cell>Indus tributaries</cell><cell></cell></row><row><cell></cell><cell></cell><cell>40% decline in Mahseer fish</cell><cell></cell></row><row><cell></cell><cell>Biodiversity Loss</cell><cell>populations in Chenab River near</cell><cell>WWF-Pakistan, 2024</cell></row><row><cell></cell><cell></cell><cell>chromium mines</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Fractured limestone in Salt Range</cell><cell></cell></row><row><cell>Technical-Geological</cell><cell>Aquifer Vulnerability</cell><cell>transmits contaminants 5× faster</cell><cell>GSP, 2020</cell></row><row><cell></cell><cell></cell><cell>than clay aquifers</cell><cell></cell></row><row><cell></cell><cell></cell><cell>60% of dams lack seismic</cell><cell></cell></row><row><cell></cell><cell>Tailings Instability</cell><cell>reinforcement despite Zone 4</cell><cell>NDMA, 2022</cell></row><row><cell></cell><cell></cell><cell>earthquake risk</cell><cell></cell></row><row><cell></cell><cell>Hydrogeological Complexity</cell><cell>Fold-thrust belts in Balochistan to aquifers accelerate AMD migration</cell><cell>USGS-Pakistan, 2021</cell></row><row><cell></cell><cell>Treatment Deficiencies</cell><cell>73% of mines lack wastewater recycling; rely on evaporation ponds</cell><cell>Ministry of Minerals, 2023</cell></row><row><cell></cell><cell></cell><cell>45 • slopes in KPK chromite mines</cell><cell></cell></row><row><cell></cell><cell>Landslide Risks</cell><cell>trigger sediment loading in Swat</cell><cell></cell></row><row><cell></cell><cell></cell><cell>River headwaters</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>GSET risk framework indicators for water-related mining hazards in Pakistan.</figDesc><table><row><cell>Risk Dimension</cell><cell>Risk Category</cell><cell>Indicator</cell><cell>Description</cell><cell>Reference</cell><cell>Scale</cell></row><row><cell></cell><cell></cell><cell></cell><cell>% mines meeting</cell><cell></cell><cell></cell></row><row><cell>Governance-Economic</cell><cell>Regulatory Enforcement</cell><cell>Mine Effluent Compliance Rate</cell><cell>NEQS for As (&lt;0.05 mg/L), Pb</cell><cell>PCRWR, 2023; Pak-EPA, 2023</cell><cell>Province</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(&lt;0.1 mg/L)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Compensation Mechanisms</cell><cell>Grievance Redressal Effectiveness</cell><cell>% water-within 6 months contamination claims resolved</cell><cell>Law &amp; Justice Commission, 2024</cell><cell>District</cell></row><row><cell></cell><cell></cell><cell></cell><cell>No. of mining</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Political Influence</cell><cell>Protected Zone Mining Leases</cell><cell>leases in legally protected zones</cell><cell>IUCN Pakistan, 2024</cell><cell>River Basin</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(e.g., Indus buffer)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Existence of</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Monitoring Fragmentation</cell><cell>Integrated Database Groundwater</cell><cell>unified quality database (1 groundwater</cell><cell>Pak-EPA, 2022</cell><cell>Provincial</cell></row><row><cell></cell><cell></cell><cell></cell><cell>= Yes, 0 = No)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Economic Dependence</cell><cell>Mining Revenue Contribution to GDP</cell><cell>% district GDP derived from mining</cell><cell>State Bank of Pakistan, 2023</cell><cell>District</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Cont.</figDesc><table><row><cell>Risk Dimension</cell><cell>Risk Category</cell><cell>Indicator</cell><cell>Description</cell><cell>Reference</cell><cell>Scale</cell></row><row><cell>Social-Community</cell><cell>Gender Water Burden</cell><cell>Women's Water Collection Time</cell><cell>Avg. daily hours spent by women collecting water</cell><cell>PSLM Survey, 2023</cell><cell>Village/Union Council</cell></row><row><cell></cell><cell></cell><cell></cell><cell>% tribal</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Indigenous Rights</cell><cell>Sacred Site Disruption Index</cell><cell>communities reporting altered hydrology of</cell><cell>Amnesty International, 2022</cell><cell>Community</cell></row><row><cell></cell><cell></cell><cell></cell><cell>cultural springs</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Livelihood Vulnerability</cell><cell>Crop Failure Rate from Mining Salinity</cell><cell>% farmers crop loss reporting salinity-induced</cell><cell>FAO-Pakistan, 2024</cell><cell>District</cell></row><row><cell></cell><cell>Health Impacts</cell><cell>Waterborne Disease Incidence Ratio</cell><cell>Mining vs. 1000 people non-mining area disease cases per</cell><cell>WHO Pakistan, 2023</cell><cell>District</cell></row><row><cell></cell><cell>Water Conflicts</cell><cell>Judicial Cases on Water Contamination</cell><cell>No. of active lawsuits (2020-2025)</cell><cell>Supreme Court Registry, 2024</cell><cell>Province</cell></row><row><cell>Environmental</cell><cell>Water Scarcity</cell><cell>Surface Water Stress Index</cell><cell>% reduction in dry-season flows in Indus tributaries</cell><cell>PCRWR, 2022; ICIMOD, 2021</cell><cell>River Segment</cell></row><row><cell></cell><cell>Groundwater Depletion</cell><cell>Aquifer Depletion Rate</cell><cell>Annual water table decline (meters/year)</cell><cell>PCRWR, 2022; GSP, 2024</cell><cell>Aquifer</cell></row><row><cell></cell><cell>Acid Mine Drainage</cell><cell>AMD Severity Index</cell><cell>pH + Σ(C i /S i )/n S i = WHO std.) (C i = As/Cr conc.,</cell><cell>Pak-EPA, 2023</cell><cell>River Segment</cell></row><row><cell></cell><cell>Flood Pollution</cell><cell>Monsoon Waste Mobilization Potential</cell><cell>Estimated tons of nullahs mining waste in flood-prone</cell><cell>NDMA, 2023</cell><cell>Watershed</cell></row><row><cell></cell><cell>Biodiversity Loss</cell><cell>Aquatic Species Decline Rate</cell><cell>% reduction in fish species richness (e.g., Mahseer)</cell><cell>WWF-Pakistan, 2024</cell><cell>River Basin</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Days for pollutants</cell><cell></cell><cell></cell></row><row><cell>Technical-Geological</cell><cell>Aquifer Vulnerability</cell><cell>Contaminant Travel Time</cell><cell>to reach community wells</cell><cell>USGS-Pakistan, 2021</cell><cell>Watershed</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(modeled)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>% dams meeting</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Tailings Instability</cell><cell>Tailings Dam Safety Index</cell><cell>seismic stability standards [49]</cell><cell>NDMA, 2022; GSP, 2024</cell><cell>Mine Site</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(IS-7894)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Hydrogeological Complexity</cell><cell>Fold-Thrust Belt AMD Migration Risk</cell><cell>Binary risk in Balochistan classification (1 = High, 0 = Low)</cell><cell>USGS-Pakistan, 2021</cell><cell>Watershed</cell></row><row><cell></cell><cell></cell><cell></cell><cell>% mine process</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Treatment Deficiencies</cell><cell>Wastewater Recycling Rate</cell><cell>water treated/reused vs.</cell><cell>Ministry of Minerals, 2023</cell><cell>Mine Site</cell></row><row><cell></cell><cell></cell><cell></cell><cell>discharged</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Landslide Risks</cell><cell>Slope Stability Score</cell><cell>Slope angle ( • ) in zones chromite mining</cell><cell>GSP, 2024</cell><cell>Mine Site</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Weighting criteria for GSET risk indicators, outlining the relative importance and scoring of governance, social, environmental, and technical factors in assessing mining-induced water hazards.</figDesc><table><row><cell>Criterion</cell><cell>Classification</cell><cell>Score</cell><cell>Application Example</cell></row><row><cell>Data Quality and Reliability</cell><cell>Peer-reviewed publications/ government reports</cell><cell>5</cell><cell>PCRWR groundwater depletion rates 1</cell></row><row><cell></cell><cell>NGO/industry reports</cell><cell>3</cell><cell>WWF-Pakistan biodiversity surveys</cell></row><row><cell></cell><cell>Unverified/local sources</cell><cell>1</cell><cell>Community anecdotal claims</cell></row><row><cell>Spatial Resolution</cell><cell>Village/mine-site level</cell><cell>5</cell><cell>Women's water collection time (union council data)</cell></row><row><cell></cell><cell>District level</cell><cell>3</cell><cell>Mining revenue contribution to the district's GDP</cell></row><row><cell></cell><cell>Provincial/national level</cell><cell>1</cell><cell>National policy implementation scores</cell></row><row><cell>Temporal Relevance</cell><cell>≤2 years (2023-2025)</cell><cell>5</cell><cell>NDMA 2024 flood risk assessments</cell></row><row><cell></cell><cell>3-5 years (2020-2022)</cell><cell>3</cell><cell>GSP 2021 hydrogeological models</cell></row><row><cell></cell><cell>&gt;5 years</cell><cell>1</cell><cell>Pre-2020 compliance reports</cell></row><row><cell>Gender/Community Sensitivity</cell><cell>Gender-disaggregated data</cell><cell>5</cell><cell>Female-specific disease incidence (PSLM 2023)</cell></row><row><cell></cell><cell>Community-validated metrics</cell><cell>4</cell><cell>Indigenous sacred site disruption (Baloch FGDs)</cell></row><row><cell></cell><cell>General population data</cell><cell>2</cell><cell>Aggregate judicial case counts</cell></row><row><cell>Field Verification Feasibility</cell><cell>High (site-accessible)</cell><cell>5</cell><cell>Water quality testing in Punjab coal zones</cell></row><row><cell></cell><cell>Moderate (remote but reachable)</cell><cell>3</cell><cell>KPK landslide susceptibility surveys</cell></row><row><cell></cell><cell>Low (conflict-affected)</cell><cell>1</cell><cell>Balochistan tailings dam inspections</cell></row><row><cell></cell><cell cols="2">2.6. Spatial Risk Mapping (GIS Workflow)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4 .</head><label>4</label><figDesc>Water-related hazards in mining regions, detailing key risks such as contamination, groundwater depletion, and flood pollution across various mining sites in Pakistan.</figDesc><table><row><cell>Hazard</cell><cell>Severity</cell><cell>Indigenous Populations</cell><cell>Consequences</cell><cell>Risk Reduction Plans</cell></row><row><cell>AMD Contamination</cell><cell>pH 3.5-5.2 in Balochistan's Dasht River; As 9× WHO limits; sulfide leaching from coal/chromite mines</cell><cell>Fishing communities, farmers</cell><cell>Skin diseases in women; reduced breastfeeding safety; care burden for sick children</cell><cell>IoT pH/As sensors; phytoremediation with native plants; women-led AMD monitoring units</cell></row><row><cell>Floods</cell><cell>Monsoon mobilizes 12,000+ tons mining waste into Indus tributaries; sediment-loaded nullahs in Koh-e-Suleman</cell><cell>Riverine communities; urban poor</cell><cell>Drowning risks during water collection; GBV in displacement camps; loss of women's fish-marketing income</cell><cell>AI-based flood forecasting 1; gender-inclusive early warnings; sediment traps managed by women's cooperatives</cell></row><row><cell>General Contamination</cell><cell>Heavy metals (Pb, Cr) in Punjab's groundwater; industrial effluents exceeding NEQS by 67%</cell><cell>Pregnant women, informal miners</cell><cell>Miscarriages linked to arsenic; women's income loss from contaminated crops</cell><cell>Women-managed bio-sand filters; blockchain-enabled effluent tracking; mobile health clinics</cell></row><row><cell>Groundwater Depletion</cell><cell>Aquifer decline (1.5-3 m/year in Chagai); 120+ abandoned wells; 78% mining districts affected</cell><cell>Women-led households, pastoralists</cell><cell>Women spend 4.7 h/day collecting water; girls' school dropout; debt from water purchases</cell><cell>Solar-powered desalination; community rainwater harvesting; gender-balanced water quotas</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Satellite-based</cell></row><row><cell>Tailings Dam Failures</cell><cell>60% dams lack seismic reinforcement; toxic slurry releases during monsoons</cell><cell>Downstream villages (e.g., Reko Diq)</cell><cell>GBV in shelters; loss of women's livestock livelihoods</cell><cell>deformation monitoring; women-inclusive dam</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>safety committees</cell></row><row><cell>Salinization</cell><cell>41% of Salt Range farmers report crop failure; irrigation conductivity &gt;3000 µS/cm</cell><cell>Women subsistence agriculturists</cell><cell>Malnutrition from failed crops; reduced dairy production</cell><cell>Brackish-water aquaculture (women-led); subsidized drip irrigation</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Decentralized water</cell></row><row><cell>Waterborne Diseases</cell><cell>Arsenicosis 3.2× higher near mines (12.7% vs. 4.1% national avg); cholera outbreaks in monsoon</cell><cell>Children, informal miners</cell><cell>Care burden on women; girls miss school to nurse sick relatives</cell><cell>purification; sex-disaggregated health surveillance; community hygiene</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>training</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 .</head><label>5</label><figDesc>Stakeholder information, summarizing the roles, interests, and influence levels of key stakeholders involved in managing mining-induced water risks.</figDesc><table><row><cell>Stakeholder Category</cell><cell>Accountability and Role</cell><cell>Goals and Objectives</cell><cell>Impact Strength</cell><cell>Main Challenges</cell></row><row><cell>Provincial Mining Departments (e.g., Balochistan Mines &amp; Minerals Directorate)</cell><cell>Enforce National Environmental Quality Standards (NEQS); issue mining leases; monitor effluent discharge</cell><cell>Revenue from mineral royalties (mining contributes 2.4% to provincial GDP); regulatory compliance; political lobbying 48</cell><cell>High</cell><cell>Fragmented monitoring (no integrated groundwater database); corruption in lease approvals</cell></row><row><cell>District Coordination Authorities</cell><cell>Implement flood/drought disaster response; coordinate water conflict mediation</cell><cell>Infrastructure development grants; electoral legitimacy; avoiding civil unrest</cell><cell>Medium-High</cell><cell>Limited technical capacity; budget shortfalls for water infrastructure</cell></row><row><cell>Mining Corporations (e.g., Saindak Copper-Gold Project operators)</cell><cell>Tailings dam management; AMD neutralization; CSR initiatives for water access</cell><cell>Profit maximization; mining license retention; shareholder returns</cell><cell>High</cell><cell>Cost-cutting bypasses AMD treatment (73% lack wastewater recycling); seismic reinforcement gaps</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 5 .</head><label>5</label><figDesc>Cont.</figDesc><table><row><cell>Stakeholder Category</cell><cell>Accountability and Role</cell><cell>Goals and Objectives</cell><cell>Impact Strength</cell><cell>Main Challenges</cell></row><row><cell>Local Communities</cell><cell>Report contamination via community-led monitoring; participate in water rationing</cell><cell>Safe drinking water access (arsenicosis rates 3.2× higher near mines); crop protection from salinity 18</cell><cell>Medium</cell><cell>Women bear 4.7 h/day water collection burden; exclusion from grievance redressal (&lt;30% cases resolved)</cell></row><row><cell>Indigenous Tribes (e.g., Baloch tribes near Reko Diq)</cell><cell>Protect sacred springs; traditional erosion control; lead protests against aquifer depletion</cell><cell>Cultural heritage preservation; pasture/water rights; livelihood security</cell><cell>Medium</cell><cell>Sacred site disruption (45% report altered hydrology); limited legal recognition</cell></row><row><cell>Environmental NGOs (e.g., WWF-Pakistan)</cell><cell>Independent water testing; biodiversity conservation advocacy; community legal aid</cell><cell>Environmental justice; donor funding; policy reform</cell><cell>Medium</cell><cell>Restricted mine site access; reliance on corporate cooperation</cell></row><row><cell>Academia/Research (e.g., NUST Water Research Centre)</cell><cell>AMD remediation tech development; aquifer vulnerability mapping</cell><cell>Research grants; data-driven publications; policy influence</cell><cell>Low-Medium</cell><cell>Underfunded field studies; security barriers in conflict zones</cell></row><row><cell></cell><cell>Fund IoT sensor</cell><cell></cell><cell></cell><cell></cell></row><row><cell>International Donors</cell><cell>networks; subsidize</cell><cell>Climate resilience;</cell><cell></cell><cell>Bureaucratic delays;</cell></row><row><cell>(e.g., World Bank</cell><cell>rainwater harvesting;</cell><cell>SDG 6 alignment;</cell><cell>Medium</cell><cell>misalignment with</cell></row><row><cell>Water Projects)</cell><cell>enforce ESG</cell><cell>risk reduction ROI</cell><cell></cell><cell>local priorities</cell></row><row><cell></cell><cell>compliance</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Expose</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Media</cell><cell>contamination scandals; publicize judicial cases (58 filed in</cell><cell>Audience engagement; advertising revenue; investigative prestige</cell><cell>Low</cell><cell>Censorship threats; limited scientific literacy in reporting</cell></row><row><cell></cell><cell>2020-2024)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">2.8. Risk Weighting and Outputs</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 6 .</head><label>6</label><figDesc>Weighting structure for GSET risk indicators, presenting the distribution of importance across governance, social, environmental, and technical dimensions in the risk assessment framework.</figDesc><table><row><cell>Risk Dimension</cell><cell>Risk Category</cell><cell>Indicator</cell><cell>Weighting (%)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Per</cell><cell>Per</cell><cell>Per</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Indicator</cell><cell>Category</cell><cell>Dimension</cell></row><row><cell>Governance-Economic</cell><cell>Regulatory Enforcement</cell><cell>Mine Effluent Compliance Rate</cell><cell>100</cell><cell>40</cell><cell>15</cell></row><row><cell></cell><cell>Compensation Mechanisms</cell><cell>Grievance Redressal Effectiveness</cell><cell>100</cell><cell>30</cell><cell></cell></row><row><cell></cell><cell>Political Influence</cell><cell>Protected Zone Mining Leases</cell><cell>100</cell><cell>15</cell><cell></cell></row><row><cell></cell><cell>Monitoring Fragmentation</cell><cell>Integrated Groundwater Database</cell><cell>100</cell><cell>10</cell><cell></cell></row><row><cell></cell><cell>Economic Dependence</cell><cell>Mining Revenue Contribution to GDP</cell><cell>100</cell><cell>5</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 6 .</head><label>6</label><figDesc>Cont.</figDesc><table><row><cell>Risk Dimension</cell><cell>Risk Category</cell><cell>Indicator</cell><cell>Weighting (%)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Per</cell><cell>Per</cell><cell>Per</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Indicator</cell><cell>Category</cell><cell>Dimension</cell></row><row><cell>Social-Community</cell><cell>Gender Water Burden</cell><cell>Women's Water Collection Time</cell><cell>100</cell><cell>40</cell><cell>30</cell></row><row><cell></cell><cell>Indigenous Rights</cell><cell>Sacred Site Disruption Index</cell><cell>100</cell><cell>25</cell><cell></cell></row><row><cell></cell><cell>Livelihood Vulnerability</cell><cell>Crop Failure Rate from Mining Salinity</cell><cell>100</cell><cell>20</cell><cell></cell></row><row><cell></cell><cell>Health Impacts</cell><cell>Waterborne Disease Incidence Ratio</cell><cell>100</cell><cell>10</cell><cell></cell></row><row><cell></cell><cell>Water Conflicts</cell><cell>Judicial Cases on Water Contamination</cell><cell>100</cell><cell>5</cell><cell></cell></row><row><cell>Environmental</cell><cell>Water Scarcity</cell><cell>Surface Water Stress Index</cell><cell>100</cell><cell>35</cell><cell>40</cell></row><row><cell></cell><cell>Groundwater Depletion</cell><cell>Aquifer Depletion Rate</cell><cell>100</cell><cell>35</cell><cell></cell></row><row><cell></cell><cell>Acid Mine Drainage</cell><cell>AMD Severity Index</cell><cell>100</cell><cell>15</cell><cell></cell></row><row><cell></cell><cell>Flood Pollution</cell><cell>Monsoon Waste Mobilization Potential</cell><cell>100</cell><cell>10</cell><cell></cell></row><row><cell></cell><cell>Biodiversity Loss</cell><cell>Aquatic Species Decline Rate</cell><cell>100</cell><cell>5</cell><cell></cell></row><row><cell>Technical-Geological</cell><cell>Aquifer Vulnerability</cell><cell>Contaminant Travel Time</cell><cell>100</cell><cell>35</cell><cell>15</cell></row><row><cell></cell><cell>Tailings Instability</cell><cell>Tailings Dam Safety Index</cell><cell>100</cell><cell>30</cell><cell></cell></row><row><cell></cell><cell>Hydrogeological Complexity</cell><cell>Fold-Thrust Belt AMD Migration Risk</cell><cell>100</cell><cell>20</cell><cell></cell></row><row><cell></cell><cell>Treatment Deficiencies</cell><cell>Wastewater Recycling Rate</cell><cell>100</cell><cell>10</cell><cell></cell></row><row><cell></cell><cell>Landslide Risks</cell><cell>Slope Stability Score</cell><cell>100</cell><cell>5</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 7 .</head><label>7</label><figDesc>Top 10 critical mines of Pakistan, listing the mining sites with the highest risk scores based on governance, social, environmental, and technical factors.</figDesc><table><row><cell>Mining Site and Province</cell><cell cols="2">Gov-Eco Soc-Com</cell><cell>Env</cell><cell>Tech-Geo</cell><cell>Total</cell><cell>Risk Level</cell><cell cols="2">Effects on Water Bodies</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Cr(VI) leaching</cell></row><row><cell>Saindak Copper-Gold (Balochistan)</cell><cell>5</cell><cell>5</cell><cell>5</cell><cell>5</cell><cell>20</cell><cell>Critical</cell><cell cols="2">(0.15 mg/L); bioaccumulation in rice; irrigation-induced soil toxicity; aquifer</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">depletion (2.1 m/yr)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Pb contamination</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">(45× WHO limits);</cell></row><row><cell>Duddar Lead-Zinc (Balochistan)</cell><cell>4</cell><cell>5</cell><cell>5</cell><cell>4</cell><cell>18</cell><cell>Critical</cell><cell cols="2">acidification (pH 4.2); reduced crop yields in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">farmlands; AMD seepage</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">into Porali River</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Sulfate enrichment</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(SO 4</cell><cell>2-720 mg/L);</cell></row><row><cell>Reko Diq Copper (Balochistan)</cell><cell>4</cell><cell>4</cell><cell>5</cell><cell>4</cell><cell>17</cell><cell>Critical</cell><cell cols="2">altered groundwater pH (8.7); reduced aquatic</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">biodiversity in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">seasonal streams</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Cu leaching (1.5 mg/L);</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">sedimentation clogging</cell></row><row><cell>Cherat Coal Field (KPK)</cell><cell>4</cell><cell>5</cell><cell>4</cell><cell>4</cell><cell>17</cell><cell>Critical</cell><cell cols="2">irrigation canals; disrupted groundwater</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">recharge in Kabul River</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">tributaries</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Salinization</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">(TDS &gt; 4200 mg/L);</cell></row><row><cell>Chagai Silica Sand (Balochistan)</cell><cell>3</cell><cell>4</cell><cell>4</cell><cell>4</cell><cell>15</cell><cell>High</cell><cell cols="2">heavy metal bioaccumulation in fish;</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">reduced O 2 levels in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Dasht River</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Over-extraction lowering</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">water table</cell></row><row><cell>Karak Salt Mines (KPK)</cell><cell>4</cell><cell>4</cell><cell>4</cell><cell>3</cell><cell>15</cell><cell>High</cell><cell cols="2">(180+ abandoned wells); As contamination (14.2%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">arsenicosis rate); brine</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">infiltration into springs</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Fe-Mn sludge deposition</cell></row><row><cell>Sor Range Coal (Balochistan)</cell><cell>4</cell><cell>3</cell><cell>4</cell><cell>3</cell><cell>14</cell><cell>High</cell><cell cols="2">(Fe 52 mg/L); reduced reservoir capacity near Quetta; algal blooms in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Hanna Lake</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Landslide-induced</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">turbidity (NTU &gt; 600);</cell></row><row><cell>Lakra Chromite (KPK)</cell><cell>3</cell><cell>4</cell><cell>4</cell><cell>3</cell><cell>14</cell><cell>High</cell><cell cols="2">Cr 6+ accumulation (1.8 mg/L) in Swat River</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">headwaters; drinking</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">water quality impairment</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 7 .</head><label>7</label><figDesc>Cont.</figDesc><table><row><cell>Mining Site and Province</cell><cell cols="2">Gov-Eco Soc-Com</cell><cell>Env</cell><cell>Tech-Geo</cell><cell>Total</cell><cell>Risk Level</cell><cell>Effects on Water Bodies</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Na + /Cl -leaching</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>increasing soil salinity</cell></row><row><cell>Jhalar Magnesite (Punjab)</cell><cell>3</cell><cell>4</cell><cell>3</cell><cell>3</cell><cell>13</cell><cell>High</cell><cell>(EC &gt; 8 dS/m); irrigation water toxicity;</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>sedimentation in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Jhelum tributaries</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>AMD contamination</cell></row><row><cell>Adhi Kot Iron Ore (Punjab)</cell><cell>3</cell><cell>3</cell><cell>4</cell><cell>3</cell><cell>13</cell><cell>High</cell><cell>(pH 4.1); As 11× WHO limits; aquifer depletion (1.5 m/yr) in Salt</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Range aquifer</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 8 .</head><label>8</label><figDesc>Workshop details, summarizing the objectives, participants, and key outputs from community and stakeholder workshops focused on water risk validation and mitigation strategies.</figDesc><table><row><cell>Workshop</cell><cell>Objective</cell><cell>Participants</cell><cell>Outputs</cell></row><row><cell>1. Community Water Risk Validation</cell><cell>Ground-truth water scarcity/contamination scores using local ecological knowledge; validate gender-differentiated impacts</cell><cell>Women water collectors, indigenous leaders (e.g., Baloch tribal elders), farmers, fisherfolk, local hydrologists</cell><cell>Calibrated risk maps; community-endorsed water access equity metrics; women-led monitoring protocols for 45 mining-adjacent villages</cell></row><row><cell>2. Mining Industry Solutions Alignment</cell><cell>Secure commitments for IoT/AMD mitigation tech adoption; co-design water stewardship guidelines</cell><cell>Mining engineers (Saindak Copper Project), CSR managers, SERENE project team, Pakistan Mineral Development Corp (PMDC) representatives</cell><cell>Corporate pledges to reduce groundwater extraction by 30%; MOUs for AI-driven contamination sensors in Reko Diq; gender-inclusive CSR framework</cell></row><row><cell>3. Policy and Governance Dialogue</cell><cell>Advocate for aquifer protection regulations; draft transboundary water agreements for Indus tributaries</cell><cell>Provincial policymakers (Balochistan/KPK), Pak-EPA, Water and Power Development Authority (WAPDA), Supreme Court water rights advocates</cell><cell>Draft policy framework for mining effluent compliance; roadmap for 50% female quota in district disaster committees</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 8 .</head><label>8</label><figDesc>Cont.</figDesc><table><row><cell>Workshop</cell><cell>Objective</cell><cell>Participants</cell><cell>Outputs</cell></row><row><cell>4. Geospatial Risk Tech Pilot</cell><cell>Test IoT flood/AMD prediction tools in high-risk watersheds; train locals on GIS hazard mapping</cell><cell>SUPARCO remote sensing specialists, geotechnical engineers (NUST), IoT developers, community youth volunteers</cell><cell>Functional flood early warning system for Koh-e-Suleman nullahs; field-validated AMD risk maps; 120 trained "tech stewards"</cell></row><row><cell></cell><cell>Share findings on</cell><cell>Academia (LUMS,</cell><cell>Joint NBS guidelines for</cell></row><row><cell></cell><cell>sedimentation/AMD</cell><cell>University of Peshawar),</cell><cell>erosion control; $1.5 M</cell></row><row><cell>5. Research and</cell><cell>remediation; co-design</cell><cell>WWF-Pakistan, IUCN,</cell><cell>funding proposal for</cell></row><row><cell>Innovation Symposium</cell><cell>nature-based solutions</cell><cell>international donors</cell><cell>bio-sand filters; indigenous</cell></row><row><cell></cell><cell>(NBS) with</cell><cell>(World Bank Water</cell><cell>knowledge repository for</cell></row><row><cell></cell><cell>traditional knowledge</cell><cell>Projects)</cell><cell>flood mitigation</cell></row><row><cell>6. Environmental Health Intervention</cell><cell>Develop protocols for arsenicosis prevention; establish mobile health surveillance for mining-affected communities</cell><cell>NIH epidemiologists, female community health workers, mining company medics, Pakistan Medical Association representatives</cell><cell>Standardized heavy metal screening toolkit; 8 mobile clinics deployed; gender-disaggregated health database for three provinces</cell></row></table></figure>
+		</body>
+		<back>
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding: This research received no external funding. Data Availability Statement: Data is available upon request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions: Conceptualization, J.L. (Jiang Li), Z.T. and W.R.; methodology, J.L. (Jiang Li) and A.S.; software, J.L. (Jiang Li); validation, Z.T. and W.R.; formal analysis, J.L. (Jiang Li) and A.S.; investigation, J.L. (Jiang Li), A.S., J.L. (Jianshu Liu) and Y.Y.; resources, A.S. and H.A.; data curation, J.L. (Jiang Li); writing-original draft preparation, J.L. (Jiang Li); writing-review and editing, Z.T., W.R., A.S., J.L. (Jianshu Liu) and Y.Y.; visualization, J.L. (Jiang Li); supervision, Z.T. and W.R.; project administration, Z.T. and W.R. All authors have read and agreed to the published version of the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head><p>The following abbreviations are used in this manuscript: </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Spatial distribution and potential health risk assessment for fluoride and nitrate via water consumption in Pakistan</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">U</forename><surname>Din</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Muhammad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Shaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ur Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tokatli</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gexplo.2024.107413</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Geochem. Explor</title>
+		<imprint>
+			<biblScope unit="volume">259</biblScope>
+			<date type="published" when="2024">2024. 107413</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Elements of National Power of Pakistan: Analyzing the Natural Resources of Balochistan Province</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mushtaq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Islamabad, Pakistan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>International Islamic University Islamabad</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Master&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Aquifers and groundwater: Challenges and opportunities in water resource management in Colombia</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Aranguren-Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Galán-Freyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Manares-Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Pacheco-Londoño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero-Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vidal-Figueroa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Machado-Sierra</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w16050685</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">685</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A review of flood-related storage and remobilization of heavy metal pollutants in river systems</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Grygar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11270-016-2934-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water Air Soil Pollut</title>
+		<imprint>
+			<biblScope unit="volume">227</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Heavy metals in the hydrological cycle: Trends and explanation</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Charlesworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrol. Process</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="227" to="261" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A critical review of groundwater table fluctuation: Formation, effects on multifields, and contaminant behaviors in a soil and aquifer system</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.est.3c08543</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="2185" to="2203" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The disaster risk, global change, and sustainability nexus</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Peduzzi</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su11040957</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">957</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Adapting to Climate Risks and Extreme Weather: A Guide for Mining and Minerals Industry Professionals; National Climate Change Adaptation Research Facility</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lederwasch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Razian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wynne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Giurco</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Southport, QLD, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">A review on the water dimensions, security, and governance for two distinct regions</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Al-Naemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Farooque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Phillips</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w15010208</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Water scarcity and land degradation nexus in the anthropocene: Reformations for advanced water management as per the sustainable development goals</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Emerging Issues in the Water Environment During Anthropocene: A South East Asian Perspective</title>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berlin/Heidelberg</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="317" to="336" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Groundwater governance in Pakistan: From colossal development to neglected management</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Qureshi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">3017</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Groundwater markets under the water scarcity and declining watertable conditions: The upland Balochistan Region of Pakistan</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Khair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mushtaq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Culas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hafeez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.agsy.2011.11.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Agric. Syst</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="21" to="32" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Groundwater depletion in the Indus Plains of Pakistan: Imperatives, repercussions and management issues</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Watto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Mugera</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15715124.2016.1204154</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. River Basin Manag</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="447" to="458" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Sea level rise induced impacts on coastal areas of Bangladesh and local-led community-based adaptation</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Penha-Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Lourenço</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Torrejano</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijdrr.2022.102905</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Reduct</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<date type="published" when="2022">2022. 102905</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Loss and damage from climate change: Local-level evidence from nine vulnerable countries</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Warner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Der Geest</surname></persName>
+		</author>
+		<idno type="DOI">10.1504/IJGW.2013.057289</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Glob. Warm</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="367" to="386" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Cross-Border and Emerging Risks in Europe</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Corbane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eklund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gyenes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lentini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Durrant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Boca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maianti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liberta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Oom</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Publications Office of the European Union</publisher>
+			<pubPlace>Luxembourg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Judicial power in domestic and international politics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Staton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0020818311000130</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Organ</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="553" to="587" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Inventory of Closed and Abandoned Mines: Methods for Performing the Inventory and for Risk Classification with Diverse Data Availability Levels</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Luodes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Mikkeli, Finland</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Mikkeli University of Applied Science</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Bachelor&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Assessing the impacts of groundwater depletion and aquifer degradation on land subsidence in Lahore, Pakistan: A PS-InSAR approach for sustainable urban development</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Sajjad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Afzal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Iqbal</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/rs15225418</idno>
+		<imprint/>
+	</monogr>
+	<note>Remote Sens. 2023, 15, 5418. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Morphometric assessment and soil erosion susceptibility maping using ensemble extreme gradient boosting (XGBoost) algorithm: A study for Hunza-Nagar catchment</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yinghua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hameed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M S</forename><surname>Basnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ullah</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12665-024-11909-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Northern Pakistan. Environ. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page">605</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Pakistan&apos;s Vulnerability to Climate Change: Public Policies and Institutional Setup for Dealing with the Climate Change Dilemma</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Seoul, South Korea</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Seoul National University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Master&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Known and unknown environmental impacts related to climate changes in Pakistan: An under-recognized risk to local communities</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>An</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su16146108</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">6108</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Dismantling traditional approaches: Community-centered design in local government</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Singh Rathore</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/25741292.2022.2157126</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Policy Des. Pract</title>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="page" from="550" to="564" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Community-Driven Ecosystem Resilience and Equity Framework: A Novel Approach for Social Resilience in Ecosystem Services</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shemshad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Synowiec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kopyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Benedek</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su17083452</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Two models of community-centered development in Myanmar</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jung</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.105081</idno>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page">105081</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">An applied environmental justice framework for exposure science</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">O</forename><surname>Van Horne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Alcala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Peltier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Quintana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Seto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gonzales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Montoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Quirós-Alcalá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Beamer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Expo. Sci. Environ. Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Public water risk concerns triggered by energy-transition-mineral mining</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mckechnie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-Q</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K S</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resenv.2025.100196</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Environ. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2025">2025. 100196</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Fostering well-being in resettled communities: Cultivating cultural resilience and sustainable development in resettlement caused by Ghazi Barotha Hydropower Project</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rauf</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w15223973</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">15</biblScope>
+			<pubPlace>Pakistan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vladova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Friesike</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Why</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/scipol/scae070</idno>
+		<title level="m">with whom, and how to conduct interdisciplinary research? A review from a researcher&apos;s perspective. Sci. Public Policy</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="165" to="180" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lassoued</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B R</forename><surname>Attia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sassi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.intaccaudtax.2017.12.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Accounting, Auditing and Taxation. J. Int. Account. Audit. Tax</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="85" to="105" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Developing an Integrated Risk Assessment Method for Ecological Protection Redlines to Optimize Ecological Protection Policies: Based on a Multidimensional Assessment Framework and Risk Path Analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ye</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ldr.5605</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Land Degrad. Dev</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="835" to="849" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Small-Scale Solutions to Large-Scale Problems in the Mining Industry</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Prosperi-Porta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<pubPlace>Vancouver, BC, Canada</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of British Columbia</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Master&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Municipal Solid Waste Disposal Site Selection</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Pawandiwa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Bloemfontein, South Africa</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of the Free State</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Master&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A systematic literature review on urban resilience enabled with asset and disaster risk management approaches and GIS-based decision support tools</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rezvani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Falcão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Komljenovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>De Almeida</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/app13042223</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2023">2023. 2223</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Towards an integrated approach to natural hazards risk assessment using GIS: With reference to bushfires</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jacobson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-002-2747-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Manag</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="546" to="0560" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Comprehensive analysis of the use of Web-GIS for natural hazard management: A systematic review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Ugliotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Osello</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su16104238</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">4238</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Integrating remote sensing, geographic information systems and global positioning system techniques with hydrological modeling</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Thakur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Ekanthalu</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13201-016-0384-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Water Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1595" to="1608" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">A review on applications of remote sensing and geographic information systems (GIS) in water resources and flood risk management</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xie</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w10050608</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Use of geographic information systems (GIS) in water resources: A review</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Tsihrintzis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hamid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Fuentes</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF00508896</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water Resour. Manag</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="251" to="277" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Landslide risk assessment on the China-Pakistan Economic Corridor (CPEC): A comparative study of quantitative and machine learning approaches</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Qulin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rasool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Sajjad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Iftikharf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shrahili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ur Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12046-025-02749-3</idno>
+		<imprint/>
+	</monogr>
+	<note>Sādhanā 2025, 50, 95. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Technology-Driven Approaches to Enhance Disaster Response and Recovery</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kirpalani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Geospatial Technology for Natural Resource Management</title>
+		<meeting><address><addrLine>Hoboken, NJ, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="25" to="81" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Assessing participatory GIS for community-based natural resource management: Claiming community forests in Cameroon</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Mccall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Minang</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-4959.2005.00173.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geogr. J</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="page" from="340" to="356" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Integrated disaster risk management (IDRM): Elements to advance its study and assessment</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sandoval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Voss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Flörchinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lorenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jafari</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13753-023-00490-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="343" to="356" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahmad</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w17091354</idno>
+		<title level="m">Sustainable Water-Related Hazards Assessment in Open Pit-to-Underground Mining Transitions: An IDRR and MCDM Approach at Sijiaying Iron Mine</title>
+		<meeting><address><addrLine>China</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1354">2025. 1354</date>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Envisioning A Resilient Pakistan Gender, Intersectionality And Disaster Risk Reduction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sajjad</surname></persName>
+		</author>
+		<idno type="DOI">10.51732/njssh.v10i3.215</idno>
+	</analytic>
+	<monogr>
+		<title level="j">NUST J. Soc. Sci. Humanit</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Disability Inclusive Disaster Risk Reduction (DIDDR) in South Asia: Status, Prospects, and Challenges</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">I</forename><surname>Farid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Glick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Current and Emerging Trends in the Management of International Disasters</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Phipps</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mcentire</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Arlington, VA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mavs Open Press</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="243" to="261" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Climate-Related Vulnerability Assessment Toward Disaster Risk Reduction: Insight from Pakistan</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Abbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Guo</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jhsem-2021-0046</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Homel. Secur. Emerg. Manag</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="307" to="350" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Corporate environmental non-compliance and the effects of internal systems and sanctions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Evens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Research Handbook on Environmental Crimes and Criminal Enforcement</title>
+		<meeting><address><addrLine>Cheltenham, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="36" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">A Comparative Study on the Stability Analysis of Tailings Pond Embankments Under Transient and Steady-State Seepage Conditions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sitharam</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-19-7245-4_32</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Earth Retaining Structures and Stability Analysis. IGC 2021</title>
+		<title level="s">Lecture Notes in Civil Engineering</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Human exposure risk assessment due to heavy metals in groundwater by pollution index and multivariate statistical methods: A case study from South Africa</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Elumalai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brindha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lakshmanan</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w9040234</idno>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">From Hazard Maps to Action Plans: Comprehensive Flood Risk Mitigation in the Susurluk Basin</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ucar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kapcak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sonmez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Turan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Findik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sever</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w17060860</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">A Risk Assessment of Water Inrush in Deep Mining in Metal Mines Based on the Coupling Methods of the Analytic Hierarchy Process and Entropy Weight Method: A Case Study of the Huize Lead-Zinc Mine in Northeastern Yunnan</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ren</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w17050643</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">643</biblScope>
+			<pubPlace>China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher&apos;s Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

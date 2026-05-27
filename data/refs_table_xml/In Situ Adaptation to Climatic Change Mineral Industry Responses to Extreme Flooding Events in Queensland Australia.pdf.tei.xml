@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">In Situ Adaptation to Climatic Change: Mineral Industry Responses to Extreme Flooding Events in Queensland, Australia</title>
+				<funder ref="#_bWJDr86">
+					<orgName type="full">Australian Government&apos;s National Climate Change Adaptation Research Facility</orgName>
+					<orgName type="abbreviated">NCCARF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-03-14">14 March 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Vigya</forename><surname>Sharma</surname></persName>
+							<email>v.sharma@uq.edu.au</email>
+							<affiliation key="aff0">
+								<orgName type="department">Centre for Social Responsibility in Mining</orgName>
+								<orgName type="institution" key="instit1">Sustainable Minerals Institute</orgName>
+								<orgName type="institution" key="instit2">The University of Queensland</orgName>
+								<address>
+									<settlement>St Lucia Brisbane</settlement>
+									<region>Queensland</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Centre for Social Responsibility in Mining</orgName>
+								<orgName type="institution" key="instit1">Sustainable Minerals Institute</orgName>
+								<orgName type="institution" key="instit2">The University of Queensland</orgName>
+								<address>
+									<postCode>4072</postCode>
+									<settlement>St Lucia Brisbane</settlement>
+									<region>Queensland</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Franks</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Centre for Social Responsibility in Mining</orgName>
+								<orgName type="institution" key="instit1">Sustainable Minerals Institute</orgName>
+								<orgName type="institution" key="instit2">The University of Queensland</orgName>
+								<address>
+									<settlement>St Lucia Brisbane</settlement>
+									<region>Queensland</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">In Situ Adaptation to Climatic Change: Mineral Industry Responses to Extreme Flooding Events in Queensland, Australia</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0894-1920 print=1521-0723</idno>
+						<imprint>
+							<date type="published" when="2015-03-14">14 March 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">31AB108CB4A85C8377099F78845CF7BB</idno>
+					<idno type="DOI">10.1080/08941920.2013.797528</idno>
+					<note type="submission">Received 22 December 2011; accepted 22 December 2012.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>adaptation</term>
+					<term>climate change</term>
+					<term>climatic variability</term>
+					<term>floods</term>
+					<term>mining</term>
+					<term>Queensland</term>
+					<term>sustainable development</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Extractive resource development necessitates a direct and immediate dependence upon the environment and is particularly sensitive to climate variability and change. This article examines adaptation to climatic changes within the mining industry through a case study of extreme flooding events during 2007-2008 and 2010-2011   in Queensland, Australia. With 47 of the state's 57 coal mines impacted by the 2010-2011 floods, vast infrastructure damage, lost export earnings of more than $2 billion, and consequent impacts on surrounding socioeconomic and ecological landscapes, the case demonstrates the industry's vulnerability to climatic changes and the importance of planned adaptation for its future viability. As mineral resources are embedded within the landscape, adaptation must necessarily be in situ. The article draws lessons from the case to better inform sector-wide strategies for in situ adaptation. The findings are relevant to other industry sectors, such as tourism and forestry, where geographical relocation is not an available adaptation strategy.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>raising doubts over current mechanisms of resource management, governance, and sustainability planning. The interaction of mining and climate change impacts are particularly significant for countries like Australia-one of the regions considered most vulnerable to changes in climatic conditions and where the national economy maintains a heavy reliance on mining and resource development for export earnings <ref type="bibr" target="#b45">(Palutikof 2010)</ref>.</p><p>Besides aggravating existing stress on mining-dependent local communities, climatic changes also generate a suite of ideological and institutional challenges for the resource industry by impacting long-term business reputation and investment. The way businesses respond to changes in climatic conditions will impact their future growth potential <ref type="bibr">(Tyler and Chivaka 2011, 56)</ref>, as ''shifting climatic conditions introduce new business risks'' <ref type="bibr">(Deloitte 2011, 11)</ref>.</p><p>This article investigates the dynamics of climate variability, climate change, and mineral resource development. We apply the lens of climate change adaptation to a case study of severe weather events in Queensland, Australia, and their impact on the mining industry and affected regions. The case study is drawn together from a systematic review and critical analysis of information obtained from multiple sources including, but not limited to, testimony given to the Queensland Floods Commission of Inquiry (QFCI), state government departments, media releases, and personal communication with industry stakeholders and academic experts.</p><p>The article is organized in six parts. The following section theorizes climate adaptation from a minerals industry perspective. The third section outlines the likely nature of natural and or human-induced changes to Australia's climate and potential impacts on resource development. The fourth section draws together lessons from flood and cyclone events in Queensland to emphasize the complex but important links between climate variability and change and the resources sector. The fifth section then discusses how these linkages may influence future resilience and adaptation planning within the extractive industry. The article concludes with key findings and directions for future research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In Situ Adaptation to Climatic Change</head><p>In the context of climatic change, adaptation is interpreted as any degree of ''adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities'' <ref type="bibr">(Parry et al. 2007, glossary)</ref>. Depending upon a range of interplaying social, financial, technical, and institutional factors influencing adaptive capacity <ref type="bibr" target="#b60">(Smit and Wandel 2006)</ref>, adaptation can take varying forms: preemptive (anticipatory), reactive, or passive; autonomous, planned, or incidental; tactical (short-term) or strategic (long-term) <ref type="bibr" target="#b58">(Smit 1993;</ref><ref type="bibr" target="#b59">Smit et al. 1999;</ref><ref type="bibr" target="#b30">Levina and Tirpak 2006)</ref>. Each form of adaptation manifests itself in a variety of response mechanisms that can vary from reducing potential losses to accepting losses, to making adjustments to changing land use or even changing location <ref type="bibr" target="#b5">(Burton et al. 1993)</ref>.</p><p>From a mining industry perspective, two observations are vital with regard to adapting to climatic changes: First, the mining industry is inherently tied to the location of the extractive resources within the ground. Simple adaptation strategies such as firm relocation <ref type="bibr">(Linnenluecke et al. 2011b</ref>) are ill-suited to the mining industry, whose location is anchored to the resources under development and that have the potential to generate significant changes to surrounding landscapes. Second, the industry has tended thus far to apply a short-term ''hazard or risk management'' parlance <ref type="bibr" target="#b29">(Kirsch et al. 2012;</ref><ref type="bibr" target="#b39">McLellan and Corder 2012)</ref> rather than ''adaptation'' as a guiding principle to manage disasters-natural or anthropogenic <ref type="bibr" target="#b47">(Pearce et al. 2011</ref>). This has resulted in the industry following a technocratic approach that has focused on the ''event'' instead of the broader ''impacts'' arising from the event <ref type="bibr" target="#b6">(Cardona 2004;</ref><ref type="bibr" target="#b43">Nelson and Schuchard 2011)</ref>. Consequently, the industry's efforts have focused on mitigation (Queensland Resources Council [QRC] 2011a), while adaptation has remained mostly reactive and tactical rather than anticipatory and strategic <ref type="bibr" target="#b22">(Haigh and Griffiths 2012)</ref>. Although there is a growing recognition that risk management and climate adaptation are complementary in dealing with both sudden and slow-onset climatic changes <ref type="bibr" target="#b61">(Storbjork 2007;</ref><ref type="bibr" target="#b9">Davies et al. 2008)</ref>, their integration requires much work within the minerals industry.</p><p>In situ adaptation to climate change and variability would consist of development approaches that are embedded within the social and biophysical landscape context; employ foresight and long-term risk management cognisant of the potential localized outcomes of global climatic processes; and are enabled by effective multistakeholder governance processes to coordinate and collaborate to address the cumulative impacts of multiple activities within a landscape. Drawn together from the above observations, Figure <ref type="figure" target="#fig_0">1</ref> encapsulates possible adaptation responses of the mining industry to current and future climatic changes. It recognizes that over the long term, adaptation response can be considered either successful or failed depending on how effectively the industry is able to accommodate and manage climatic risks in situ. While there are several downstream implications of industry's adaptation responses upon the wider socioeconomic and environmental landscape, their study remains outside the scope of the current article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Australia's Resource Development in a Changing Climate</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Climate Change and Variability in Australia</head><p>Climate change impacts are sometimes-although erroneously-confused with those occurring as a result of natural interannual variability associated with extreme weather events. In light of growing recognition of a changing climate coupled with natural disasters occurring more frequently and with greater intensity, there are questions currently being raised about the cause and attribution of several of these extreme events <ref type="bibr" target="#b17">(Fogarty 2011;</ref><ref type="bibr" target="#b21">Gergis et al. 2012)</ref>. It is thus imperative that the process of human-induced climate change is identified from that of natural climate variability. While impacts resulting from both phenomena call for timely and effective planning and management, the approach undertaken to manage them varies depending on the technical and social elements shaping these processes <ref type="bibr" target="#b27">(Hulme et al. 1999;</ref><ref type="bibr" target="#b62">Strand et al. 2010)</ref>.</p><p>According to the Intergovernmental Panel on Climate Change <ref type="bibr">(Parry et al. 2007, glossary)</ref>, climate variability includes ''variations in the mean state and other statistics (such as standard deviations, statistics of extremes, etc.) of the climate on all temporal and spatial scales beyond that of individual weather events.'' Climatic variability in Australia is often manifested in two important phenomena occurring in and around the Pacific region: the low-frequency Interdecadal Pacific Oscillation caused by an oscillating ocean-atmosphere system that influences climate every one to two decades; and Southern Oscillation processes, impacting rainfall patterns every 3 to 8 years, resulting in El Nin ˜o (reduced rainfall conditions with extended periods of high temperature) and La Nin ˜a (wetter than normal years with cooler temperatures) cycles (Department of Natural Resources and Mines [DNRM] 2010a). The 2010-2011 flooding events in Queensland were to a large extent directly related to strong La Nin ˜a events in northern and eastern Australia (QFCI 2011a).</p><p>Climate change, on the other hand, results from any kind of change in ''climate over time, whether due to natural variability or as a result of human activity'' <ref type="bibr">(Parry et al. 2007, glossary)</ref>. Climate change is ''attributed directly or indirectly to human activity that alters the composition of the global atmosphere and . . . is in addition to natural climate variability observed over comparable time periods'' <ref type="bibr">(UNFCCC n.d.)</ref>. An important difference, thus, between impacts of humaninduced and natural changes to the climate is the time needed for impacts to eventuate. While anthropogenic climate change involves reference to a future period (typically, 50-or 100-year time horizons), climatic variability accounts for relatively shorter time scales (e.g., daily, yearly, and multidecadal cycles). These temporal differences, however, do not suggest that one is more or less important than the other. On the contrary, scientists argue that impacts of both phenomena should be considered ''alongside'' each other, for ''adapting our management systems to withstand multi-decadal natural climate variability (adequately defined) may . . . be a sufficient medium-term response to the prospect of climate change'' <ref type="bibr">(Hulme et al. 1999, 691)</ref>.</p><p>From an Australian perspective, natural climatic variability and humaninduced climate change both present an indispensable threat to current and future development <ref type="bibr" target="#b45">(Palutikof 2010</ref>). On the one hand, Australia is considered one of the most adversely affected regions in the world with slow but serious changes to climatic conditions likely for many decades. On the other hand, Australia periodically experiences extreme weather events, largely a result of its oceanographic characteristics and resulting susceptibility to a range of seasonal changes to natural weather patterns, primarily El Nin ˜o and La Nin ˜a cycles, resulting in droughts, floods <ref type="bibr">(e.g., 2007-2008; 2010-2011), and cyclones (e.g., 2006; 2011)</ref> of varying intensity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Queensland's Minerals Sector and Its Vulnerability to Climatic Variability and Change</head><p>Mining is a significant part of the economic and social landscape in Australia, and in particular in Queensland. In 2009-2010, mining contributed 8% of Australia's gross domestic product (GDP), with Queensland the world's largest coal exporter, responsible for approximately 52% and 62% of the total worldwide and national coal exports, respectively (Australian Bureau of Agricultural and Resource Economics and Sciences [ABARES] 2011). The natural resources sector is Queensland's single largest sector for economic output (QTC 2012). Additionally, in May 2012, the mining industry employed more than 17% of the state's total workforce through both direct and indirect jobs (D'Arcy 2012).</p><p>Given immediate dependence on the natural environment throughout various stages of the resource development cycle <ref type="bibr" target="#b47">(Pearce et al. 2011)</ref>, the industry and relevant communities are particularly impacted when confronted with extreme climatic events. However, our understanding of this complex interdisciplinary relationship between changes to climatic conditions and resulting impacts on climate-sensitive industries and dependent socioecological systems remains inadequate <ref type="bibr" target="#b24">(Hodgkinson et al. 2010;</ref><ref type="bibr" target="#b38">Marshall 2010;</ref><ref type="bibr">Linnenluecke et al. 2011a;</ref><ref type="bibr" target="#b64">Tyler and Chivaka 2011)</ref>. Lessons from past experiences in dealing with climate-induced disasters, particularly floods, provide an effective pathway forward to strengthen adaptive capacity and better plan for the future sustainability of Australia's resource-dependent regions <ref type="bibr" target="#b28">(Jamieson 1991;</ref><ref type="bibr" target="#b42">Nass et al. 2005</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Queensland's Resources Sector and Severe Flood Events-Learning the Lessons</head><p>Extreme Events in Queensland's Resource Regions A positive Southern Oscillation Index was detected in the latter part of 2010 in the Pacific Ocean, which led to one of the strongest La Nin ˜a effects in Australia recorded since 1917 <ref type="bibr" target="#b44">(Nicholls 2011)</ref>. Combined with the annual wet season, the 2010 La Nin ˜a caused the July-December 2010 period to be Australia's wettest on record. An unprecedented intensity and volume of rainfall was recorded between late 2010 and early 2011 across the country (QFCI 2011a). From November 2010 to January 2011, almost 75% of urban and regional Queensland was exposed to widespread flooding and cyclone events (QFCI 2011a). Several Queensland river systems reached record peak levels ''indicating that in many locations, the [2010=2011 Queensland] floods were the most severe in living memory'' <ref type="bibr">(QFCI 2011a, 27)</ref>. In total, these events resulted in 33 deaths (QFCI 2012) and significant damage to more than 25,000 residential and business properties, and approximately 9,000 km of roads and 5,000 km of Queensland's rail network (Queensland Reconstruction Authority [QRA] 2011).</p><p>During these extreme weather events, the resources industry was particularly hard hit in that ''around 25% of mines in the Bowen Basin, Queensland's primary coal producing region, became inoperable and a further 60% were operating under restrictions'' (The Australian 2010; Price water house Coopers 2011, 2). Figure <ref type="figure" target="#fig_1">2</ref> illustrates coal mines in the Bowen Basin, and highlights those that were impacted by the 2010-2011 flooding events, and therefore applied for Transitionary Environmental Programs, or TEPs (see later discussion).</p><p>Both direct flooding of mining operations and numerous indirect flow-on impacts mainly through damage to road and rail networks, disabled access to mine sites and ports, and reduced opportunities for sourcing labour and other supplies. These consequences led several mining companies to declare force majeure 1 (ABARES 2011). Some mining operations were unable to lift force majeure until five months after the events. Rio Tinto Coal's Hail Creek Mine, for example, was unable to achieve ongoing full production by September 2011-almost ten months Impacts of Climatic Changes on Mining in Australia after the floods (Rio Tinto Coal Australia [RTCA] 2011). Although Queensland's ports not badly affected, reduced supply of coal from mine sites caused them to operate below capacity for several weeks following the floods. With 45 out of 57 coal mines affected to varying extents, there were strong implications for the mining services industry <ref type="bibr" target="#b25">(Hoshowsky 2011)</ref>. The events caused Australia's metallurgical coal exports to drop by 32% in the March quarter and the sector's total export earnings fell by approximately A$2-2.5 billion <ref type="bibr">(ABARES 2011)</ref>.</p><p>The 2010-2011 floods were preceded by similar weather events between December 2007 and March 2008 that impacted Queensland's northern and central regions. Heavy rainfall over a relatively short time frame resulted in several rivers reaching peak levels, inundating towns both inland and along the coast (Bureau of Meteorology [BoM] 2008a). The intensity of damage caused by the January 2008 flood event was unprecedented in Queensland's resource development history, until 2010-2011. The Fitzroy river basin, particularly the Nogoa river catchment within the basin, was significantly flooded (QFCI 2011b). This caused large-scale inundation of the township of Emerald and serious infrastructure and economic damage to mines located in the Bowen Basin, primarily Ensham (Emergency Management Queensland [EMQ] 2008). In fact, measurements from the Nogoa river's gauging station located at Emerald showed that rainfall recorded in January 2008 was the highest on record since 1950 <ref type="bibr">(BoM 2008a;</ref><ref type="bibr">2008b)</ref>. Two of Ensham's six coal pits were completely inundated and its dragline-the world's second largest at the timetotally submerged as the flooded Nogoa River ran through the middle of its mining operation <ref type="bibr">(Ensham Resources 2008b;</ref><ref type="bibr">Feary 2008a</ref>). The mine's levees built at the time to withstand a 1-in-100-year event collapsed, resulting in more than 100,000 megaliters (ML) of water settling in its pits (Ensham Resources 2008a; Delzoppo 2011).</p><p>In economic terms, besides the direct loss of revenue from coal sales, the 2008 floods cost Ensham approximately A$270-300 million, including lost time in production, cleanup costs, and loss of infrastructure and equipment <ref type="bibr">(Feary 2008b</ref>). The dragline was trapped in floodwaters for more than five months and needed total refurbishment before being reinstated in operation in January 2009-a year after the floods <ref type="bibr">(Feary 2008b)</ref>. By June 2008, Ensham was operating at 50% of its total capacity, moving to 80% of full production by January 2009 <ref type="bibr" target="#b49">(Price 2009)</ref>. The total duration it took Ensham's 2008 flood-impacted operation to finally resume full production is unavailable in the public domain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Industry's Response to Extreme Weather Events</head><p>These events are a positive reminder of the impacts of changing natural conditions not only on the resources industry but also the immediate physical and ecological systems in which it operates. From an operational perspective, emptying flooded mines can present as big a challenge as having them filled. The longer floodwaters remain in the mine pit, the more time they have to collect natural salts and metals (RTCA 2011). Moreover, as rivers subside they become more sensitive to the saline discharge, as it represents a greater proportion of their volume. Following the 2007-2008 floods, Queensland's then Environmental Protection Agency granted five special discharge conditions-TEPs-to impacted mines to allow floodwater discharge into the Fitzroy River catchment for a limited time, including periods without any upstream flow <ref type="bibr" target="#b23">(Hart et al. 2008</ref>). Ensham was one of these mines that released The extended discharge of mine-affected water salinity levels as far downstream as Rockhampton, a distance of approximately 300 km, resulting in unacceptable levels of saline domestic water supplies <ref type="bibr" target="#b23">(Hart et al. 2008;</ref><ref type="bibr" target="#b12">Delzoppo 2011</ref>). In addition, questions were raised about the impacts on the health of the catchment's ecosystem from higher levels of saline discharge, acidity and alkalinity levels, and concentrations of heavy metals such as aluminum, arsenic, cadmium, copper, and molybdenum <ref type="bibr" target="#b23">(Hart et al. 2008;</ref><ref type="bibr" target="#b8">Davies 2011)</ref>. Although the long-term impacts of saline water discharge on river ecology were inconclusive at the time, efforts to consider potential repercussions of mine-affected water discharge on the spawning success of fish species, the suitability of river water for downstream consumption, and other long-term impacts on the marine environment are ongoing <ref type="bibr" target="#b23">(Hart et al. 2008;</ref><ref type="bibr" target="#b12">Delzoppo 2011;</ref><ref type="bibr">QFCI 2012)</ref>. At least ten months after the January 2008 floods, several management actions were still being considered to enable the flushing of mine-affected water from the Fitzroy system <ref type="bibr" target="#b23">(Hart et al. 2008)</ref>.</p><p>Following the 2007-2008 floods, concerns were raised by the industry and community with regard to the regulatory process of approving TEPs <ref type="bibr">(DNRM 2009, 16</ref>). As a result, the process was reviewed and ''model conditions'' were introduced in late 2009 (RTCA 2011). These conditions further tightened the scope of water release conditions, creating a cycle where water could not be discharged until release conditions were met. The latter, in turn, forced mines to hold water in their storagenear-full capacity-before heading into a heavier-than-normal wet season of 2010-2011 (QFCI 2011c). Following severe flooding in 2010-2011, the state's primary environmental regulator received more than 100 applications requesting TEPs between December 2010 and early September 2011. In total, 47 mines were either granted new TEPs or had their existing TEPs amended (DNRM 2011) (see Figure <ref type="figure" target="#fig_1">2</ref>).</p><p>In response to the QFCI in late 2011, major mine operators in the region indicated that large volumes of water-approximately 18 gigaliters (GL) at Anglo American and 20 GL at Ensham-still remained across a number of their operations <ref type="bibr" target="#b35">(Ludlow 2011)</ref>. The implementation of model conditions meant that only limited amounts of water could be released annually, thereby indicating that given the current quantities of water still remaining onsite, it would take several years of limited discharge before the mines could operate without having to deal with excess water. Subsequent wet seasons may add to the pressures on storage capacities due to regulatory requirements that restrict discharge, thereby complicating water management issues at mine sites across Queensland (QFCI 2011c).</p><p>In the interim, while mining companies and regulators continue to look for a longer term solution, mine operators transfer water across sites to maintain production-pumping water out from one pit into another, excavating coal from the empty pit, then pumping water back into this pit to excavate a second pit <ref type="bibr" target="#b35">(Ludlow 2011)</ref>. This method is clearly unsustainable due to extensive time and overhead commitments involved. One alternative considered is to reverse the direction of existing water inflow infrastructure to dispose of floodwater out of mines. This option requires a lengthy process of obtaining TEPs and necessary community support, and is therefore not feasible in the short term. Another option considered involves setting up a desalination plant, with some mining corporations having committed initial investment toward its development <ref type="bibr" target="#b35">(Ludlow 2011)</ref>. Besides being an extremely energy-intensive option, the potential of a desalination plant to offer a long-term permanent solution remains fraught with contradictions and challenges. Desalinating flood waters will leave a residual concentrated brine solution will be hazardous and a potentially challenging issue to negotiate with the regulatory authorities as well as with communities in the region.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Learning the Lessons</head><p>Based on experiences from addressing the 2007-2008 floods, the Ensham mine took reactive measures to better adapt to a potential repeat of flood-related weather events. These measures ensured that while Ensham's operations were impacted during the flooding event of 2010-2011, the intensity of impacts was significantly reduced. To put it into perspective, Ensham released approximately 3,000 ML of water at 100 ML per day following flooding in <ref type="bibr">2010</ref><ref type="bibr">-2011</ref><ref type="bibr">(DNRM 2010b))</ref>. In comparison, up to 50 times more water was released during the 2007-2008 event as more than 150,000 ML of mine-affected water was discharged-at 750 ML=day-into the Nogoa-Mackenzie-Fitzroy river system over seven months <ref type="bibr" target="#b12">(Delzoppo 2011)</ref>.</p><p>The severity of floods in 2008 triggered Ensham's mine site management to engage in long-term thinking and strategic planning, resulting in the building of dykes and levee banks, which provided protection from the 2010-2011 floods. According to Ensham, the levees rebuilt following the 2008 flood disaster are planned to protect its Emerald operations from a 1-in-1000-year flooding event <ref type="bibr" target="#b31">(Lewis 2010)</ref>. These developments demonstrate how despite being situated on a flood plain, successful adaptation-albeit reactive-has prevented impacts to the mine from a repeat flooding event, thus saving significant economic costs for the company, as well as potential impacts on the environment and surrounding communities.</p><p>In another case, anecdotal evidence suggests how a mining operation near Moranbah acted on its past experiences of flooded pits to anticipate likely impacts from a repeat flooding event in 2010-2011. As a result, the operation rented large pumps from across the region just before the floods in December 2010 (Barrett personal communication 2011). Such ''vicarious'' learning <ref type="bibr" target="#b36">(Madsen 2009)</ref>, quick thinking, and coordination helped pump floodwater out from the pits while the downpour continued and water levels in the river remained high.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion: In Situ Climate Change Adaptation in the Resources Sector</head><p>A growing body of literature emphasizes the need for industries, particularly those dependent on climate-sensitive natural resources, such as mining, forestry, and agriculture, to strengthen their adaptive capacities to address climatic variability and resulting environmental discontinuities <ref type="bibr" target="#b38">(Marshall 2010;</ref><ref type="bibr">2011)</ref>. Extreme weather events in Queensland demonstrate that the ''assumption that environmental change occurs gradually and systematically'' is ill-founded <ref type="bibr">(Linnenluecke et al. 2011a, 4)</ref>. It is therefore now more important than ever to identify mechanisms that encourage a major shift in the way climate-sensitive industries have thus far employed their resources, capacities, and ideologies to address climatic changes <ref type="bibr" target="#b26">(Howe 2011;</ref><ref type="bibr" target="#b37">Marshall 2011)</ref>.</p><p>Although the floods of <ref type="bibr">2007-2008 and 2010-2011</ref> were certainly not the most extreme events experienced in Queensland, the impacts felt by the mining industry could be expected to bring about a positive shift to the Australian mineral sector's response and preparedness toward a changing climate. However, as discussed in this section, there are questions over the extent to climatic changes may have led to any serious behavioral changes to the industry's long-term performance.</p><p>Climate change been identified as an important issue for the industry. According to an international survey highlighting the global mining industry's top ten concerns for 2011-2012, climate change was ranked eighth, with issues such as taxation, governance and regulations, and social licence to operate considered more important for the industry's future <ref type="bibr" target="#b10">(Deloitte 2010)</ref>. At the national level, the Commonwealth Scientific and Industrial Research Organisation undertook a study that surveyed members 2 of The Australasian Institute of Mining and Metallurgy (AusIMM) between February and June 2009. Interestingly the ''effects of increased climate variability and unforseen extreme weather events (e.g., drought, cyclones)'' in driving the future of Australia's minerals sector were ranked the least important among the six drivers available to respondents <ref type="bibr">(Moffat et al. 2009, 372)</ref>. This finding is especially relevant in light of the timing of the survey immediately following the flooding impacts in Queensland in 2007-2008. More recently, the Queensland Resources Council (QRC) CEO Sentiment Index (QRC 2011b, 4) measured industry chief executive officers' responses to issues likely to have ''adverse impact upon the economic, environmental and social objectives of [their] organisation over the next 12 months.'' Climate change was acknowledged as the third most important out of the eight issues considered 3 ; however, the measure referred to the potential business impact of mitigation policies (principally the implementation of a carbon emissions trading scheme) that were the subject of controversy within the industry. These surveys make clear that climate change is an issue of high concern but that these concerns are not framed around the ramifications of climate change and variability, but rather the business risks and immediate costs of mitigation policies.</p><p>Two further arguments corroborate these observations. First, testimony by mining industry representatives to the QFCI indicates that the industry in general was not well prepared for the events in 2010-2011, despite experiencing flooding in <ref type="bibr" target="#b61">2007</ref><ref type="bibr">-2008</ref><ref type="bibr">(QFCI 2012))</ref>. There was limited industry effort to obtain timely climate-related advice from the Bureau of Meteorology; certain operations '' <ref type="bibr">[were]</ref> not in possession of any specific advice in relation to weather forecasting <ref type="bibr">[and]</ref> . . . it it was not until December <ref type="bibr">[2010]</ref> that the mine(s) believed that there might be a significant wet season coming on'' <ref type="bibr">(QFCI 2011c, 3091)</ref>. For operations that received a wet season forecast at least some months before the events, and therefore could undertake appropriate planning and infrastructure upgrades, post-flood impacts demonstrate that site-level preparations were not comprehensive enough to avert losses in production and long-term water management challenges at the site (QFCI 2011c). The ongoing use of climate forecasting to prepare for potential local effects would be a clear marker of an in situ approach to adaptation.</p><p>Second, extended El Nin ˜o conditions and drought over much of the last decade affected the psychology of mine operators, requiring them to work in a water-efficient mode. Combined with a regulatory environment of stringent discharge conditions, the industry's drought-driven ''water conservation'' mind-set further constrained its ability to address the issue of changing weather patterns and subsequent excessive water management due to heavy rains and flooding. While emphasis on water conservation and reuse was a successful short-term risk management and adaptation response, it left the industry underprepared for subsequent extreme weather events.</p><p>The implementation of ''model conditions'' for mine site water release was attempt by the Queensland Government to shape a landscape-wide response that explicitly dealt with cumulative impacts of multiple mine discharges in the Fitzroy Catchment (one of the dimensions of in situ adaptation identified earlier). It too, however, prioritized short-term risk management as the ''model conditions'' reduced the adaptive capacity of mines to respond to the second wave of flooding events. What was needed for in situ adaptation was an approach that combined landscape-wide governance with risk management over a temporal horizon that accounted for climate extremes <ref type="bibr" target="#b1">(Bardsley and Rogers 2010;</ref><ref type="bibr" target="#b34">Lockwood et al. 2010;</ref><ref type="bibr" target="#b38">Marshall 2010;</ref><ref type="bibr" target="#b18">Franks 2011)</ref>. In practical terms this might have included, inter alia, identifying pragmatic discharge regulations; site-specific adaptation measures to address potential inundation and minimise disruption; the effective use of climate forecasting by mine sites; ways to address underlying tension between ecological and socioeconomic objectives; cross-jurisdictional community networks to support post-disaster recovery; action plans to strengthen sector-wide resilience and disaster management capabilities-both during floods and droughts-to prevent maladaptation; multistakeholder partnerships to address potential cumulative impacts of multiple flood-affected mines, including catchment-wide implications of uncoordinated site-level adaptation actions; more effective planning, impact assessment, and government approval processes that prioritized resilience to extreme weather; and context-relevant tools for environmental monitoring from a combined industryregulator perspective <ref type="bibr" target="#b20">(Franks et al. 2010;</ref><ref type="bibr">QFCI 2012)</ref>.</p><p>Adaptation literature widely recommends ''sensemaking'' built on previous experiences and knowledge-or lack thereof-of dealing with disasters as an effective means to encourage anticipatory adaptation <ref type="bibr" target="#b42">(Nass et al. 2005;</ref><ref type="bibr" target="#b36">Madsen 2009;</ref><ref type="bibr">Linnenluecke et al. 2011a)</ref>. Past responses to flood crises can be used ''as a surrogate or metaphor for how governments [and industries could better] respond with policy changes to the expressions of climate change in the future'' <ref type="bibr">(Penning-Rowsell et al. 2006, 323)</ref>. There is little evidence of such ''sensemaking'' following the 2007-2008 or 2010-2011 flooding events in Queensland. While there are few precedents in the resources sector to draw from to guide how the sector could build on past experiences of climatic events and develop in situ adaptation strategies, it is important that industry-and government-commit to investigate these issues further.</p><p>Finally, notwithstanding the importance of a collaborative process in developing a shared understanding of climate-related challenges to resource development, the particular case of flood impacts on Queensland mines in 2010-2011 warrants addressing a more pragmatic concern: Were these flooding events anyway too intense and too large-both spatially and temporally-to be responded to effectively? While a comprehensive response to this question is beyond the scope of this article, assuming a simple link between La Nin ˜a-and therefore, climate variability-and flooding may ignore other contributing factors, including a possible role of climate change in increasing sea surface temperatures, thereby causing high evaporation rates and extreme flooding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion and Directions for Future Research</head><p>Resource development brings change. In addition to the sustainable development challenges posed by minerals and energy extraction and processing, the resources sector must also address the interrelated phenomena of anthropogenic climate change and natural climate variability. Recent literature has raised similar concerns around the need to further examine potential impacts of natural and human-induced changes on resource-dependent industries and associated socioeconomic activities <ref type="bibr" target="#b38">(Marshall 2010;</ref><ref type="bibr">2011)</ref>. This article advances knowledge in that space by examining Queensland's recent flood events and ensuing impacts on the mining industry with reference to in situ adaptation.</p><p>The Queensland floods of <ref type="bibr">2007-2008 and 2010-2011</ref>, primarily a result of natural climatic variability, provide an opportune trigger to enthusiasm for long-term changes in the mind-set of the broader resources sector. In the same way that strategies for coping with climate variability have been argued to enhance adaptation to climate change <ref type="bibr">(Marshall 2010, 40;</ref><ref type="bibr" target="#b41">Murtinho and Hayes 2012)</ref>, adapting to climate variability may well be the discourse that the resources industry can embrace, and identify with greater ease to overcome reluctance to acceptand address-the central tenets of climate change. While the extent to which the coal mining sector can mitigate its contribution to climate change is constrained, a shift in mind-set may help the industry realize mitigation opportunities that remain underutilized (e.g., methane degassing of coal mines prior to coal extraction). The connection between an organizational shift in attitude toward climate adaptation and its positive influence in shaping mitigation strategies is an issue worthy of further research.</p><p>Furthermore, the case of Ensham demonstrates that adaptive managementalthough reactionary-at the organization level can limit the impacts of extreme weather events and minimise direct economic losses. Ensham's experiences thus provide other resource industry stakeholders valuable lessons about the process of incorporating climate variability and change in planning and managing mining operations in climate-sensitive regions in Australia and overseas. Having said that, in an increasingly variable climate, industries need to be mindful that planned adaptation to floods does not lead to unintended consequences during droughts. Identifying potential for maladaptation, although beyond the scope of this article, is an important research agenda for natural resource industries operating in a variable climate.</p><p>The enormity of the impacts of <ref type="bibr">2007-2008 and 2010-2011</ref> floods on Australian mining operations provides but one example of the many ways in which climatic changes may threaten the future viability of industries dependent on a supportive natural environment. Lessons drawn from these experiences may encourage all partners with a stake in the natural resources sector to undertake joint efforts in developing their thinking around climate-sensitive business growth and risk management in the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. Force majeure refers to a contractual clause where mining corporations announce temporary closure of their operations for reasons beyond their control (in the present case, due to extreme flood events). 2. Survey participants were members of the AusIMM, representing professionals associated with mining, exploration, and minerals processing industries. 3. The QRC identified eight broad themes of likely concerns. These were (in no particular order) global macroeconomy, input costs, social license to operate, skilled employees, climate change, industrial relations, uncertain regulation, and insufficient government resources.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Minerals industry adaptation response to a changing climate.</figDesc><graphic coords="4,74.10,73.70,357.73,149.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Coal mines located in Queensland's Bowen Basin, within the Fitzroy catchment.</figDesc><graphic coords="7,95.02,189.13,312.09,447.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>and D. M. Franks Downloaded by [University of Saskatchewan Library] at 06:07 14 March 2015 water into the local river over seven months between February and September 2008 (Delzoppo 2011).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>and D. M. Franks Downloaded by [University of Saskatchewan Library] at 06:07 14 March 2015</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded by [University of Saskatchewan Library] at 06:07 14 March 2015</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1260" xml:id="foot_1"><p>V.Sharma and D. M. Franks    Downloaded by [University of Saskatchewan Library] at 06:07 14 March 2015</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>We thank <rs type="person">Laura Sonter</rs> for assistance with the drafting of figures and <rs type="person">Professor Damian Barrett</rs> for helpful insights on the topic. The article is associated with the <rs type="funder">Australian Government's National Climate Change Adaptation Research Facility (NCCARF)</rs> project <rs type="projectName">examining climate change adaptation</rs> within the Queensland mining sector (<rs type="grantNumber">S3A FL3</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_bWJDr86">
+					<idno type="grant-number">S3A FL3</idno>
+					<orgName type="project" subtype="full">examining climate change adaptation</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">The impact of recent flood events on commodities: Special report</title>
+		<meeting><address><addrLine>Canberra, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Australian Bureau of Agricultural and Resource Economics and Sciences</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prioritizing engagement for sustainable adaptation to climate change: An example from natural resource management in South Australia</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Bardsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat. Resources</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">2008a. Central and Western Queensland floods</title>
+		<ptr target="http://www.bom.gov.au/qld/flood/fld_reports/Central_and_Western_QLD_Floods_January_2008.pdf" />
+		<imprint>
+			<date type="published" when="2013-04">April 2013</date>
+			<publisher>Bureau of Meterology (BoM</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<ptr target="http://www.bom.gov.au/qld/flood/fld_history/floodsum_2000.shtml" />
+		<title level="m">Report on Queensland floods</title>
+		<imprint>
+			<publisher>Bureau of Meterology (BoM</publisher>
+			<date type="published" when="2008-04">2008. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The foundations for responsible mining in Cambodia-Suggested approaches</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Franks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kendall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>United Nations Development Programme</publisher>
+			<pubPlace>Phnom Penh, Cambodia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The environment as hazard</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>White</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Guilford Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The need for rethinking the concepts of vulnerability and risk from a holistic perspective: A necessary review and criticism for effective risk management</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Cardona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping vulnerability: Disasters, development and people</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Bankoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Frerks</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hilhourst</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Earthscan</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="37" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Records broken in Queensland&apos;s mining and exploration figures</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>D'arcy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Queensland Gov. Mining J</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Davies</surname></persName>
+		</author>
+		<ptr target="http://www.brisbane.foe.org.au/content/queensland-government-negligent-mines-release-toxins-flood-waters" />
+		<title level="m">Queensland Government negligent as mines release toxins into flood waters</title>
+		<imprint>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Climate change adaptation, disaster risk reduction and social protection</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oswald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Brighton, UK</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Development Studies, The University of Sussex</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><surname>Deloitte</surname></persName>
+		</author>
+		<ptr target="http://www.deloitte.com/assets/Dcom-Australia/Local%20Assets/Documents/Services/CRG/Businesses%20under%20receivership/CopperCo%20Limited/11%20February%202010%20_2_.pdf" />
+		<title level="m">Copperco and Lady Annie Mine: Environmental remediation</title>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><surname>Deloitte</surname></persName>
+		</author>
+		<ptr target="http://www.deloitte.com/assets/Dcom-Australia/Local%20Assets/Documents/Industries/Energy%20and%20resources/Tracking_the_trends_2011.pdf" />
+		<title level="m">The top 10 issues mining companies will face in the coming year. Deloitte Global Services Limited</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. 2011. April 2013</date>
+		</imprint>
+	</monogr>
+	<note>Tracking the trends</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A study of the cumulative impacts on water quality of mining activities in the Fitzroy River Basin</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Delzoppo</surname></persName>
+		</author>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/media/mine-discharges-4-december.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Department of Natural Resources and Mines. 2010b. Close watch to be kept on Ensham Mine water release</title>
+		<meeting><address><addrLine>Brisbane, Australia; Brisbane, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-04-04">2011. 2009. 4 April 2013. April 2013. 2011. December 2010. April 2013</date>
+		</imprint>
+	</monogr>
+	<note>Department of Natural Resources and Mines Department of Environment and Resource Management Department of Natural Resources and Mines. 2010a Climate change in Queensland: What the science is telling us Queensland Climate Change Centre of Excellence The management of mine water quality in the Fitzroy River Basin Department of Natural Resources and Mines</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Disaster operations activity report 1 January to 30</title>
+		<ptr target="http://www.disaster.qld.gov.au/Disaster%20Resources/Documents" />
+		<imprint>
+			<date type="published" when="2008-01">2008. June 2008. Jan-Jun% 202008. April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Emergency Management Queensland</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ensham Resources. 2008a. A collaborative approach to recovery from an unprecedented natural event</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+		<idno>06:07 14</idno>
+		<ptr target="http://www.ensham.com.au/updated/pdf/" />
+	</analytic>
+	<monogr>
+		<title level="m">Ensham%20flood%20review%2014FEB2008%20FINAL</title>
+		<imprint>
+			<date type="published" when="2008-04-10">March 2015. 10 April Ensham Resources. 2008. 10 April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Saskatchewan Library</orgName>
+		</respStmt>
+	</monogr>
+	<note>Presentation to Fitzroy Flood Forum b. Ensham Mine conducts flood review</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feary</surname></persName>
+		</author>
+		<ptr target="http://www.longwalls.com/storyview.asp?StoryID=171668" />
+		<title level="m">Possessions lost, strength found</title>
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Feary</surname></persName>
+		</author>
+		<ptr target="http://www.ensham.com.au/updated/pdf/Rising" />
+		<title level="m">%20above%20the%20flood%20AMM%20JULY2008.pdf</title>
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+		</imprint>
+	</monogr>
+	<note>Rising above the flood</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Scientists see climate change link to Australian floods</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fogarty</surname></persName>
+		</author>
+		<ptr target="http://www.reuters.com/article/2011/01/12/us-climate-australia-floods-idUSTRE70B1XF20110112" />
+		<imprint>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Emptying Queensland&apos;s flooded mines</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Franks</surname></persName>
+		</author>
+		<ptr target="http://abc.net.au/unleashed/43128.html" />
+	</analytic>
+	<monogr>
+		<title level="j">ABC News</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sustainable development principles for the disposal of mining and mineral processing wastes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Franks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mulligan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resources Policy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="114" to="122" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Managing the cumulative impacts of coal mining on regional communities and environments in Australia</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Franks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brereton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Moran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Impact Assess. Project Appraisal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="299" to="312" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Evidence of unusual late 20th century warming from an Australasian temperature reconstruction spanning the last millennium</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gergis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neukom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Phipps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J E</forename><surname>Gallant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Karoly</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/JCLI-D-11-00649.1</idno>
+		<ptr target="http://dx.doi.org/10.1175/JCLI-D-11-00649.1" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Climate</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Surprise as a catalyst for including climate change in the strategic environment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Society</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="120" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Review of the Fitzroy River water quality issues</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pascoe</surname></persName>
+		</author>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/pdf/fitzroyriverwaterqualityreport.pdf" />
+		<imprint>
+			<date type="published" when="2008-04-10">2008. 10 April 2013</date>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Environment and Resource Management</orgName>
+		</respStmt>
+	</monogr>
+	<note>Report to Queensland Premier</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Climate adaptation in the Australian mining and exploration industries</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>CSIRO Climate Adaptation Flagship Working paper no</publisher>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoshowsky</surname></persName>
+		</author>
+		<ptr target="http://www.resourceinfocus.com.au/index.php/2011/02/19/flooding-impact" />
+		<title level="m">Counting the cost of Australia&apos;s flooded mines. Australian Resource Focus Magazine</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Hurricane preparedness as anticipatory adaptation: A case study of community businesses</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Howe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="711" to="720" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Relative impacts of human induced climate change and natural climate variability</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Downing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">397</biblScope>
+			<biblScope unit="page" from="688" to="691" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The epistemology of climate change: Some morals for managers</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jamieson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat. Resources</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="319" to="329" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Riskgate: Promoting and redefining best practice for risk management in the Australian coal industry</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sprott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">12th Coal Operators&apos; Conference</title>
+		<meeting><address><addrLine>Wollongong, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="315" to="325" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Wollongong &amp; The Australasian Institute of Mining and Metallurgy</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Adaptation to climate change: Key terms</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Levina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tirpak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>OECD</publisher>
+			<pubPlace>Paris, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lewis</surname></persName>
+		</author>
+		<ptr target="http://www.abc.net.au/news/stories/2010/12/01/3081591.htm" />
+		<title level="m">Ensham Mine Avoids Repeat of Disastrous 2008 Floods. ABC News</title>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Extreme weather events and the critical importance of anticipatory adaptation and organisational resilience in responding to impacts</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Linnenluecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winn</surname></persName>
+		</author>
+		<idno>doi: 10.1002=bse.708</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Business Strat. Environ</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">2011b. Firm relocation as adaptive response to climate change and extremes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Linnenluecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stathakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="123" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Governance principles for natural resource management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stratford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat. Resources</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="986" to="1001" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Big wet threatens coal exports, again</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ludlow</surname></persName>
+		</author>
+		<ptr target="http://www.afr.com/p/national/big_wet_threatens_coal_exports_again_5XoLW9aUOxlNJpx" />
+	</analytic>
+	<monogr>
+		<title level="j">Australian Financial Review</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">These lives will not be lost in vain: Organizational learning from disaster in U.S. coal mining</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Madsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Sci</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="861" to="875" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Assessing resource dependency on the rangelands as a measure of climate sensitivity</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Marshall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat Resources</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1105" to="1115" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Understanding social resilience to climate variability in primary enterprises and industries</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Marshall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="36" to="43" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Risk reduction through early assessment and integration of sustainability in design in the minerals industry</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Mclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Corder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2012.02.014</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.jclepro.2012.02.014" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Cleaner Production</title>
+		<imprint>
+			<date type="published" when="2012-04-10">2012. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Preparing for uncertain mineral futures-A survey of AusIMM members on the future issues and drivers for the Australian Minerals Industry</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable development indicators in the minerals industry (SDIMI)</title>
+		<meeting><address><addrLine>Gold Coast, Queensland, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>AusIMM</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="369" to="376" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Adaptation in resource-dependent communities: A Call for greater methodological clarity in adaptation field research</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Murtinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society Nat. Resources</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="513" to="522" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Institutional adaptation to climate change: Flood responses at the municipal level in Norway</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vevatne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="125" to="138" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Adapting to climate change: A guide for the mining industry</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schuchard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>BSR Industry Series</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nicholls</surname></persName>
+		</author>
+		<ptr target="http://www.abc.net.au/unleashed/42858.html" />
+		<title level="m">The strongest La Nin ˜a on record?: The Drum opinion. ABC News</title>
+		<imprint>
+			<date type="published" when="2011-04-10">2011. 10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The view from the front line: Adapting Australia to climate change</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palutikof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="218" to="219" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Canziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palutikof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<title level="m">Contribution of Working Group II to the fourth assessment report of the Intergovernmental Panel on Climate Change</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig. Adap. Strat. Global Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="347" to="368" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Signals&apos; form pre-crisis discourse: Lessons from UK flooding for global environmental policy change?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Penning-Rowsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tunstall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="323" to="339" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Ensham&apos;s comeback king dragline</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Price</surname></persName>
+		</author>
+		<ptr target="http://www.longwalls.com/storyview.asp?storyid=560735" />
+	</analytic>
+	<monogr>
+		<title level="j">International Longwall News</title>
+		<imprint>
+			<date type="published" when="2009-04">2009. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><surname>Pricewaterhousecoopers</surname></persName>
+		</author>
+		<ptr target="http://www.pwc.com.au/about-us/flood-support/assets/Economic-Impact-Qld-Natural-Disasters.pdf" />
+		<title level="m">Economic impact of Queensland&apos;s natural disasters</title>
+		<imprint>
+			<date type="published" when="2011-04">2011. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0006/8781/QFCI-Interim-Report-August-2011.pdf" />
+		<title level="m">Queensland Floods Commission of Inquiry. 2011a. Interim report</title>
+		<imprint>
+			<date type="published" when="2013-04-08">8 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0013/9400/2011-09-19-QFCI-Day-32-Brisbane.pdf" />
+		<title level="m">Transcript of proceedings: Day 32</title>
+		<imprint>
+			<publisher>Queensland Floods Commission of Inquiry</publisher>
+			<date type="published" when="2011-04-08">2011. 8 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/pdf_file/0007/9529/2011-09-22-QFCI-Day-35-Brisbane.pdf" />
+		<title level="m">06:07 14 March 2015 Queensland Floods Commission of Inquiry. 2011c. Transcript of proceedings: Day 35</title>
+		<imprint>
+			<date type="published" when="2013-04">April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Saskatchewan Library</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Queensland Reconstruction Authority. 2011. Rebuilding a stronger, more resilient Queensland</title>
+	</analytic>
+	<monogr>
+		<title level="m">Final report</title>
+		<meeting><address><addrLine>Brisbane, Australia; Brisbane, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Queensland Floods Commission Inquiry</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Queensland Resources Council. 2011a. Minerals sector statement of principles on climate change policy</title>
+		<imprint>
+			<pubPlace>Brisbane, Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">QRC CEO Sentiment Index</title>
+		<ptr target="http://www.qrc.org.au/_dbase_upl/JuneQuarter_2011_web.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">QRC State of the Sector June Quarter</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011-04-08">2011. 8 April 2013</date>
+			<publisher>Queensland Resources Council</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Queensland: Diverse economy</title>
+		<ptr target="http://www.floodcommission.qld.gov.au/__data/assets/file/0006/9456/Ritchie_Stuart.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Statement of Stuart John Ritchie (in the Matter of the Queensland Floods Commission of Inquiry)</title>
+		<meeting><address><addrLine>Brisbane, Australia. Rio Tinto Coal Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011-04">2012. 2011. April 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Queensland Treasury Corporation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Adaptation to climatic variability and change: Report of the Task Force on Climatic Adaptation. Occasional paper</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Guelph, Ontario, Canada</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Geography, University of Guelph</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The science of adaptation: A framework for assessment</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J T</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Street</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig. Adapt. Strat. Global Change</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="199" to="213" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Adaptation, adaptive capacity and vulnerability</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wandel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="282" to="292" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Governing climate adaptation in the local arena: Challenges of risk management and planning in Sweden</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Storbjork</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Local Environ. Int. J. Justice Sustain</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="457" to="469" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Vulnerability of eco-environmental health to climate change: The views of government stakeholders and other specialists in Queensland</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcrae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australia. BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">441</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Deluge halts mining operations. 31 December</title>
+		<ptr target="http://www.theaustralian.com.au/news/gallery-0-1225979001621?page=5" />
+	</analytic>
+	<monogr>
+		<title level="m">The Australian</title>
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The use of real options valuation methodology in enhancing the understanding of the impact of climate change on companies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tyler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chivaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Strat. Environ</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="55" to="70" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<ptr target="http://unfccc.int/essential_background/convention/background/items/2536.php" />
+		<title level="m">Article 1: Definitions</title>
+		<imprint>
+			<publisher>UNFCCC</publisher>
+			<date type="published" when="2013-04-10">10 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

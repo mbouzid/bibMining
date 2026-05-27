@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Qi no tu i baba ni qwali (living down by the river): Impacts of flooding and mining on ecosystems and livelihoods</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-07-28">28 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rufino</forename><surname>Varea</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Agriculture, Geography</orgName>
+								<orgName type="department" key="dep2">Environment, Ocean and Natural Sciences</orgName>
+								<orgName type="institution">The University of the South Pacific</orgName>
+								<address>
+									<settlement>Suva Fiji</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renata</forename><surname>Varea</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Romitesh</forename><surname>Kant</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Agriculture, Geography</orgName>
+								<orgName type="department" key="dep2">Environment, Ocean and Natural Sciences</orgName>
+								<orgName type="institution">The University of the South Pacific</orgName>
+								<address>
+									<settlement>Suva Fiji</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Pacific Affairs</orgName>
+								<orgName type="institution">National University</orgName>
+								<address>
+									<settlement>Canberra</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Institute for Human Security</orgName>
+								<orgName type="institution" key="instit2">La Trobe University</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<region>VIC</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Trisia</forename><surname>Farrelly</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Political Ecology Research Center</orgName>
+								<orgName type="institution">Massey University</orgName>
+								<address>
+									<settlement>Palmerston North</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kum</forename><forename type="middle">Fai</forename><surname>Yuen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jose</forename><surname>´pinho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><surname>Wu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rufino</forename><surname>Varea</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">University of Minho</orgName>
+								<address>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Qi no tu i baba ni qwali (living down by the river): Impacts of flooding and mining on ecosystems and livelihoods</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-07-28">28 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9C81B72454431BD0456766B102E47F3A</idno>
+					<idno type="DOI">10.3389/fmars.2022.954062</idno>
+					<note type="submission">This article was submitted to Marine Affairs and Policy, a section of the journal Frontiers in Marine Science RECEIVED 26 May 2022 ACCEPTED 01 July 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>marine governance</term>
+					<term>livelihoods</term>
+					<term>flooding</term>
+					<term>mining</term>
+					<term>Fiji</term>
+					<term>Pacific island communities</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A vast ocean rich with resources to maintain a sustainable livelihood surround Pacific Island Countries and Territories. In Fiji, coastal resources are a primary source of food, medicine, income and other necessities for livelihood security. Human-induced climate change places growing pressure on the quality of coastal resources due to the increased intensity and frequency of natural disasters like coastal erosion and flooding. Anthropogenic activities like coastal mining of earth minerals further threatens livelihood security with cumulative pressure on the coastal environment and its resources. This paper discusses the compounding impacts of mining in the flood-prone community of Vanua Votua in Ba (Fiji). They currently witness the degradation of their coastal environment and its resources (iqoliqoli). The people of Vanua Votua have a cultural and spiritual attachment to their coastal ecosystem as indigenous custodians. However, they are limited in their ability to conserve and protect their iqoliqoli due to an unfair legal duality of national coastal governance structures and processes between the state and indigenous custodians. We found that a central issue of coastal mining, governance, and the people's livelihood vulnerabilities, is Fiji's Mining Act [Cap 146] and associated environmental legislations and policies that consolidate much of the coastal governance authority with the state. The Fiji Mining Act is currently under review. This paper provides a timely case study using the Sustainable Livelihood Approach and the Vanua Research Framework, outlining the need for current and future legislation to be nuanced and sensitive to the realities of the local context.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The state of livelihood is a crucial determinant of human survival. Livelihoods for people in Pacific Island Countries and Territories (PICTs) are influenced by broad factors ranging from opportunities for national growth to losses caused by climate change and other associated anthropogenic activities. Livelihoods comprise the capabilities, assets (material and social resources/capital) and activities required for a means of living <ref type="bibr" target="#b49">(Serrat, 2017)</ref>. A livelihood is considered sustainable when it can recover from trends, stress, and shocks and maintain or enhance its capabilities and assets while not undermining the natural resource base (United Nations Office for Disaster Risk Reduction, 2005). People's livelihood vulnerabilities to trends, stress, shocks and seasonality are determined by the type of exposure and their livelihood resilience to those factors <ref type="bibr" target="#b54">(Su et al., 2009)</ref>. Coastal communities in PICTs are exposed to livelihood vulnerabilities exacerbated by the national ambitions to increase development like mining activities.</p><p>Flooding and mining impacts on a coastal community is the central focus of this paper as it risks the erosion of sustainable livelihoods in Fiji. This paper examines the livelihood status in Vanua Votua in the Province of Ba, Fiji. Vanua Votua is located along the Ba River in Fiji and is prone to flooding. The communities' experiences of flooding are further compounded by current mining operations in their coastal waters threatening the reduction and loss of crucial capital assets intricately linked to the state of their customary marine areas (iqoliqoli) and the ecological services it provides. At the heart of these challenges, central legislation is Fijis' Mining Act <ref type="bibr">[Cap 46</ref>]. The Mining Act is currently under review to align it with Fiji environmental legislation that can determine future livelihood outcomes for Vanua Votua.</p><p>The Sustainable Livelihoods Approach (SLA) was employed to consider the capital assets (physical, social/human, economic/ financial and environmental) presently available to the coastal community of Vanua Votua and included the research participants' reflections on livelihood vulnerabilities in June and November 2019, and June 2020. The Vanua Research Framework (VRF) principles and processes were used to guide how the data informs the SLA whilst maintaining justice and nuance to the research contributors' narratives. The VRF, as described by <ref type="bibr" target="#b37">Nabobo-Baba (2008)</ref>, is a theoretical approach embedded in Indigenous Fijian (iTaukei) worldviews, knowledge systems, lived experiences, representations, cultures and values. This iTaukei research framework recognizes that power relationships are informed by research and knowledge accumulation in its broadest sense <ref type="bibr" target="#b51">(Smith, 2004)</ref>. This is particularly important in bridging an essential shortcoming, recognized by <ref type="bibr" target="#b22">Haan (2012)</ref>, where power relations are neglected due to the assumed non-ideological, apolitical and euro-centric context in which the SLA was first developed. Despite these shortcomings, SLA remains valid for the purposes of this study, for considering the details of rural people's livelihoods and the broader context in which those livelihoods operate.</p><p>For PICTs like Fiji, the Ocean and its resources contribute to food security, socioeconomic livelihood resilience, social identities and traditional practices or beliefs <ref type="bibr" target="#b10">(Dacks, 2018)</ref>. About 91% of Fiji's population dwells within 10 km of the coast, and like the majority of the region's populations in PICTs, they rely on coastal resources for a sustainable livelihood <ref type="bibr" target="#b0">(Andrew et al., 2019;</ref><ref type="bibr">Moody Analytics, 2022)</ref>. Fijians depend on coastal ecosystems like mangrove forests <ref type="bibr" target="#b15">(Ellison and Fiu, 2010;</ref><ref type="bibr" target="#b59">Veitayaki et al., 2017)</ref>, coral reefs <ref type="bibr">(Dutra et al., 2018)</ref>, and seagrass meadows <ref type="bibr" target="#b62">(Waycott et al., 2011)</ref> which are important habitats for target resources which they use to meet or maintain a level of subsistence, and income generation <ref type="bibr" target="#b26">(Johnson et al., 2018)</ref>. The use of marine flora is also essential as it has broad uses as a staple for balanced nutritional diets, medicinal purposes, or even to predict extreme natural phenomena <ref type="bibr">(Kitolelei et al., 2021)</ref>.</p><p>Conversely, flooding and mining activities pose multiple challenges that hinder human security and environmental sustainability and lead to livelihood crises. With humaninduced climate change, the increased intensity and frequency of natural disasters like flooding will drastically jeopardize the ability of coastal communities to avoid the clutches of livelihood vulnerabilities. The threat of coastal erosion and the degradation of the surrounding ecological resources/services poses high risks to livelihood security due to loss of livelihood capital assets or reduced quality and a lack of adaptation options <ref type="bibr" target="#b33">(McLeod et al., 2019)</ref>. Livelihood vulnerabilities may exist in the form of mangrove destruction to develop physical structures, coastal mining of earth minerals, overexploitation of marine resources, and poor waste management or disposal <ref type="bibr" target="#b32">(Mangubhai et al., 2019)</ref>. Climate change further threatens the livelihoods of Fijians and the economy, damaging infrastructure, placing pressure on the health care system and financing institutions, and costing the country more than 5% in GDP losses <ref type="bibr">(ACP-EU Natural Disaster Risk Reduction Program, 2017;</ref><ref type="bibr">The Fijian Government, 2021b)</ref>.</p><p>In Fiji, livelihood security strategies in traditional settings are centered on organized communal governance systems and interdependencies through collateral kinships across villages and districts or provinces <ref type="bibr" target="#b57">(Tuwere, 2002)</ref>. The interconnectedness of these communal governance systems, people's traditional sacred attachments to the land, Ocean, resources, and the social identities, roles, and relationships (beyond spatial boundaries) are called the Vanua (hereafter italicized to specifically emphasize and reference the style of use in the paper). Vanua (non-italicized use in the paper) may also specifically refer to the land, its resources and its inhabitants <ref type="bibr" target="#b37">(Nabobo-Baba, 2008)</ref>. The iTaukei upholds the Vanua as sacrosanct. Communal governance systems follow a hierarchical structure (not vertically fixed) where a chief leads the Vanua. In a communal setting, traditional roles for fulfilling specific tasks are assigned to certain groups of people <ref type="bibr" target="#b16">(Eti-Tofinga et al., 2017)</ref>. For example, a group is tasked to harvest food, while another group tills and maintains the land, and another may guard the village or serve the chiefly household. Although these tasks differ among groups, they all aim to fulfil a common goalimproving and preserving the community's life and the Vanua <ref type="bibr" target="#b37">(Nabobo-Baba, 2008)</ref>. Indigenous communities in Fiji follow traditional protocols or customary rules that they are expected to abide by while being part of the village (Koro), district (tikina) or province (yasana). These rules establish and regulate physical boundaries such as a marine protected area. These include banning the harvest of certain food fishes for a specific period (e.g. the death of a chief), or restricting access to certain areas, including the consumption of certain marine animals due to their sacred or totemic roots <ref type="bibr" target="#b56">(Thaman et al., 2017)</ref>. Such social contracts over capital assets, customary policies, and traditional institutions may determine livelihood outcomes (e.g. sustainable use of the natural resource, improved well-being, reduced vulnerabilities, and food security).</p><p>In some instances, the efficacy of customary regulations and traditional institutions within coastal communities may influence livelihood vulnerabilities depending on execution and outcome <ref type="bibr" target="#b39">(Neef et al., 2018)</ref>. Customary law and traditional administrative systems were recognized and enshrined in Fiji's 1990 constitution, which empowered Indigenous leaders to implement regulations that protected the Vanua if a Parliamentary Act did not otherwise provide them. Although recognition of customary laws is excluded from the present constitution <ref type="bibr" target="#b3">(Care, 2000)</ref>, Indigenous customs, values and ownership rights to self-determination are protected. The constitutional protection empowers the Indigenous people to develop adaptive capacities/strategies for livelihood security as most applicable and reasonable to their present realities. However, given that the state now assumes much governance authority through formal law to regulate land/marine areas and their resources, livelihood vulnerabilities can manifest beyond traditional or customary structures and systems, particularly for coastal communities.</p><p>The coastal marine areas (from foreshore to the outer reefs) are managed through a legal duality of conventional and statutory systems <ref type="bibr" target="#b32">(Mangubhai et al., 2019)</ref>. In essence, governance of Fiji's coastal and marine ecosystems is guided by a modern legal framework based on English common law (in use since Fiji's cession to Britain in 1874) and a traditional Indigenous system of governance deeply rooted in Fijian history and customs <ref type="bibr" target="#b30">(Ledua, 1995;</ref><ref type="bibr">Calamia, 2004;</ref><ref type="bibr" target="#b35">Mimura, 2008;</ref><ref type="bibr">Muehlig-Hofmann, 2008)</ref>. Before Fiji's cession, native land (Vanua) and coastal ecosystems (iqoliqoli) were held under customary communal law. Post-cession introduced the common law doctrine of public trust <ref type="bibr" target="#b50">(Sloan and Chand, 2016)</ref>, thus establishing crown (state) ownership of the sea, the shores, and the natural resources. The recognition of Indigenous land ownership titles in the Ai Vola Ni Kawa Bula (a legal register of Indigenous land titles) is enshrined within the Fijian constitution. Indigenous land is regulated under the Native Lands Act [Cap 133]; however, the State reserves authority and control over Fiji's foreshores, seabed and all its resources/ minerals. Customary rights of people recognized by the state for access within the iqoliqoli are only limited to fishing rights.</p><p>The legal duality of governance and management over coastal areas and resources has had successes and challenges at Fiji's national and local levels. Many iTaukei customary practices over marine areas have directly or indirectly intended to improve resource management or enable ecological protection. The government made bold environmental commitments by setting its mark as a climate champion within the international arena. Fiji was the first nation to ratify the Paris Agreement. The government recently passed the Climate Change Act 2021, which institutes a national response plan to climate change, including a system of measurement, reporting and verification of greenhouse gas emissions (The Fijian Government, 2021a). More importantly, the Climate Change Act establishes the National Ocean Policy, which aims to designate 30% of the country's exclusive economic zone as offshore marine protected areas (MPAs) by 2030.</p><p>Climate change exacerbates natural phenomena in the Pacific, such as more destructive coastal erosion due to sealevel rise (projected to rise between 5 -15 cm by 2030) and increased intensity and frequency of tropical cyclones <ref type="bibr" target="#b61">(Waqaicelua et al., 2014)</ref>. These extreme natural events threaten the livelihoods of coastal people in Fiji and other PICTs. In 2014, the people of Vunidogoloa Village in the province of Cakaudrove were relocated (in a planned effort) from their traditional home due to coastal erosion and other socioeconomic factors, including limited access to services and its geographic isolation from road and public transportation <ref type="bibr" target="#b34">(McMichael and Powell, 2021)</ref>. However, there are instances where such relocation of villagers was unplanned, like the Tukuraki Village in the Ba Province <ref type="bibr" target="#b8">(Coca, 2021)</ref>. In 2017, Tukuraki villagers were relocated to the greater Yakete district because of a landslide that devastated their Vanua (Secretariat of the Pacific Community, 2021). <ref type="bibr" target="#b42">Piggott-McKellar et al. (2019)</ref> found that village relocation for the Vunidogoloa and Denimanu (on Yadua Island) negatively affected livelihood capital assets, such as reduced access to the Ocean for fishing (natural capital), resulting in a great spiritual detachment to their cultural totems in the Ocean. Also, community cohesion between relocated and non-relocated villages was evident (social capital), in addition to limited communal infrastructure, no drainage system or kitchens and leaking walls (physical capital) <ref type="bibr" target="#b42">(Piggott-McKellar et al., 2019)</ref>. Fijians undoubtedly have a profound connection (culturally, ecologically, economically and spiritually) to their Vanua, which forms unquestionably much of their social or livelihood identity. <ref type="bibr" target="#b20">Frank et al. (2011)</ref> argue that communities' social identities play a decisive role in climate risk perception and adaptive ability by facilitating boundary organizations' roles in adaptation. Consequently, social identities enable the capacity to build resilience and significantly reduce livelihood vulnerabilities in the face of climate change.</p><p>In addition to climate change, anthropogenic activity for economic advancement may degrade the natural environment. Extractive industries like mining are of particular concern as more foreign investment companies have turned their attention to the mineral-rich PICTs. In 2019, Fiji's mining and quarry sector saw a decline of 6% in real gross value-added growth rates, contributing to less than 1% of Fiji's GDP <ref type="bibr">(Fiji Bureau of Statistics, 2022)</ref>. Nevertheless, foreign investment in mining and the issuance of mining licenses is expected to increase due to foreign interest in Fiji's mineral resources <ref type="bibr" target="#b29">(Kumar, 2021)</ref>. The mining of iron ore from magnetite sand (commonly referred to as black sand) is observed in some coastal areas in Fiji, more infamously in the delta areas of Sigatoka and Ba Rivers. Media reports of environmental degradation and pushback by local community members due to reduced ecological quality and lack of public consultations have been widely acknowledged <ref type="bibr">(Wheeling, 2017;</ref><ref type="bibr" target="#b11">Devi, 2018;</ref><ref type="bibr" target="#b6">Chaudhary, 2020;</ref><ref type="bibr" target="#b53">Srinivasan, 2020;</ref><ref type="bibr" target="#b63">Wiseman, 2021)</ref>. The problem of coastal mining in Fiji is of particular interest due to the complexities of the legal duality of governance over iqoliqoli areas. Mining and quarrying are regulated under the Mining Act [Cap 146] and the Environment Management Act of 2005. The Fiji Mining Act states that mineral extraction, no matter where it is located, shall remain the inalienable property of the Crown:</p><p>"All minerals of every description, including crude oil … in or under all lands of whatsoever ownership or tenure and in whosesoever possession or enjoyment they may be, are, and shall always be deemed to have been, the property of the Crown and shall be deemed not to have been parted with under any alienation, dedication, lease, license or permit of such lands save in so far as such rights may, in any case, have been limited by any express grant made before the commencement of this Act".</p><p>The Environment Management Act requires that all activities related to mining and quarrying require an environmental impact assessment (EIA). However, these legislations make no mention of public consultation unless the activity disturbs surface land occupied by persons within 30 m of the activity site or if a person or landowning unit holds that surface land. Importantly, EIAs do not currently account for marine ecosystems' dynamic and complex nature, the inter-relationships between marine and other ecosystems, or that marine ecosystems may be differently subjected to multiple stressors <ref type="bibr" target="#b56">(Thompson et al., 2018)</ref>. The complex, holistic, temporal, and inter-relational approach missing from EIAs is the embodiment of Vanua. Furthermore, mining and quarrying fall under the definition of "development activity or undertaking" in the Environment Management Act, and therefore, the Environmental Management Unit has oversight over the requirements of an EIA. These Acts establish a Community Unit under the Mineral Resource Department; however, community consultations are optional under the Act and EIA guidelines <ref type="bibr">(Social Empowerment and Education Program, 2019)</ref>.</p><p>The coastal environment remains one of Fiji's most utilized and vulnerable natural systems. Subsistence fisheries account for over 30% of the Fiji fisheries sector output (Ministry of Fisheries, 2019). A gender-focused community study by <ref type="bibr" target="#b44">Ram-Bidesi (2015)</ref> in Fiji found that nearshore resources are generally over-exploited by the more prominent industries (commercial fisheries, mineral extractions, tourism), allowing for only a small group of fisherwomen (20%) to regularly fish for subsistence needs. Small-scale fisheries play an important role in poverty reduction and food security yet are often overlooked and undervalued in management and policy <ref type="bibr" target="#b23">(Harper et al., 2013)</ref>. While legislations like the Environment Management Act and Mining Act are comprehensive, the processes and outcomes of mining may be detrimental to the security of livelihoods for affected coastal communities, exacerbating their vulnerabilities to climate change and determining the realities/outcomes of their experiences.</p><p>This paper examines the livelihoods status in Vanua Votua in Ba Province, Fiji by discussing livelihood vulnerabilities, adaptation approaches to climate change-driven flood events and the effects of mining. This study presented the narratives and lived realities of the people of Vanua Votua in light of how governance structures (traditional and formal institutions) and processes (customary and State-sanctioned policies) of Vanua Votua's customary marine area (iqoliqoli) have shaped the livelihood realities of its people.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study area of Vanua Votua</head><p>The study area (Figure <ref type="figure" target="#fig_0">1</ref>) is located to the northwest of Viti Levu in the Ba Province, which has the densest provincial population in Fiji (28% of Fiji's total population) (Fiji Bureau of Statistics, 2017). Over 31% of the people of Ba reside in rural areas, including the Ba River banks and floodplains. Ba Province also holds the most extensive mangrove wetlands in Fiji <ref type="bibr" target="#b59">(Veitayaki et al., 2017)</ref>. The communities rely on mangrove forests, rivers, and coastal environment resources <ref type="bibr">(Social Empowerment and Education Program, 2019)</ref>. Vanua Votua comprises seven villages, although the scope of the fieldwork included only three of the villages (Votua, Nawaqarua, and Natutu). The selection of these three sites was based on their reasonable accessibility, and the three communities constituted the largest co-sharers and custodians of the iqoliqoli. The three study areas maintain dependence on the marine resources for livelihood security but experience the impacts of flooding and the repercussions of the mining activity in the Ba River delta.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The sustainable livelihood approach and Vanua research framework</head><p>This study considers the SLA, as first described by <ref type="bibr" target="#b4">Chambers and Conway (1992)</ref>, to determine the direction in which the people's livelihoods of Vanua Votua are headed in the face of climate change and the impacts of local mining activity within their iqoliqoli. The definition of sustainable livelihoods coalesces several strands. On the one hand, there is a requirement for livelihoods to be able to recover from "stress and shocks" but also to be able to "maintain and enhance" capabilities and assets in the future <ref type="bibr" target="#b36">(Morse et al., 2009)</ref>. The SLA identifies five variable capitals necessary for determining the state of one's livelihood. Natural capital includes natural resource stocks and environmental services, while human capital describes skills, knowledge, and labor <ref type="bibr" target="#b55">(Tao and Wall, 2009)</ref>. Social networks, shared values/ behaviors, standard rules/sanctions, and kinship determine social capital. Finally, physical capitals are infrastructures and technologies or production technologies, whereas economic/financial capital is savings, cash flows and other economic assets <ref type="bibr" target="#b49">(Serrat, 2017)</ref>. The vulnerabilities context is characterized as insecurity in the well-being of individuals, households and communities in the face of changes in their external environment. This approach to measuring vulnerabilities is essential because it captures shocks (e.g. conflict, floods, storms, droughts, and diseases), seasonality (e.g. prices and employment opportunities) and critical trends (e.g. environmental, economic, governance and technological changes/turnovers). Indeed livelihood strategies and outcomes can also transform through structures and processes of institutions and policies and are not solely the product or result of access/entitlement to capital assets or constrained by the vulnerabilities context <ref type="bibr" target="#b49">(Serrat, 2017)</ref>. The VRF principles and processes (Nabobo-Baba, 2008) were incorporated to establish two main elements. Firstly, the positionality of the first two authors conducting the fieldwork with community members. Secondly, ensuring that the unpacking of the narratives and experiential knowledge exchange of the iTaukei in the study are sensitive to cultural and traditional values and appropriately nuanced when situated within the SLA.</p><p>The SLA is applied to the background of Vanua Votua, guided by the principles and processes of the VRF, and considers the community's capital assets. Another critical consideration is the vulnerability context of climate changeinduced flooding and mining operations in the area. Map of Ba province (including the study sites of Votua, Nawaqarua, and Natutu villages) produced using QGIS <ref type="bibr">(QGIS Development Team, 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Talanoa research method according to the Vanua research framework</head><p>Talanoa research method is an approach that removes the distance between researcher and participant and provides research participants with a human face they can relate to <ref type="bibr" target="#b58">(Vaioleti, 2016)</ref>. <ref type="bibr" target="#b36">Morrison et al. (2002)</ref> explain that this is an ideal research method because a relationship is a foundation on which most Pacific activities are built. Talanoa is different to narrative research as participants in a Talanoa group will provide a challenge or legitimation to one another's stories and shared information.</p><p>A sevusevu (ceremonial kava presentation to seek permission to enter and stay/work in the Vanua) and i tatau (ceremonial kava presentation upon completion of the stay/work) was presented to the Turaga ni koro (village headman). A vakavinavinaka (customary demonstration of appreciation) was given to the study participants. Ethnographic methods <ref type="bibr" target="#b50">(Skinner, 2013)</ref> were employed to conduct this study qualitatively, and a Talanoa research method was used to gather data. The ethnographic approach is a research method in anthropology which involves extended immersion in a culture and participation in its day-to-day activities <ref type="bibr">(Calhoun, 2002)</ref>. The first two authors stayed in Vanua Votua on multiple occasions in a year from 2018 to 2020, each experience lasting from a week to a month. As Indigenous Fijians, they were familiar with the expected traditional protocols and customary practices and appreciated the value of connectedness between villagers and the Vanua. The ethnographic approach was necessary for providing the desired narratives, in contrast to the more common behavioral intervention studies of social ecology, intending to make any recommendations as relevant as possible to individuals' lives in the village. The researchers interacted and observed (collectively as Talanoa) local fishers, village elders and community members. The Talanoa sessions were recorded; daily personal notes, field notes, and observations are the results of data collecting. Some of the Talanoa sessions were conducted in stages, considering the participants' working hours and daily routines.</p><p>Approximately 70% of the participants of this study were women because of their availability and the fact that they utilized marine resources for their livelihood and food security. Participants clarified that although men were employed in private businesses or the civil service in the municipal areas, they still utilized the marine ecosystems on their days off work. The formal Talanoa sessions (under free, prior and informed consent) for this study were conducted on three different occasions with different villagers/participants. The first in June of 2019, the second in November of 2019 and the third in June of 2020. Forty-five male and female participants were included in the study, and participants ages ranged from 20 to 75 years. Talanoa sessions were primarily conducted during the day. Participants were briefed on the purpose/scope of the study, and they provided oral and written consent before the recorded discussions. Each Talanoa session lasted approximately 45 minutes, and the research community liaison interpreted our questions in the Ba dialect for the participants, including the participants' responses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and discussion</head><p>The empirical findings in this study reflect the community's livelihood strategies in Vanua Votua via the lens of Indigenous wisdom, experiential knowledge, and five livelihood assets. The concept of capital assets within the framing of the SLA is helpful for coastal livelihood analysis as it provides a context-specific understanding of dynamic social-ecological vulnerability <ref type="bibr" target="#b19">(Ferrol-Schulte et al., 2013)</ref>. The idea of assets is central to the SLA. It draws on five main capitals that may be used by individuals who have access to them for developing and/or maintaining sustainable livelihoods or overcoming vulnerabilities. However, the idea of capital assets and the socio-ecological relationships as understood within the SLA are best situated in modern, utilitarian capitalistic societies where capital assets and resources are present to serve the individual or the community and their interest, with the implication that the environment and its resources are of secondary importance <ref type="bibr" target="#b36">(Morse et al., 2009)</ref>. However, in Indigenous Pacific Island societies like Fiji, such a view is seen as a colonial understanding of nature where there lies a unidirectional relation and value flows in one direction, from the resource to the user, rather than being reciprocal <ref type="bibr" target="#b31">(Liboiron, 2021)</ref>. This ideology does not reconcile with the iTaukei concept of Vanua, which is the absence of division between nature and society or between objects and subjects <ref type="bibr" target="#b18">(Fache and Pauwels, 2020)</ref>. For this reason, it was critical here to use the principles of the VRF to situate the results of this study within the SLA in a way that reinforces and embraces the concept of Vanua.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The people and the Vanua: Sources of livelihood</head><p>Vanua Votua (ca. 10 km away from Ba town) has access to public roads and transportation and consists of schools and churches. Some villagers are employed in public, and private sectors and the communities have a traditional social setting. School pupils and workers in Ba or Lautoka commute by public buses. Despite local challenges, the people and the government are constantly improving these physical capital assets. Vanua Votua is an area prone to flooding, compounded by mining in the Ba River delta. The villages are headed by their respective Turaga ni Koro, who oversee the welfare of the people and the appropriate maintenance of the villages. Due to Vanua Votua's vulnerability to flash flooding, most homes are made of concrete structures, and a few houses are elevated on stilts. A water reservoir is situated a few kilometers away from the villages. Electricity is supplied to homes in three ways: through the main power line provided by Energy Fiji Limited (a public corporatized entity in Fiji), a diesel generator or solar power. The government subsidizes or provides grants for boats, outboard engines and other tools and gears, which are required for the community's ease of access to their iqoliqoli.</p><p>Sometimes the boat [outboard motor boat] that is used to take villagers to the mangroves in the village is full. There is a limit on the number of people allowed to be on the boat, and it is always full. So my husband and I made our boat [out of timber and corrugated iron], and we go together to the mangroves when we are free.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Nawaqarua [June 2020]</head><p>The villagers of Vanua Votua utilize the iqoliqoli for harvesting crabs, fish, prawns and shellfish. The Ba River is famous for its shellfish (locally known as kai) and crabbing, which remain the primary natural capital asset for the people of Vanua Votua.</p><p>I have been crabbing for more than 15 years and go to the mangroves most days. I aim to catch 6 to 10 crabs in a day. I use the money I get from selling crabs to buy items such as flour, sugar, and rice for home….</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Natutu village [November 2019]</head><p>The iqoliqoli of Vanua Votua is an extensive area of mangrove wetlands, seagrass beds, mudflats and coral reef areas having high fish aggregation across the year, as mapped out by the University of Fiji-USAID (2019) Pacific-American Climate Fund Project. Some villagers undertake farming of root crops, fruits, vegetables and yaqona (kava -Piper methysticum) for subsistence purposes. The excess of their harvests is sold in the Ba and Lautoka municipal markets. On Saturday's early in the morning, I take my catch and sell it in the market. Normally I harvest the cards and other resources and I keep them alive or preserved till Saturday, then I will take my harvest and sell it in the Lautoka Market.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Natutu village [November 2019]</head><p>The main human and social capitals for the people of Vanua Votua relate directly to the use and reliance on their iqoliqoli. For example, villagers have perfected crabbing skills many generations over, and such knowledge of harvesting and spotting is shared between villagers and families. The traditional iqoliqoli boundaries are common knowledge among villagers of the district, and these boundaries were not established as physical demarcated areas to restrict non-locals from accessing them. The local fishers typically follow an organized schedule by leaving the village in groups by boat and returning as the tide turns low to high. In the village of Nawaqarua, there were only three outboard motorboats; therefore keeping an organized schedule around the tidal movements was essential to ensure that everyone available would go to the mangroves for crabbing. Many fisherwomen follow a "buddy system" where they pair up with someone before leaving for the mangroves to ensure that they return together and no one is left behind. Villagers within the district have close familiarity with one another and depend on each other for safety. They exchange folklore, and moral stories passed down in the form of storytelling. By using and exchanging a system of mental maps, they also advise one another on paths within the mangroves to avoid getting lost.</p><p>We have been told that we should not shout or yell when catching crabs. It is said that if we do, we can go lost in the mangroves. We do not know why but yes, that is the saying.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Nawaqarua Village [June 2020]</head><p>The ecological services of the iqoliqoli can generate a principal financial capital asset for many households. Marine resource harvesting of crabs, clams, prawns and selected finfish in the iqoliqoli area is particularly lucrative for local fishers' income. Of the 45 participants of this research, more than 80% fished or gleaned in the iqoliqoli mangrove areas. All participants stated that the iqoliqoli is food security and an income source for their families.</p><p>If I had the option to do something else other than catching crabs for sale, I would still choose to catch crabs because it is reliable and stable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Natutu village [June 2020]</head><p>Local fishers who catch crabs for sale in the markets, for example, could sell a single bundle of crabs for FJD 150.00 to FJD 180.00, and the average weekly income could range between FJD 500.00 to FJD 750.00 (pre-COVID 19 pandemic). A few participants stated that the price for a bundle of crab in the markets during the COVID-19 pandemic dropped to FJD 100.00 or less and grossed a weekly average of FJD 200.00 to FJD 300.00. Such income may generate higher earnings for some fisherwomen than their formally employed spouses or counterparts. In addition to being an area for crabbing, local users of the iqoliqoli also utilize the mangrove trees for firewood and medicine. Some villagers supplement fishing and gleaning activities with a trade like a mat weaving or running a homebased canteen for income. Through their sales of marine resources, the income generation by many of Vanua Votua's local fishers would healthily stand well above the national minimum wage rate (FJD 3.01 per hour).</p><p>If I cannot go to the market to sell my catch, I sell it to a middleman for FJD 18.00 per kg. If not, I sell it along the roadside.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Natutu village [June 2020]</head><p>Even with a seemingly lucrative income generation, this does not mean that expenditure distribution is homogenous for rural and urban areas alike. It also does not reflect the level of inequality in the distribution of income and expenditure among households or individuals. According to a preliminary snapshot (2019-20) report by the Fiji Bureau of Statistics (2021), food expenditures are higher in rural areas (47%) than in urban areas (35%). Additionally, the incidence of poverty in rural areas in Fiji is twice the rate of poverty in urban areas <ref type="bibr" target="#b21">(Gounder, 2021)</ref>. Of the people defined as living in poverty, 62% live in rural areas <ref type="bibr">(Fiji Bureau of Statistics, 2021)</ref>. This likely reflects inward migration from urban to rural areas due to the COVID-19 pandemic when the data was collected. However, it was not evident in the preliminary report by the Fiji Bureau of Statistics why rural areas faced these high incidences in 2019-2020. The national average annual household consumption expenditure (2019-20), after adjusting for inflation, was FJD 11,961.00 in 2019-20. Of which rural average yearly household consumption expenditure for food (beverages, sugars, oils, seafood, meat, vegetables, etc.) and non-food (health, transport, communication, housing and utilities, etc.) is estimated at FJD 9,941.00 (Fiji Bureau of Statistics, 2021).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Policy and governance relations over the iqoliqoli</head><p>The Indigenous custodians of Vanua Votua can exercise exclusive rights to catch fish or harvest marine resources within their iqoliqoli; however, there are statutory regulations over utilizing those areas. For example, limitations exist based on what is prohibited under the Fisheries Act [Cap 158], which relates to catching sizes and fishing gear types and the requirement of a fishing permit or license if a person is fishing for sale or commercial purposes. A person cannot sell any marine or aquatic foods or resources in the markets or as a market vendor without a valid fishing license.</p><p>It's not easy for me to get a fishing license. One time my license expired, so I could not sell in the market, but I just walked around town trying to sell the crabs because I needed the money for the family. But I sometimes had to hide because of the fisheries officers. Then later, I managed to renew my license.</p><p>Participant from Natutu village [June 2020] Nevertheless, villagers can catch or harvest resources without a license solely for consumption. Violation of regulations stipulated in the Fisheries Act carries a penalty between FJD 1,000.00 (first offence) and FJD 3,000.00 (third or subsequent offences). The community leaders of Vanua Votua have not issued an official written customary regulations which govern the iqoliqoli use. However, they have established protocols to address any grievance or conflict between village members.</p><p>Participants highlighted that the Ministry of Fisheries and some non-governmental organizations (NGOs) like the World Wildlife Fund for Nature conduct quarterly or biannual workshops, training and awareness programmes about the marine area and its resources for villagers. The villagers have maximized these opportunities to improve their livelihood, employing modern forms of harvest practices when the tools and technologies are provided for them or when they can invest in these tools/technologies individually or collectively. Villagers welcome the use of modern approaches to marine resource conservation if it is appropriately in line with the cultural values of the Vanua. For example, participants mentioned that in the past, the chief of Vanua Votua established a locally managed marine area (LMMA) within the iqoliqoli for conservation purposes, with guidance from the Fisheries Department and Fiji LMMA Network. The LMMA successfully thrived. The villagers noticed flouring biodiversity, larger finfishes and crustaceans, and the reappearance of marine animals believed to have been lost to overexploitation. The LMMA was discontinued following the death of that chief, and the people resumed their traditional practices of fishing and marine governance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Livelihood capabilities and vulnerabilities to flooding in Vanua Votua</head><p>One of the primary threats to capital assets highlighted by respondents in this study was extreme weather events like flooding, becoming more frequent and more severe. In Ba town, flash floods forced businesses to relocate to a higher corridor to the West <ref type="bibr" target="#b65">(Yeo, 2013)</ref>. However, this situation did not rectify the challenges of flooding that the small to medium enterprise (SME) companies in the town experienced. In the same way that the 2016 Cyclone Winston was the most powerful storm in living memory for the country, the 2012 floods were the worst for Ba <ref type="bibr" target="#b66">(Yila et al., 2014;</ref><ref type="bibr" target="#b9">Cox et al., 2020)</ref>. Extreme weather phenomena have also affected the habitats of marine animals and other essential food resources due to heavy sedimentation loads and large debris deposits along the river, estuary and the surrounding coralline marine environments.</p><p>After the cyclone, we go back to the mangroves because we have to feed our families. But at that time, there were not many crabs. Even when the tide is low, the water is still high and murky, so we have to be careful about the paths we walk because the water will cover our footprints.</p><p>Participant from Nawaqarua Village [November 2019] Extreme weather events have been found to have varying effects on the people of Vanua Votua and their capital assets due to their differences in physical sensitivity. For example, Votua's eastern side (see Figure <ref type="figure" target="#fig_0">1</ref>) is at a lower elevation (towards the swampy mangroves), thus resulting in flood events being twice as high in comparison to the western side <ref type="bibr">(Bennett et al., 2020;</ref><ref type="bibr" target="#b25">Irvine et al., 2020;</ref><ref type="bibr">Neef and Pauli, 2020)</ref>. <ref type="bibr" target="#b45">Roncoli et al. (2016)</ref> contend that perception is framed by cultureshared patterns of meanings and relationshipswhich affects the way people respond to environmental dynamics. It is further argued that while we do not know how well any given Indigenous strategies will translate into long-term adaptations, we can use ethnography to help unravel the logics and practices that emerge from iterative and ad hoc adjustments over time. Vulnerability is produced in specific historical processes, by relationships between particular sets of actors, and as part of a human-environmental entanglement; arguably a synthesis of human and ecological factors in the production of vulnerability and disaster <ref type="bibr" target="#b17">(Faas, 2016)</ref>. <ref type="bibr" target="#b52">Smith (2006)</ref> proposes that natural processes occur, but they are entangled with human-influenced processes and that climate change alters people's physical vulnerabilities. For example, the disaster-prone province of Ba <ref type="bibr" target="#b64">(Yeo et al., 2007)</ref> has seen 28 flood events that occurred between 1892 to 1999, and climate change has exacerbated its frequency and intensity as experienced in <ref type="bibr">2009</ref><ref type="bibr">, 2012</ref><ref type="bibr">, 2018</ref><ref type="bibr" target="#b65">(Yeo, 2013;;</ref><ref type="bibr" target="#b39">Neef et al., 2018)</ref> and in 2020.</p><p>Just imagine, the Turaga-ni-Koro's house was here [by the riverbank], and the floods washed away everything, even the foundation. He stays further inside the village now. The riverbank used to be a few meters from where we are standing, but now you can see it has all eroded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Nawaqarua village [June 2019]</head><p>Human and social capital assets play an important role in resilience and recovery from natural disasters like flooding. <ref type="bibr">Neef et al. (2020)</ref> found that in disaster-prone iTaukei communities like Vanua Votua, social networks played an essential role for vulnerable community memberschildren, elderly, disabled persons and those whose physical assets (e.g. homes/shelters) were destroyed by floodwaters. The Asia-Pacific Network for Global Change Research (2018) reported that local and scientific knowledge on natural patterns in rainfall and flooding are becoming less predictable. However, communities like Vanua Votua have developed a range of effective mechanisms and adaptation capabilities to reduce the risk of crop damage and draw on a range of products and techniques to maintain their livelihoods (Asia-Pacific Network for Global Change Research, 2018). These adaptation capabilities include mobility, storage, diversification, community pooling and market exchanges. Mobility includes internal relocation of livestock and housing further away from known flooding areas, while storage constitutes building community halls and water storage tanks for general community use among different villagers). Diversification involves planting crops on higher ground, diversifying crops, land use and fishing practices. In contrast, community pooling encompasses labor sharing in reforestation and mangrove replanting, building raised homes and sharing assets and knowledge). Finally, market exchange emphasizes household savings or fishing to earn money during the nonharvest period when necessary. Furthermore, the report (ACP-EU Natural Disaster Risk Reduction Program, 2017) highlights that Fijian communities have detailed local knowledge of bank erosion, river currents, flood pathways, landform and flood heights to ensure resilience. This level of resilience to flooding and other natural hazards speaks to the sustainable nature of livelihoods for the people of Vanua Votua.</p><p>When we are warned about [the possibility of] a cyclone or flood, I try to catch and sell the most that I can so that my family is okay during or after the disaster because, after that, it's not good to go out again [to the mangroves] for a couple of weeks.</p><p>Participant from Natutu Village [June 2020] Social networks in communities around the Ba River are pronounced because of the shared sense of "community" among members and a culture of assisting one another during hard times, which help to reduce vulnerabilities to hazards and livelihood insecurity <ref type="bibr">(Neef et al., 2020)</ref>. For the people of Vanua Votua, relocation is not an option that they would strongly consider due to their cultural and historical attachment to the Vanua. <ref type="bibr" target="#b39">Neef et al. (2018)</ref> found that in Vanua Votua, decisions over the migration of households, livestock, and crops are closely entwined to food and income security issues, including questions of belonging, tradition, history and culture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mining impacts and coastal governance: Future determinants of sustainable livelihoods in Vanua Votua</head><p>While Fijian communities like Vanua Votua have developed and maintained resilient livelihood capabilities over many decades in times of flooding, the question remains whether the added effects of mining activity in their surrounding iqoliqoli and the government's decision to support it, threatens pre-existing adaptations to sustain livelihoods to extreme recurring flood events. The additional burden of mining impacts and weak governance policies over iqoliqoli areas risk diminishing or eliminating sustainable and resilient livelihoods of those that rely on those areas. In 2010, an Australian mining company called Amex Resources Limited took an interest in the large magnetite reserve in the Ba Delta area. In 2012, the company was awarded a mining license to begin its work <ref type="bibr" target="#b43">(Pratap, 2012)</ref>. The company proposed four boundaries from the western delta area, including the adjacent area to the north and mid-section of the river mouth.</p><p>There are places in the iqoliqoli that we are not allowed to go to because of the mining company [Amex Resources Limited]. They closed those areas even though we used to go fishing or crabbing long before. That is our iqoliqoli, but now it is as if it is being taken away slowly.</p><p>Participant from Nawaqarua village [June 2020] The government's justification for supporting the dredging of the Ba river to extract mineral resources is that the activity incidentally results in "lowering the water level of the Ba River", thus reducing the effects of flooding. This would be considered a maladaptive approach to climate adaptation as it leads to direct and immediate loss and damage of the iqoliqoli resources and the ecological services. This has a cascade effect on livelihood capital assets and has shown to be counterproductive to the climate change adaptation measures that the people of Vanua Votua have developed over generations to remain resilient against natural disasters like flooding <ref type="bibr">(Social Empowerment and Education Program, 2019;</ref><ref type="bibr">Jubilee Australia Research Centre, 2021)</ref>.</p><p>According to participants, the repercussions of the current mining operations in the iqoliqoli are felt all year round, unlike expectations for extreme flash floods that may only occur during the cyclone season in Fiji (November to April). The anthropogenic burden on the environment witnessed by the community only increase vulnerabilities to climate-related risks by directly affecting critical ecological services that are pivotal to the villagers' capital assets.</p><p>I now have to go towards the reef because the old fishing spots have been affected due to the sediments [sedimentation]. The amount and size of crabs are small now. I think the noise from the mining is chasing the crabs because you can hear it [the noise from mining] everywhere in the mangrove.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Nawaqarua Village [November 2019]</head><p>In 2016, the mining company conducted consultations with the people of Vanua Votua, where an EIA was proposed and presented. The Amex mining project titled Mba Delta Ironsand Project covers 120 km 2 and is expected to last a minimum of 18 years (Amex Resources Ltd., 2011).</p><p>Nobody from AMEX came to the first negotiations I attended, but a government-hired consultant came to consult the villagers. Later, there was a meeting with MRD [Minerals Resource Department], the Roko, and Tikina. I remember it was not well received by the people. I think the language barrier [was an issue] … that is why it was unclear what they [mining company] wanted to do.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Votua village [June 2019]</head><p>Once exclusive rights to the mine were granted, the company erected a four-tier floating structure called the Koronubu concentrator <ref type="bibr">(Chambers, 2018a)</ref> to extract the mineral resource. Barges transport the mineral resources for export to the newly built Lautoka wharf (an undertaking by the mining company) <ref type="bibr" target="#b4">(Chambers, 2018b)</ref>. According to the Jubilee Australia Research Centre (2021), the EIA highlighted that only 30 questionnaires were distributeda significantly small sample size considering the population of Ba (15,000 people reside in the township area alone). The report (Jubilee Australia Research Centre, 2021) also noted in the EIA for Vanua Votua that mining the river would reduce the water level and thus minimize the impacts of flooding (a common problem for Vanua Votua), though the outcome was quite different. The issue of sedimentation has caused much of the surrounding waters to be murkier than usual, thus making it more difficult for local fishers to meet their daily quota for harvesting due to poor water visibility. <ref type="bibr" target="#b48">Russell et al. (2017)</ref> found that sediment pollution has the effect of smothering the channel bed of rivers, resulting in loss of primary production and impacts on fish and macroinvertebrates that rely on habitat. Sediment pollution also negatively impacts fish and filter feeders due to increased suspended sediments in the water column, including the associated effects that lead to eutrophication and toxicity to aquatic organisms <ref type="bibr" target="#b48">(Russell et al., 2017)</ref>. Such poor environmental stress is equally applicable to freshwater and poorly flushed marine environments such as bays and estuaries <ref type="bibr" target="#b47">(Rowlands, 2019)</ref>, the exact ecology-type of Vanua Votua's iqoliqoli, i.e. river, estuary and coralline marine area (Figure <ref type="figure" target="#fig_0">1</ref>). I came back from the river this morning, and I could see that sediments from the development have affected the river and its inhabitants. If it continues, this will affect the whole river, shore and marine resources like the coral.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Votua village [November 2019]</head><p>In a similar study of tin-mining and the resultant marginalization of villagers within the coastal area of Bangka Island in Indonesia, <ref type="bibr" target="#b46">Rosyida et al. (2018)</ref> found that for locals, fishing was not only an economic activity but also a personal actualization passed down through the generations, and agricultural activities were also passed down from one's ancestors. Additionally, subsistence activities on Bangka Island are strongly influenced by seasonal conditions, resource availability, and ownership <ref type="bibr" target="#b46">(Rosyida et al., 2018)</ref>. However, the introduction of small-scale tin mining in the 2000s shifted the primary source of income, attracting both locals and individuals from other regions, causing an influx of migrants. Tin-mining operations had a cascade of events that drove people towards mining because of poor crop harvests, stemming from unfavorable weather conditions, and/or to supplement household income following the end of the agricultural season. The study <ref type="bibr" target="#b46">(Rosyida et al., 2018)</ref> found that the affected locals were marginalized by two potential factors. The first was grey participation within the local decision-making framework regarding the issuance of social permits for mining operations. The second was an imbalance in the distribution of benefits and impacts generated from suction dredging operations on the ecosystem. Furthermore, it was found <ref type="bibr" target="#b46">(Rosyida et al., 2018)</ref> that access to benefits and impacts were not homogenous among local groups. Locals who disagreed with suction dredging operations but were highly dependent on coastal and marine resources were adversely affected due to ecosystem degradation and loss of ecological services, while those who agreed were less affected because they did not depend on coastal and marine resources.</p><p>Under the discursive umbrella of "sustainability" and "sustainable development", concerted efforts have been taken in Fiji by government agencies, NGOs, and civil society organizations (CSOs) to establish and merge efforts at various scales and forms to produce and implement environmental policies (The Parliament of the Republic of Fiji, 2018). Although the intent and actions of the state, NGOs and CSOs for the development of environmental policies may seem necessary, disparities are likely to arise in those policies where broad public input is absent. When external stakeholders, including the government, implement decisions or policies on environmental uses without considering the local context, the lack of community involvement in making such decisions may make the communities more vulnerable to the impacts of climate change or associated human activities like mining. The Social Empowerment and Education Program (2019) found that free, prior and informed consent (FPIC) is not central to applying mining tenements under the Mining Act or the Environment Management Act. In Vanua Votua, the chief and elders from one village were the only people consulted about the mining prospects. According to a documentary prepared and released by Caritas Fiji <ref type="bibr" target="#b60">(Vunibobo, 2019)</ref>, many villagers who were signatories to the mining endorsement did not understand what they were endorsing because the documents provided to them were written in English, which many of the villagers were non-proficient. This mining will have a significant effect on the iqoliqoli. There is no source of income right now from the mining [to the villages], and soon the crabs and turtles will disappear.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant from Votua village [June 2019]</head><p>The threats of mining activity in Vanua Votua and the lack of fair duality of governance over the iqoliqoli by the state and the customary custodians reflect the need to review and reconsider current and future policy designs, and reviews should incorporate cultural nuances and sensitivity to local context/realities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A way forward: Embracing Vanua and reclaiming custodianship over iqoliqoli spaces</head><p>The people of Vanua Votua were able to mobilize and raise their concern about the mining impacts on their iqoliqoli and livelihood through various institutions like the news media, Fiji Council of Social Services, Caritas Fiji and the Social Empowerment Education Programme <ref type="bibr">(Social Empowerment and Education Program, 2019;</ref><ref type="bibr" target="#b53">Srinivasan, 2020;</ref><ref type="bibr">Jubilee Australia Research Centre, 2021)</ref>. The Ba black sand mining issue was well documented by local and international media, with public pressure for more accountability into the company's operations. In June of 2021, Amex Resources Limited published a four-page advertisement responding to the Jubilee Australia Research Centre (2021) report refuting the concerns raised by community members regarding the degradation and loss of the iqoliqoli and its resources (Jubilee <ref type="bibr" target="#b27">Australia, 2021)</ref>. A government response also followed the company's public response through a news media organization. Government's response stated that they were never contacted by the organizations involved in the Jubilee Australia report, claiming that people had a 30-day objection period from the date of notice of the mining lease application through the public media announcement and the Fiji Government gazette <ref type="bibr" target="#b38">(Nanuqa, 2021)</ref>. Such a response created confusion about why the villagers' concerns should have been raised within the 30-day objection period of notice for applying for a mining lease. The mining impacts on the people and iqoliqoli were not yet apparent and could not have been predicted within the 30-day objection period. Nonetheless, the mobilization by the people of Vanua Votua and public pressure led to the first time a company and the state made a direct joint response in their defense over local and international media.</p><p>The marine governance system in Fiji raises much confusion regarding redressing matters, though Indigenous people have custodianship over the food resources in their iqoliqoli. Still, the state owns the sand, soil and minerals underneath the water. If a community established an iqoliqoli or if the state gazetted its protection, the Mining Act gives the Director for Minerals and Resources broad powers to issue a prospecting license to a company without the owners or community's consent if it is deemed of "importance to the nation" (Social Empowerment and Education Program, 2019). The iqoliqoli owners can claim damages and losses, but rights and indiscretion over the mineral resources in the iqoliqoli remain with the state. As recent as March of 2022, the government announced that Vanua Votua villagers (1,270 people) were to receive a share of the royalty pay-out from the Amex Limited mining project <ref type="bibr">(FJD 325,</ref><ref type="bibr">374.00)</ref>. This follows the Fair Share of Mineral Royalties Act (The Fiji Government, 2018), which requires that 80% of royalties from mining be shared among landowners or iqoliqoli owners, while 20% is retained by the State <ref type="bibr">(Qiolevu and Lim, 2019;</ref><ref type="bibr" target="#b5">Chand, 2022)</ref>.</p><p>The Citizens' Constitution Forum (2018) accentuated that the Mining Act [Cap 46] compounds the erosion of consenting (FPIC) rights of landowners according to section 27 of the Fijian constitution and the Crown Acquisition of Lands Act [Cap135] that empowers the state to take possession of land for "public purpose" <ref type="bibr">(The Fijian Government, 1940)</ref>. The case of Vanua Votua's complex environmental and socioeconomic pressures faced from flooding and further exacerbated by the local mining activity in the iqoliqoli only exposes the uneven legal duality of governance that results in livelihood vulnerabilities. Lack of extensive public consultations with community members and periodic or inadequately updated legislative reviews by government bodies only facilitate poor alignment of policies and laws. Such is the case between the Mining Act and the Environmental Management Act (Social Empowerment and Education Program, 2019). The Mining Act in Fiji has been under review for a decade (The Fijian Government, 2011) and is currently in its 11 th draft. The Fijian government recently announced that the timeline for a review panel, led by the Intergovernmental Forum on Mining, Minerals, Metals and Sustainable Development, is to be finalized soon <ref type="bibr" target="#b14">(Elbourne, 2022)</ref>.</p><p>The livelihood vulnerabilities of this disaster-prone community (Vanua Votua) now face the additional risk of anthropogenic activities like mining. Capital assets for Vanua Votua are intricately linked to the state of the Vanua. For example, any positive or negative implication of the environment (for example, its improvement by creating an MPA or degradations from mining) produces a cascade of changes in capital assets quality. One notable critique of the SLA is its theoretical tendency to place the security of people at the forefront of concern <ref type="bibr" target="#b36">(Morse et al., 2009)</ref> without recognizing that the wider environment affects the assets to which people have access and what can be achieved with those assets to influence people's livelihood securities. Through the VRF, the communities' stories and Talanoa exchange about their interaction and relationship with their iqoliqoli and their Vanua was equally central to the framing of the vulnerability context within the SLA, which would have otherwise dictated a unidirectional relation of the capital assets and the resources serving the interests of the people. Therefore, it was critical when situating livelihood security and vulnerability within the SLA in this study that the information gathered be understood in the context of Vanua, guided by the VRF. Vanua Votua developed and maintained livelihood strategies to adapt to environmental pressures and build resilience at a rate in keeping to a changing environment, as in the case of regular flooding events. Vanua Votua's adaptive strategies have relied on strong cultural relationships to their capital assets and amongst each other, in keeping with Vanua. Thus, the success of adaptive livelihood strategies to flooding is best understood by Vanua as a cultural complex of socio-ecological relationships than environmental determinism. However, mining has aggravated Vanua Votua's vulnerabilities in the face of flooding, threatening their ability to develop effective adaptation capabilities. Governance structures and processes have inhibited the people's abilities to resist or negotiate with the mining industry while empowering mining companies to operate with minimal to no accountability, compliance, and responsibility for remediation. The Fiji Mining Act is currently not aligned with legislative policies like the Environmental Management Act, which would otherwise keep the mining tenements in check.</p><p>For this reason, we argue that the Mining Act is a crucial determinant of the potential for Vanua Votua's ability to sustain their livelihoods from flooding events and sedimentation, exacerbated by the mining company's actions, including the resulting environmental degradation and biodiversity loss. Unless the Mining Act review process reflects the livelihood security needs and concerns of Fijians, as in the case of Vanua Votua, the outcome of detachment between the people and their Vanua may be possible. It may manifest through either the dim possibility of planned relocation or the further destruction of their iqoliqoli and the socio-cultural and ecological relationship they share.</p><p>There are also other considerations of granting ecosystems legal rights of personhood to ensure its conservation and protection and to ensure the livelihoods security of people that depend on those ecosystems. We argue that the interconnection and interdependence of Fijians and their Vanua (a sacrosanct relationship of identity and survival) should qualify Indigenously held ecosystems to hold such legal rights for its protection. A case in point is the Whanganui River in Aotearoa, New Zealand, which was granted legal personhood in 2014. The Indigenous guardians (Te Pau Tupua) guide the river's interests through a list of values (Tupua te Kawa). The Whanganui River demonstrates that the river is a living entity in its own right as it is incapable of being owned as a property in an absolute sense <ref type="bibr" target="#b24">(Hutchison, 2014)</ref>. Nature rights consideration is not too far removed as an option in Fiji because it is in line with Article 40 (1) entitled; Environmental rights under the 2013 Fijian constitution. Recognizing the rights of nature are modern expression of long-practiced Indigenous laws. Indigenous laws are as diverse as Indigenous cultures yet share an understanding that humans are an integral part of the natural world <ref type="bibr" target="#b2">(Bunten et al., 2021)</ref>. These laws emphasize respect for all beings and responsibilities to care for lands and waters, as embodied by the concept of Vanua.</p><p>We strongly recommend that this case study and the essence and necessity of Vanua be weaved into future Government policy reviews before passing Bills or amending existing legislation that may directly affect people's livelihoods in Fiji.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The Ocean and its resources contribute a pivotal function toward food security, socioeconomic livelihood resilience, social identities and traditional practices or beliefs. The state of livelihood is a crucial determinant of human survival. This study looks at the unique challenges of extreme flooding events and mining impacts faced by the coastal community of Vanua Votua. The SLA is applied to the background of Vanua Votua, guided by the principles and processes of the VRF. It considers the community's capital assets, livelihood vulnerabilities to flooding and mining, and Fijian governance systems surrounding it. This study found that livelihood vulnerabilities to coastal mining in the flood-prone villages of Vanua Votua affect the people's resilience and generational adaptive capabilities to flooding and further reduce the quality of their capital assets. The marine governance system in Fiji raises much confusion regarding redressing matters of issues on mining in their iqoliqoli.</p><p>Though Indigenous people have custodianship over the resources in their iqoliqoli, the state owns the sand, soil and minerals underneath the water, exposing the uneven legal duality of governance in Fiji, resulting in livelihood vulnerabilities. Central to this is the Fiji Mining Act, which empowers the state to determine the course and outcomes of mining operations in areas like the Ba River Delta. It is currently not aligned with other legislations, such as the Environmental Management Act. The people of Vanua Votua are in unchartered waters, with the fate of their Vanua at the stake of permanent degradation and loss if their concerns are left unaddressed. The Mining Act is currently under review to have it realigned with existing environmental policies. The findings of this study are timely as they may convince policymakers to consider the livelihood vulnerabilities of grassroots communities like Vanua Votua, which face dual challenges of flooding and mining. Other legislative options such as nature-based rights are worth serious consideration for ecosystem protection and strengthening the essence of Vanua. It is hoped that the findings in this study will add value to future environmental policy reviews and considerations in a meaningful and positively impactful way for Fijians and Fiji.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1</head><label>1</label><figDesc>FIGURE 1</figDesc><graphic coords="5,127.62,115.77,340.16,240.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>I</head><figDesc>have been catching crabs since I was 13 years old. I am 36 now. My mother taught me how to catch crabs. She would take me with her before and teach me what to do … I only sell on the weekends. I catch the bus to Lautoka [City market] or Ba [town market]. Participant from Natutu Village [November 2019]</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Frontiers in Marine Science frontiersin.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Varea et al.  10.3389/fmars.2022.954062    Frontiers in Marine Science frontiersin.org</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank the community members of <rs type="person">Vanua Votua</rs> for their participation, engagement and hospitality. We thank <rs type="person">Ms Paulini Tuwai</rs> for her assistance in translating the Talanoa sessions from the Ba dialect to the English language. We are grateful to <rs type="person">Ms Salanieta Kitolelei</rs> for the feedback and suggestions provided for this paper. Finally, we acknowledge and thank the <rs type="institution">University of the South Pacific</rs>, <rs type="affiliation">Massey University, Australia National University and LaTrobe University</rs> for accessing reading resource materials through their respective University Libraries.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The <rs type="institution">Aotearoa New Zealand International Development Studies Network</rs> under the Pacific Development Research Write-Up Grants supported RFV. Funding for open access publication TF.</p></div>
+			</div>
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability statement</head><p>The original contributions presented in the study are included in the article. Further inquiries can be directed to the corresponding author.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>RFV, conceptualization, data curation, formal analysis, methodology, investigation, visualization, writing-original draft, and writing-review and editing. RNV, data curation, formal analysis, methodology, investigation, writing-review, and editing. RK, methodology, validation, and writing-review and editing. TF, methodology, validation, and writing-review and editing. All authors contributed to the article and approved the submitted version.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's note</head><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Fiji: Climate vulnerability assessment&quot;. (Global facility for disaster reduction and recovery). 17, Av. Marnix -B-1000 Brussels</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Andrew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>De La Rua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vickers</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0223249</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Amex Resources Ltd</title>
+		<meeting><address><addrLine>Belgium; West Perth, Western Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Amex Resources Ltd</publisher>
+			<date type="published" when="2011">2017. 2011. 2019</date>
+			<biblScope unit="volume">6005</biblScope>
+			<biblScope unit="page">223249</biblScope>
+		</imprint>
+	</monogr>
+	<note>The next generation in iron ore 1060 Hay Street Coastal proximity of populations in 22 pacific island countries and territories</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in post-disaster recovery processes: Flood-affected communities in Cambodia and fiji</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Horsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Ogtrop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Touch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chhinh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ngin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Climate-induced disasters in the Asiapacific region: Response, recovery</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Neef</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC; Bingley</addrLine></address></meeting>
+		<imprint>
+			<publisher>Emerald Publishing Limited</publisher>
+			<date type="published" when="2018">2018. 2020</date>
+			<biblScope unit="page" from="87" to="112" />
+		</imprint>
+		<respStmt>
+			<orgName>Asia-Pacific Network for Global Change Research</orgName>
+		</respStmt>
+	</monogr>
+	<note>Embodying resilience: Narrating gendered experiences of disasters in fiji</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Expressions of customary marine tenure and environmental entitlements: A case study involving common property regimes in a Fijian outer island group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bunten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Iorns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Townsend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Borrows</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Salvage ethnography. Dictionary. Soc. Sci</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Calamia</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">424</biblScope>
+			<date type="published" when="2002">2021. 2004. 2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Colorado at Boulder. Calhoun, C. J.</orgName>
+		</respStmt>
+	</monogr>
+	<note>Rights for nature: How granting a river &apos;personhood&apos; could help protect it</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The status of customary law in the Fiji islands after the constitutional amendment Ac</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Care</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. South Pac. Law</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2000">2000. 2018a. 2018</date>
+			<pubPlace>1. Chambers, C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">New lautoka wharf to dwarf existing one. Fiji. Sun</title>
+		<author>
+			<persName><forename type="first">C ;</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Conway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">2018b. 2018. 1992</date>
+		</imprint>
+	</monogr>
+	<note>Sustainable rural livelihoods</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">1270 villagers to share royalty payout</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FijiTimes</title>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Archbishop raises serious environment concerns</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chaudhary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FijiTimes</title>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Issues of mineral exploration and mining in fiji</title>
+	</analytic>
+	<monogr>
+		<title level="j">Constitution Forum</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Moryosef</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Citizens&apos; Constitution Forum</publisher>
+			<pubPlace>Suva, Fiji</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Balancing climate, culture, and community: Fiji&apos;s relocation challenge</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Coca</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>in Devex</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Disaster preparedness and the abeyance of agency: Christian responses to tropical cyclone Winston in Fiji</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Finau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tarai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Titifanue</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00664677.2019.1647833</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anthropol. Forum</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="125" to="140" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Investigating social and cultural drivers of pacific coral reef resilience</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dacks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Honolulu, Hawaii</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Hawai&apos;i at Manoa)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Villagers in the dark on black sand extraction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FijiTimes</title>
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">X C</forename><surname>Dutra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D E</forename><surname>Haywood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Piovano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of climate change on corals relevant to the pacific islands</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pacific marine climate change report card</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Mining law review will be &apos;All-inclusive</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Elbourne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+			<pubPlace>Fiji. Sun</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Vulnerability of fiji&apos;s mangroves and associated coral reefs to climate change. World Wildlife</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fiu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="1" to="52" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Influence of evolving culture on leadership: a study of Fijian cooperatives</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eti-Tofinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/EBR-10-2015-0122</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Business. Rev</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="534" to="550" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Disaster vulnerability in anthropological perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Faas</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/napa.12084</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Anthropol. Pract</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="14" to="27" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Tackling coastal &quot;overfishing&quot; in Fiji: advocating for indigenous worldview, knowledge, and values to be the backbone of fisheries management strategies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pauwels</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40152-020-00162-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Maritime. Stud</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="52" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sustainable livelihoods approach in tropical coastal and marine social-ecological systems: A review</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ferrol-Schulte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ferse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Glaser</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpol.2013.03.007</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Fiji Bureau of Statistics</title>
+		<meeting><address><addrLine>Suva, Fiji; Suva, Fiji; Suva, Fiji</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fiji Bureau of Statistics</publisher>
+			<date type="published" when="2013-03">2013. Mar. 2017. 2021. 2022</date>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+		</imprint>
+	</monogr>
+	<note>Population by province: 2017 census of population 2019-20 household income and expenditure survey Fiji&apos;s GDP 2019: Expenditure approach At current prices</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Social identity, perception and motivation in adaptation to climate risk in the coffee sector of chiapas</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loṕez-Carr</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2010.11.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mexico. Global Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="66" to="76" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">No poverty reduction in Fiji over the last six years. devpolicy blog from the development policy centre</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gounder</surname></persName>
+		</author>
+		<ptr target="https://devpolicy.org/no-poverty-reduction-in-fiji-over-the-last-six-years-2020210216-2/" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The livelihood approach: a critical exploration</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J D</forename><surname>Haan</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/41759104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Erdkunde</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="345" to="357" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Women and fisheries: Contribution to food security and local economies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hauzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pauly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">R</forename><surname>Sumaila</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpol.2012.10.018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Policy</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="56" to="63" />
+			<date type="published" when="2013-03">2013. Mar</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The whanganui river as a legal person</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hutchison</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1037969X1403900309</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Altern. Law J</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="179" to="182" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">A participatory approach to understanding the impact of multiple natural hazards in communities along the ba river, fiji,&quot; in Climate-induced disasters in the Asia-pacific region: Response, recovery, adaptation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Irvine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boruff</surname></persName>
+		</author>
+		<editor>A. Neef and N. Pauli</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Emerald Publishing Limited</publisher>
+			<biblScope unit="page" from="57" to="86" />
+			<pubPlace>Bingley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Effects of climate change on fish and shellfish relevant to pacific islands, and the coastal fisheries they support</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bertram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pratchett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Welch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pacific marine climate change report card: Science review</title>
+		<imprint>
+			<publisher>CME Programme</publisher>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Commonwealth Marine Economies</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Statement from jubilee Australia, caritas Fiji and Fiji council of social services in relation to amex resources limited advertisement</title>
+		<author>
+			<persName><forename type="first">Jubilee</forename><surname>Australia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Veitayaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Breckwoldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Piovano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A line in the sand: investigating black sand mining in fiji,&quot; in (Jubilee Australia website: Jubilee Australia research centre). World Square NSW: Jubilee Australia Research Centre Kitolelei</title>
+		<imprint>
+			<date type="published" when="2021">2021. 2021. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Jubilee Australia. Jubilee Australia Research Centre Jubilee Australia Research Centre</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Na Vuku makawa ni qoli: Indigenous fishing knowledge (IFK) in Fiji and the pacific</title>
+		<idno type="DOI">10.3389/fmars.2021.684303</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Mar. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Mining sector strong</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FijiTimes</title>
+		<imprint>
+			<date type="published" when="2021">2021. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Policies, problems, laws and regulations with regards to inshore fisheries resource management in fiji</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ledua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">South pacific commission and forum fisheries agency workshop on the management of south pacific inshore fisheries</title>
+		<meeting><address><addrLine>New Caledonia</addrLine></address></meeting>
+		<imprint>
+			<publisher>SPC</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="83" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Pollution is colonialism</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liboiron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pollution is colonialism</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Chapter 35 -Fiji: Coastal and marine ecosystems</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mangubhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sykes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lovell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brodie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jupiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>C. Sheppard. Academic Press</publisher>
+			<biblScope unit="page" from="765" to="792" />
+		</imprint>
+	</monogr>
+	<note>in world seas: an environmental evaluation Second edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The future of resilience-based management in coral reef ecosystems</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R N</forename><surname>Anthony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mumby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maynard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beeden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A J</forename><surname>Graham</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jenvman.2018.11.034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manage</title>
+		<imprint>
+			<biblScope unit="volume">233</biblScope>
+			<biblScope unit="page" from="291" to="301" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Planned relocation and health: A case study from Fiji</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Powell</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph18084355</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">4355</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Asia-Pacific coasts and their management: States of environment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mimura</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmars.2022.954062</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of fisheries. Level 1 Takayawa Building</title>
+		<meeting><address><addrLine>Suva, Fiji</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ministry of Fisheries Moody Analytics</publisher>
+			<date type="published" when="2008">2008. 2019. 2022</date>
+		</imprint>
+	</monogr>
+	<note>Fiji fisheries sector investment guide Ministry of Fisheries Fiji Economic indicators</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Ownership of Fijian inshore fishing grounds: Community-based management efforts, issues of traditional authority and proposed changes in legislation. Ocean</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vaioleti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veramu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Acholo</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/221160008X00127</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Geography, the university of reading</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">U O</forename><surname>Reading Muehlig-Hofmann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2002">2002. 2009. 2008</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="291" to="321" />
+		</imprint>
+	</monogr>
+	<note>Participatory approaches to learning and training Sustainable livelihood approach: A critical analysis of theory and practice in Commissioned report for the European commission, soqosoqo ni vakamarama, nabua, Fiji. Nabua, Fiji: European Commission</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Decolonising framings in pacific research: Indigenous Fijian vanua research framework as an organic response</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nabobo-Baba</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/117718010800400210</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AlterNative.: Int. J. Indigenous. Peoples</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="140" to="154" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Lands ministry raises concern over misleading report</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nanuqa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021. 2021</date>
+			<publisher>Fiji. Broadcasting. Corp</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Climate adaptation strategies in Fiji: The role of social norms and cultural values</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Neef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Benge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varea</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2018.02.029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="125" to="137" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in disaster-prone communities in Cambodia and Fiji</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Neef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ngin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Davies</surname></persName>
+		</author>
+		<idno type="DOI">10.30852/sb.2020.1142</idno>
+	</analytic>
+	<monogr>
+		<title level="j">APN. Sci. Bull</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="75" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Climate-induced disasters in the Asia-pacific regionfrom response and recovery to adaptation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Neef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<editor>A. Neef and N. Pauli</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Emerald Publishing Limited</publisher>
+			<biblScope unit="page" from="1" to="9" />
+			<pubPlace>Bingley</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Climate-induced disasters in the Asia-pacific region: Response, recovery, adaptation</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Moving people in a changing climate: lessons from two case studies in Fiji</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Piggott-Mckellar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Nunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Sekinini</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/socsci8050133</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">133</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Stakeholder participation and advocacy coalitions for making sustainable Fiji mineral royalty policy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pratap</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">QGIS Development Team</orgName>
+			</affiliation>
+		</author>
+		<idno type="DOI">10.3390/su11030797</idno>
+		<ptr target="http://qgis.osgeo.org" />
+	</analytic>
+	<monogr>
+		<title level="m">Open source geospatial foundation project</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Qiolevu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Lim</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2012">2012. 2012. 2019. 2019</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">797</biblScope>
+		</imprint>
+	</monogr>
+	<note>QGIS geographic information system Mining lease granted. Fiji. Broadcasting. Corp</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Recognising the role of women in supporting marine stewardship in the pacific islands</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ram-Bidesi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpol.2015.04.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mar. Policy</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Fielding climate change in cultural anthropology</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roncoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Crane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Orlove</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Anthropology and climate change. routledge</title>
+		<meeting><address><addrLine>Walnut Creek, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Coast Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="87" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Marginalization of a coastal resource-dependent community: A study on tin mining in Indonesia</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rosyida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sasaoka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2017.11.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Extractive. Industries. Soc</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="165" to="176" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Chapter 8 -erosion and sediment control-WSUD during the construction phase of land development</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rowlands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Approaches to water sensitive urban design</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sharma</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Gardner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Begbie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>United Kingdom</addrLine></address></meeting>
+		<imprint>
+			<publisher>Woodhead Publishing</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="163" to="176" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Refusing to disappear: How the people of tukuraki became symbols of a resilient pacific | SPC geoscience, energy and maritime division</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Vietz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Fletcher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.earscirev.2017.04.001</idno>
+		<ptr target="https://gem.spc.int/news/2021/06/refusing-to-disappear-how-the-people-of-tukuraki-became-symbols-of-a-resilient-pacific" />
+	</analytic>
+	<monogr>
+		<title level="m">SPC geoscience, energy and maritime division</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page" from="73" to="80" />
+		</imprint>
+	</monogr>
+	<note>Secretariat of the Pacific Community (2021) Global sediment yields from urban and urbanising watersheds</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The sustainable livelihoods approach</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Serrat</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="21" to="26" />
+			<pubPlace>Washington, DC; Singapore</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">An analysis of property rights in the Fijian qoliqoli</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skinner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sloan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chand</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpol.2016.06.019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Policy</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="76" to="81" />
+			<date type="published" when="2013">2013. 2016. Mar</date>
+			<publisher>A&amp;C Black</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The interview: An ethnographic approach</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Building research capability in the pacific, for the pacific and by pacific peoples</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Pac. Indigenous. Peoples.: Issues Perspect</title>
+		<imprint>
+			<biblScope unit="page" from="4" to="16" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Mining realities: Assessing state compliance on the rules of engagement</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Compliance on the rules of engagement</title>
+		<meeting><address><addrLine>Suva, Fiji</addrLine></address></meeting>
+		<imprint>
+			<publisher>Social Empowerment and Education Program</publisher>
+			<date type="published" when="2006">2006. 2019</date>
+		</imprint>
+	</monogr>
+	<note>There&apos;s no such thing as a natural disaster</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Fiji: Black sand mining project draws international scrutiny</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Srinivasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ABC Radio Australia</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">An overview of sustainable livelihoods approach</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A livelihood approach to sustainability</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10941660902847187</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Asia. Pac. J. Tourism. Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="152" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Fair share of mineral royalties,&quot; in (Parliament of Fiji). 11. The Parliament of the Republic of Fiji (2018)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Thaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Balawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veitayaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Currie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Santillo</surname></persName>
+		</author>
+		<idno type="DOI">10.2993/0278-0771-37.3.494</idno>
+		<idno>doi: 10.3389/fmars.2018.00480</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Fiji parliament and the sustainable development goals</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Economy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Suva, Fiji; Suva, Fiji; Suva, Fiji</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017. 2018</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="494" to="513" />
+		</imprint>
+	</monogr>
+	<note>The Fijian Government (1940). 135. The Fijian Government (2011) Mining act under review -KAU,&quot; in (Ministry of communications) The Fijian Government (2021a) Climate change act 2021 : The Laws of Fiji). 43. The Fijian Government (2021b) Fiji national climate change policy The Fiji Government (2018) The recovery of a tropical marine mollusk fishery: a transdisciplinary community-based approach in navakavu Government website: The Fijian Government) The Parliament of the Republic of Fiji Seabed mining and approaches to governance of the deep seabed. Front. Mar. Sci. 5</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">University of Fiji-USAID (2019) UniFiji -USAID&apos;s pacific American climate fund projectthe university of Fiji</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Tuwere</surname></persName>
+		</author>
+		<ptr target="https://www.unifiji.ac.fj/pacam/" />
+	</analytic>
+	<monogr>
+		<title level="m">International strategy for disaster reduction (United Nations)</title>
+		<meeting><address><addrLine>Suva, Fiji</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002. 2005</date>
+		</imprint>
+	</monogr>
+	<note>The University of the South Pacific) Livelihood: guidance note on recovery Vanua: Towards a Fijian theology of place United Nations Office for Disaster Risk Reduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Talanoa research methodology: A developing position on pacific research</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Vaioleti</surname></persName>
+		</author>
+		<idno type="DOI">10.15663/wje.v12i1.296</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Waikato. J. Educ</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="34" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Mangroves in small island development states in the pacific: An overview of a highly important and seriously threatened resource</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veitayaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Waqalevu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rollings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Participatory mangrove management in a changing climate</title>
+		<meeting><address><addrLine>Tokyo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="303" to="327" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Heartless mining</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vunibobo</surname></persName>
+		</author>
+		<editor>Caritas Fiji</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">in Climate variability, extremes and change in the Western tropical pacific: New science and updated country reports</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Waqaicelua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vuniyayawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Daphne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Abbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcgree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Trenham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Durrant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Evenhuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Greenslade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hennessy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Imileska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Katzfey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kuleshov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Langlais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Narsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Whan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wilson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Chapter 5: Fiji islands Australia: Australian Bureau of Meteorology and the Commonwealth Scientific and Industrial Research Organisation</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Vulnerability of mangroves, seagrasses and intertidal flats in the tropical pacific to climate change</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waycott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mellors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Sheaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Collier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Secretariat of the pacific community. Secretariat of the Pacific Community: Noumea Wheeling, K</title>
+		<meeting><address><addrLine>Standard</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011. 2017. 2017</date>
+		</imprint>
+	</monogr>
+	<note>Why is Fiji selling out its coastlines? Pac</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Black sand mining pushes fiji&apos;s boundaries</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wiseman</surname></persName>
+		</author>
+		<idno>RNZ 2021/05/ 31/T17:07:53+12:00</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Flooding in Fiji: findings from a 100-year historical series</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Yeo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Blong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Mcaneney</surname></persName>
+		</author>
+		<idno type="DOI">10.1623/hysj.52.5.1004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrol. Sci. J</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1004" to="1015" />
+			<date type="published" when="2007">2007</date>
+			<pubPlace>United Kingdom</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Exeter</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">A review of flood resilience in fiji</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yeo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International conference on flood resilience</title>
+		<meeting><address><addrLine>Exeter, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013-09">2013. September</date>
+			<biblScope unit="page" from="5" to="7" />
+		</imprint>
+	</monogr>
+	<note>Experiences in Asia and europe</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">The role of social capital in post-flood response and recovery among downstream communities of the ba river, Western viti levu, Fiji islands</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Yila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Neef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Risks and conflicts: Local responses to natural disasters</title>
+		<meeting><address><addrLine>Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

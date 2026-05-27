@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Geomorphic index alterations and socioeconomic implications: A case study of a Coastal River system in Bangladesh</title>
+				<funder ref="#_hqvcq75">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-07-17">17 July 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Sukhen</forename><surname>Goswami</surname></persName>
+							<email>sgoswami@bu.ac.bd</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Md</forename><forename type="middle">Masum</forename><surname>Billah</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Water and Flood Management</orgName>
+								<orgName type="institution">Bangladesh University of Engineering and Technology</orgName>
+								<address>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Md</roleName><forename type="first">Sabbir</forename><surname>Hossen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mehedi</forename><surname>Hasan Ovi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shacin</forename><forename type="middle">Chandra</forename><surname>Saha</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Md</forename><forename type="middle">Tasnim</forename><surname>Alam</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Palli Karma-Sahayak Foundation (PKSF)</orgName>
+								<address>
+									<addrLine>Dhaka 1207</addrLine>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Probir</roleName><forename type="first">Kumar</forename><surname>Bhowmik</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Accounting and Information Systems</orgName>
+								<orgName type="department" key="dep2">Faculty of Business Studies</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Atikul</forename><forename type="middle">Haque</forename><surname>Farazi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Md</forename><forename type="middle">Ashraful</forename><surname>Islam</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Geology</orgName>
+								<orgName type="department" key="dep2">Faculty of Earth and Environmental Sciences</orgName>
+								<orgName type="institution">University of Dhaka</orgName>
+								<address>
+									<postCode>1000</postCode>
+									<settlement>Dhaka</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kumer</forename><surname>Roy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Geology and Mining</orgName>
+								<orgName type="department" key="dep2">Faculty of Science and Engineering</orgName>
+								<orgName type="institution">University of Barishal</orgName>
+								<address>
+									<postCode>8254</postCode>
+									<settlement>Barishal</settlement>
+									<country key="BD">Bangladesh</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Geomorphic index alterations and socioeconomic implications: A case study of a Coastal River system in Bangladesh</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2025-07-17">17 July 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F9251511021A4B6B9A9516E34884FA2D</idno>
+					<idno type="DOI">10.1016/j.pdisas.2025.100450</idno>
+					<note type="submission">Received 13 May 2025; Received in revised form 6 July 2025; Accepted 10 July 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Riverbank Erosion Accretion Geomorphic evolution Sinuosity index Socioeconomic impacts Sandhya River</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Riverbank erosion, driven by natural processes and human activities, poses significant socio-environmental challenges in Bangladesh. This study investigated the geomorphic evolution and socioeconomic impacts of riverbank erosion along the Sandhya River in Babuganj Upazila, Barishal, Bangladesh. The primary aim was to assess how natural processes and human interventions, such as sand mining and infrastructure development, have altered the river morphology and affected local communities. Landsat imagery from 1980 to 2023, with a 10-year interval, was analyzed to assess key geomorphic indices-sinuosity, channel width, widening rate, and migration rate using remote sensing, geographic information systems (GIS), and field surveys. The results indicate significant geomorphic transformation, with sinuosity varying between 1.01 and 2.08, with a post-2000 increase in channel widening (up to 27 m/year) linked to intensified sand mining and brickfield expansion. Midchannel bar formation, absent before 2000, reached 4.0 km 2 by 2023, affecting flow patterns. The widening rate shifted from a maximum of 19 m/year (1980-2000, pre-sand mining)  to 27 m/year (2000-2023, post-sand  mining), with a peak near Doarika Bridge, which increased the vulnerability of the Barishal Airport area, averaging 3.65 m/year. Socioeconomic surveys (n = 154) reveal severe livelihood disruption: 65 % of lost land was agricultural, 73 % of affected households migrated to urban centers, and 45 % fell into debt. The most affected areas were Dehergati, Rahamatpur, Rakudia, and Kedarpur, emphasizing the need for capacity building. The study concludes that integrated geomorphic restoration and community resilience planning are urgently needed to address erosion-driven displacement and economic vulnerability in the region.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Riverbank erosion is a critical environmental issue that affects river systems worldwide, with significant implications for ecosystems, infrastructure, and local communities. As climate change accelerates and human activities intensify, riverbanks are increasingly vulnerable to erosion, which can lead to the loss of fertile agricultural land, the displacement of populations, and the destruction of critical infrastructure. Globally, riverbank erosion is exacerbated by factors such as landuse changes, deforestation, and the construction of dams and levees <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. Recent studies have also highlighted the increasing frequency of extreme weather events, such as floods and storms, as a result of climate change, which further accelerates the process of riverbank erosion <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. The impacts of riverbank erosion are particularly severe in developing countries, such as Bangladesh, where communities often rely on riverine ecosystems for their livelihoods and survival <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>.</p><p>In Bangladesh, riverbank erosion is a persistent and widespread issue, deeply influencing the socioeconomic landscape. The extensive network of rivers, particularly in the Ganges-Brahmaputra Delta, is highly susceptible to erosion, which is compounded by seasonal flooding and the effects of upstream interventions <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. Bangladesh has experienced significant changes in its river morphology, leading to the displacement of millions of people. Riverbank erosion accounts for approximately 50 % of homelessness in the country, resulting in the loss of agricultural land, homes, and infrastructure <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> The situation is exacerbated by increasing human interventions such as sand mining, urbanization, and the construction of embankments, which alter the natural flow of rivers and accelerate the rate of erosion <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref>. The degradation of riverbanks also impacts biodiversity, as vital habitats for fish and other wildlife are lost <ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref>.</p><p>The Sandhya River in Babuganj Upazila, Barishal, represents a prime example of a river system undergoing significant geomorphic alterations due to both natural and anthropogenic factors. Over recent decades, the river has experienced increased erosion, leading to the loss of farmland and the displacement of communities living along its banks <ref type="bibr" target="#b34">[35]</ref>. These changes are attributed to a combination of sedimentation, deforestation, and the encroachment of urban areas, which have altered the river's natural course and reduced its capacity to carry sediment <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36]</ref>. The river morphology has also been influenced by the construction of embankments and the extraction of sand, which further exacerbates the erosion process <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b35">36]</ref>.</p><p>Numerous studies have explored the geomorphic alterations of river systems and their socioeconomic impacts. Riverbank erosion in Bangladesh, for instance, has been widely studied, revealing its severe consequences on local populations, including displacement and the loss of agricultural land <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b36">37]</ref> . The impacts of sand mining, excessive groundwater pumping, and land subsidence on riverbed elevations have been linked to the intensification of erosion processes <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38]</ref>. Furthermore, research has shown that river migration, characterized by the lateral shifting of river channels, is often accelerated by human interventions such as sand mining, bank protection, and the construction of artificial cutoffs <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref> . Several researchers have used geomorphic indices, such as the sinuosity index, channel width, and migration rate, to analyze riverbank erosion and changes in river morphology <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b41">42,</ref><ref type="bibr" target="#b42">43]</ref>. Moreover, satellite imagery and remote sensing technologies, combined with Geographic Information System (GIS) techniques, have been effectively employed to study temporal changes in river morphology and assess the impacts of erosion and accretion on river channels <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b41">42,</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref>. Despite these advances, there is still a need for more comprehensive studies that address both the geomorphic and socioeconomic dimensions of riverbank erosion, particularly in the context of the Sandhya River.</p><p>This study aims to fill this gap by examining the geomorphic alterations and associated socioeconomic impacts of riverbank erosion along the Sandhya River. Specifically, the study seeks to investigate the effects of human interventions, such as sand mining and bank protection, on geomorphic indices, including the sinuosity index, channel width, widening rate, and migration rate, from 1980 to 2023. The research also explores mid-channel bar and sidebar development and evaluates the changes in river channel geometry due to erosion-accretion processes. Additionally, the study assesses the socioeconomic consequences of these geomorphic changes on the local communities in Babuganj Upazila. By integrating remote sensing and GIS techniques, the study aims to provide a comprehensive analysis of the temporal morpho-dynamic changes and their implications for local livelihoods. This research will also contribute to the development of sustainable river management strategies that address both the geomorphic and socioeconomic challenges posed by riverbank erosion. Eventually, this study seeks to provide valuable insights for policymakers and local stakeholders in mitigating the effects of riverbank erosion and promoting sustainable land use in Bangladesh.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Description of the study area</head><p>The study area is situated in the central part of Babuganj Upazila in southern Bangladesh (Fig. <ref type="figure" target="#fig_0">1</ref>), within a tectonic setting where the Indian, Eurasian, and Burmese subplates converge <ref type="bibr" target="#b21">[22]</ref>. This research was conducted in the Rahmatpur, Dwarika, and Kedarpur unions along the Sandhya River within Babuganj Upazila, Barishal. Geographically, the area is bordered by Muladi and Barishal Sadar Upazila to the east, Gaurnadi to the north, Barishal Sadar and Jhalokati Upazila to the south, and Wazirpur Upazila to the west. The Sandhya River originates from the Arial Khan River near Muladi and flows towards its confluence with the Kacha River near Pirojpur. The study area is located between latitudes 22.47 • to 22.51 • N and longitudes 90.15 • to 90.22 • E. It is influenced by a semi-diurnal tidal regime, where sedimentation has progressively reduced river capacity, contributing to the degradation of unprotected areas <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36,</ref><ref type="bibr" target="#b48">49]</ref>.</p><p>The region has a tropical climate characterized by distinct wet and dry seasons <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>. Annual high temperatures average around 33.5 • C, with lows averaging 25.21 • C <ref type="bibr" target="#b49">[50]</ref>. The area receives an average annual precipitation of 49.08 mm, with the majority of rainfall occurring during the monsoon season <ref type="bibr" target="#b49">[50,</ref><ref type="bibr" target="#b50">51]</ref>. The topography of the study area is predominantly flat, with sediment properties akin to those found in other fluvial deposits of the Barishal region <ref type="bibr" target="#b34">[35]</ref>. These sediments are primarily composed of medium to fine-grained sand, with a minor amount Fig. <ref type="figure">2</ref>. Methodological workflow outlining the steps followed in the study.</p><p>of coarse and fine silt and clay, which are vulnerable to erosion <ref type="bibr" target="#b51">[52,</ref><ref type="bibr" target="#b52">53]</ref> .</p><p>Agriculture is the primary land use in the area, with rice cultivation being predominant. The diversity of crops and land use patterns in the Barisal region has been documented, highlighting the importance of rice cultivation in the local economy <ref type="bibr" target="#b53">[54,</ref><ref type="bibr" target="#b54">55]</ref> . However, the region faces environmental challenges such as salinity intrusion, which has expanded from 0.83 million to 1.09 million hectares due to climate change, rendering large areas uncultivable <ref type="bibr" target="#b52">[53,</ref><ref type="bibr" target="#b54">55]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Materials and methods</head><p>The methodological approach of this study integrated both primary and secondary data sources (Fig. <ref type="figure">2</ref>) to assess river dynamics and their associated impacts. The analysis primarily focused on the calculation of geomorphic indices to quantify river morphological changes over time. Multispectral satellite images were acquired for spatial analysis. Various geomorphic indices were computed to evaluate channel adjustments and landscape evolution. Additionally, household questionnaire surveys and Key Informant Interviews (KII) from 154 samples and focused group discussion (FGD) with older individuals (7-8 FGD meetings) who had experienced river erosion were conducted to supplement and validate the findings derived from geospatial analysis. This integrated approach facilitated a comprehensive understanding of riverine transformations and their socioeconomic implications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Satellite data collection</head><p>Landsat imagery, with its adequate spatial resolution, is well-suited for monitoring river system dynamics, including the erosion and accretion of riverbanks. In this study, remote sensing (RS) data were integrated into a geographical information systems (GIS) framework to analyze trends in erosion and accretion and to calculate alterations in geomorphic indices. Satellite images were specifically collected during the dry season (from January to April) to ensure cloud-free conditions and stable water levels, as the river is less prone to high-water events during this period. Satellite data for mapping morphological changes and land use in the years <ref type="bibr">1980, 1990, 2000, 2010, and 2023</ref> were collected from the United States Geological Survey (USGS) Earth Explorer (USGS, 2024). The datasets were processed, resampled, and analyzed using ArcGIS. The details of the satellite images used are provided in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Geomorphic index calculation</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.1.">Sinuosity index</head><p>The Sinuosity Index (SI) is commonly employed to assess river morphology and gauge the extent of meandering. A sinuosity index value exceeding 1.5 typically indicates a meandering river. The sinu-osity index was calculated following the methodology outlined by <ref type="bibr" target="#b55">Mueller (1968)</ref>  <ref type="bibr" target="#b55">[56]</ref>:</p><formula xml:id="formula_0">Sinuosity Index (SI) = Channel Thalweg Length Valley Length (1)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2.">Changes in channel width</head><p>Channel width, measured as the breadth from one bank to the opposite bank, is a critical parameter for evaluating lateral adjustments in river morphology caused by hydrodynamic forces and anthropogenic activities <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b48">49]</ref>. In this study, channel width was measured perpendicular to the river's flow direction at equidistant intervals along the Sandhya River using historical satellite imagery and topographic maps. Measurements were standardized across five temporal benchmarks <ref type="bibr">(1980, 1990, 2000, 2010, and 2023</ref>) to ensure consistency. The average channel width for each period was calculated to assess spatial and temporal variability <ref type="bibr" target="#b56">[57]</ref>:</p><formula xml:id="formula_1">Average Channel Width = ∑ n i=1 Wi n (<label>2</label></formula><formula xml:id="formula_2">)</formula><p>where Wi is the width at the i th transect, and n is the total number of transects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.3.">Widening rate</head><p>The widening rate quantifies the temporal expansion or contraction of the river channel, providing insights into erosional and depositional dynamics. It was computed for four intervals <ref type="bibr">(1980-1990, 1990-2000, 2000-2010</ref>, and 2010-2023) using the following formula <ref type="bibr" target="#b4">[5]</ref>.</p><formula xml:id="formula_3">Widening rate (m/year) = W 2 -W 1 T 2 -T 1<label>(3)</label></formula><p>Where W₁ and W₂ represent the average channel widths at the start (T₁) and end (T₂) of each interval, respectively, positive values denote channel widening, while negative values indicate narrowing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.4.">Riverbank migration</head><p>Riverbank migration refers to the lateral displacement of channel banks over time, a key indicator of geomorphic instability. Migration rates were derived by tracking the horizontal shift of bank lines between successive periods using a centroid-based analysis of digitized bank positions <ref type="bibr" target="#b57">[58]</ref>. The migration distance (D) was calculated as:</p><formula xml:id="formula_4">Migration rate (m/year) = D T 2 -T 1 (<label>4</label></formula><formula xml:id="formula_5">)</formula><p>Where D is the Euclidean distance between corresponding bank line centroids, and T₂ -T₁ is the time interval in years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.5.">Erosion and accretion</head><p>Erosion and accretion were quantified to assess net sediment loss or gain along the Sandhya River. Using Landsat imagery and GIS-based overlay analysis <ref type="bibr" target="#b58">[59]</ref>, the net area change (ΔA) between consecutive periods was computed as follows:</p><formula xml:id="formula_6">ΔA = A accretion -A erosion<label>(5)</label></formula><p>Where A accretion and A erosion represent the areas of sediment deposition and bank erosion, respectively, rates of erosion and accretion (m/ year) were normalized by the duration of each interval to evaluate temporal trends.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Field study on societal impacts of riverbank Erosion</head><p>This study assesses the socioeconomic impacts of riverbank erosion through field investigations and geomorphic analysis. A total of 154 households, repeatedly displaced by erosion (at least once or twice), were surveyed. Located along actively eroding banks, these households were selected to evaluate exposure to erosion and accretion processes. Data collection included structured household surveys and Key Informant Interviews (KIIs) to assess displacement, occupational shifts, land loss (agricultural, orchard, homestead), income changes, and adaptive responses. Eight villages in Babuganj Upazila were surveyed using random sampling: Mohishadi <ref type="bibr" target="#b9">(10)</ref>, Rahamatpur <ref type="bibr" target="#b16">(17)</ref>, Doarika <ref type="bibr" target="#b19">(20)</ref>, Manikkathi <ref type="bibr" target="#b7">(8)</ref>, Khudrakathi <ref type="bibr" target="#b22">(23)</ref>, Rakudia <ref type="bibr" target="#b24">(25)</ref>, Kedarpur <ref type="bibr" target="#b14">(15)</ref>, and Vuterdia <ref type="bibr" target="#b35">(36)</ref>. This study integrates geomorphic and socioeconomic analyses to examine erosion-accretion dynamics and the impacts on livelihoods along the Sandhya River.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Estimating the relationship between land Erosion and population migration</head><p>A quantitative correlation analysis was conducted to assess the relationship between the riverbank erosion and population displacement. Data on the number of migrated individuals were collected through household surveys during fieldwork. Eroded land areas (km 2 ) were estimated using Landsat satellite images from 1980 to 2023, analyzed through GIS. A scatter plot was created in Python 3.13.0, with the number of migrated people plotted against the corresponding eroded land. A linear regression line was fitted, and the equation, along with the R 2 value, was displayed to interpret the strength of correlation (Fig. <ref type="figure" target="#fig_6">8c</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Changes in sinuosity index</head><p>The Sandhya River, originating from the Arial Khan River near Muladi and flowing towards its confluence with the Kacha River near Pirojpur, has undergone significant geomorphic changes over the past several decades. In this study, the sinuosity index (SI), which measures the degree of meandering in the river, was assessed at four distinct sections of the river, as shown in Fig. <ref type="figure" target="#fig_1">3a</ref>. These sections were analyzed across five time periods: 1980, 1990, 2000, 2010, and 2023.</p><p>The sinuosity index values across the four sections varied between a minimum of 1.01 and a maximum of 2.08. The spatiotemporal variations in the sinuosity index over the five time periods for each section are presented in Fig. <ref type="figure" target="#fig_1">3c</ref>. In Section 1, the sinuosity index increased gradually from 1.03 in 1980 to 1.49 in 2010, indicating a trend towards greater river meandering. However, a slight reduction was observed by 2023, with the index decreasing to 1.35. This suggests a moderate stabilization in the river's path after a period of increased meandering. In Section 2, the sinuosity index showed a marked decrease, starting from 2.08 in 1980 and falling to 1.6 in 2023. The most significant decline occurred between 1980 and 1990, when the index dropped from 2.08 to 1.7, and it has remained relatively stable since then. This reduction is likely linked to anthropogenic activities such as brickfields and sand mining, which were observed during the field surveys.</p><p>In Section 3, the sinuosity index exhibited a steady increase from 1.01 in 1980 to 1.29 in 2023. This indicates a gradual increase in meandering over the studied period, with the most notable changes occurring after 2000. The increased sinuosity in this section may be a result of natural river dynamics or changes in sediment deposition. Finally, in Section 4, the sinuosity index showed a steady rise from 1.05 in 1980 and 1990 to 1.41 in 2023, with a significant increase between 2010 and 2023. This gradual increase in meandering suggests that this section of the river has been more dynamic compared to others.</p><p>The sinuosity index of the Sandhya River has experienced significant changes from 1980 to 2023. While sections 1 and 3 showed a gradual increase in sinuosity, section 2 exhibited a reduction, potentially due to human activities <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b46">47]</ref>. The overall trend indicates varied geomorphic responses across the river, reflecting both natural processes and human interventions <ref type="bibr" target="#b7">[8]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Changes in channel width</head><p>The width of the Sandhya River has shown notable variation across ten transects, with significant changes observed over five distinct periods between 1980 and 2023. The data from these transects (Fig. <ref type="figure" target="#fig_1">3b</ref>) reveal a general trend of fluctuating river width, with specific transects showing a consistent increase, while others displayed more irregular patterns. These changes are visually represented in Fig. <ref type="figure" target="#fig_1">3d</ref>, which illustrates the temporal variation in width at each "Transect" for five distinct years.</p><p>From 1980 to 1990, the majority of sections showed an increase in river width, especially in transects 1, 2, and 5. For instance, the width at transect-1 rose from 255 m to 314 m, and transect-2 expanded from 264 m to 282 m. However, a slight reduction in width was noted in transect-8, where the width decreased from 349 m in 1980 to 284 m in 1990. Between 1990 and 2000, most transects continued to show an increase in width, with transect-5 expanding from 344 m to 400 m and transect-2 increasing from 282 m to 288 m. Conversely, transect-4 experienced a decline in width from 508 m in 1990 to 382 m in 2000, suggesting possible shifts in the river course or changes in land use. More irregular changes marked the period from 2000 to 2010. While some transects continued to expand, others narrowed. For example, transect-3 grew from 332 m in 2000 to 348 m in 2023, while transect-6 decreased from 403 m in 2000 to 336 m in 2010 and was further reduced to 300 m by 2023. In contrast, transect-9 exhibited consistent growth, increasing from 301 m in 1980 to 504 m in 2010, though a slight decrease to 498 m occurred at the end of the study period (Fig. <ref type="figure" target="#fig_1">3d</ref>).</p><p>By 2023, many transects showed significant increases in river width compared to 1980, with some reaching widths much greater than those initially recorded. Transect-2, for instance, expanded dramatically to 709 m, highlighting substantial changes in the channel morphology likely influenced by both natural and anthropogenic factors. Other transects, such as 7 and 10, also experienced consistent growth. However, transect-6 demonstrated a reduction, possibly attributed to localized erosion or changes in sediment deposition patterns.</p><p>The data underscore the dynamic nature of the Sandhya River, with significant temporal and spatial changes in width across various transects. While most sections experienced overall expansion, fluctuations were evident in some areas, with the largest increase observed in transect-2. These changes reflect the complex interplay of natural processes and human activities, which have shaped the morphology over time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Rate of widening</head><p>In this study, the widening rate of the Sandhya River was measured at 10 stations over four-time intervals <ref type="bibr">(1980-1990, 1990-2000, 2000-2010, and 2010-2023)</ref>. Analysis revealed significant fluctuations in channel width, with widening rates ranging from -11 m/year to +27 m/year, depending on the station and time period (Fig. <ref type="figure" target="#fig_2">4</ref>). Notably, stations 2 and 4 exhibited the most tremendous variability: station 2 recorded the highest widening rate (+27 m/year) during 2010-2023, whereas station 4 experienced the most pronounced narrowing (-11 m/ year) between 1990 and 2000. In contrast, station 7 demonstrated relatively stable widening throughout the study period.</p><p>Overall, the Sandhya River has exhibited a consistent widening trend, averaging up to 3.65 m/year. In particular, the 2010-2023 period saw a substantial widening at several locations, notably at stations 2 and 5. Field observations indicated that Stations 2 and 3, situated in areas with intensive sand mining and frequent brickfield activities, exhibited widening rates ranging from 5 m/year to 27 m/year during this period. Conversely, station 4, which showed a widening rate of 19 m/year during 1980-1990, recorded a narrowing rate of -9 m/year between 2010 and 2023. These variations underscore the dynamic nature of the 'river's morphological evolution.</p><p>Significant bank failures at meander bends have contributed to channel widening and the formation of mid-channel bars, thereby altering the fluvial dynamics of the Sandhya River. Although no midchannel bars were observed in 2000 or 2010, four had developed by 2023. Continuous riverbank failure, combined with sand mining and excavation for brickfield materials, has led to sidebar erosion, with no sidebars observed in 2014 and 2020. Sediment deposition from upstream flows and local bank collapses has played a crucial role in bar formation, further modifying the river's morphology. These processes intensify helical flow, exacerbate bank failures at meander bends, and, together with the presence of mid-channel bars, disrupt the natural flow regime by increasing sedimentation and reducing channel capacity. The vulnerability of cohesive materials at the bank toe further destabilizes the riverbanks, reinforcing the overall widening trend. occurred at Station 8, where the south bank migrated 220 m north, and the north bank shifted 193 m north. The 1990-2000 period continued the observed migration trend, with further increases in migration distances. At Station 6, the south bank migrated 211 m, while the north bank shifted 278 m in a southward direction. In contrast, Station 2 exhibited considerable movement, with the south bank migrating 202 m south and the north bank shifting 241 m north. Between 2000 and 2010, migration distances increased significantly, with the most pronounced changes occurring at Station 6. During this period, the south bank migrated 491 m south, while the north bank shifted 495 m south. A large flood around 2007 near Stations 3, 6, and 8 contributed to the vulnerability of these areas (Fig. 5), which likely influenced the migration patterns during this period. During the 2010-2023 period, migration became more varied. The south bank generally exhibited greater migration than the north bank. The largest total shifts were recorded at Station 6, where the south bank migrated 826 m and the north bank 857 m. Migration directions remained predominantly northward at Stations 1, 3, 4, 8, and 9, while southward migration was observed at Stations 2, 5, 6, 7, and 10.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Riverbank migration</head><p>In 1998, riverbank stabilization measures, including revetments and concrete blocks, were implemented near Station 3, close to Dwarika Bridge and Barishal Airport, to mitigate erosion, resulting in a temporary decline in the migration rate. However, after 2000, the rate increased again, primarily due to sand mining and brickfield operations along the Sandhya River. The period from 2000 to 2010 witnessed the highest migration rates, exacerbated by flooding and continued anthropogenic activities. This process has had an impact on both the sinuosity and the rate of width. Most of the brickfields and zones of sand mining are located in those specified sections 2 and 3. Sand mining exerts various impacts on the river morphological features, including channel excavations within the mining zone <ref type="bibr" target="#b30">[31,</ref><ref type="bibr" target="#b59">60]</ref>, river bank erosion and configuration change <ref type="bibr" target="#b39">[40]</ref>.</p><p>This trend is particularly concerning near critical infrastructure; for instance, the Sandhya River, which was approximately 1 km from Barishal Airport in 1980, had migrated to within 0.35 km by 2023 (Supplement-01). This shift is driven by increased discharge and scouring at meander necks, exacerbating bank erosion and channel widening.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5.">Land degradation and accretion</head><p>Riverbank erosion causes significant land degradation over large areas, affecting homesteads, agricultural land, livestock, and barren land. In villages such as Mohishadi, Doarika, Kedarpur, Rahamatpur, Khudrakathi, Vuterdia, Manikkathi, and Rakudia, some residents have lost more than half of their land due to erosion. Babuganj Upazila, in particular, is subject to substantial sediment deposition from the Ganges-Brahmaputra-Meghna (GBM) river system. Satellite data analysis over the past four decades reveals significant erosion along the Sandhya River banks, affecting eight villages in Babuganj Upazila, with a total area of 3.36 km 2 . In contrast, accretion expanded by 6.403 km 2 , while approximately 11.854 km 2 of land remained stable.</p><p>From 1980 to 2000, the erosion rate remained relatively constant, averaging around 0.731 km 2 /year (Fig. <ref type="figure" target="#fig_4">6</ref>). Meanwhile, the accretion rate increased slightly, averaging 1.14 km 2 /year, and the area of unchanged land remained at approximately 2.6 km 2 . From 2000 to 2010, the erosion rate increased to around 1.32 km 2 /year, while the accretion rate accelerated significantly, adding 2.16 km 2 of land. The area of stable land decreased slightly by approximately 2.5 km 2 during this period. Between 2010 and 2023, the accretion rate reduced to approximately 1.956 km 2 /year, while the area of unchanged land expanded significantly by about 4.157 km 2 . Notably, the rate of erosion during this period decreased dramatically to approximately 0.584 km 2 /year.</p><p>The use of riverbank stabilization measures, such as the embankments and concrete blocks to resist the riverbank erosion and to preserve the erosion-prone banks, and sand mining in the neck cutoff region have significant impacts on depositional rate and formation of point bars <ref type="bibr" target="#b60">[61,</ref><ref type="bibr" target="#b61">62]</ref>. The formation of mid-channel bars is a direct consequence of sediment deposition from upstream bank collapses and sand mining activities, as mentioned in the previous sections. These bars, which were absent in 2000 and 2010, occupied nearly 4.0 km 2 by 2023, disrupting natural flow regimes and increasing flow resistance. Consequently, midchannel bars and new char lands are forming near the Doarika bridge and cut bank in the midchannel of the Sandhya River.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.">Socioeconomic impacts of the geomorphic evolution of the Sandhya River</head><p>The geomorphic change of the Sandhya River has had profound socioeconomic consequences, primarily driven by riverbank erosion and land accretion. This section examines the key impacts, including land loss and its effects on livelihoods, shifts in land use and ownership, patterns of displacement and migration, and broader economic vulnerabilities by conducting an integrated field visit and questionnaire survey in and around several areas, including Vuterdia, Dehergati, Rahamatpur, Rakudia, Kedarpur, Khudrakathi, Mohishadi, and Manikkathi villages of Babuganj Upazila. The study was based on collecting Key Informant Interviews (KII) from 154 individuals and 7 to 8 focused group discussions to gather the actual picture of erosional hazards and to validate the results from the geospatial techniques. The findings highlight the direct correlation between geomorphic changes and socioeconomic instability in the study area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.1.">Land loss and livelihood disruptions</head><p>Riverbank erosion has significantly impacted land use and livelihoods in the study area, which is shown in Fig. <ref type="figure" target="#fig_5">7</ref>. Agricultural land has been the most affected, accounting for 65 % of total eroded land, followed by residential areas (15 %). The loss of farmland has directly affected food security and farming incomes, while residential property erosion has led to displacement and housing insecurity. Field survey data indicate that 20 % of households lost their homesteads entirely, while 22 % experienced total crop loss, and 20 % lost all their livestock (Fig. <ref type="figure" target="#fig_5">7b</ref>). Additionally, 51 % reported partial damage to their homes, and around 61 % and 45 % reported partial crop and livestock loss, respectively (Fig. <ref type="figure" target="#fig_5">7b</ref>). These impacts highlight the necessity of strategic land-use planning and erosion control measures to mitigate future losses.</p><p>Erosion-induced land loss has forced residents to shift from farming to other occupations. Before erosion, 61 % of the population were farmers, but this number dropped to 43 %, with a corresponding rise in day laborers and other professions. About 12 % and 15 % moved into  marginal trading and industrial work, respectively. Nearly 40 % of people changed careers due to erosion, while 59 % continued their previous occupations (Fig. <ref type="figure" target="#fig_5">7c</ref>). This transition highlights the economic vulnerability of affected communities as they move to less stable or lower-paying jobs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.2.">Shifts in land use and ownership patterns</head><p>Between 1980 and 2023, approximately 3.36 km 2 of land was lost to erosion, while 6.403 km 2 of new land was formed (Fig. <ref type="figure" target="#fig_4">6</ref>). Erosion peaked between 2000 and 2010 but has slowed in recent years, while accretion showed an initial increase followed by a more gradual expansion. The most severe erosion occurred in villages like Vuterdia, which saw its land area shrink from 1.42 km 2 to 0.37 km 2 , and Doarika, Rahmatpur, Rakudia, and Kedarpur, which collectively lost 1.43 km 2 of land (Table <ref type="table" target="#tab_1">2</ref>). Conversely, areas like Khudrakathi, Mohishadi, and Manikkathi experienced relatively lower erosion rates, losing about 0.49 km 2 . This drastic land loss correlates with declining agricultural productivity, economic instability, and property loss. The affected communities struggle with reduced income opportunities and food insecurity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.3.">Patterns of displacement and migration</head><p>Frequent displacement due to riverbank erosion has forced many residents to relocate within or beyond the region. Survey data indicate that 55 % of respondents were displaced 1-2 times, 32 % were displaced 3-4 times, and smaller percentages experienced even more frequent displacement (Fig. <ref type="figure" target="#fig_6">8a</ref>). Most displaced individuals relocated to nearby areas in Barishal (About 17 %), but approximately 73 % of displaced individuals moved to Dhaka, while 5 % settled in Chittagong, 4 % in Khulna, and the remainder spread across other districts in search of better opportunities (Fig. <ref type="figure" target="#fig_6">8b</ref>). Regression analysis shows a strong positive correlation between migration rates and erosion intensity (Fig. <ref type="figure" target="#fig_6">8c</ref>). As more land erodes, migration increases proportionally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.6.4.">Economic vulnerabilities and adaptation challenges</head><p>Communities affected by riverbank erosion often experience economic hardships, with many small-scale and marginal farmers falling into debt. Over the past 30 years, around 45 % of residents have taken personal loans to cope with financial losses (Fig. <ref type="figure" target="#fig_6">8d</ref>). The shift in employment patterns is also evident, about 40 % respondents have to change their profession due to the erosional hazards (Fig. <ref type="figure" target="#fig_5">7c</ref>). The transformation from farming-based livelihoods to diverse informal and service-sector jobs underscores the need for targeted economic support programs. Access to financial aid, skill development, and alternative employment opportunities will be critical in ensuring sustainable economic stability for erosion-affected communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Theoretical and practical implications</head><p>This research encompasses the theoretical understanding of fluvial geomorphology and socioeconomic analysis of river erosional hazards, integrating a geospatial approach to study river dynamics under both natural and anthropogenic influences. The integration of RS-GIS with qualitative community-based data (KII and FGD) provides a robust, interdisciplinary framework applicable across geographies facing similar riverbank instability. From a practical standpoint, the study emphasizes the necessity of coordinated land and water management policies, particularly in rapidly urbanizing and ecologically fragile regions. Although the use of 30 m spatial resolution of Landsat imagery can be challenging to detect small-scale geomorphic changes, particularly in narrow or highly dynamic river reaches, the study focused primarily on broader-scale geomorphic transformations that are detectable within the spatial limits of the dataset. The observed patterns of erosion and socioeconomic displacement in Babuganj reflect broader trends evident in other low-lying deltaic systems globally. Thus, the findings have strong international resonance, particularly for policymakers and practitioners working in comparable settings across Asia, Africa, and Latin America. In order to achieve sustainable riverine governance on a global scale, the strategy and suggestions presented here support scalable interventions that connect geomorphic stabilization with socioeconomic resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusions and recommendations</head><p>This study examined the significant geomorphic changes of the Sandhya River in Babuganj Upazila, Barishal, over the past four decades . Both natural processes and human interventions, including sand mining, brickfield operations, and embankment construction, have profoundly influenced the river morphology. These activities have accelerated the erosion, widened the river channel, and caused shifts in the sinuosity index, which fluctuated between 1.01 and 2.08. Significant widening rates, reaching up to 27 m per year, were observed near sand-mining zones. Total lateral migration reached 857 m at Station 6 (2010-2023), with south (left) and north (right) bank migration rates of 66 m/year and 63.5 m/year, respectively. Midchannel bars in the Sandhya River began forming after 2007 due to sediment deposition from upstream bank collapses and sand mining. Previously absent in 2000 and 2010, these bars expanded to around 4.0 km 2 by 2023, altering natural flow and increasing resistance. As a result, new mid-channel bars and char lands have emerged near the Doarika bridge and cut bank. The formation of mid-channel bars has disrupted river flow, contributing to instability in surrounding areas. These geomorphic changes, particularly after 2000, have had severe consequences for local infrastructure, such as Barishal Airport, and have led to the displacement of local communities. Riverbank erosion has caused significant socioeconomic hardship for local communities. Approximately 55 % of households have experienced displacement once or twice, with 32 % moving 3-4 times due to repeated erosion. The loss of agricultural land, which accounts for 65 % of the total erosion, has forced many residents to shift from farming (from 61 % to 43 % of the population) to informal sectors. Additionally, 45 % of households have fallen into debt due to the recurring losses caused by erosion. Villages such as Vuterdia, Rakudia, and Kedarpur have been particularly affected, experiencing some of the highest erosion rates.</p><p>To mitigate the geomorphic and socioeconomic challenges facing the Sandhya River, it is essential to regulate adverse human interventions, such as unplanned sand mining and brickfield operations, through strictly enforcing the environmental laws along the riverbank. Furthermore, structural interventions such as bank protection, embankments, and dams should be carefully evaluated before implementation to assess their environmental and geomorphic impacts and avoid unintended consequences. Understanding the erosional patterns, particularly the formation of bars (Chars), is crucial for monitoring river flow variations and geomorphic changes. Incorporating Geomorphic Index (G.I.) analysis into future research will enhance the predictive capabilities of erosion patterns and guide more effective management strategies.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Study area map showing the geographical location of Babuganj Upazila (top left) and the erosion and accretion patterns of the Sandhya River (bottom) during the study period.</figDesc><graphic coords="2,42.15,318.95,510.17,397.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Temporal Evolution of the Sandhya River (1990-2023). (A) Lateral migration patterns across four river sections over different years; (B) Transects used to measure river width changes over time; (C) Sinuosity index variations at four river sections across different years; (D) River width at various transect locations for individual years.</figDesc><graphic coords="5,42.15,446.40,510.19,260.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Maps showing (A-E) the locations of the widening rate measuring stations and (F) the corresponding rate of widening (m/year) for the Sandhya River between 1980 and 2023.</figDesc><graphic coords="6,42.15,522.71,510.14,193.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Maps depicting the direction of riverbank movement; Graphs showing the migration distances of both the north (right) and south (left) banks.</figDesc><graphic coords="7,42.15,55.49,510.19,239.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Trends of Erosion and Accretion along the Sandhya River (1980-2023), representing a higher accretion rate in the last 30 years.</figDesc><graphic coords="8,42.15,56.13,510.19,194.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Analysis of Land loss and livelihood changes, and shifting the streams of livelihood for erosional impact evaluation in the study area, representing 40 % of respondents who changed their professions.</figDesc><graphic coords="8,127.19,463.52,340.10,253.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 8 .</head><label>8</label><figDesc>Fig. 8. Erosion-induced migration dynamics representing the (a) Migration frequencies, (b) patterns and places , (c) correlation of migration and erosion triggered along the Sandhya River, and (d) Utilization of personal loans by individuals over the last 30 years in the study area.</figDesc><graphic coords="10,99.19,55.65,396.86,294.77" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="3,99.19,261.23,396.86,464.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Details of satellite images used for the analysis.*</figDesc><table><row><cell>Date of</cell><cell>Satellite</cell><cell>Sensor</cell><cell>Path/</cell><cell>Band</cell><cell>Cloud</cell><cell>Resolution</cell></row><row><cell>Acquisition</cell><cell>ID</cell><cell>ID</cell><cell>Row</cell><cell>Used</cell><cell>Cover</cell><cell>(m)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(%)</cell><cell></cell></row><row><cell>January 15, 1980</cell><cell>Landsat 3</cell><cell>MSS</cell><cell>137/ 44</cell><cell>4-6 and 7</cell><cell>0</cell><cell>30</cell></row><row><cell>January 07, 1999</cell><cell>Landsat 5</cell><cell>TM</cell><cell>137/ 44</cell><cell>1-5 and 7</cell><cell>0</cell><cell>30</cell></row><row><cell>February 28, 2000</cell><cell>Landsat 7</cell><cell>ETM+</cell><cell>137/ 44</cell><cell>1-5 and 7</cell><cell>0-5</cell><cell>30</cell></row><row><cell>January 30, 2010</cell><cell>Landsat 5</cell><cell>TM</cell><cell>137/ 44</cell><cell>1-5 and 7</cell><cell>0-3</cell><cell>30</cell></row><row><cell>April 20, 2023</cell><cell>Landsat 8</cell><cell>OLI &amp; TIRS</cell><cell>137/ 44</cell><cell>1-5 and 7</cell><cell>0-3</cell><cell>30</cell></row></table><note><p>* MSS: Multi-Spectral Scanner; TM: Thematic Mapper; ETM+: Enhanced Thematic Mapper Plus; OLI &amp; TIRS: Operational Land Imager &amp; Thermal Infrared Sensor (http://earthexplorer.usgs.gov).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Changes in land-ownership in response to erosion of eight adjoining villages in the study area. The negative sign in the total changes of occupied land indicates land degradation from 2000 to 2010.</figDesc><table><row><cell>S. Goswami et al.</cell><cell></cell><cell>Progress in Disaster Science 27 (2025) 100450</cell></row><row><cell>Villages</cell><cell>Occupied Land (sq. km) at</cell><cell>Occupied land (sq. km) before the</cell></row><row><cell></cell><cell>present</cell><cell>erosion started</cell></row><row><cell>Vuterdia</cell><cell>0.38</cell><cell>1.42</cell></row><row><cell>Doarika</cell><cell>0.27</cell><cell>0.72</cell></row><row><cell>Rahmatpur</cell><cell>0.23</cell><cell>0.60</cell></row><row><cell>Rakudia</cell><cell>0.36</cell><cell>0.68</cell></row><row><cell>Kedarpur</cell><cell>0.28</cell><cell>0.57</cell></row><row><cell>Khudrakathi</cell><cell>0.03</cell><cell>0.25</cell></row><row><cell>Mohishadi</cell><cell>0.05</cell><cell>0.23</cell></row><row><cell>Manikkathi</cell><cell>0.01</cell><cell>0.10</cell></row><row><cell>Total</cell><cell>1.60</cell><cell>4.56</cell></row><row><cell>Total changes</cell><cell></cell><cell>¡2.97</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Progress in Disaster Science 27 (2025) 100450</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgement</head><p>We are grateful to the technical personnel involved in this work, especially those in the <rs type="affiliation">Department of Geology and Mining laboratory</rs>. The authors would like to thank the office of the <rs type="affiliation">Department of Geology and Mining, University of Barishal, Bangladesh</rs>, for their support during sampling and analysis. We also want to thank several undergraduate students (Admission session: <rs type="grantNumber">2017-2018</rs>) of the Geology and <rs type="person">Mining Department</rs> at the <rs type="affiliation">University of Barishal</rs>, for their cooperation during the field data collection, preparation and analysis. We would like express our thanks to <rs type="person">Ms. Afroz Jahan</rs> and <rs type="person">Mr. Eaftada Tasin Eafti</rs> for their support during the data curation and analysis. Finally, we appreciate and humbly express our gratitude to the unanimous reviewers for their valuable feedback, constructive comments, and the effort the two reviewers put into this manuscript to enhance its quality.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_hqvcq75">
+					<idno type="grant-number">2017-2018</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data will be made available on request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Additionally, collaboration between academic institutions and local government agencies is necessary to conduct high-quality research on river morphological changes and the impacts of human interventions. This research can provide valuable insights for policy decisions and improve river basin management.</p><p>Additionally, nature-based solutions, such as bioengineering with vegetation, provide sustainable and eco-friendly methods for bank stabilization. Community-focused adaptation strategies, including livelihood diversification through aquaculture and eco-tourism, can support displaced populations and reduce dependency on agriculture. Finally, establishing early warning systems, coordinating sediment management through regular dredging of mid-channel bars, and developing a national erosion management framework that incorporates remote sensing and GIS technologies will ensure more efficient and coordinated efforts in managing riverbank erosion in the future. These integrated measures provide a replicable model for sustainable river governance in Bangladesh and other vulnerable deltaic regions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The authors would like to express their sincere gratitude to the R&amp;D Project, Ministry of Science and Technology, Government People's Republic of Bangladesh for funding a project (Budget code: SRG-223453) to accomplish this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary data to this article can be found online at <ref type="url" target="https://doi">https://doi</ref>. org/10.1016/j.pdisas.2025.100450.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An integrated framework for satellite-based flood mapping and socioeconomic risk analysis: a case of Thailand</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Prasertsoong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Puttanapong</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100393</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100393" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog Disaster Sci</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">100393</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Morphological changes of river Bank Erosion and channel shifting assessment on Arial Khan River of Bangladesh using Landsat satellite time series images</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmr</forename><surname>Munna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Preya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Nisanur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Memy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100381</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100381" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog Disaster Sci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">100381</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Quantification of land use changes driven by the dynamics of the Jamuna River, a giant tropical river of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Gazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kamal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejrs.2024.04.004</idno>
+		<ptr target="https://doi.org/10.1016/j.ejrs.2024.04.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Egypt J Remote Sens Space Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="392" to="402" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impact of human intervention structures on the rivers: an investigation of the spatiotemporal variation of grain size in the Tista River, eastern Himalayas</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.5374</idno>
+		<ptr target="https://doi.org/10.1002/esp.5374" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surf Process Landf</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2245" to="2265" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A method for the assessment and analysis of the hydromorphological condition of Italian streams: the morphological quality index (MQI)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Surian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Comiti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bussettini</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2012.09.009</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2012.09.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="page" from="96" to="108" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Channel response to large?Scale river training works: Hunter River</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Erskine</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/rrr.3450070305</idno>
+		<ptr target="https://doi.org/10.1002/rrr.3450070305" />
+	</analytic>
+	<monogr>
+		<title level="j">Australia. Regul Rivers: Res Manage</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="261" to="278" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Riverbank erosion induced vulnerability in India: a review for future research framework</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bhuyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sajjad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Rahaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11069-024-06789-6</idno>
+		<ptr target="https://doi.org/10.1007/s11069-024-06789-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Hazards</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="30" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The coastal dynamics of the Central Ganges-Brahmaputra-Meghna Delta coast, Bangladesh: implications for coastal development and sustainability</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Ghosh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11852-024-01032-7</idno>
+		<ptr target="https://doi.org/10.1007/s11852-024-01032-7" />
+	</analytic>
+	<monogr>
+		<title level="j">J Coast Conserv</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of climate change on the river ecosystem</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Siddha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sahu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-0-323-85045-2.00014-5</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-323-85045-2.00014-5" />
+	</analytic>
+	<monogr>
+		<title level="m">Ecological significance of river ecosystems</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="79" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stormy geomorphology: geomorphic contributions in an age of climate extremes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Naylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Darby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Magilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Macklin</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.4062</idno>
+		<ptr target="https://doi.org/10.1002/esp.4062" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surf Process Landf</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="166" to="190" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Socioeconomic consequences of climate induced human displacement and migration in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shamsuddoha</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0268580917693173</idno>
+		<ptr target="https://doi.org/10.1177/0268580917693173" />
+	</analytic>
+	<monogr>
+		<title level="j">Int Sociol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="277" to="298" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impact of climate change on riverbank erosion</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aktar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sci</title>
+		<idno type="ISSN">2307-4531</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="42" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Quantifying different riverbank erosion processes during an extreme flood event</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Croke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.3386</idno>
+		<ptr target="https://doi.org/10.1002/esp.3386" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surf Process Landf</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1393" to="1406" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Determination of potential hazard level for flood-induced damage during different life cycle stages of T. Aman rice along the floodplain of the Jamuna River</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tabassum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Moumita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rafy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pdisas.2024.100353</idno>
+		<ptr target="https://doi.org/10.1016/j.pdisas.2024.100353" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog Disaster Sci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">100353</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Transboundary river management of the Ganges-Brahmaputra-Meghna (GBM) Delta: environmental challenges and strategies</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-95542-7_23</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-95542-7_23" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Degrad</title>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="page" from="495" to="530" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Effects of riverbank erosion on mental health of the affected people in Bangladesh</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Alam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Haque</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0254782</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0254782" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">254782</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Impacts of floods and riverbank erosions on the rural lives and livelihoods strategies in Bangladesh: Evidence from Kurigram. Research, Leadership, Transformation: Handbook of Climate Change Management; 2021</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shahriar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-22759-3_150-1</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-22759-3_150-1" />
+		<imprint>
+			<biblScope unit="page" from="1" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Riverbank erosion, population migration and rural vulnerability in Bangladesh (a case study on Kazipur Upazila at Sirajgonj District)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Mollah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferdaush</surname></persName>
+		</author>
+		<idno type="DOI">10.13189/eer.2015.030502</idno>
+		<ptr target="https://doi.org/10.13189/eer.2015.030502" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Ecol Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="125" to="131" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Socioeconomic impacts of river bank erosion on Durgapasha Union in Bakerganj Upazila</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Emon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. Barisal Univ J Part</title>
+		<idno type="ISSN">2411-247X</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Impact of riverbank erosion hazard in the Jamuna floodplain areas in Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.3329/jsf.v8i1-2.14627</idno>
+		<ptr target="https://doi.org/10.3329/jsf.v8i1-2.14627" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Found</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="55" to="65" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Ganges-Brahmaputra delta</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Goodbred</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kudrass</surname></persName>
+		</author>
+		<idno type="DOI">10.2110/pec.05.83.0413</idno>
+		<ptr target="https://doi.org/10.2110/pec.05.83.0413" />
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The significance of large sediment supply, active tectonism, and eustasy on margin sequence development: Late Quaternary stratigraphy and evolution of the Ganges-Brahmaputra delta</title>
+		<author>
+			<persName><forename type="first">Goodbred</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/S0037-0738(00)00041-5</idno>
+		<ptr target="https://doi.org/10.1016/S0037-0738(00)00041-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Sediment Geol</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="227" to="248" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ganges-Brahmaputra-Meghna River Delta</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nusrat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Debi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-97-7259-9_6</idno>
+		<ptr target="https://doi.org/10.1007/978-981-97-7259-9_6" />
+	</analytic>
+	<monogr>
+		<title level="m">Delta sustainability: a report to the Mega-Delta Programme of the UN Ocean decade</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature Singapore</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="89" to="116" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Geomorphic change in the Ganges-Brahmaputra-Meghna delta</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paszkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Goodbred</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Borgomeo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Msa</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename></persName>
+		</author>
+		<idno type="DOI">10.1038/s43017-021-00213-4</idno>
+		<ptr target="https://doi.org/10.1038/s43017-021-00213-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Earth Environ</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="763" to="780" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Assessment of socioeconomic impacts of river Bank Erosion: enhancing resilience in the Coastal Belt of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Akter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Salman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/107049652412467</idno>
+		<ptr target="https://doi.org/10.1177/107049652412467" />
+	</analytic>
+	<monogr>
+		<title level="j">J Environ Dev</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="583" to="612" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Economic vulnerabilities induced by riverbank Erosion</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Guchhait</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-031-47010-3_6</idno>
+		<ptr target="https://doi.org/10.1007/978-3-031-47010-3_6" />
+	</analytic>
+	<monogr>
+		<title level="m">Riverbank Erosion in the Bengal Delta: An integrated perspective</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="201" to="247" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Drivers of vulnerability and its socioeconomic consequences: an example of river Erosion affected people in Bangladesh</title>
+		<author>
+			<persName><forename type="first">Rezaul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-77259-8_15</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-77259-8_15" />
+	</analytic>
+	<monogr>
+		<title level="m">Climate vulnerability and resilience in the global south: human adaptations for sustainable futures; 2021</title>
+		<imprint>
+			<biblScope unit="page" from="297" to="326" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Socioeconomic impacts of river bank erosion: a case study on coastal island of Bangladesh</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Siddik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akmm</forename><surname>Zaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hridoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Akhtar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J NOAMI</title>
+		<idno type="ISSN">1027-2119</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="73" to="84" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The environmental impacts of river sand mining</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Rentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Cammeraat</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2022.155877</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2022.155877" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">838</biblScope>
+			<biblScope unit="page">155877</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Coastal erosion, river bank erosion and landslides in the Mekong Delta: causes, effects and solutions</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Tho</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-15-2184-3_125</idno>
+		<ptr target="https://doi.org/10.1007/978-981-15-2184-3_125" />
+	</analytic>
+	<monogr>
+		<title level="m">Geotechnics for sustainable infrastructure development</title>
+		<meeting><address><addrLine>Singapore; Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="957" to="962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Sediment mining in alluvial channels: physical effects and management perspectives</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wyzga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Surian</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/rra.884</idno>
+		<ptr target="https://doi.org/10.1002/rra.884" />
+	</analytic>
+	<monogr>
+		<title level="j">River Res Appl</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="805" to="828" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effect of degraded ecosystem on fish biodiversity in the old Brahmaputra River, Bangladesh and its conservation measures</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Afrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno>ISSN: 2319-2399</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Food Technol</title>
+		<idno type="ISSN">2319-2402</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="37" to="43" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>IOSR J Environ Sci</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Causes and consequences of habitat fragmentation in river networks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Strayer</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/nyas.12853</idno>
+		<ptr target="https://doi.org/10.1111/nyas.12853" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">1355</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="51" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Conservation biology: The theory and practice of nature conservation preservation and management</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Leidy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4684-6426-9_6</idno>
+		<ptr target="https://doi.org/10.1007/978-1-4684-6426-9_6" />
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Springer US</publisher>
+			<biblScope unit="page" from="127" to="169" />
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Loss of biodiversity in aquatic ecosystems: evidence from fish faunas</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Riverbank Erosion assessment of Sandha River and identification the human induced key factor by using GIS and remote sensing method</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Islam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">th international conference on engineering research, volume: ICERIE-2021-143</title>
+		<meeting><address><addrLine>SUST</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A study on fluvial flood hazard and risk assessment of Arial Khan River floodplain under future climate change scenarios</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Roy</surname></persName>
+		</author>
+		<ptr target="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/5917" />
+	</analytic>
+	<monogr>
+		<title level="j">BUET</title>
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Water Resources Engineering</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Experimental investigation of undercut mechanisms of river bank erosion based on 3D turbulence characteristics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Barman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Debnath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Mazumder</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40710-019-00417-3</idno>
+		<ptr target="https://doi.org/10.1007/s40710-019-00417-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Processes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="341" to="366" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">River response to mining-induced subsidence</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sobucki</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.catena.2022.106303</idno>
+		<ptr target="https://doi.org/10.1016/j.catena.2022.106303" />
+	</analytic>
+	<monogr>
+		<title level="j">Catena</title>
+		<imprint>
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="page">106303</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">From discourses to systems-policymaking for adaptive management in the Brahmaputra River basin</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Varma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryw</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tortajada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rakshit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saikia</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1748-9326/add02b</idno>
+		<ptr target="https://doi.org/10.1088/1748-9326/add02b" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Res Lett</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Gravel extraction and planform change in a wandering gravel-bed river: the river Wear</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wishart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Warburton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bracken</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2007.05.003</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2007.05.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="131" to="152" />
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Northern England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Hydrogeomorphic effects of river training works: the case of the Allyn River. NSW</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Erskine</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8470.1990.tb00622.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8470.1990.tb00622.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Aust Geogr Stud</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="62" to="76" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Decoding spatio-temporal dynamics of river morphology: a comprehensive analysis of bank-line migration in lower Gangetic basin using DSAS</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40808-023-01927-8</idno>
+		<ptr target="https://doi.org/10.1007/s40808-023-01927-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Model Earth Syst Environ</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2869" to="2885" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Human impact on geomorphic index alteration at the Chi River in Kosum Phisai</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Choowong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wattanachareekul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Earth Sci Thailand</title>
+		<idno type="ISSN">2821-9104</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2022">2022</date>
+			<pubPlace>Maha Sarakham, North-Eastern Thailand</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Online</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Navigating the ravages of riverbank Erosion: socioeconomic and environmental impacts in the Nalua Union of Bakerganj Upazila</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shefa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Ovi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smh</forename><surname>Akash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parvez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rukshana</surname></persName>
+		</author>
+		<idno type="DOI">10.34104/ajssls.024.015400161</idno>
+		<ptr target="https://doi.org/10.34104/ajssls.024.015400161" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian J Soc Sci Leg Stud</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="154" to="161" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Impact of floods and riverbank erosion on the riverine people in Manikchak block of Malda District</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Samanta</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-022-02648-1</idno>
+		<ptr target="https://doi.org/10.1007/s10668-022-02648-1" />
+	</analytic>
+	<monogr>
+		<title level="j">West Bengal. Environ Dev Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="13595" to="13617" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Application of GIS and remote sensing in morphometric analysis of river basin at the south-western part of great Ganges delta</title>
+		<author>
+			<persName><forename type="first">Mar</forename><surname>Joy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Upaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fatema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Amin</surname></persName>
+		</author>
+		<idno type="DOI">10.2166/nh.2023.087</idno>
+		<ptr target="https://doi.org/10.2166/nh.2023.087" />
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. Hydrol Res</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="739" to="755" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Assessment of riverbank erosion and erosion probability using geospatial approach: a case study of the Subansiri River</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bordoloi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Nikam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Srivastav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sahariah</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12518-019-00296-1</idno>
+		<ptr target="https://doi.org/10.1007/s12518-019-00296-1" />
+	</analytic>
+	<monogr>
+		<title level="j">India. Appl Geomatics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="280" />
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Assam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Application of remote sensing and GIS for evaluation of the recent morphological characteristics of the lower Brahmaputra-Jamuna River</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bhuiyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kumamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suzuki</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12145-014-0180-4</idno>
+		<ptr target="https://doi.org/10.1007/s12145-014-0180-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. Earth Sci Inf</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="551" to="568" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Complexity, self-organisation and variation in behaviour in meandering rivers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hooke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2007.04.021</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2007.04.021" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="236" to="258" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">annually since 1864. The &apos;&apos;Statesman&apos;s Yearbook 2021: The politics, Cultures and Economies of the World</title>
+		<idno type="DOI">10.1057/978-1-349-95972-3_24</idno>
+		<ptr target="https://doi.org/10.1057/978-1-349-95972-3_24" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Springer Nature Limited and Published</publisher>
+			<biblScope unit="page" from="166" to="170" />
+			<pubPlace>Bangladesh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Statistics and informatics division (SID), ministry of planning. Government of the people&apos;s republic of Bangladesh</title>
+		<author>
+			<persName><surname>Bbs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="3" to="664" />
+			<pubPlace>Dhaka, Bangladesh</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Yearbook of agricultural statistics-2021. 33rd series, Bangladesh bureau of statistics (BBS)</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Groundwater quality assessment of Barisal city corporation in Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goswami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mim</forename><surname>Fuad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Barisal Univ J Part</title>
+		<idno type="ISSN">2411-247X</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="350" />
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Urban geology of Barishal District: Environmental and geological constraints</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fahad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nayem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Eng Res</title>
+		<idno type="ISSN">2320-0847 p- : 2320-0936</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="152" to="156" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Assessment of soil salinity and heavy metal contamination in agricultural zones from Barishal towards Barguna</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Khondoker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Hosain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akm</forename><surname>Obaidullah</surname></persName>
+		</author>
+		<idno type="DOI">10.70771/jocw</idno>
+		<ptr target="https://doi.org/10.70771/jocw" />
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. J Creative Writ</title>
+		<idno type="ISSN">-2410-6259</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="110" to="132" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Salinity problems and crop production in coastal regions of Bangladesh</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Haque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pak J Bot</title>
+		<idno type="ISSN">2070-3368</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1359" to="1365" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">An introduction to the hydraulic and topographic sinuosity indexes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mueller</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8306.1968.tb00650.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8306.1968.tb00650.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals Assoc Am Geogr</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="371" to="385" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">River meanders and channel size</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0022-1694(86)90202-7</idno>
+		<ptr target="https://doi.org/10.1016/0022-1694(86)90202-7" />
+	</analytic>
+	<monogr>
+		<title level="j">J Hydrol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="147" to="164" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The measurement of river bank erosion and lateral channel change: a review</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lawler</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/esp.3290180905</idno>
+		<ptr target="https://doi.org/10.1002/esp.3290180905" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth Surf Process Landf</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="777" to="821" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Geomorphic analysis of large alluvial rivers</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Thorne</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0169-555X(01)00175-1</idno>
+		<ptr target="https://doi.org/10.1016/S0169-555X(01)00175-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="203" to="219" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Variation in surface bed material along a mountain river modified by gravel extraction and channelization, the Czarny Dunajec, polish Carpathians</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zawiejska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wyżga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radecki-Pawlik</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geomorph.2014.12.026</idno>
+		<ptr target="https://doi.org/10.1016/j.geomorph.2014.12.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">231</biblScope>
+			<biblScope unit="page" from="353" to="366" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Human intervention on river system: a control system-a case study in Ichamati River</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Satpati</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-019-00423-3</idno>
+		<ptr target="https://doi.org/10.1007/s10668-019-00423-3" />
+	</analytic>
+	<monogr>
+		<title level="j">India. Environ Dev Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="5245" to="5271" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Downstream hydraulic geometry and channel adjustment during a flood along an ephemeral, arid-region drainage</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Merritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Wohl</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0169-555X(02)00241-6</idno>
+		<ptr target="https://doi.org/10.1016/S0169-555X(02)00241-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="165" to="180" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Community-Based Participatory Research on Urban Environmental Conflicts: Sand Quarries in Northern Bogotá</title>
+				<funder>
+					<orgName type="full">Universidad del Magdalena</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Democracy</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-09-09">9 September 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Adriana</forename><forename type="middle">Hernández</forename><surname>Guzm</surname></persName>
+							<idno type="ORCID">0000-0002-0786-6080</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Environmental Sciences</orgName>
+								<orgName type="institution">Universidad Santo Tomás</orgName>
+								<address>
+									<postCode>110231</postCode>
+									<settlement>Bogotá</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Diego</forename><surname>Hernánd Guzmán</surname></persName>
+							<idno type="ORCID">0000-0002-4475-9487</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Celene</forename><forename type="middle">B</forename><surname>Milan</surname></persName>
+							<email>cmilanes@unimagdalena.edu.co</email>
+							<idno type="ORCID">0000-0003-2560-8859</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Law and Political Sciences</orgName>
+								<orgName type="institution">Universidad de la Costa</orgName>
+								<address>
+									<postCode>080003</postCode>
+									<settlement>Barranquilla</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Faculty of Engineering</orgName>
+								<orgName type="institution">Universidad del Magdalena</orgName>
+								<address>
+									<postCode>470004</postCode>
+									<settlement>Santa Marta</settlement>
+									<country key="CO">Colombia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Estación Científica (Coiba AIP)</orgName>
+								<orgName type="institution">City of Knowledge</orgName>
+								<address>
+									<postCode>0801</postCode>
+									<settlement>Clayton</settlement>
+									<country>Panama City Panama</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<address>
+									<addrLine>Zipaquirá 250247</addrLine>
+									<settlement>Cajicá</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Omar</forename><surname>Ramíre</surname></persName>
+							<email>omar.ramirez@unimilitar.edu.co</email>
+							<idno type="ORCID">0000-0002-8594-5139</idno>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Faculty of Engineering</orgName>
+								<orgName type="department" key="dep2">Environmental Engineering</orgName>
+								<orgName type="institution">Universidad Militar Nueva Granada</orgName>
+								<address>
+									<country>Km</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Belinha</forename><surname>Herrera Tapias</surname></persName>
+							<idno type="ORCID">0000-0002-5974-7040</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Law and Political Sciences</orgName>
+								<orgName type="institution">Universidad de la Costa</orgName>
+								<address>
+									<postCode>080003</postCode>
+									<settlement>Barranquilla</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<address>
+									<addrLine>Zipaquirá 250247</addrLine>
+									<settlement>Cajicá</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ofelia</forename><forename type="middle">Pérez</forename><surname>Montero</surname></persName>
+							<email>ofelia@uo.edu.cu</email>
+							<idno type="ORCID">0000-0002-3423-9744</idno>
+							<affiliation key="aff6">
+								<orgName type="department">Center for Multidisciplinary Studies of Coastal Zones</orgName>
+								<orgName type="institution">Universidad de Oriente</orgName>
+								<address>
+									<addrLine>Santiago de Cuba 90100</addrLine>
+									<country>Cuba;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Atenas</forename><surname>Gutiérrez</surname></persName>
+							<email>agutierr75@cuc.edu.co</email>
+							<idno type="ORCID">0000-0002-3423-9744</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Law and Political Sciences</orgName>
+								<orgName type="institution">Universidad de la Costa</orgName>
+								<address>
+									<postCode>080003</postCode>
+									<settlement>Barranquilla</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<address>
+									<addrLine>Zipaquirá 250247</addrLine>
+									<settlement>Cajicá</settlement>
+									<country>Colombia;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Seweryn</forename><surname>Zielinski</surname></persName>
+							<email>zielinski@sejong.ac.kr</email>
+							<idno type="ORCID">0000-0002-8125-6758</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Deparment of Hospitality and Tourism Management</orgName>
+								<orgName type="institution">Sejong University</orgName>
+								<address>
+									<postCode>05006</postCode>
+									<settlement>Seoul</settlement>
+									<country>Republic of Korea;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Community-Based Participatory Research on Urban Environmental Conflicts: Sand Quarries in Northern Bogotá</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2024-09-09">9 September 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">06154E9D7FBC1C24989AFABC36F4ACC9</idno>
+					<idno type="DOI">10.3390/land13091460</idno>
+					<note type="submission">Received: 21 July 2024 Revised: 26 August 2024 Accepted: 29 August 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Guzmán, A.H.</term>
+					<term>Hernández Guzmán, D.</term>
+					<term>Milanés, C.B.</term>
+					<term>Ramírez, O.</term>
+					<term>Herrera Tapias, B.</term>
+					<term>Montero, O.P.</term>
+					<term>Gutiérrez Reyes, A.</term>
+					<term>Zielinski, S participatory research</term>
+					<term>participatory governance</term>
+					<term>environmental governance</term>
+					<term>SDG 11</term>
+					<term>urban</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The paper is about community-based participatory research on environmental conflicts about sand quarries in northern Bogotá. Community-based participatory research is applied to understand the environmental conflicts of mining activities. The approach was suitable for improving the relevance and acceptance of research in the local community. It invited community members to participate and uphold their views about the social conflicts and environmental impacts arising from mining activities. The findings highlight the need for participatory environmental governance, integrating local communities and power relations analysis in environmental decision-making.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Mining activities, such as sand quarrying, implemented inside urban areas create conflictive scenarios, where the local community, instead of enjoying a sustainable habitat, is put under systemic pressure due to economic, environmental, and social interests. While these activities are important for the economy, particularly for infrastructure and manufacturing, they have adverse effects on the environment <ref type="bibr" target="#b0">[1]</ref>, as well as geomorphic consequences for the urban landscape <ref type="bibr" target="#b1">[2]</ref>.</p><p>Sustainable Development Goal (SDG) 11 seeks to ensure the sustainability of human settlements <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. <ref type="bibr">Target 11.7</ref> underscores the significance of access to green areas and safe, inclusive, and accessible public spaces <ref type="bibr" target="#b4">[5]</ref>. Also, sustainable urbanization mandates including the special needs of vulnerable groups <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>.</p><p>Green public spaces are essential in the well-being of people living in cities <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>. Although Bogotá has performed well in indexes such as Siemens' Índice de Ciudades Verdes de América Latina <ref type="bibr" target="#b15">[16]</ref>, in the indicator "Green areas per person", which measures public parks, recreational areas, green trails, waterways, and other public areas in square meters per inhabitant, different studies show that there is still a need for more green areas, especially in the low-income neighborhoods of Bogotá <ref type="bibr" target="#b16">[17]</ref>. A clear example of this need is seen in neighborhoods adjacent to quarries being exploited inside urban areas of northern Bogotá, which mostly affect low-income and vulnerable populations.</p><p>Mining extractions are typically associated with environmental impacts <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref>. Specifically, quarrying activities that are undertaken inside inhabited urban areas lead to scenarios of social conflict, where the source of income that the enterprises represent for many clashes against the absence of public and private green spaces, air and water pollution, energy consumption, waste management, landscape changes, etc. <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23]</ref>.</p><p>To understand the specific conflicts arising from quarry exploitation in Bogotá, this study conducted participatory community-based research <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref> in neighborhoods adjacent to sand quarries in the north of Bogotá, Colombia (Figure <ref type="figure" target="#fig_0">1</ref>).</p><p>Land 2024, <ref type="bibr">13,</ref> x FOR PEER REVIEW 2 of 17 is seen in neighborhoods adjacent to quarries being exploited inside urban areas of northern Bogotá, which mostly affect low-income and vulnerable populations.</p><p>Mining extractions are typically associated with environmental impacts <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref>. Specifically, quarrying activities that are undertaken inside inhabited urban areas lead to scenarios of social conflict, where the source of income that the enterprises represent for many clashes against the absence of public and private green spaces, air and water pollution, energy consumption, waste management, landscape changes, etc. <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23]</ref>.</p><p>To understand the specific conflicts arising from quarry exploitation in Bogotá, this study conducted participatory community-based research <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref> in neighborhoods adjacent to sand quarries in the north of Bogotá, Colombia (Figure <ref type="figure" target="#fig_0">1</ref>). This manuscript examines the intricate relationship between political entanglements and their detrimental impact on environmental and social policies and institutions. It argues that the core issue is not merely environmental degradation but the ways in which political factors undermine efforts to achieve sustainable environmental governance.</p><p>The political entanglements analyzed in the paper focus on the complexities surrounding the governance and regulation of sand quarrying activities in northern Bogotá. The paper examines how these complex interactions between local communities, regulatory bodies, private enterprises, and government institutions contribute to the socio-environmental conflicts in the area.</p><p>Using participatory research methods such as social cartography <ref type="bibr" target="#b25">[26]</ref>, environmental conflicts resulting from sand quarries <ref type="bibr">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> and the collaborative construction of habitats were explored <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. This study was framed within the interconnection of social, economic, and environmental factors in the urbanization process <ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref>. The findings highlighted the need for environmental participatory management and planning that integrates local communities in environmental decision-making processes <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>.</p><p>The results of this study suggest that in Usaquén, and potentially in similar systems beyond Bogotá-such as other cities in Latin America or regions worldwide facing similar entanglements-there is a critical need for participatory governance to achieve an inclusive and sustainable urban environment <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. Cities can create spaces that better reflect the diverse needs and aspirations of their citizens by guaranteeing that all have a voice in the governance of the environment <ref type="bibr" target="#b38">[39]</ref>. Collaborative and participatory governance can facilitate a common sense of environmental ownership by actively involving local This manuscript examines the intricate relationship between political entanglements and their detrimental impact on environmental and social policies and institutions. It argues that the core issue is not merely environmental degradation but the ways in which political factors undermine efforts to achieve sustainable environmental governance.</p><p>The political entanglements analyzed in the paper focus on the complexities surrounding the governance and regulation of sand quarrying activities in northern Bogotá. The paper examines how these complex interactions between local communities, regulatory bodies, private enterprises, and government institutions contribute to the socio-environmental conflicts in the area.</p><p>Using participatory research methods such as social cartography <ref type="bibr" target="#b25">[26]</ref>, environmental conflicts resulting from sand quarries [27-29] and the collaborative construction of habitats were explored <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. This study was framed within the interconnection of social, economic, and environmental factors in the urbanization process <ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref>. The findings highlighted the need for environmental participatory management and planning that integrates local communities in environmental decision-making processes <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>.</p><p>The results of this study suggest that in Usaquén, and potentially in similar systems beyond Bogotá-such as other cities in Latin America or regions worldwide facing similar entanglements-there is a critical need for participatory governance to achieve an inclusive and sustainable urban environment <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. Cities can create spaces that better reflect the diverse needs and aspirations of their citizens by guaranteeing that all have a voice in the governance of the environment <ref type="bibr" target="#b38">[39]</ref>. Collaborative and participatory governance can facilitate a common sense of environmental ownership by actively involving local communities in decision-making processes <ref type="bibr" target="#b39">[40]</ref>. In addition to improving citizens' quality of life, this will facilitate social cohesion and reduce inequality <ref type="bibr" target="#b40">[41]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>The study used community-based participatory research (CBPR) methods to understand the environmental conflicts that arise from sand mining in northern Bogotá (Figure <ref type="figure" target="#fig_2">2</ref>). A group of 53 eighth-grade students (average age of 15 years; 40% males, 60% females) was selected based on dialogs and collective planning organized in collaboration with the administration of Colegio Anexo San Francisco de Asís (CASFA) (<ref type="url" target="https://casfa.edu.co/">https://casfa.edu.co/</ref> URL (accessed on 19 August 2020).</p><p>Land 2024, 13, x FOR PEER REVIEW 3 of 17 communities in decision-making processes <ref type="bibr" target="#b39">[40]</ref>. In addition to improving citizens' quality of life, this will facilitate social cohesion and reduce inequality <ref type="bibr" target="#b40">[41]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>The study used community-based participatory research (CBPR) methods to understand the environmental conflicts that arise from sand mining in northern Bogotá (Figure <ref type="figure" target="#fig_2">2</ref>). A group of 53 eighth-grade students (average age of 15 years; 40% males, 60% females) was selected based on dialogs and collective planning organized in collaboration with the administration of Colegio Anexo San Francisco de Asís (CASFA) (<ref type="url" target="https://casfa.edu.co/">https://casfa.edu.co/</ref> URL (accessed on 19 August 2020). During stage 1 of the project, students participated in twenty-four participative workshops <ref type="bibr" target="#b41">[42]</ref>. The aim of the workshops was to engage students in a proactive manner by identifying and discussing local issues and exploring community-based solutions <ref type="bibr" target="#b42">[43]</ref>. Developing a cartographic perspective of conflicts and of resolutions to those conflicts served as the foundation for collective reflection <ref type="bibr" target="#b43">[44]</ref>.</p><p>Apart from the students, community members were chosen at random based on their availability to take part in the workshops and invitations were sent out by the students. In addition, the spontaneous involvement of community members was appreciated, as it enhanced the process of group reflection and the creation of proposals for the identified problems.</p><p>During stage 2, basic training of students in the tools of the participatory cartography was conducted <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. Questions about how mining affects locals' quality of life were developed, with the goal of understanding the territorial dynamics affected by sand mining in the study area. These questions were addressed using tools such as mind mapping techniques, flow diagrams, and community maps. Additionally, participants received basic training in the gathering of geospatial data and collaborative map interpretation.</p><p>Participatory maps were collaboratively created <ref type="bibr" target="#b46">[47]</ref>. Reflecting local perspectives and concerns about sand mining and its impacts, one was created to geospatially represent the conflicts resulting from mining activities in the study area. The participatory mapping process involved 12 sessions that were designed to actively engage participants in identifying and discussing the impact of mining activities on the community's territorial dynamics and environmental conditions. The mapping sessions were guided by educators and researchers, who helped participants visualize their concerns through mapping, and ensured that the process remained inclusive and reflective of the community's diverse perspectives. Students and locals participated in mapping activities that helped them During stage 1 of the project, students participated in twenty-four participative workshops <ref type="bibr" target="#b41">[42]</ref>. The aim of the workshops was to engage students in a proactive manner by identifying and discussing local issues and exploring community-based solutions <ref type="bibr" target="#b42">[43]</ref>. Developing a cartographic perspective of conflicts and of resolutions to those conflicts served as the foundation for collective reflection <ref type="bibr" target="#b43">[44]</ref>.</p><p>Apart from the students, community members were chosen at random based on their availability to take part in the workshops and invitations were sent out by the students. In addition, the spontaneous involvement of community members was appreciated, as it enhanced the process of group reflection and the creation of proposals for the identified problems.</p><p>During stage 2, basic training of students in the tools of the participatory cartography was conducted <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. Questions about how mining affects locals' quality of life were developed, with the goal of understanding the territorial dynamics affected by sand mining in the study area. These questions were addressed using tools such as mind mapping techniques, flow diagrams, and community maps. Additionally, participants received basic training in the gathering of geospatial data and collaborative map interpretation.</p><p>Participatory maps were collaboratively created <ref type="bibr" target="#b46">[47]</ref>. Reflecting local perspectives and concerns about sand mining and its impacts, one was created to geospatially represent the conflicts resulting from mining activities in the study area. The participatory mapping process involved 12 sessions that were designed to actively engage participants in identifying and discussing the impact of mining activities on the community's territorial dynamics and environmental conditions. The mapping sessions were guided by educators and researchers, who helped participants visualize their concerns through mapping, and ensured that the process remained inclusive and reflective of the community's diverse perspectives. Students and locals participated in mapping activities that helped them exchange information and analyze the issue as a group <ref type="bibr" target="#b47">[48]</ref>. The community considered and learned about their territory from the viewpoints of "others".</p><p>Phase 3 involved semi-structured, in-depth open interviews <ref type="bibr" target="#b48">[49]</ref> to determine and comprehend the viewpoints of the official and business actors involved. The interviews were conducted by the research team members and students. A total of 12 semi-structured interviews were carried out in the affected neighborhoods, as well as in the offices of local authorities and NGOs. The interviewees represented a diverse group of stakeholders, including residents, with a balance of gender representation and different social strata, community leaders, and officials from municipal departments.</p><p>Finally, in phase 4, the outcomes of the process were presented at community workshops. Lessons learned during the project were shared, along with collaborative maps and conclusions from the geospatial data analysis. Participant feedback helped to refine and validate the representations and guarantee that the final maps appropriately represented the community's concerns and views.</p><p>A literature review focusing on the idea that the environment and territory are socially and culturally created was addressed <ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref><ref type="bibr">[52]</ref>. This perspective considered the "habitat" as defined by specific cultural identities and interactions <ref type="bibr">[53]</ref>. At this point, the term "habitat" referred to a constructed environment that is defined by social subjects <ref type="bibr" target="#b53">[54]</ref>. People build their own spaces, appropriate them, and occupy them with their own meanings and practices, thereby establishing themselves as social subjects <ref type="bibr" target="#b54">[55]</ref><ref type="bibr" target="#b56">[56]</ref><ref type="bibr" target="#b57">[57]</ref>. The environment, space, and territory are built based on cultural identities, emphasizing different perspectives on lived experiences, and on interactions with and established connections within the territory. According to this perspective, a habitat is defined by human-nature relationships <ref type="bibr" target="#b58">[58,</ref><ref type="bibr" target="#b59">59]</ref>, and environmental conflicts are seen as interconnected domains that shape the landscape <ref type="bibr" target="#b60">[60]</ref>.</p><p>The document analysis focused on policy documents issued by local and national government agencies, academic literature related to participatory governance, urban environmental conflicts, and sustainable development, as well as previous public studies conducted on the socio-environmental impacts of mining activities in Bogotá and in other regions. The analysis did not include media sources. The documents reviewed supported the triangulation of the perceptions collected through the participatory research methods.</p><p>The triad of habitat, inhabitant, and inhabiting align the domain of daily relations, exercising territoriality in the symbolic, social, cultural, political, and functional development of the life frameworks <ref type="bibr" target="#b61">[61,</ref><ref type="bibr" target="#b62">62]</ref>. The study analyzed environmental conflicts as interrelated domains where memory and imagination, lived experiences and practices, organizationalinstitutional aspects, and physical-spatial dimensions interacted, forming territory through social relationships and interactions with biological and physical environments <ref type="bibr" target="#b30">[31]</ref>.</p><p>The Participative Action Research methodology (IAP)-which was proposed by Orlando Fals Borda-was the basis for the participatory work in this study <ref type="bibr" target="#b63">[63,</ref><ref type="bibr" target="#b64">64]</ref>. The community was given a leading role in the research through the exchange of knowledge, integrating theory and practice to analyze environmental conflicts and representations of ways of inhabiting a territory <ref type="bibr" target="#b65">[65]</ref>. This approach promotes education in being, doing, knowing, and feeling and gives the community the ability to actively engage in the analysis of conflicts <ref type="bibr" target="#b66">[66]</ref><ref type="bibr" target="#b67">[67]</ref><ref type="bibr" target="#b68">[68]</ref><ref type="bibr" target="#b69">[69]</ref>.</p><p>This project supported a process of group learning and empowerment where local voices were important in discussing territorial issues. It also improved participants' ability to use participatory cartography and participatory action research methods, that combine knowledge exchange with practical activities like workshops, field trips, and discussions <ref type="bibr" target="#b70">[70]</ref><ref type="bibr" target="#b71">[71]</ref><ref type="bibr" target="#b72">[72]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The following section presents the findings of this research on the impacts and conflicts associated with mining activities in the study area. This analysis encompasses the resulting conflicts and consequences (Section 3.1) and the political entanglements and complex interactions among various actors involved in the mining sector (Section 3.2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Conflicts and Consequences</head><p>More than mere disputes over resource appropriation, the mining-related conflicts examined in this case study encompass conflicts between environmental worldviews and conceptions of the "territory", which serve as arenas where values and power dynamics are expressed <ref type="bibr">[73,</ref><ref type="bibr" target="#b74">74]</ref>. For participants in this research, it was essential to understand the processes of deterritorialization and reterritorialization resulting from extractive activities, as well as the political and symbolic control these activities exert over people, environments, and territories <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b75">75]</ref>. This perspective suggests that these contradictions should not be viewed as linear, unidirectional, or static processes but rather as relationships enriched by new connections, adding to the system's complexity. Building on this understanding, Figure <ref type="figure" target="#fig_4">3</ref> illustrates the network of needs and interests identified by the research participants.</p><p>Land 2024, 13, x FOR PEER REVIEW 5 of 17</p><p>resulting conflicts and consequences (Section 3.1) and the political entanglements and complex interactions among various actors involved in the mining sector (Section 3.2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Conflicts and Consequences</head><p>More than mere disputes over resource appropriation, the mining-related conflicts examined in this case study encompass conflicts between environmental worldviews and conceptions of the "territory", which serve as arenas where values and power dynamics are expressed <ref type="bibr">[73,</ref><ref type="bibr" target="#b74">74]</ref>. For participants in this research, it was essential to understand the processes of deterritorialization and reterritorialization resulting from extractive activities, as well as the political and symbolic control these activities exert over people, environments, and territories <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b75">75]</ref>. This perspective suggests that these contradictions should not be viewed as linear, unidirectional, or static processes but rather as relationships enriched by new connections, adding to the system's complexity. Building on this understanding, Figure <ref type="figure" target="#fig_4">3</ref> illustrates the network of needs and interests identified by the research participants. Figure <ref type="figure" target="#fig_4">3</ref> offers a graphic representation of the complexity of environmental conflicts, as interpreted by research participants. The graphic illustrates the network of demands, interests, and conflicts that arise from mining activities, highlighting the interactions between different modes of habitation, and the political, sociocultural, economic, and physical-biological aspects of the territory. The three dimensions of territory are represented by the central circle, which are (i) the physical habitat, (ii) the way in which such spaces are inhabited, and (iii) the symbols and practices that the inhabitants rely on to support their way of life. In this sense, the four quadrants that make up the central circle each represent a different aspect of the territory. The cultural and social elements of the habitat, such as social interactions, customs, and community values, are highlighted in the sociocultural quadrant. The economic quadrant is made up of the commercial, livelihood, and resource-extraction sectors of the economy that have an impact on the habitat. The ecosystem, biodiversity, and environmental health are among the natural and biological elements of the habitat that are the focus of the physical-biological quadrant. The political quadrant, which includes governance, policies, and territorial control, is a representation of the political dynamics and power relations that shape the habitat. Figure <ref type="figure" target="#fig_4">3</ref> offers a graphic representation of the complexity of environmental conflicts, as interpreted by research participants. The graphic illustrates the network of demands, interests, and conflicts that arise from mining activities, highlighting the interactions between different modes of habitation, and the political, sociocultural, economic, and physical-biological aspects of the territory. The three dimensions of territory are represented by the central circle, which are (i) the physical habitat, (ii) the way in which such spaces are inhabited, and (iii) the symbols and practices that the inhabitants rely on to support their way of life. In this sense, the four quadrants that make up the central circle each represent a different aspect of the territory. The cultural and social elements of the habitat, such as social interactions, customs, and community values, are highlighted in the sociocultural quadrant. The economic quadrant is made up of the commercial, livelihood, and resource-extraction sectors of the economy that have an impact on the habitat. The ecosystem, biodiversity, and environmental health are among the natural and biological elements of the habitat that are the focus of the physical-biological quadrant. The political quadrant, which includes governance, policies, and territorial control, is a representation of the political dynamics and power relations that shape the habitat.</p><p>The different elements that predominate in the relationship with territory are represented by the outer arrows and boxes. The arrow on the left (blue arrow, different modes of habitation) represents the different ways that people live in and use the area. The box lists factors like appropriation, usage, representation, interests, and values that are crucial in determining how the participants inhabit and perceive the territory. This diversity of Land 2024, 13, 1460 6 of 17 perspectives and methods and ways of managing the habitat is suggested. The blue arrow on the right-hand side, labeled "conflict types", indicates the various types of conflicts that can emerge in the habitat due to the different ways that people live there as well as the overlapping needs and interests of different stakeholders.</p><p>A participatory map illustrating the environmental consequences resulting from mining activities in Usaquén is presented in Figure <ref type="figure" target="#fig_6">4</ref>, which illustrates the ramifications of such conflicts. The CASFA school's students conducted an analysis on social habitat construction, which resulted in this map. With numerous symbols and annotations denoting various aspects of mining activities and their aftermath, the map presents a geographic representation of the Usaquén locality.</p><p>The different elements that predominate in the relationship with territory are represented by the outer arrows and boxes. The arrow on the left (blue arrow, different modes of habitation) represents the different ways that people live in and use the area. The box lists factors like appropriation, usage, representation, interests, and values that are crucial in determining how the participants inhabit and perceive the territory. This diversity of perspectives and methods and ways of managing the habitat is suggested. The blue arrow on the right-hand side, labeled "conflict types", indicates the various types of conflicts that can emerge in the habitat due to the different ways that people live there as well as the overlapping needs and interests of different stakeholders.</p><p>A participatory map illustrating the environmental consequences resulting from mining activities in Usaquén is presented in Figure <ref type="figure" target="#fig_6">4</ref>, which illustrates the ramifications of such conflicts. The CASFA school's students conducted an analysis on social habitat construction, which resulted in this map. With numerous symbols and annotations denoting various aspects of mining activities and their aftermath, the map presents a geographic representation of the Usaquén locality. The boundaries and names of neighborhoods or important locations are indicated by the geographic features on the map, which depict the various regions that make up Usaquén. The map annotations designate locations or zones impacted by mining operations using the symbols found in the legend. The regions where the natural environment has been significantly altered or damaged are indicated by points marked for ecological impact zones, for instance, areas marked with symbols for deforestation show where tree cover has been lost, and symbols for water pollution highlight bodies of water contaminated by mining.</p><p>The map shows how mining-related effects, like deforestation, landslides, noise pollution, and biodiversity loss, are distributed spatially. Additionally, it illustrates how close these impacts are to residential areas, highlighting the direct impact on nearby communities. The annotations and symbols highlight the ways in which mining operations upset the region's ecological balance and social cohesion. For example, pollution and The boundaries and names of neighborhoods or important locations are indicated by the geographic features on the map, which depict the various regions that make up Usaquén. The map annotations designate locations or zones impacted by mining operations using the symbols found in the legend. The regions where the natural environment has been significantly altered or damaged are indicated by points marked for ecological impact zones, for instance, areas marked with symbols for deforestation show where tree cover has been lost, and symbols for water pollution highlight bodies of water contaminated by mining.</p><p>The map shows how mining-related effects, like deforestation, landslides, noise pollution, and biodiversity loss, are distributed spatially. Additionally, it illustrates how close these impacts are to residential areas, highlighting the direct impact on nearby communities. The annotations and symbols highlight the ways in which mining operations upset the region's ecological balance and social cohesion. For example, pollution and deforestation damage the environment but also people's health and well-being. The map can be used as a visual aid to comprehend the widespread effects of mining, which emphasizes the need for stronger regulation enforcement and greater policy consideration of local dynamics.</p><p>In the same way, Figure <ref type="figure" target="#fig_8">5</ref> depicts a thorough map that emphasizes the social and environmental effects of mining operations. The spatial distribution and intensity of mining-related consequences are graphically represented in this map, which was created through participatory workshops.</p><p>deforestation damage the environment but also people's health and well-being. The map can be used as a visual aid to comprehend the widespread effects of mining, which emphasizes the need for stronger regulation enforcement and greater policy consideration of local dynamics.</p><p>In the same way, Figure <ref type="figure" target="#fig_8">5</ref> depicts a thorough map that emphasizes the social and environmental effects of mining operations. The spatial distribution and intensity of mining-related consequences are graphically represented in this map, which was created through participatory workshops. This map shows the impacts and the ways in which mining activities coexist with other land uses, and where mining operations intersect with densely populated areas, suggesting possible conflicts. The distinct effects that rural areas experience, including disturbed farming practices, soil degradation, and problems with water quality, are essential to rural communities' means of subsistence.</p><p>The regions designated for conservation are highlighted with a protective area icon to show how susceptible these areas are to mining. This may result in long-term ecological harm, habitat destruction, and a decline in biodiversity. Mining activities are responsible for the main causes of environmental degradation, such as soil erosion, deforestation, and water pollution. Water bodies are highlighted, underscoring their significance and susceptibility, and demonstrating how mining has contaminated rivers, lakes, and streams, impacting both ecological health and human consumption.</p><p>Ecological impact zones designate locations where there has been a major disruption to the environment, such as decreased vegetation, contaminated soils, and disturbed wildlife habitats. The illustration of ecological impact zones and water bodies highlights serious environmental deterioration, including soil erosion, water pollution, and biodiversity loss, all of which have long-term effects on the sustainability of the area.</p><p>Based on the extent of their impact on the habitat and the current land use, the effects of mining in the area were divided into five groups. The habitat was least negatively impacted by the first group, and most negatively impacted by the fifth group. First-tier This map shows the impacts and the ways in which mining activities coexist with other land uses, and where mining operations intersect with densely populated areas, suggesting possible conflicts. The distinct effects that rural areas experience, including disturbed farming practices, soil degradation, and problems with water quality, are essential to rural communities' means of subsistence.</p><p>The regions designated for conservation are highlighted with a protective area icon to show how susceptible these areas are to mining. This may result in long-term ecological harm, habitat destruction, and a decline in biodiversity. Mining activities are responsible for the main causes of environmental degradation, such as soil erosion, deforestation, and water pollution. Water bodies are highlighted, underscoring their significance and susceptibility, and demonstrating how mining has contaminated rivers, lakes, and streams, impacting both ecological health and human consumption.</p><p>Ecological impact zones designate locations where there has been a major disruption to the environment, such as decreased vegetation, contaminated soils, and disturbed wildlife habitats. The illustration of ecological impact zones and water bodies highlights serious environmental deterioration, including soil erosion, water pollution, and biodiversity loss, all of which have long-term effects on the sustainability of the area.</p><p>Based on the extent of their impact on the habitat and the current land use, the effects of mining in the area were divided into five groups. The habitat was least negatively impacted by the first group, and most negatively impacted by the fifth group. First-tier terrain is made up of bare, typically Andean forest-covered hillsides in the upper elevations. On the second level, there are grasslands devoid of any physical facilities. Level 3 considers residential areas, with students indicating possible risks from quarries such as La Cita, José Joaquín Casas School, Soratama Norte neighborhood, El Codito, Horizontes, Mirador del Norte, Serrezuela, and neighborhoods on the western side of Carrera Séptima.</p><p>The areas that are currently impacted by operating quarries are identified at Level 4, with a focus on the implications for the population and their cultural dynamics, the absence of political authority, the prioritization of commercial interests, the complete alteration of the main ecological framework, modifications to the geomorphology, and the loss of animal habitats. The neighborhoods built along the Eastern Hills that were directly impacted by the establishment of quarries in the area are examples of Level 5 areas-those that cannot be ecologically restored due to their political-administrative structure.</p><p>It is interesting that students claim that "habitat loss for animals, home instability, and erosion" are the outcomes of the use of explosives in these areas. A CASFA student stated that flooding results from "so much material being extracted, covering all the drains". Locals also mentioned of disturbances to animal habitats: "Voices of trucks and operations were so loud that wild animals were seen running". According to a resident interview, tree cutting was perceived by the locals as "the greatest environmental deterioration, not only due to deforestation but also aesthetically". Cutting down trees also causes erosion and landslides.</p><p>Mining activities often result in respiratory issues from airborne particle emissions. In an interview with the authors, a local resident stated, "Those quarries have caused a lot of harm to nature, and the soil has eroded significantly". "Huge stones have fallen, causing damage to numerous houses and fatalities". As per the statement made by a community leader, the loss of homes is also associated with building collapse because "mining leaves the terrain unstable and can lead to the evacuation of many houses and many people". Consequently, students perceive relocation as a result of ongoing risks associated with mining activities: "Families are forced to relocate because the houses are in such terrible condition that they are no longer livable".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Actors, Actions, and Interactions</head><p>A participatory exercise helped to illustrate the complexity of the relationships, and the multiplicity of institutional actors involved <ref type="bibr" target="#b76">[76]</ref>, directly and indirectly, in the management, regulation, control, and decision-making processes related to the quarries in the area. Figure <ref type="figure" target="#fig_10">6</ref> shows how the students analyzed the characterization of the "social fabric" <ref type="bibr" target="#b77">[77,</ref><ref type="bibr" target="#b78">78]</ref>.</p><p>The stakeholder, namely "actors", are categorized as direct or indirect in Figure <ref type="figure" target="#fig_11">6a</ref> according to their influence on decisions made about different scenarios resulting from mining activities at the national, regional, district, and local levels as well as their proximity to the issue. The activities of these actors are categorized in Figure <ref type="figure" target="#fig_11">6b</ref>, based on their influence on the political, social, economic, cultural, and primary ecological structure domains. The stakeholders identified comprised locals, the official institution, national and transnational corporations, and NGOs <ref type="bibr" target="#b79">[79]</ref>. Political, physical-biotic, sociocultural, and economic factors were all considered when framing these actors <ref type="bibr">[80]</ref>.</p><p>Among those organizations who are more directly involved, as local direct institutional actors in the mining projects in Usaquén, is the Community Action Board, which is made up of locals who get together to talk about problems and come up with solutions for the needs of the community. Environmental organizations that advocate politically for community welfare were also among these. One important player was the Local Mayor's Office, which oversees the Local Environmental Plan; this plan would enumerate the primary issues pertaining to natural resources, as well as their causes and consequences. Private corporations and trade associations that encourage the commercialization of mining resources, such as real estate firms, construction companies, and small business owners, are examples of direct actors.</p><p>Schools and health centers were viewed as incidental local actors. Educational institutions are an essential component of the community because they accept students from areas close to the quarries and offer forums where people can learn about the issues brought on by mining activities. On the other hand, health centers work with the community impacted by open-pit mining contamination and create plans to lessen the harm that airborne sand particles can do. The stakeholder, namely "actors", are categorized as direct or indirect in Figure <ref type="figure" target="#fig_11">6a</ref> according to their influence on decisions made about different scenarios resulting from mining activities at the national, regional, and local levels as well as their proximity to the issue. The activities of these actors are categorized in Figure <ref type="figure" target="#fig_11">6b</ref>, based on their influence on the political, social, economic, cultural, and primary ecological structure domains. The stakeholders identified comprised locals, the official institution, national and transnational corporations, and NGOs <ref type="bibr" target="#b79">[79]</ref>. Political, physical-biotic, sociocultural, and economic factors were all considered when framing these actors [80].</p><p>Among those organizations who are more directly involved, as local direct institutional actors in the mining projects in Usaquén, is the Community Action Board, which is made up of locals who get together to talk about problems and come up with solutions for the needs of the community. Environmental organizations that advocate politically for community welfare were also among these. One important player was the Local Mayor's Office, which oversees the Local Environmental Plan; this plan would enumerate the primary issues pertaining to natural resources, as well as their causes and consequences. Private corporations and trade associations that encourage the commercialization of mining resources, such as real estate firms, construction companies, and small business owners, are examples of direct actors.</p><p>Schools and health centers were viewed as incidental local actors. Educational institutions are an essential component of the community because they accept students from areas close to the quarries and offer forums where people can learn about the issues brought on by mining activities. On the other hand, health centers work with the community impacted by open-pit mining contamination and create plans to lessen the harm that airborne sand particles can do.</p><p>To maintain regulatory oversight, participants identified district-level institutional actors that were not directly involved in the local mining operations. These actors included the District Planning Secretariat and the District Environment Secretariat. Their relationships with the mining industry and the community are established by the Land To maintain regulatory oversight, participants identified district-level institutional actors that were not directly involved in the local mining operations. These actors included the District Planning Secretariat and the District Environment Secretariat. Their relationships with the mining industry and the community are established by the Land Use Plan and the Bogotá Mayor's Office. Academic institutions are included in this list as well, since their research indirectly mitigates the negative effects of mining on the areas that are highlighted in Figure <ref type="figure" target="#fig_12">7</ref>. Although there was less engagement with the local community and their specific concerns, the CAR was included in decision-making and regulation issuance at a more strategic level.</p><p>The National Mining Agency, the Ministry of Mines and Energy, and the Ministry of Environment and Sustainable Development were involved. These three organizations were at the top of the hierarchy, but they had the least knowledge of and engagement with local dynamics. Together with issuing regulations that follow the guidelines outlined in the National Development Plans, these organizations are also responsible for granting mining licenses.</p><p>The identification of institutional actors through participation helped to better understand the disconnect between the establishment of regulations and the realities on the ground. The complexity of these relationships and regulatory hierarchies, combined with divergent political ideologies and interests, make managing these local mining activities a source of conflict. The intricate interrelationships and regulatory hierarchies are depicted in Figure <ref type="figure" target="#fig_12">7</ref>. To better understand the interactions between actors and participants, we created a flowchart that categorized actors into five categories: trade associations, regulatory agents, local residents, institutions, and private entities.</p><p>Schools, environmental organizations, the Community Action Board, and the community itself have the best relationships with the identified actors. These entities maintain ties and relationships with the social base necessary for the participatory development of public policies (at least on paper). They also share similar needs and demands.</p><p>derstand the disconnect between the establishment of regulations and the realities on the ground. The complexity of these relationships and regulatory hierarchies, combined with divergent political ideologies and interests, make managing these local mining activities a source of conflict. The intricate interrelationships and regulatory hierarchies are depicted in Figure <ref type="figure" target="#fig_12">7</ref>. To better understand the interactions between actors and participants, we created a flowchart that categorized actors into five categories: trade associations, regulatory agents, local residents, institutions, and private entities. Schools, environmental organizations, the Community Action Board, and the community itself have the best relationships with the identified actors. These entities maintain ties and relationships with the social base necessary for the participatory development of public policies (at least on paper). They also share similar needs and demands.</p><p>While regional and national institutions collaborate on the creation of mining policies, conversations among research participants and data from interviews with While regional and national institutions collaborate on the creation of mining policies, conversations among research participants and data from interviews with representatives of certain institutions and the academic community showed that this cooperation does not extend to local and district actors because of divergent political interests. This situation is made worse by the financial interests that have an impact on policy formulation and are commonly portrayed as engines of development.</p><p>With multiple levels of governance, community involvement, and regulatory oversight, the flowchart (Figure <ref type="figure" target="#fig_12">7</ref>) emphasizes how intricate and multifaceted managing mining activities can be. In the mining industry, regulations and compliance are crucial. This is demonstrated by the existence of numerous regulatory bodies and the influence these bodies have on mining operations. Significant social and environmental effects of mining on local populations are highlighted by the close relationship between mining operations and entities related to the community.</p><p>This diagram offers a thorough understanding of the numerous connections and exchanges pertaining to Usaquén's mining operations. It emphasizes how important it is for academic institutions, neighborhood associations, state agencies, and business associations to work together to manage mining operations responsibly and lessen the negative effects they have on the environment and society. The intricate nature of these relationships illustrates the many difficulties in striking a balance between economic interests, environmental preservation, and sustainable development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>It is important to discuss the wider socio-environmental consequences of these activities. Due to their size and intensity of production, the mining projects that have been driven by Colombia's recent economic model-which is mainly focused on extractive industries, such as the mining sector, as a source of revenue-have a direct impact on local populations and habitats <ref type="bibr" target="#b81">[81,</ref><ref type="bibr" target="#b82">82]</ref>.</p><p>Since the establishment of the city, the sands and clays that make up the Eastern Hills-more particularly, the Guadalupe Formation-have been taken out and used as building materials. Due to this, hundreds of hectares of these hills have been exploited, leading to changes to the topographical and biotic processes.</p><p>The fact that out of 108 mining companies operating in Bogotá, 100 operate illegally, with 88 lacking any supporting documentation for their activities and 12 having incomplete documentation <ref type="bibr" target="#b83">[83]</ref> highlights how informal this activity is. Of the companies with mining titles, eight are subject to some kind of regulatory oversight, and the remaining eight companies do not have mining titles but do have approved plans for environmental management or restoration. Significant socio-environmental problems have resulted from this situation, which has also brought attention to the institutional management flaws in monitoring the use, exploitation, and protection of areas impacted by mining activities.</p><p>The framework for this scenario is the non-compliance with Resolution 1197 of 2004, which designates areas appropriate for mining construction materials, and Resolution 1097 of 2014, which addresses plans for management, recovery, and environmental restoration, as well as the environmental management plan for the Bosque Oriental Forest Reserve and the adaptation strip management plan. The area's topography, health effects from airborne particles, risk of mass removal and floods linked to deforestation, and household instability are all effects of noncompliance with regulations and mining interests from economically powerful actors in the area. Poverty and segregation are caused by these variables.</p><p>As per the 2015 report by the Bogotá District Planning Department, more than 294 hectares have been set aside for quarries. Of these, 68.57 hectares are found in urban areas, including Morphological and Landscape Recovery Zones, 64.94 hectares are found in the so-called Adaptation Strip, and 158.74 hectares are found in the Eastern Forest Reserve, also known as Reserva Forestal Protectora Bosque Oriental de Bogotá (Figure <ref type="figure" target="#fig_14">8</ref>). Like this, the Autonomous Regional Corporation of Cundinamarca (CAR) states that there are two mining titles in the Usaquén locality, implying that material extraction is still taking place near populated areas.</p><p>The National Mining Agency's 2015 mining cadastre exposes that there are six active titles (92.74 hectares) for the extraction of construction supplies within reserved zones, with two in the Usme locality and four in the Usaquén locality. Furthermore, according to an interview with the Director of Environment and Rural Areas at the District Planning Department, "three requests for the extraction of construction materials in the localities of Chapinero and Usme, and for natural sands, gravels, and silicas in Usaquén, totaling 646.25 hectares" were made during the same year.</p><p>In contrast, some contractors and entrepreneurs have gained important financial rewards from this extractive activity, while the community has earned little financial benefit from it <ref type="bibr" target="#b82">[82]</ref>. When it comes to the dynamics of labor integration in extractive industries intended to reduce the effects of mining, an Ecological Project El Milagro (PEM) engineer notes that the majority of the project's workers are from nearby areas in which the quarries are situated. While the employment potential is recognized quantitatively, there is qualitative concern regarding the working conditions of those who engage in these activities. According to Fierro <ref type="bibr" target="#b81">[81]</ref>, many of them face poor health outcomes and labor for minimum wage: extremely low-paying, precarious jobs are created. In relation to this matter, the features that define labor insertion in these circumstances are limited, infrequent or nonexistent training, and limited opportunities for professional growth. This implies that mining's benefits to society are transitory.</p><p>The mining activities in Bogotá reflect a broader pattern of environmental degradation and social inequality that is perpetuated by Colombia's reliance on extractive industries. The lack of effective regulatory oversight and the failure to enforce existing environmental laws have allowed these activities to continue unchecked, with significant consequences for both the environment and the communities that depend on it. The situation calls for a re-evaluation of the country's economic priorities and a more robust approach to environmental governance that prioritizes long-term sustainability. The National Mining Agency's 2015 mining cadastre exposes that there are six active titles (92.74 hectares) for the extraction of construction supplies within reserved zones, with two in the Usme locality and four in the Usaquén locality. Furthermore, according to an interview with the Director of Environment and Rural Areas at the District Planning Department, "three requests for the extraction of construction materials in the localities of Chapinero and Usme, and for natural sands, gravels, and silicas in Usaquén, totaling 646.25 hectares" were made during the same year.</p><p>In contrast, some contractors and entrepreneurs have gained important financial rewards from this extractive activity, while the community has earned little financial benefit from it <ref type="bibr" target="#b82">[82]</ref>. When it comes to the dynamics of labor integration in extractive industries </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>The socio-environmental consequences of mining activities are profound and multifaceted, impacting not only the immediate environment and local communities but also reflecting broader systemic issues tied to Colombia's economic model. The extraction of sand and clay from the Eastern Hills of Bogotá, particularly from the Guadalupe Formation, has led to significant alterations in the landscape, disrupting topographical and biotic processes that are crucial for maintaining ecological balance. This extensive ex-ploitation has been driven by the country's focus on extractive industries as a primary source of revenue, a strategy that has prioritized short-term economic gains over long-term environmental sustainability.</p><p>The prevalence of illegal mining operations-highlighted by the fact that 100 out of 108 mining companies in Bogotá are operating without full legal documentation-underscores the severe lack of regulatory oversight and institutional control in the sector. The noncompliance with existing environmental regulations, such as Resolutions 1197 of 2004 and 1097 of 2014, further compounds the issue.</p><p>The impact on local communities is equally concerning. The health risks posed by airborne particles, the instability of households due to the risk of mass removal and floods, and the overall decline in quality of life in these areas are direct consequences of the unchecked expansion of mining activities. The concentration of quarries in certain localities, such as Usaquén and Usme, has not only altered the physical landscape but has also deepened social inequalities, as the economic benefits of these activities are disproportionately accrued by contractors and entrepreneurs, while the local labor force is left to contend with precarious working conditions and minimal financial gain.</p><p>The environmental conflicts associated with sand quarrying in northern Bogotá are not merely the result of surface-level disputes but are deeply rooted in complex power dynamics shaped by historical legacies. Importantly, the study underscored that effective participatory governance requires more than just inclusion; it demands a critical examination of the underlying power structures that determine which voices are heard and which are silenced.</p><p>Power relations have been critically examined through participatory mapping. The research proposed the collaborative creation of maps as a participatory approach. Through mapping exercises, participants-both students and residents-were able to exchange knowledge and conduct a group analysis of the area. The community was able to consider their surroundings from various angles thanks to the process, and it considered and learned about its territory. By providing CASFA students and the community with an educational tool, these maps helped them comprehend the serious consequences that mining has on their habitat.</p><p>Through active participation in local governance and advocacy for sustainable practices, the participatory approach, as with the one used in this project, promotes a deeper understanding of environmental issues. To address the environmental and social issues brought on by mining and ensure the sustainable development of Usaquén, this project emphasized the necessity of inclusive and well-informed policymaking.</p><p>In the Usaquén locality, varying viewpoints regarding the habitat coexist, resulting in disputes regarding land use. While some consider the mountain to be a resource that should be exploited for financial gain, others view it as a place for preservation and protection. This study demonstrates how the concept of the "social construction of habitat" encourages cooperation and participation in the management of both symbolic and physical spaces.</p><p>These project results are in line with Sustainable Development Goal 11-making cities inclusive, safe, resilient, and sustainable. Delivering high-quality green public spaces to all is a fundamental component of SDG 11 and a goal that bears relevance for the Bogotá neighborhoods impacted by mining operations. Using a participatory approach, this study emphasizes the value of involving local communities in decision-making processes that impact their environment and quality of life, particularly youth.</p><p>Through the promotion of participatory approaches to urban environmental governance, the project offers a path forward for raising standards of sustainable urban living. Active involvement in local governance and support for sustainable practices are critical in addressing the socio-environmental issues brought on by mining. This initiative serves as an example of how participatory approaches can close gaps between citizens, promoting communication and cooperation.</p><p>The former has important implications for policymakers and community leaders, suggesting that addressing environmental conflicts necessitates not only participation but also a thorough understanding of the power relations at play. This study's insights are relevant beyond Bogotá, offering valuable lessons for other urban areas facing similar socio-environmental challenges.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Northeast of Bogotá, there lies the locality of Usaquén, which contains streams that are a part of the city's hydrographic system as well as components of the main ecological structure, such as the Cerros Orientales and the Humedal de Torca.</figDesc><graphic coords="2,143.25,201.77,389.76,217.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Northeast of Bogotá, there lies the locality of Usaquén, which contains streams that are a part of the city's hydrographic system as well as components of the main ecological structure, such as the Cerros Orientales and the Humedal de Torca.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The flowchart is structured to illustrate the participatory approach to the environmental conflicts arising from sand mining in the study area.</figDesc><graphic coords="3,162.89,191.31,393.36,180.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The flowchart is structured to illustrate the participatory approach to the environmental conflicts arising from sand mining in the study area.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. A representation of the network of interests, needs, and conflicts in this case, highlighting the multifaceted nature of environmental conflicts. The figure emphasizes the importance of understanding the symbolic dimensions of the territory.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. A representation of the network of interests, needs, and conflicts in this case, highlighting the multifaceted nature of environmental conflicts. The figure emphasizes the importance of understanding the symbolic dimensions of the territory.</figDesc><graphic coords="5,164.26,242.29,393.12,218.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. This participatory map shows different regions within Usaquén, with symbols indicating mining-related impacts. The map visually represents the spatial distribution of these impacts and their proximity to residential areas.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. This participatory map shows different regions within Usaquén, with symbols indicating mining-related impacts. The map visually represents the spatial distribution of these impacts and their proximity to residential areas.</figDesc><graphic coords="6,169.55,227.64,378.07,254.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. The map shows urban areas, rural areas, protected areas, mining zones, water bodies, and ecological impact zones in Usaquén. The map highlights the spatial distribution and intensity of mining-related impacts, illustrating how these activities intersect with urban and rural areas, disrupt agricultural activities, threaten protected areas, and contaminate water bodies. It visually demonstrates the extensive environmental and social consequences of mining in the locality.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. The map shows urban areas, rural areas, protected areas, mining zones, water bodies, and ecological impact zones in Usaquén. The map highlights the spatial distribution and intensity of mining-related impacts, illustrating how these activities intersect with urban and rural areas, disrupt agricultural activities, threaten protected areas, and contaminate water bodies. It visually demonstrates the extensive environmental and social consequences of mining in the locality.</figDesc><graphic coords="7,168.18,126.93,366.48,245.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Direct and indirect actors and actors by actions and impact. (a) This panel classifies institutional actors as direct or indirect based on their relationship to mining activities in the study area. A central node is connected by arrows to stakeholders, including universities, local and district authorities, environmental organizations, health centers, and regulatory agencies. (b) The right panel presents a circular diagram with the central circle labeled "Usaquén mining" surrounded by segments representing different actions and impacts in cultural, social, economic, political, and ecological spheres.</figDesc><graphic coords="9,310.89,90.06,248.88,210.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Direct and indirect actors and actors by actions and impact. (a) This panel classifies institutional actors as direct or indirect based on their relationship to mining activities in the study area. A central node is connected by arrows to stakeholders, including universities, local and district authorities, environmental organizations, health centers, and regulatory agencies. (b) The right panel presents a circular diagram with the central circle labeled "Usaquén mining" surrounded by segments representing different actions and impacts in cultural, social, economic, political, and ecological spheres.</figDesc><graphic coords="9,44.25,93.66,258.96,203.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. A diagram showing the complex relationships and interactions involved in mining activities in Usaquén. Stakeholders are color-coded: local institutions (blue), control agents (purple), official institutions (green), and industry groups (yellow). Arrows indicate the direction of influence and interaction between these entities.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. A diagram showing the complex relationships and interactions involved in mining activities in Usaquén. Stakeholders are color-coded: local institutions (blue), control agents (purple), official institutions (green), and industry groups (yellow). Arrows indicate the direction of influence and interaction between these entities.</figDesc><graphic coords="10,168.79,90.05,383.14,283.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Reserva Forestal Protectora Bosque Oriental de Bogotá. This map shows the major protected forest area in Bogotá, marked in green and located in the western part of the city. The map highlights the reserve's boundaries, surrounding roads, water bodies, and urban areas.</figDesc><graphic coords="12,166.54,134.92,388.08,503.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Reserva Forestal Protectora Bosque Oriental de Bogotá. This map shows the major protected forest area in Bogotá, marked in green and located in the western part of the city. The map highlights the reserve's boundaries, surrounding roads, water bodies, and urban areas.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding: This research received funding from the <rs type="funder">Democracy</rs> and <rs type="institution">Sustainability Index Project at Universidad de la Costa</rs>; the APC was funded by <rs type="funder">Universidad del Magdalena</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement:</head><p>The original data presented in the study are available in Repositorio Institucional UNAL at <ref type="url" target="https://repositorio.unal.edu.co/handle/unal/57953">https://repositorio.unal.edu.co/handle/unal/57953</ref>.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Digging the backyard: Mining and quarrying in the UK and their impact on future land use</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bloodworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Mcevoy</surname></persName>
+		</author>
+		<idno>317-S325</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Land Use Policy</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Geomorphic consequences of urban development and mining activities; an analysis of study areas in Spain and Argentina</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cendrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hurtado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Giménez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Forte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Del Ríoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cantúf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Becker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorphology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="185" to="206" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">;</forename><surname>Pnud; Un-Habitat</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cenac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pnud-Un</forename><surname>Cuadernos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hábitat</surname></persName>
+		</author>
+		<title level="m">Hábitat Y Desarrollo Humano&quot;; Cuadernos PNUD-UN Habitat Investigaciones Sobre Desarrollo Humano</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>PNUD</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">SDG 11 sustainable cities and communities: SDG 11 and the new urban agenda: Global sustainability frameworks for local action</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vaidya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chatterji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Actioning the Global Goals for Local Impact: Towards Sustainability Science, Policy, Education and Practice</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="173" to="185" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Inclusiveness, safety, resilience, and sustainability in the smart city context</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Del Hoyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Visvizi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Smart Cities and the UN SDGs</title>
+		<meeting><address><addrLine>Amsterdam, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="15" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Advancing Inclusive and Sustainable Urban Development: Correcting Planning Failures and Connecting Communities to Capital</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Belsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dubroff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mccue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccartney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Molinsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Cambridge, MA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Joint Center for Housing Studies of Harvard University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inclusive city, perspectives, challenges, and pathways</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Elias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable Cities and Communities</title>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="290" to="300" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The contribution of urban green and blue spaces to the United Nation&apos;s sustainable development goals: An evidence gap map</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Akaraci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hunter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cities</title>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<date>104706</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Sustainable Cities; Routledge: Philadelphia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Haughton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hunter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Reterritorialization practices and strategies of campesinos in the urban frontier of Bogotá, Colombia. Land Use Policy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A Q</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kotilainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 105058</date>
+			<biblScope unit="volume">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Linking public urban green spaces and human well-being: A systematic review</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reyes-Riveros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Altamirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rozas-Vásquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021. 127105</date>
+			<publisher>Urban For. Urban Green</publisher>
+			<biblScope unit="volume">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Assessing the role of urban green spaces for human well-being: A systematic review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jabbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Yusoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shafie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GeoJournal</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="4405" to="4423" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The role of urban green space for human well-being</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bertram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rehdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="139" to="152" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Urban planning with respect to environmental quality and human well-being</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Panagopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A G</forename><surname>Duque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Dan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Pollut</title>
+		<imprint>
+			<biblScope unit="volume">208</biblScope>
+			<biblScope unit="page" from="137" to="144" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Benefits and well-being perceived by people visiting green spaces in periods of heat stress</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lafortezza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carrus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sanesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davies</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Urban For. Urban Green</publisher>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="97" to="108" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Friederich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Langer</surname></persName>
+		</author>
+		<ptr target="http://plataforma.responsable.net/sites/default/files/indice_de_ciudades_verdes_de_america_latina.pdf" />
+		<title level="m">Índice de Ciudades Verdes de América Latina: Una Evaluación Comparativa del Impacto Ecológico de las Principales Ciudades de América Latina; Economist Intelligence Unit, Siemens AG: Munich, Germany, 2010. Available online</title>
+		<imprint>
+			<date type="published" when="2020-07-10">10 July 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Assessment of land cover change in peri-urban high Andean environments South of Bogotá, Colombia</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Anselm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brokamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schütt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Environmental impacts of metal ore mining and processing: A review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dudka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Adriano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Qual</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="590" to="602" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">A framework for assessing the impacts of mining development on regional water resources in Colombia</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Angarita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Camacho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pearse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huguet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J R</forename><surname>Baena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ossa-Moreno</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">268</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Environmental sustainability in post-conflict countries: Insights for rural Colombia</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Suarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Árias-Arévalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martínez-Mera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Dev. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="997" to="1015" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">On the relationship between mining and rural poverty: Evidence for Colombia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>García-Estévez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Ariza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<date type="published" when="2022">2022. 102443</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mining conflicts around the world: Common grounds from an environmental justice perspective</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Özkaynak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rodríguez-Labajos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Avci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chareyron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yánez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecological Integrity and Global Governance: Science, Ethics and the Law</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Westra</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Gray</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Gottwald</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Earthscan: Oxford, UK</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="95" to="112" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Mining industry and sustainable development: Time for change. Food Energy Secur</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Carvalho</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="61" to="77" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Community capacity building and sustainability: Outcomes of community-based participatory research</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Tendulkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rideout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bhuiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Trinh-Shevrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grullon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Strelnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Digirolamo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Health Partnersh. Res. Educ. Action</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="349" to="360" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Prog</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Handbook of Community-Based Participatory Research</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Coughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<editor>Fernández, M.E.</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Social cartography: A new methodology for comparative studies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liebman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Paulston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compare</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="233" to="245" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Environmental impacts of sand exploitation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Gavriletea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analysis of sand market. Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="1118">2017. 1118</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Environmental impact of soil and sand mining: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Saviour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Sci. Environ. Technol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="125" to="134" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The environmental impacts of river sand mining</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Rentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Cammeraat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">838</biblScope>
+			<date type="published" when="2022">2022. 155877</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Participatory resource mapping for adaptive collaborative management at Mt. Kasigau, Kenya. Landsc. Urban Plan</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Kalibo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Medley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="145" to="158" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Methods for identifying land use conflict potential using participatory mapping</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Raymond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landsc. Urban Plan</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="196" to="208" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The social production of ecosystem services: A framework for studying environmental justice and ecological complexity in urbanized landscapes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ernstson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landsc. Urban Plan</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="7" to="17" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The new global urban realm: Complex, connected, diffuse, and diverse social-ecological systems</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mchale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Pickett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Cadenasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Childers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Iwaniec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcphearson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="5211" to="5240" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Complexity Theories of Cities Have Come of Age: An Overview with Implications to Urban Planning and Design</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Portugali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stolk</surname></persName>
+		</author>
+		<editor>Tan, E.</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Springer Science &amp; Business Media: Berlin/Heidelberg</publisher>
+			<pubPlace>Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Public participation as participatory communication in environmental policy decision-making: From concepts to structured conversations</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Commun</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="99" to="110" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Inclusive approaches to urban climate adaptation planning and implementation in the Global South</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Anguelovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carmin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Policy</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="372" to="392" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wheeler</surname></persName>
+		</author>
+		<title level="m">Planning for Sustainability: Creating Livable, Equitable, and Ecological Communities; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Socio-spatial learning: A case study of community knowledge in participatory spatial planning</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Natarajan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Prog. Plan</publisher>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Fostering green communities through civic engagement: Community-based environmental stewardship in the Portland area</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Shandas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Messer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Plan. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="408" to="418" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Urban Environmental Stewardship and Civic Engagement: How Planting Trees Strengthens the Roots of Democracy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Svendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Connolly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">Routledge</biblScope>
+			<pubPlace>Philadelphia, PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Intersectional climate justice: A conceptual pathway for bridging adaptation planning, transformative action, and social equity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Amorim-Maia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Anguelovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Connolly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022. 101053</date>
+			<publisher>Urban Clim</publisher>
+			<biblScope unit="volume">41</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Workshop methodology design: Innovation-oriented participatory processes for sustainability</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bertella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lupini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Romanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Font</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Tour. Res</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">103251</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Learning to Liberate: Community-Based Solutions to the Crisis in Urban Education</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Watson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Philadelphia, PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Collaborative mapping and digital participation: A tool for local empowerment in developing countries</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Panek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Netek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Key issues and priorities in participatory mapping: Toward integration or increased specialization?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kyttä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Community Cartography and Participatory GIS</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Malakar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping Geospatial Citizenship: The Power of Participatory GIS</title>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="61" to="72" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Warren</surname></persName>
+		</author>
+		<title level="m">Grassroots Mapping: Tools for Participatory and Activist Cartography</title>
+		<meeting><address><addrLine>Cambridge, MA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>Massachusetts Institute of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Collaborative mapping of an earthquake damaged building via ground and aerial robots</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mohta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagatani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tadokoro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Field and Service Robotics: Results of the 8th International Conference</title>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berlin/Heidelberg</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="33" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Conducting semi-structured interviews</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Practical Program Evaluation</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Wholey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Hatry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Newcomer</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Eds</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Jossey-Bass</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Francisco, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>San</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="492" to="505" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Political ecology in Latin America: The social re-appropriation of nature, the reinvention of territories and the construction of an environmental rationality</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Porto-Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Leff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Desenvolv. E Meio Ambiente</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="65" to="88" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Landscapes: The social construction of nature and the environment</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garkovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rural. Sociol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">What is the &apos;social construction of nature&apos;? A typology and sympathetic critique</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Demeritt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="767" to="790" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Territory, identity and the places in-between: Culture and power in European borderlands</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Donnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Culture and Power at the Edges of the State: National Support and Subversion in European Border Regions</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Donnan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Japan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1" to="31" />
+		</imprint>
+		<respStmt>
+			<orgName>National Museum of Ethnology: Osaka</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The built environment and spatial form</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="453" to="505" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Territorial identities and geographic scale</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Kaplan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nested Identities: Nationalism, Territory and Scale</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Rowman &amp; Littlefield Publishers</publisher>
+			<biblScope unit="page" from="31" to="49" />
+			<pubPlace>Lanham, MD, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Interpreting and understanding territorial identity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Capello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reg. Sci. Policy Pract</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="141" to="159" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">We drew what we imagined&quot; participatory mapping, performance, and the arts of landscape making</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Sletto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="443" to="476" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Place experience, gestalt, and the human-nature relationship</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="293" to="309" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Inclusion with nature: The psychology of human-nature relations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychology of Sustainable Development</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Schmuck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston, MA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="61" to="78" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Whose knowledge, whose nature? Biodiversity, conservation, and the political ecology of social movements</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Escobar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Political Ecol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="53" to="82" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Territoriality, symbolism and the challenge</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Kuusisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Peace Rev</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="59" to="66" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Biocultural ethics: Recovering the vital links between the inhabitants, their habits, and habitats</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rozzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Ethics</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Una Sociología Sentipensante para América Latina</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fals-Borda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Moncayo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Siglo del Hombre</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Borjas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">La Investigación Acción Participativa: Aporte de Fals Borda a la educación popular</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="615" to="627" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Environmental Adaptation and Eco-Cultural Habitats: A Coevolutionary Approach to Society and Nature</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schubert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Philadelphia, PA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Alberich-Nistal</surname></persName>
+		</author>
+		<title level="m">Memorias del IV Congreso Internacional Sobre Investigación; Acción Participativa</title>
+		<meeting><address><addrLine>Valladolid, España</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>La Investigación Acción Participación, Método y Práctica</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The ecology of empowerment: Predicting participation in community organizations</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Soc. Issues</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="85" to="110" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Doing, knowing, caring and feeling: Exploring relations between nature-oriented teaching and preschool children&apos;s learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Klaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Öhman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Early Years Educ</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="37" to="58" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Feeling education</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Dernikos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lesko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Mccall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Niccolini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping the Affective Turn in Education; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="3" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Participatory action research: Origins, approaches and methods</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kindon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kesby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Participatory Action Research Approaches and Methods; Routledge: Philadelphia</title>
+		<meeting><address><addrLine>PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="35" to="44" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Critical participatory action research: Methods and praxis for intersectional knowledge production</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Torre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Oswald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Avory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Couns. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Exploring and implementing participatory action research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Savin-Baden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wimpenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Geogr. High. Educ</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="331" to="343" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Identifying conflict potential in a coastal and marine environment using participatory mapping</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kobryn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Strickland-Munro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manag</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="706" to="718" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Environmental policy, land rights, and conflict: Rethinking community natural resource management programs in Burkina Faso</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Plan. D Soc. Space</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="167" to="182" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Territory and deterritorialization: The social suffering by environmental disaster resulting from the breaking of mining dams. Saúde em Debate 2021</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A D L</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A A</forename><surname>Sol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Modena</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="262" to="271" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Mapping policy actors using social network analysis on integrated urban farming program in Bandung City</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Widayat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Karlina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D E</forename><surname>Munajat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ningrum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">The role of social networks in natural resource governance: What relational patterns make a difference?</title>
+		<author>
+			<persName><forename type="first">Ö</forename><surname>Bodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Crona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Chang</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="366" to="374" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">A road to conflict: Stakeholder&apos;s and social network analysis of the media portrayals of a social-environmental conflict in Bolivia</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Reyes-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Andrés-Conejero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Á</forename><surname>Fernández-Llamazares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Díaz-Reviriego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Molina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Nat. Resour</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="452" to="472" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Stakeholder participation for environmental management: A literature review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="2417" to="2431" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Integrating ecological, economic and social aspects to generate useful management information under the EU Directives&apos; &apos;ecosystem approach</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>De Jonge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ocean. Coast. Manag</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="169" to="188" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Políticas Mineras en Colombia; Instituto Latinoamericano para una Sociedad y un Derecho Alternativos-ILSA</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fierro-Morales</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Extractivismo Minero en Colombia y en América Latina; Biblioteca Abierta</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Göbel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulloa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectivas Ambientales</title>
+		<imprint>
+			<biblScope unit="volume">429</biblScope>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Bogotá, Colombia</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidad Nacional de Colombia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">92.6% de Minería En Bogotá Es Ilegal</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Personería De Bogotá</surname></persName>
+		</author>
+		<ptr target="http://www.personeriabogota.gov.co/archivo-2012/item/126-92-6-de-mineria-en-Bogot%C3%A1-es-ilegal" />
+		<imprint>
+			<date type="published" when="2012-07-10">2012. 10 July 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher&apos;s Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
