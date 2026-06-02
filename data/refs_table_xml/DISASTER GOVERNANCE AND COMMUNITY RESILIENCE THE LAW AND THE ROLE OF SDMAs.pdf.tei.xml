@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">DISASTER GOVERNANCE AND COMMUNITY RESILIENCE: THE LAW AND THE ROLE OF SDMAs</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date>25 December</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Natasha</forename><surname>Goyal</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ph.D. Senior Research Fellow</orgName>
+								<orgName type="department" key="dep2">JNU Disaster Research Program (Special Centre for Disaster Research)</orgName>
+								<orgName type="department" key="dep3">Centre for Study of Law and Governance</orgName>
+								<orgName type="institution" key="instit1">Natasha Goyal</orgName>
+								<orgName type="institution" key="instit2">Jawaharlal Nehru University</orgName>
+								<address>
+									<postCode>110067</postCode>
+									<settlement>New Delhi</settlement>
+									<country>Pin Code India</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Jawaharlal Nehru University</orgName>
+								<address>
+									<settlement>New Delhi</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">DISASTER GOVERNANCE AND COMMUNITY RESILIENCE: THE LAW AND THE ROLE OF SDMAs</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">25 December</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EB1957AA417DDB2588A1A5DB15858DFE</idno>
+					<idno type="DOI">10.18485/ijdrm.2019.1.2.5</idno>
+					<note type="submission">Received: 11 October; Accepted: 20 November;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Kerala State Disaster Management Authority</term>
+					<term>Community Resilience</term>
+					<term>Kerala floods</term>
+					<term>Vulnerability</term>
+					<term>Disaster Governance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Disasters have become more profound in intensity and frequent in occurrence due to climate change. The unpredictable and devastating consequences of rising global temperature has raised the alarm bells for 'rapid and far-reaching' transitions in land, energy and urban governance. The recent devastation due to floods in Kerala in August 2018, has brought disaster governance to the mainstream in government accountability. Despite high performance on Human Development Indicators and social infrastructure, the failure of the state government in ensuring adequate preparedness and mitigation through capacity building has pushed back the development of the state by decades. Trust deficit in the face of administrative negligence and executive callousness hindered the translation of scientific information into understandable warnings for first line responders. The havoc was significantly man made as the local administration failed to regulate blatant violations of Coastal Zone regulations even after repeated warnings from Western Ghats Ecology Expert Panel report. The focus of state policy on human development has ignored the crucial aspect of ensuring active citizen participation in the development process. This has resulted in citizens becoming passive recipients of state entitlements, rather than active agents in a democracy. This paper is a critical view on disaster policies in India, which continue to ignore the decentralized institutions as crucial institutions in disaster management. The laudable role of fishermen in rescue and relief in the aftermath of Kerala floods clearly emphasizes that communities can no longer be ignored in the framework of disaster cycle. In a country which witnesses ubiquitous 'regime of noncompliance' to building bye laws, coastal zone regulations, land use plans and other safety laws, decentralized disaster management can help in building community resilience and ensuring accountability and transparency of government institutions. The argument gets underscored in a scenario where institutions of Disaster Management continue to focus on post disaster relief and rehabilitation, due to lack of enforcement powers of disaster management institutions, to ensure compliance of preventive measures in development planning and infrastructure.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Disaster is defined as an event which has irretrievable socio-economic and environmental costs for natural and built environment of the affected region, making the devastation exceed beyond the capacity of the local community to self-recover, thus making external assistance necessary. The 2010 report by World Bank and United Nations titled 'Natural Hazards, Unnatural Disasters' highlights the social construction of the devastation which disasters expose. The frailties are a result of cumulative effect of individual and community decisions on issues such as land use provisions, negligence of construction and sanitation infrastructure laws and regulations, lack of social integration and poverty reduction etc. Hence, the hazards can be natural. However, the devastation is aggravated by man-made actions. Lack of preventive action plans, resources and community resilience contribute to prolonged and delayed adverse effect on environment and increased social vulnerability. The situation demands urgency in a country with limited resources and inhabiting one fifth of world's poor, making such devastation unaffordable. Their recurrence in a developing country has high opportunity cost, as non-anticipation of such devastating events in advance leads to disruption of planned expenditure on poverty alleviation due to diversion of scarce resources for reconstruction and relief efforts Disaster Risk Reduction (DRR) regime in India is incapacitated by significant frailties despite resources and a legitimate machinery. The recent Kerala floods (2018) testify the unpredictability of disasters and the lack of preparedness of disaster management institutions in India despite enormous fund flows and a legitimate administrative structure in place. The massive floods has brought the focus on the unbridled embracing of short term material gains and material wealth, which has been accompanied by unprecedented levels of environmental destruction and rapid amplification of socially constructed vulnerabilities. This paper attempts to explore the question of 'why a disaster' , beyond the questions of 'what a disaster is' and 'what a disaster does' . Administrative negligence and performance deficit in the functioning of State Disaster Management Authorities continue even after more than a decade of enactment of the Disaster Management Act 2005 and the Hyogo Declaration. The structures of governance in state and district continue to be ill-prepared and least connected to the communities, which has become a primary reason of increased destruction during disasters.</p><p>The development model of Kerala although scores high on social indicators vis-a-vis the scenario at the national level, which fulfils the mandate of Sendai Framework of addressing social vulnerabilities among the people, the development process has been steered by unaccountable and non-transparent institutions. Lack of preparedness has been witnessed as water management practices had been limited to small schemes ignoring the local tiers of government. Lack of enforcement of land use laws and planning has been the main cause of haphazard human interventions. The havoc of the Kerala floods of August 2018 was largely man-made. Increased population pressure and enhanced economic resources due to inflow of remittances from the Gulf countries has resulted in encroachment of paddy fields and natural land contours by the commercial establishments. Such concretization of land and blockage of natural drainage channels and absorption areas, resulted in massive runoff of the surface water towards the coast and the sea. Due to high tide coinciding with incessant rains, the water could not empty into the sea and got blocked in these urbanized pockets. Encroachment of huge tracts of hills and mountains, massive deforestation of natural vegetation to develop cash crops and commercial settlements over the decades has increased the vulnerability to landslides in the hilly areas.</p><p>The immediate cause of floods in the plains (especially in the central districts) was the mismanagement of the flow from the dams. The withholding of excessive water by the Kerala State Electricity Board (to defer a situation of water scarcity post monsoon) led to water level in the reservoir breaching their maximum withholding capacity, even before the days of maximum rainfall in August 2018. Opening of the dam gates suddenly and simultaneously led to overflowing of embankments of the rivers and the canals. Extreme rainfall, low flood storage capacity in the reservoirs, poor drainage capacity of canals and immediate runoff due to massive deforestation culminated in the devastating floods in the state. Illegal sand mining and quarrying over the years, to meet the demand of new trend of unsustainable urbanization, non-suitable to the local weather conditions has made the state more vulnerable. There is an urgent need of strengthening the disaster management institutions through devolution of more legal, financial and punitive powers for enforcement of mitigation measures, bridging governance deficit and building community resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Objectives of Research and Methods</head><p>The paper attempts to present a critical view on disaster management policies in India through the case study of recent floods of August 2018 in Kerala. Even after more than a decade of enactment of Disaster Management Act 2005, disaster prevention and mitigation continues to be accorded least priority in development planning and enforcement. The concept of parens patriae has put the state under the obligation to protect the persons with no legal protector, resulting in state's role to be limited to the realm of rendering relief and rehabilitation to the victims of disasters. Exploratory, descriptive and doctrino-legal study of Disaster Management Act 2005, Kerala Disaster Management Plan, Coastal Regulation Zones and government reports (Report of the Comptroller and Auditor General of India on Schemes for Flood Control and Flood Forecasting, 2017 and Kerala Post Disaster Needs Assessment: Floods and Landslides 2018) has been attempted to study the extent of legal compliance to environment safety regulations and investigate the administrative compliance to adequate preventive measures. Semi-structured interviews with the government officials from National Disaster Management Authority and Kerala State Disaster Management Authority were undertaken to inquire into the enforcement powers of these institutions, in terms of curbing the illegal encroachments, which is the primary reason for increasing vulnerability of the communities. Semi-quantitative approach to study land use changes and urbanization trends in the state has been undertaken to understand the culpability of anthropogenic factors behind the current devastation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Disaster Management Framework in India: An Overview</head><p>Disaster management in India was institutionalized through enactment of the Disaster Management Act (DMA), 2005. The Act lays down institutional and coordination mechanism for effective disaster management at national, state, district and local level. The multi-tiered institutional system consists of National Disaster Management Authority (NDMA) at national, State Disaster Management Authority (SDMA) at state and District Disaster Management Authority (DDMA) at district level. The aim of the act was to facilitate shift from 'post disaster' relief and rehabilitation to proactive approach of integration of disaster preparedness, mitigation and emergency response into development planning. However, the DMA 2005 has become a standalone law with no toolkit for coordinating performance with other state institutions (Singh, 2018). Despite the framework of institutions of disaster management and the provision of National Disaster Relief Fund and National Disaster Mitigation Fund as per the 2005 Act, Disaster Risk Reduction (DRR) in India lags behind even the basic parameters of vulnerability analysis among the local communities. Vulnerability is exacerbated for a developing country such as India, due to its location in the tropical belt and the challenges of increasing population density amidst resource scarcity. Increasing frequency and intensity of extreme events suggests that disasters can no longer be caged in the vacuous argument of ' Act of God' .</p><p>The concept of 'vulnerability' in the epistemology of disaster research emphasizes on the need to attend to the social frailties and lack of community resilience. It underscores the need to adopt bottom up approach, so that the capacity of the population to absorb, recover and respond to the impact of an event can be increased. Anthony Oliver Smith (2006:10) emphasizes that;</p><p>"The historically produced socio-cultural construction is channeled and distributed in the form of risk within the society according to political, social and economic practices and institutions in the form of socially generated and politically enforced productive and allocative patterns"</p><p>Hence, addressing the social, political and economic frailties has become an indispensable part of disaster governance in India, especially in the present scenario of unrestrained and irreversible repercussions of human induced climate change and development practices, marked by increasing demand and human negligence. Effective disaster governance demands much more, beyond simply institutionalizing the State Disaster Management Authority (SDMA) and District Disaster Management Authority (DDMAs), which is not the last, but a first step in the trajectory of saving lives and resilient planning and development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Development Model of Kerala: Increasing Risks and Vulnerabilities</head><p>Kerala was the first state in the country to enact its own State Disaster Management Act, post the enactment of National Disaster Management Act, 2005. The development model of Kerala is termed as 'human development led' growth model, which is a result of systematic investment in social sectors such as health, education etc. over a period of time. The eighth most populated state in India inhabited by population of 3.34 crore (Census 2011), it is known for its high scores on human development indices. The state has highest Human Development Index of 0.625 (higher than the national average of 0.504) and highest score on Social Progress Index (68.09 points 2 ) across the nation. It has favorable Sex Ratio (1,084 females to 1000 males) vis a vis the national average of 940 <ref type="bibr" target="#b2">3</ref> . The women in the age group 15-24 have seen increased enrollment in education. The state has seen laudable performance on social indicators such as literacy rate (94% as compared to national average of 73% 4 ), Infant Mortality Rate (4 as against national average of 34 <ref type="bibr" target="#b4">5</ref> ) and life expectancy at birth (75.  The 590 km long coastline of Kerala has a chain of backwaters, interconnected by natural and man-made canals. The non-equatorial wet evergreen forest of Western Ghats are endowed with a variety of endemic species, making it a bio-diversity hotspot. The cluster of Periyar, Anamalai, Nilgiri and Agasthayamalai figure on the World Heritage List. Vembanad and Kole wetlands are covered under the Ramsar list of wetlands. However, the unbridled urbanization and commercial agriculture has made these areas vulnerable to many disasters. Livestock farming, unsustainable extraction of fuel wood, tourism beyond the carrying capacity, pollution from mining and industries, deforestation and land use changes, illegal encroachments and unbridled consumerism has degraded this self-sustaining ecosystem. The changes in micro-climate has resulted in cascading impacts on environment, demonstrating multiple linkages between environment and disaster risk.</p><p>Urban population in Kerala has registered huge growth over the last few decades, catapulting the process of land acquisition for urban centers, leaving no forest cover to arrest the run off post floods. Shift from the food crops to the export oriented commercial crops during the 1960s subjected the state to development pattern change, detrimental to the existing forest cover of ecology sensitive Western Ghats (United Nations, 2019). The unsustainable use of land has resulted in imbalance in ecology. Urbanization in the upper watersheds of rivers, particularly in hills, has led to heavy run off due to erosion of top soil, vanishing the natural capacity of such systems to absorb rainwater. Although the economic growth of the state is largely attributed to the remittances received by the inhabitants, and resultant investment into sectors such as education, the state faces many challenges such as increasing aged population, high unemployment rates, gender inequality and low agricultural industrial growth. 4.1. Warned, Yet Unprepared-Kerala Floods 2018: Nature's fury or Governance deficit?</p><p>The recent floods in Kerala was a result of administrative intransigence and neglect of local communities to build community resilience. Even after the institutionalization of SDMA and DDMA, these institutions were ill-equipped to handle disasters. The heavy downpour from 1 st June to 19 th August 2018 was 42 per cent above normal, with disproportionately higher downpour (164 per cent above normal), only in the month of August (Mishra et al.,  2018). As six of the seven major reservoirs were already at more than 90 per cent of their full capacity, even before unprecedented extreme downpour between 14-25 August 2018, the saturated condition in the reservoirs (Idduki, Kallada, Kakki, Idamalyar, Periyar, Parambikulam and Malampuzha) reduced their ability to accommodate the additional rainfall. As a result, the authorities had to release substantial amount of water abruptly by opening 37 dams simultaneously. Although, the state received less amount of rainfall than what it received in 1924 and 1961, massive land use cover change has adversely affected the capacity of the state to respond to such massive rainfall. The concretization and deforestation over the decades led to accelerated flow of flood waters, breaching the river embankments, silting lakes, rivers, and canals and blocking the sea mouths. Construction of houses on unstable mountain slopes, ignoring the building safety standards in construction of plinth and lintel, aggravated the vulnerability to landslides.</p><p>Soil erosion due to loss of forest cover also resulted in increased siltation in dam reservoirs, reducing 22% water storage capacity of the dams (Ramkrishnan R. and Ramachandra, T.V., 2016). An example to cite is of Kuttanad backwater systems, which have witnessed an increasing extent of cultivated areas below the sea level over the years, lowering the capacity of such systems to act as natural water absorbents (United Nations PDNA report, 2019: 66). Shifting emphasis on urbanization, cash crops and plantations in hilly areas has raised water and soil conservation concerns. Breakwaters built to create small harbors on the coasts has resulted in siltation of sea outlet, lowering the outflow capacity of the canal, besides having detrimental impact on the natural coastline. Salinity intrusion into the lower stretches of monsoon fed rivers reduced the flushing capacity of the system.</p><p>8 Report of the Comptroller and Auditor General of India on Schemes for Flood Control and Flood Forecasting Union Government Ministry of Water Resources, River Development &amp; Ganga Rejuvenation Report No. 10 of 2017 (Performance Audit). Page 66-67 9 As per RBA guidelines, the state government were required to map the flood prone areas and coordinate with the Central Water Commission and Ganga Flood Control Commission (GFCC) by furnishing adequate data and maps. Such assessment was to be undertaken every five year plan. The report of Comptroller and Auditor General (2017) had highlighted several loopholes in governance, which clearly indicate the culpability of the state government in the present state of helplessness. The report clearly brings out the state inaction in preparation of Emergency Action Plan and disaster management plan for the dams constructed by the government. No dam break analysis, hydrology studies and inundation maps were carried out for the 61 dams constructed by the government <ref type="bibr" target="#b7">8</ref> . The administration did not comply with the guidelines prepared by Rashtriya Barh Ayogh (RBA) to identify flood prone areas to reduce damage due to floods <ref type="bibr" target="#b8">9</ref> . Lackadaisical attitude of the administration in sharing the detailed maps of river basins with the Central Water Commission and Ganga Flood Control Commission (GFCC) caused inordinate delay in assessment by these bodies. There were no quality checks on the four flood management program being undertaken by Kerala Electrical &amp; Allied Engineering Co. Ltd (KEL). The report also clearly highlights the financial irregularities in KEL-2 project being undertaken by the Kuttanadu Development Division, Mankombu 10 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Trust Deficit and 'Non' Participative Governance:</head><p>A Case Study of Western Ghats</p><p>Governance deficit can be seen in flagrant violation of environmental norms in coastal areas by vested interests, which has resulted in large amount of unsafe buildings and non-engineered structures and blatant violation of CRZ norms. Ignorance of scientific and expert study with respect to fragile ecosystems such as the Western Ghats Ecology Expert Panel report is a veritable illustration. The panel headed by Madhav Gadgil had made several recommendations such as an indefinite moratorium on new environmental clearances for mining and complete prohibition on polluting industries (red and orange category) in the Ecologically Sensitive Zones 1 and 2. It also recommended revocation of permission for large scale hydro power projects due to the large scale land use changes and the resultant loss of bio-diversity due to submergence and building constructions. Strict regulation of existing mining and industrial activities under the lens of an effective system of social audit, change in the methodology of assessing the 'cumulative impact' of development activities from a centralized EIA based techno-centric study to becoming a more participative exercise ensuring local community participation, have remained confined to paper. The report clearly indicated towards siltation of water bodies and river bed pollution due to incessant illegal mining, loss of fertile agricultural land due to deforestation and loss of endemic and unique biodiversity in the Western Ghats <ref type="bibr" target="#b10">11</ref> . The report emphasized clearly that the innumerable industries in the biodiversity hotspot were being allowed to operate in clear violation of the Zoning Atlases for Siting of Industries (ZASI) guidelines <ref type="bibr" target="#b11">12</ref> prescribed by the Central and State Pollution Control Boards. Such deficit in 'environmental governance' has led to violation of regional plans of sustainable development. As Madhav Gadgil pointed out, "developments in the state have materially compromised its ability to deal with events like this and greatly increased the magnitude of the suffering. Had proper steps been taken, the scale of the disaster would have been nowhere near what it is today" <ref type="bibr" target="#b12">13</ref> .</p><p>In addition to the irretrievable exploitation of natural resources, the highly centralized formulation of Environmental Impact Assessment (EIA) reports has made the environmental clearance process defective, non -participative and non-transparent. Conflicts around land acquisition for industrial, power and mining projects by invoking the emergency provisions of the Land Acquisition bill have led to grave social discontent and alienation from democratic process in the area. Violation of the law governing the hills and rivers and the coasts (such as Coastal Regulation Zones laws), privatization of mangroves, and release of untreated effluents in the rivers from industries resulting in cancer among inhabitants underscores the irreversible damage being caused to the environment. Unquantified is the environmental 10 Ibid., page 44 11 Report of the Western Ghats Ecology Expert Panel (2011). Ministry of Environment and Forest. Government of India. Pp. 71-75. Accessed from <ref type="url" target="http://www.indiaenvironmentportal.org.in/files/file/">http://www.indiaenvironmentportal.org.in/files/file/</ref> report%20of%20the%20western%20ghats%20ecology%20expert%20panel.pdf. 12 The guidelines delineate the environmentally and socially sensitive zones in which the location of air and water polluting industries is prohibited. 13 Financial Express (2018). Was the Kerala deluge avoidable? Eminent scientist says disaster partly 'manmade' . Accessed from <ref type="url" target="https://www.financialexpress.com/india-news/was-the-kerala-deluge-avoidable-">https://www.financialexpress.com/india-news/was-the-kerala-deluge-avoidable-</ref>eminent-scientist-says-disaster-partly-man-made/1286365/. Last visited on 20 November 2019 loss due to deforestation in the Western Ghats, unscientific and haphazard granite quarrying, construction of roads in forest lands and encroachment of forests for crop cultivation, tourism has led to indiscriminate dispersal of non-degradable waste, which hitherto absorbed the surface excess water and in-turn recharged the acquirers (Kannan, 2018).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Coastal Regulation Zones: Economy precedes Conservation</head><p>The Coastal Regulation Zone (CRZ-2011) notification <ref type="bibr" target="#b13">14</ref> were released by the Ministry of Environment and Forest, to regulate coastal areas of India. The CRZ area constituted the coastal land up to 500 meters from the High Tide Line (HTL) and zone of 100 meters along the banks of backwater, estuaries, creeks and rivers, where the tidal fluctuations occur. As per the 1991 notification <ref type="bibr" target="#b14">15</ref> , the coastal areas were classified into four categories: CRZ-I, CRZ-II, CRZ-III and CRZ-IV. CRZ-I denoted the ecologically sensitive areas, CRZ-II -the built-up areas, CRZ-III-the rural areas and CRZ-IV-the water areas. These regions were considered as restricted areas for development of industries. CRZ I consisted of ecologically sensitive areas which lie between the high and low tide line, with only natural gas exploration and salt extraction being allowed in these areas. CRZ II areas which consisted of the areas up-to the shoreline of the coast, restricted the construction of unauthorized structures. The CRZ III zone, which comprised of both rural and urban areas, permitted only agriculture related activities and public facilities. The CRZ IV areas consisted of aquatic areas up to territorial limits that is, the water areas up-to the territorial waters and tidal influenced water bodies.</p><p>The 2011 CRZ notification aimed at ensuring livelihood security of fishing and local communities inhabiting the coastal areas and promoting sustainable development. However, the non-compliance with the CRZ laws has made the water bodies vulnerable to disasters and socio-economic destruction (Singh, 2016: 70). Frequent amendments to the CRZ notification opens the pathway of unbridled exploitation by industrial and commercial exploitation. The recent 2018 notification by the Ministry of Environment, Forest and Climate Change <ref type="bibr" target="#b15">16</ref> (MoEF&amp;CC) has proposed relaxation of the regime of clearance requirement for construction projects in the coastal areas, for the development of tourism and industrial infrastructure. As per the notification, amendments are proposed to the kind of activities which would be permitted in each of the demarcated zones and the permitting authority for such activities. The projects proposed under CRZ-I (ecologically sensitive areas) and CRZ-IV (areas covered between LTL and 12 nautical miles seaward) would require the approval of central government, while the power of granting permissions for projects in CRZ-II (areas that have been developed up to or close to the shoreline) and CRZ-III (areas that are relatively undisturbed) regions has been delegated to the respective state governments. The guidelines have signaled permitting the construction of nature trails and mangrove walks in CRZ-I A areas, under the banner of ecology-tourism (CRZ-I A areas are sub category under CRZ I areas, which largely consist of ecologically sensitive areas). Construction of roads of stilts, laying of pipelines and transmission lines for public utilities has been allowed in the mangrove buffer, which may</p><p>14 Ministry of Environment and Forest (2011). The Coastal Regulation Zone notification 2011. Accessed from <ref type="url" target="https://parivesh.nic.in/writereaddata/ENV/crz23.PDF">https://parivesh.nic.in/writereaddata/ENV/crz23.PDF</ref>. Last visited on 20 November 2019 15 Ministry of Environment and Forest (1991). The Coastal Regulation Zone notification 1991. Accessed from <ref type="url" target="http://www.indiansaltisma.com/web-admin/view//upload//file//memimage_8116.pdf">http://www.indiansaltisma.com/web-admin/view//upload//file//memimage_8116.pdf</ref>. Last visited on 20 November 2019 16 Press Information Bureau (2018). Cabinet approves Coastal Regulation Zone (CRZ) Notification 2018. Government of India. Accessed from <ref type="url" target="https://pib.gov.in/newsite/PrintRelease.aspx?relid=186875">https://pib.gov.in/newsite/PrintRelease.aspx?relid=186875</ref>. Last visited on 20 November 2019 Disaster Governance And Community Resilience: The Law And The Role Of SdmaS disturb the marine life and pave way for destruction of ecosystems. The guidelines have also proposed to permit temporary tourism facilities in No Development Zones of CRZ III areas.</p><p>The construction norms regarding Floor Space Index (FSI) and criteria with respect to No Development Zone (NDZ) have been relaxed for permitting tourism and real estate development in coastal areas for economic growth. The draft notification has proposed the reduction of No Development Zone in rural areas under CRZ-III A (which has population density of 2,161/ Square Kilometer) from 200 meters (as under the 2011 notification) to 50 meters <ref type="bibr" target="#b16">17</ref> . Temporary tourism facilities such as toilet blocks, drinking water facilities, shacks have been permitted within 10 meters of waterline on beaches, with the regulation power for such activities divested with the state government and local town planning authorities. The local fisher folk have raised concerns about development of beach tourism, as this may hamper their livelihood security by invasion of land by tourist private interests in the form of concrete roads.</p><p>State institutions continue to be unaccountable for the travesty of unbridled exploitation of natural resources, which would inevitably lead to irreversible environmental loss and damage, making the coastal communities even more vulnerable. This is not only bad governance, but also bad economics. Ignoring conservation norms for short term GDP growth will lead to increasing vulnerabilities and frequency and intensity of loss of human life and physical infrastructure, demanding further investment for relief, rehabilitation and building back better. A developing country such as India cannot afford this long cycle of resilient development. These recent changes to the Coastal Regulation Zones regulations clearly highlight the continued non accountability of executive and legislature in the state of Kerala, amidst a weak State Disaster Management Authority, which even after a decade of coming into effect, lacks the power of enforcing risk mitigation measures into state development planning and growth.</p><p>Disaster management has become a highly politicized event in a democracy such as India. Since distribution of relief and rehabilitation garners citizen's attention and votes, prevention is usually brushed under the carpet, as such steps may go un-noticed among the people in a democracy. The extent of relief is directly proportional to citizen's votes during an election. As a result, non-accountability and non-transparency is allowed and nurtured, at the cost of lives of marginalized. The crisis becomes a subject of 'politics and economics' , rather than 'ethics and administration' . The lack of preparedness of the state got clocked behind the blame game amongst the state authorities, community institutions and the institutions of science to allege what the 'other' failed to do. The crude realities of law and governance such as the lack of accountability amongst the ill-informed institutions and organizations and deep gulf of 'uneducated information' on disasters where scientists either divert the blame to climate change or the administrator targets it as 'an Act of God' is conveniently ignored once the rehabilitation process rolls. The absence of planned measures in rescue, relief and medical assistance was widely clear in the areas such as Idukki, Elapally and Thodupuzha, where the first hand responders were NGOs such as Sewa Bharti in Ranni (Singh et al, 2018:24). The lack of organizational training (of police, electricity department, and district town and country planners) and non-institutionalizing of State Disaster Mitigation Fund reveals the least priority accorded to disaster governance in the state.  The concept of 'Invulnerable development' takes into account all the four aspects of disaster management, viz. disaster mitigation, preparation, response and recovery. The concept involves an inter-disciplinary approach across the disciplines of geography, meteorology, anthropology, engineering and economics, to reduce vulnerability (McEntire, 1998:216). It takes into account various disaster intensifying variables, such as physical (which mainly focus on detailed planning of the infrastructure projects), geographical (such as assessment of potential hazards and vulnerability zones through structural mitigation devices etc.). Various social variables are also taken into account to safeguard the process of development. These consist of enhancing community participation in terms of educating the public about disasters, improvising the services such as health care, managing urbanization, adopting methods to reverse the marginalization of specific groups like minorities, the disabled and women, who are more vulnerable to disasters due to the factors of age, sex or poverty. This may be undertaken by shaping people's attitudes towards hazards and encouraging self-reliance upon traditional coping mechanisms, which have proved to be an effective tool of response and resilience. Certain steps such as institutionalization and adoption of insuring policies and mechanisms against potential economic losses could become an important tool to address vulnerabilities. Indispensability of the fourth pillar of building community resilience, for effective disaster governance in building transparency and resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Four Pillars of Disaster Governance: A Step towards Invulnerable Development</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Disaster Risk Mitigation and Resilience: A Case for Building Community Resilience</head><p>The lives saved in Kerala have been attributed to the efforts of local fishermen and community leaders, who held the reigns of rescue and relief amidst the floodwaters. This they did, even when there was complete absence of any efforts by State Executive Committee and Kerala State Disaster Management Authority (KSDMA) to reduce the gap between disaster institutions and local community leaders, which makes building community resilience an indispensable part of effective disaster governance. Despite the highest literacy rate in the country, the officials have ignored the local communities as active agents in risk mitigation and prevention. These local communities continued to be seen by the authorities as passive recipients of entitlements, without adequate focus on developing partnership with them in disseminating pre-disaster warning, online and offline alerts and post disaster rescue efforts. While the communities which could form the bridge between the government and officials were ignored, the gap between science institutions and government was widely clear. There was an absence of any Standard Operating Procedure for the district administration to follow up the Panchayat and the local leaders. The water was released from the dams late at night, with little time for the local community to respond in an effective manner. The warnings issued online by the district administration (in the form of red light and orange light) were non decipherable for the majority of village population due to lack of access to social media platforms (Singh et al. 2018:26). The legibility of the color in the warnings sounded, was also non-comprehensible by the majority of the local people due to lack of training and connectivity with the local disaster management authorities.</p><p>Despite the gaps in disaster governance, the youth actively volunteered through the use of skills in Information and Communication Technology to help in rescue, distribution of relief and crowd source funds to maintain logistics of transportation. While the Indian Army deployed 104 boats, NDRF 207 boats, Navy 94 and Indian Coast Guard 76 boats, the 4537 odd fishermen community mobilized 669 boats and rescued more than 65 thousand people (Kannan, 2018). The grit and experience of the fishermen in mechanized country boats helped immensely to facilitate the rescue operations, especially in remote and inaccessible areas. Even though being considered as marginalized community, grappling with the aftermath of Ockhi cyclone, these fishermen bravely reached out to the worst affected remote critical areas, spending their own money, to provide relief material, transport fuel and essential food items to the rescue camps. Even while themselves reeling under dire conditions, barely making ends meet daily, due to lack of livelihood opportunities, these men risked their own lives, without expecting any monetary benefit for their efforts. The decentralized bodies (Panchayati Raj Institutions, composing more than 50 percent women elected representatives) played an active role to organize rescue and relief operations by working in close coordination with Revenue Department. Active social capital exemplified by Self Help Group such as Kudumbashree, Aanganwadi and ASHA workers, association of medical professionals underscores the importance of building community resilience.</p><p>Disaster governance in India needs to be implemented through the prism of trans-disciplinarity, with the aim of empowerment of grass-root communities, to become active agents in development process. The reconstruction post floods needs to be anchored in environment sustainability and social inclusion, keeping in light the principle of Build Back Better (Sendai Framework, Goal 4) and Sustainable Development Goals (2015-30). As the report of United Nations (2019) emphasizes, the state having more than fifty percent area under Western Ghats, needs to internalize the idea of 'living with water' by allowing room for the rivers and increasing the space occupied by these river systems. Risk informed approach to land use and settlements needs synergy of science, state and community. It emphasizes on ecosystem function and need of inter-sectoral integration and coordination. Ignorance of such framework of development can disproportionately increase the vulnerability of the state further. People centric and inclusive approach is pivotal to ensure environment sustainability and cost effectiveness of post disaster reconstruction. The strong network of Civil Society Organizations, which already complements the government initiatives can be integrated as a tool to undertake awareness development and training, monitoring of compliance to laws and enforcement by exposure and feedback tot the government. This can in-turn help to achieve the goal of Disaster Risk Reduction and building resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Conclusion</head><p>The irreversible environmental damage in Kerala was a direct result of lack of accountability and transparency of government institutions and continued neglect of voices from the margins, who suffered silently due to destruction of their habitats in the name of development. Disaster governance in India continues to focus on technocratic solutions, carried out through bureaucratically organized and centrally controlled institutions. Such techno-centric view in disaster management only serves the purpose of the market and reinforces the walls of cultural hegemony of blind faith in technocratic solutions, to remedy the vulnerabilities and reduce risks. The recent devastation due to extreme rainfall in Kerala in August 2018 was blamed on the sudden downpour being an unprecedented event, which took the administration by surprise. However, a deeper interrogation suggests the lack of preparedness and lackadaisical attitude adopted by the administration in averting such devastation through efficient inter-departmental coordination and collaboration, considering the frequency of disasters being witnessed by the state in 2004 (Tsunami) and 2017 (Cyclone Ockhi). The delayed response and lack of inter-departmental coordination in taking measured response to incessant rains filling the dams beyond their carrying capacity and delayed dissemination of timely warning to the inhabitants underscore the fact that mere techno-centric solutions are not sufficient in the present scenario. This is not to negate the importance of Early Warning Systems or scientific instruments such as Seismometers etc. However, holistic disaster management would remain incomplete without incorporating the community participation as active agents of holding the administration accountable and building social capital.</p><p>Disasters are a result of repeated failure of governance. The state authorities, communities and the science institutions should share the responsibility of creating and sustaining such events. The repeated human activities in defiance of constitutional, environmental and municipal laws that gradually builds up a disaster are veiled under the argument of GDP growth and development. Such growth at the cost of ecological balance entrenches the unsustainability of such development models, which is negated in an instance of un-anticipated incessant rains or tremors in the earth's crust. Lack of coordination between the enforcement agencies and exclusion of jurisdiction of Disaster Management Authorities (SDMAs and DDMAs) to monitor compliance with the safety norms and regulations needs an urgent attention and policy amendment. The Sustainable Development Goals adopted by the United Nation member states in 2015 and enshrined in Hyogo Framework for Action (2005-15) and Sendai Framework for Disaster Risk Reduction (2015-30) can be fulfilled only through the trajectory of 'In-vulnerable Development' . Bridging the gap between administration and science institutions through incorporating accountability and transparency and building community resilience is crucial for achieving the target of a Resilient India.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2 years as 2</head><label>2</label><figDesc>The SPI Report focused on three major indices like basic human needs, foundation of well-being and opportunities. Kerala received the highest score on social progress. It scored 73.8 on Basic human needs index, 65.4 on foundation of wellbeing and 65.1 on index of opportunity. Report available at https://cdn. givingcompass.org/wp-content/uploads/2018/07/13103552/SPI_Districts_Final.pdf 3 Department of Economic and Statistics (2017), Gender Statistics 2016-17, Publication Division, Department of Economics &amp; Statistics, Government of Kerala. 4 Office of the Registrar General (2011), Census of India 2011, Ministry of Home Affairs, Government of India. 5 Estimates of the Mortality Indicators. Retrieved from http://www.censusindia.gov.in/vital_statistics/SRS_ Report_2016/8.Chap%204-Mortality%20Indicators-2016.pdf. Last visited on 20 November 2019 against national average of 68.8 years 6 ). Human Development in Kerala has also been more equitable, as can be seen from its best performance on inequality-adjusted HDI 7 . 6 Department of Economic Affairs (2018), Economic Survey of India 2017-18. Department of Economic Affairs, Ministry of Finance Government of India. 7 Suryanarayana, M.H., Agrawal A. and Prabhu, K. (2011) Inequality-Adjusted Human Development Index for India's States, UNDP. Accessed from http://www.undp.org/content/dam/india/docs/inequality_adjusted_ human_development_index_for_indias_state1.pdfLast Visited on 2 November 2019</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. Flood affected areas in Kerala. Source: http://sdma.kerala.gov.in/</figDesc><graphic coords="6,200.41,107.49,207.88,329.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Temporal variation of Land use dynamics in Kerala over four decades (decreasing extent of green color indicates the reducing forest cover in the state over the years). Source: Ramkrishnan R. and Ramachandra, T. V., "Four decades of forest loss: Droughts in Kerala (Poster)", Lake 2016: Conference on Conservation and Sustainable Management of Ecologically Sensitive Regions in Western Ghats, 10th Biennial Lake Conference: Wetlands for Our Future. Mangalore, Karnataka.2016.</figDesc><graphic coords="8,159.55,304.70,290.35,133.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Disaster</head><figDesc>Governance rests on four pillars: a) Addressing marginalization of local communities -focus on social, economic, political vulnerabilities b) Transparency and accountability of Institutions-Executive and Legislative Institutions during the four cycles of disaster governance-mitigation, preparedness, response and rehabilitation c) Strengthening of disaster management institutions-giving them more powers of enforceability of mitigation measures in development planning d) Building community resilience -reducing the gap between state institutions and local people.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Four pillars of Disaster Governance. Source: Author's</figDesc><graphic coords="12,85.04,269.39,434.87,161.62" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>International journal of disaster risk management • (IJDRM) • Vol. 1, No. 2</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments:</head><p>The author is grateful to <rs type="person">Prof Amita Singh</rs>, <rs type="person">founder Chairperson</rs>, <rs type="affiliation">Special Centre for Disaster Research, Jawaharlal Nehru University, New Delhi</rs> for providing critical insights into the disaster governance in Kerala.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The author declares no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Kerala flood warnings ignored to speed-up commercial projects</title>
+		<author>
+			<persName><surname>Afp</surname></persName>
+		</author>
+		<ptr target="http://www.asianage.com/india/all-india/210818/kerala-centre-ignored-flood-warn-ings-to-fast-track-commercial-projects-experts.html" />
+	</analytic>
+	<monogr>
+		<title level="m">The Asian Age</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Economic Survey of India 2017-18</title>
+		<ptr target="http://www.indiaenvironmentportal.org.in/files/file/eco-nomic%20survey%202017" />
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of Finance, Government of India</title>
+		<imprint>
+			<publisher>Department of Economic Affairs</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="20" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Gender Statistics 2016-17</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Government of Kerala</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Draft Coastal Regulation Zone Notification</title>
+		<ptr target="http://envfor.nic.in/sites/default/files/press-releases/DRAFT%20CRZ%20NOTIFICATION%2020181.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Ministry of Environment, Forest and Climate Change</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Was the Kerala deluge avoidable? Eminent scientist says disaster partly &apos;man-made</title>
+		<ptr target="https://www.financialexpress.com/india-news/was-the-kerala-del-uge-avoidable-eminent-scientist-says-disaster-partly-man-made/1286365/" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Financial Express</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The great Kerala floods</title>
+		<author>
+			<persName><surname>Kannan</surname></persName>
+		</author>
+		<ptr target="www.india-seminar.com›713_k_p_kannan" />
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Orange Book of Disaster Management -Kerala</title>
+		<ptr target="https://sdma.kerala.gov.in/wp-content/uploads/2019/08/Orange-Book-of-Disas-ter-Management-1-2019.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Standard Operating Procedures &amp; Emergency Support Functions Plan Kerala</title>
+		<imprint>
+			<publisher>Kerala State Disaster Management Authority</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Balancing international approaches to disaster: rethinking prevention instead of relief</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mcentire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Emergency Management</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Coastal Regulation Zone notification</title>
+		<ptr target="http://www.indiansaltisma.com/web-admin/view//upload//file//memimage_8116.pdf" />
+		<imprint>
+			<date type="published" when="1991">1991. 1991</date>
+			<publisher>Ministry of Environment and Forest</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Coastal Regulation Zone notification</title>
+		<ptr target="https://parivesh.nic.in/writereaddata/ENV/crz23.PDF" />
+		<imprint>
+			<date type="published" when="2011">2011. 2011</date>
+			<publisher>Ministry of Environment and Forest</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Kerala flood of 2018: Combined Impact of Extreme Rainfall and Reservoir Storage</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mishra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aaadhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Pattanaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Tiwari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrology and Earth System Sciences Discussion</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Census of India</title>
+	</analytic>
+	<monogr>
+		<title level="j">Office of the Registrar General</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2011</date>
+			<publisher>Ministry of Home Affairs, Government of India</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Theorizing Vulnerability in a Globalized World: A Political, Ecological Perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oliver-Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping Vulnerability: Disasters, Development and People</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Bankoff</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>London</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>1st South Asian edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cabinet approves Coastal Regulation Zone (CRZ) Notification</title>
+		<ptr target="https://pib.gov.in/newsite/PrintRelease.aspx?re-lid=186875" />
+	</analytic>
+	<monogr>
+		<title level="m">Government of India</title>
+		<imprint>
+			<publisher>Press Information Bureau</publisher>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Four decades of forest loss: Droughts in Kerala (Poster)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramkrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Ramachandra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lake 2016: Conference on Conservation and Sustainable Management of Ecologically Sensitive Regions in Western Ghats, 10th Biennial Lake Conference: Wetlands for Our Future</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<ptr target="http://www.indiaenvironmentportal.org.in/files/file/Performance_audit_Union_Government_Schemes_for_Flood_Control_and_Flood_Forecasting.pdf" />
+		<title level="m">General of India on Schemes for Flood Control and Flood Forecasting Union Government Ministry of Water Resources, River Development &amp; Ganga Rejuvenation Report</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Performance Audit</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Coastal Ballads and Conservation Ironic</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic and Political Weekly</title>
+		<imprint>
+			<biblScope unit="volume">LI</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="70" to="75" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Critical Pedagogy of Disaster Research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dialogue Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="33" to="46" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kamthan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 Kerala Floods: A Report on Governance and Legal Compliance</title>
+		<imprint>
+			<publisher>SCDR-NIDM Research Publications</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Inequality-Adjusted Human Development Index for India&apos;s States</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Suryanarayana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Prabhu</surname></persName>
+		</author>
+		<ptr target="http://www.undp.org/content/dam/india/docs/inequality_adjusted_human_development_index_for_indias_state1.pdf" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<ptr target="https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Government of India</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Kerala Post Disaster Needs Assessment: Floods and Landslides</title>
+		<ptr target="https://reliefweb.int/sites/reliefweb.int/files/resources/PDNA_Kerala_India.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<date type="published" when="2018">2019. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<ptr target="www.unisdr.org/wcdr/intergover/official-doc/L-docs/Hyogo-framework-for-ac-tion-english.pdf" />
+		<title level="m">Hyogo Framework for Action 2005-2015: Building the Resilience of Nations and Communities to Disasters</title>
+		<imprint>
+			<publisher>United Nations International Strategy for Disaster Reduction</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<ptr target="http://www.wcdrr.org/uploads/Sendai_Frame-work_for_Disaster_Risk_Reduction_2015-2030.pdf" />
+		<title level="m">Sendai Framework for Disaster Risk Reduction 2015-2030</title>
+		<imprint>
+			<publisher>United Nations International Strategy for Disaster Reduction</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Natural Hazards, Unnatural Disasters. The Economics of Effective Prevention</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

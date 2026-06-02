@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Climate variability and extractivism exposures: Understanding household perspectives on livelihood resilience in rural Ghana</title>
+				<funder>
+					<orgName type="full">Center for Development Research (ZEF)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Bonn</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">German Catholic Academic Exchange Service (KAAD)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-09-27">27 September 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Salamatu</forename><forename type="middle">J</forename><surname>Tannor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Development Research, (ZEF)</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Geography</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Girma</forename><surname>Kelboro</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Development Research, (ZEF)</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Klaus</forename><surname>Greve</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Geography</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christian</forename><surname>Borgemeister</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Development Research, (ZEF)</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bernhard</forename><surname>Tischbein</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Development Research, (ZEF)</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Center for Development Research, (ZEF)</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Climate variability and extractivism exposures: Understanding household perspectives on livelihood resilience in rural Ghana</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-09-27">27 September 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">96185EAEAE5D5D736A2F4747844F2324</idno>
+					<idno type="DOI">10.1016/j.exis.2022.101164</idno>
+					<note type="submission">Received 8 February 2022; Received in revised form 14 September 2022; Accepted 15 September 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Adaptation Double exposure Fringe communities Forest zone Mining</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The resilience of African rural livelihoods is at risk due to over-reliance on rain-fed agriculture, which increasingly suffers from climate variability. Extractive communities are exposed to changes from extractivism and climate conditions. The double exposure framework is employed to contextualise factors influencing households' perspectives on the overlapping impacts of these change processes on livelihoods. The results affirm a general awareness that both climate variability and extractivism affect rural livelihoods. In addition, contextual factors such as gender, cultural connections, education, type of occupation, agroecological and resource extractivism types significantly influence households' perception of climate variability and extractivism effects on livelihoods. Example, large size households located in the deciduous forest zones are more likely to perceive that their livelihoods are double exposed to climatic variability and extractivism effects. Communities affected by mineral/forestry extractivism are more likely to perceive double exposure of climatic variability and extractivism effects on their livelihood sources. Households expect the national government and extractive companies to provide alternative livelihoods and improve infrastructure to enhance their resilience. The study shows that differential factors underpin the perceived risk of rural livelihoods exposure to climate change and extractivism, thus supporting the need for policy-makers to include mining landscapes in national adaptation programs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>A key way to alleviate rural poverty is to enhance the pathways of building resilience in the livelihoods of the poor, thus reducing their exposure and vulnerability to climate related risk and other socioeconomic as well as environmental shocks (SDG 1.5). Rural livelihoods are affected by global environmental changes such as changing land use systems, declining biodiversity, water resource depletion and pollution as well as climate variability and changes <ref type="bibr" target="#b34">(IPCC, 2014;</ref><ref type="bibr" target="#b66">Sani and Chalchisa, 2016;</ref><ref type="bibr" target="#b67">Sanogo et al., 2017;</ref><ref type="bibr" target="#b76">Thakur and Bajagain, 2019;</ref><ref type="bibr" target="#b84">Yaro and Hesselberg, 2016)</ref>. This is facilitated through global trade relations between countries, technology, infrastructure development, global conservation/development standard strategies and guidelines <ref type="bibr" target="#b38">(Kelboro and Stellmacher, 2019;</ref><ref type="bibr" target="#b58">Oldekop et al., 2020)</ref>.</p><p>The situation of rural communities in West Africa is critical due to high dependence on climate-sensitive livelihoods such as rain-fed agriculture and collection of non-timber forest products (NTFPs) <ref type="bibr" target="#b3">(Ahenkan and Boon, 2011;</ref><ref type="bibr" target="#b10">Appiah et al., 2009;</ref><ref type="bibr" target="#b21">Cobbinah and Anane, 2016;</ref><ref type="bibr" target="#b24">Dumenu and Obeng, 2016;</ref><ref type="bibr" target="#b59">Onyekuru and Marchant, 2014)</ref>. Certainly, insufficient infrastructural systems in rural communities contribute to their vulnerability to the detrimental effect of climatic variability and changes <ref type="bibr" target="#b44">(Mafusire et al., 2010;</ref><ref type="bibr" target="#b71">Shiferaw et al., 2014)</ref>. The IPCC (2014) define climate variability as the deviations in the averages of climate properties such as rainfall and temperatures as well as extremes beyond individual weather events <ref type="bibr" target="#b34">(IPCC, 2014)</ref>. Over time, rural communities accustom to prevailing climate conditions such as rainfall pattern and seasonality as well as the average temperature ranges. However, with the increasing uncertainties, adapting livelihoods to such seasonal changes and extremes become severe for the inhabitants. Hence, improving rural development remains critical to enhance the adaptive capacity of communities <ref type="bibr" target="#b64">(Pouliotte et al., 2009)</ref>. Adaptive capacity of a community refers to the inherent properties such as access to resources that enable them to modify their actions in order to maintain or improve their quality of life amidst perceived and actual stresses <ref type="bibr" target="#b29">(Gallopin, 2006;</ref><ref type="bibr" target="#b35">Jakku et al., 2010;</ref><ref type="bibr" target="#b79">Wall and Marzall, 2006)</ref>. Disparities in socio-economic, human and natural endowments of households shape their livelihood resilience <ref type="bibr" target="#b73">(Speranza et al., 2014)</ref>. Livelihood here refers to the diverse ways by which households and individuals make a living <ref type="bibr" target="#b25">(Ellis and Freeman, 2004;</ref><ref type="bibr" target="#b70">Scoones, 2009)</ref>. The livelihood strategies of the community therefore define their adaptive capacity and illustrate the extent to which community members can withstand or co-evolve with changes and shocks <ref type="bibr" target="#b77">(Thulstrup, 2015)</ref>. Resilient livelihoods are able to withstand stresses and shocks, including the means to adapt to future stresses <ref type="bibr" target="#b75">(Tanner et al., 2015)</ref> such as the direct and indirect impacts of climate variability and extractivism.</p><p>Rural communities affected by extractivism (resource-fringing communities) are not spared from the effect of climate variability and changes, irrespective of the notion that livelihoods in such communities are resilient <ref type="bibr" target="#b53">(Norman and Jamele, 2016)</ref>. Rather, these communities risk the simultaneous impact of extractivism and increasing local climatic changes. Extractivism involves both the technical process of extracting raw materials for export and the political ecology hovering the extractive activities <ref type="bibr" target="#b1">(Acosta, 2013;</ref><ref type="bibr" target="#b13">Ayelazuno, 2014;</ref><ref type="bibr" target="#b85">Ye et al., 2020)</ref>. Following <ref type="bibr" target="#b85">Ye et al. (2020)</ref>, extractivism when viewed as an economic system has specific features including monopoly, close interlink between the State and private capital groups, availability of infrastructural systems which a connected to the Operational Centers where the wealth is accumulated and transported from places of poverty to places of richness thus entrenching inequality. Such raw materials include precious minerals and metals, crude oil, timber, fisheries and cash crops.</p><p>Extractive activities generate direct and indirect impacts on the livelihoods and general wellbeing of their fringing-communities <ref type="bibr" target="#b80">(Wegenast and Beck, 2020)</ref> by providing diverse opportunities and threats <ref type="bibr" target="#b32">(Hilson and Haselip, 2004;</ref><ref type="bibr" target="#b39">Kemp, 2009)</ref>. For instance, an entire farming community settlement and their farmlands can be lost to extractive activities, especially in the minerals sector if the ore body occur beneath such places. Depending on how a household manages its share of settlement and compensation benefits, the vicious cycle of poverty can be broken or entrenched <ref type="bibr" target="#b78">(Tsuma, 2010;</ref><ref type="bibr" target="#b81">Wilson, 2019)</ref>. It is also not surprising that inadequate provision of alternative livelihood instigates social and environmental conflicts between the extractive companies and their affected communities <ref type="bibr" target="#b15">(Bebbington et al., 2015;</ref><ref type="bibr" target="#b23">Cuba et al., 2014;</ref><ref type="bibr" target="#b69">Schueler et al., 2011)</ref>.</p><p>Inevitably, the national economies of most nations within the West African region are driven by raw material extractions including minerals, timber, petroleum products and cash crops mainly spearhead by multinational companies with strong backing of international financial institutions <ref type="bibr" target="#b72">(Signé and Johnson, 2021)</ref>. For instance, the IMF/World Bank led restructuring program in the late 1980s enhanced the proliferation of multinational mining companies within the region which continuous to date (G. M. <ref type="bibr" target="#b33">Hilson, 2004;</ref><ref type="bibr">World Bank, 2020)</ref>. Such collaborations perpetually paralyse fringing communities' capacity to compete for livelihood resources within the same landscapes. The economy of Ghana as an example is driven by export of gold, cocoa, timber and crude oil production although shrouded in negative socio-environmental footprints <ref type="bibr" target="#b26">(Eshun et al., 2010;</ref><ref type="bibr" target="#b68">Sarfo-Mensah, 2005;</ref><ref type="bibr">World Bank, 2020)</ref>. Remarkably, the share of rural communities from raw material extraction does not reflect vividly within the landscape. For instance, only 2% of royalties from minerals extractive sector is allocated for community development <ref type="bibr">(Mineral Development Fund Act, 2016</ref><ref type="bibr" target="#b27">Act 912, 2016)</ref> whereas no provision of sort exist for the royalties from the petroleum, forestry and cash crop sector <ref type="bibr" target="#b14">(Ayine, 2008;</ref><ref type="bibr">Petroleum Revenue Management Act, 2011</ref><ref type="bibr">(Act 815), 2011)</ref>. Literature on resource curse explicitly expose these phenomena whereby resources extracted within a landscape does not benefit the inhabitants who are directly exposed to the impacts <ref type="bibr" target="#b6">(Amundsen, 2017)</ref>. Hitherto, the increasing demand for sustainable resource exploitation is engendering corporate extractive companies to contribute to rural development through corporate social responsibility although these initiatives are most often voluntary and philanthropic in nature <ref type="bibr" target="#b7">(Andrews, 2016;</ref><ref type="bibr" target="#b14">Ayine, 2008;</ref><ref type="bibr" target="#b19">Boso et al., 2017)</ref>. Moreover, high expectations are on extractive companies to contribute to the rural development in their surrounding communities even by national governments. Thus, rural development in most mining landscapes is surrendered to the dictates of the industry <ref type="bibr" target="#b20">(Bruckner, 2016;</ref><ref type="bibr" target="#b30">Hansen, 2014;</ref><ref type="bibr" target="#b36">Jenkins and Obara, 2008;</ref><ref type="bibr" target="#b56">Odumosu-Ayanu, 2014)</ref>.</p><p>The variability in local climatic conditions is also relevant to the sustainability of the extractives operations especially the minerals sector <ref type="bibr" target="#b62">(Pearce et al., 2010;</ref><ref type="bibr" target="#b65">Rüttinger and Sharma, 2016)</ref>. Worse of all, both processes interactively generate outcomes that can jeopardise the livelihood resources of surrounding communities <ref type="bibr" target="#b42">(Leventon et al., 2015;</ref><ref type="bibr" target="#b55">Odell et al., 2018)</ref>. Odell and his colleagues dubbed this simultaneous impact of mining and climate interactions on other resources as "intersecting impact" and expound on the need for perception and responses assessment to attenuate consequences on actors <ref type="bibr" target="#b55">(Odell et al., 2018)</ref>. Undoubtedly, Rural livelihoods in the southwestern mining landscapes of Ghana are double exposed to the effect of increasing climatic variability and extractivism <ref type="bibr" target="#b12">(Atiah et al., 2019;</ref><ref type="bibr" target="#b48">MESTI, 2020;</ref><ref type="bibr">World Bank, 2020)</ref> due to the proximity of human settlements and farmlands to mining and forest resource concessions <ref type="bibr" target="#b51">(Moomen, 2017)</ref>. Forest resources extraction and ongoing oil and gas production activities in the southwestern regions have introduced severe changes for rural dwellers to contend with. In most cases, the impact of these exposures is contingent on the socio-economy, social relations, infrastructural and biophysical endowments at the disposal of households and communities. This study therefore adapts the double exposure framework to illustrate the interacting effects of extractivism and climate variability on rural livelihoods in mining landscapes of southwestern Ghana. The study also examines contextual factors influencing households' perception and identifies response strategies that will enhance households' capacity to adapt to such double burden in mining landscapes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Conceptualising double exposure of climate variability and extractivism</head><p>The double exposure framework refers to the overlapping impact of globalisation and global environmental changes, unintended or otherwise, on resilience of other human or resource systems <ref type="bibr" target="#b40">(Leichenko and O'Brien, 2008;</ref><ref type="bibr" target="#b54">O'Brien and Leichenko, 2000)</ref>. The framework stresses the relevance of a set of combined conditions (Contextual Environment) of the system under exposure (Exposure Unit) such as economic, social, cultural, technological, institutional and biophysical characteristics, amongst others, to determine the exposure and adaptive capacity of the exposed system. The exposure unit refers to the spatial and temporal dimension of the unit of analysis, which can be a global, regional, community or a system, while exposure refers to the subjection of the system to an effect or influence of stresses or shocks from global change processes. In addition, the framework indicates that anticipatory process and actions (Anticipatory Response strategies), taken timely to influence the contextual environment, are imperative to determine the exposure and Outcome pathways. The Outcomes refer to the tangible and measurable effects, including vulnerabilities and capacities, generated from the interactions of the change processes, which affect the choices that exposed actors, can follow <ref type="bibr" target="#b15">(Bebbington et al., 2015)</ref>. Outcomes consecutively affect the change processes as well as the environmental context and vice versa.</p><p>Empirical evidence illustrates the usefulness of the framework to analyse the resilience of resource systems double exposed to global changes and globalisation at different spatial and temporal scales. These include the double exposure of pastoralists to economic and environmental changes in Niger <ref type="bibr" target="#b45">(McKune and Silva, 2013)</ref> as well as the double exposure of Indian rural livelihoods to climate and trade liberalisation (O'Brien and <ref type="bibr" target="#b54">Leichenko, 2000)</ref>, which reflect the rural livelihoods situations. In addition, the double exposure of climate change and the 2008/09 global financial crisis in California <ref type="bibr" target="#b41">(Leichenko et al., 2010)</ref> as well as the double exposure of the Ghanaian fisheries sector to climate and capitalist expansion <ref type="bibr" target="#b52">(Nolan et al., 2022</ref>) also reflect national scale situations.</p><p>In this study, the framework enables a comprehensible analysis of the contextual factors that influence the household level view on double exposure of climate variability and extractivism effects on livelihood resilience in mining landscapes. In addition, the response strategies necessary to enhance adaptive capacity within the mining landscape are examined.</p><p>Fig. <ref type="figure">1</ref> depicts rural mining landscapes in southwestern Ghana as a simplified unit of analysis (Exposure unit). Livelihood resources in the landscape are double exposed to the effect of two global change processes. These change processes are extractivism (minerals, timber and petroleum extractions) that are economic tools of globalisation, and climate change (local climate variability) manifesting as an effect of global environmental changes. Dynamic interactions of the two change processes simultaneously and concurrently <ref type="bibr" target="#b41">(Leichenko et al., 2010)</ref> affect the capacity of households to make a living (Household level Outcome). The exposure and outcome pathways of the double exposed livelihoods, however, depend on the contextual environment of the households and the community in general (socio-economy, culture, demography, agro-ecological zones etc.). In addition, availability of adaptive strategies of households, such as means for income diversification and support from government such as availability of social amenities (anticipatory response strategies) within the landscape, are critical to determine the Outcome pathways. Similarly, anticipatory response strategies from the extractive companies are critical since Outcome feedbacks interact backwardly with extractivism and global changes. For instance, poor crop yields due to seasonal shifts increase resource competition leading to forest encroachment in quest to expand farmlands, which contribute to biodiversity loss as an environmental change effect. Moreover, the competition for land resources within the landscape can generate social upheavals and conflicts, which can jeopardise the extractives industries' 'licence' to operate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Case study location</head><p>Ghana is located within the West African region covering an area of 238,500km 2 within latitude 4 • 45 1 N and 11 • N, and longitude 1 • 15 1 E and 3 • 15 1 W <ref type="bibr" target="#b16">(Bempong et al., 2019)</ref>. The country's southwestern mining landscape where the primary data were collected (Fig. <ref type="figure" target="#fig_0">2</ref>) forms the southwestern basin system covering 22% of the total land area of Ghana <ref type="bibr">(Ghana National Water Policy, 2007)</ref>. Hydrologically, the basin is composed of the Bia, Tano, Ankobra and the Pra rivers. Bia and Tano are transboundary rivers which drain into the Gulf Guinea westward in Ivory Coast, while Ankobra and Pra rivers are inland and drains directly into the Gulf of Guinea southward of Ghana. Southwestern Ghana is known for its long-term minerals and forest resources extractive activities <ref type="bibr" target="#b31">(Hilson, 2002)</ref>, hence of high socio-economic relevance to national development, coupled inevitably with rapid environmental degradation <ref type="bibr" target="#b37">(Junior and Matsui, 2018;</ref><ref type="bibr" target="#b46">Mensah et al., 2020)</ref>.</p><p>The selection of the study areas were informed by the key features of extractivism (Operational Sites, public/private capital groups 'ownership, available infrastructural systems such as public road network etc.) and the fact that the entire forest zone is experiencing climate threat <ref type="bibr" target="#b0">(Abbam et al., 2018;</ref><ref type="bibr" target="#b12">Atiah et al., 2019)</ref>, which spontaneously affects rural livelihoods (Fosu- <ref type="bibr" target="#b28">Mensah et al., 2012)</ref>. A mining landscape was chosen from each of the two forest agro-ecological zones to compare household perspectives. These agro-ecological zones are defined by the climate and soil characteristics <ref type="bibr" target="#b11">(Asravor et al., 2019)</ref>. The Chirano landscape falls within the deciduous forest zone, which is relatively productive for agriculture compared to the Nzema landscape located within the rainforest zone where the soils are highly leached <ref type="bibr" target="#b60">(Opoku-Ankomah and Forson, 1998;</ref><ref type="bibr" target="#b83">WRC, 2009)</ref>. Apart from mineral and forest resource extractions, cash crop farming such as of cacao, rubber and oil palm plantations are other economic activities in the landscapes <ref type="bibr" target="#b5">(Amisigo et al., 2015;</ref><ref type="bibr" target="#b83">WRC, 2009)</ref>. Additionally, the two mining landscapes selected depict extractive operations at the fringes of forest and water resources, which are major livelihood resources in rural communities. Each mining landscape host at least one large-scale mining as well as artisanal and small scale mining firms intermingling communities and their livelihood resources. Communities selected include communities whose resources (land, water, farmland, well-being etc.) have been affected directly or indirectly by the activities of extractivism. Some are recognised by statute as affected communities if they own part of a concession whilst others are not recognised irrespective of their proximity to the extractive operations.</p><p>Administratively, the landscapes are located in the Western region and the Western North region of Ghana (Fig. <ref type="figure" target="#fig_0">2</ref>). The latter region was carved out of the former in December 2018. The Chirano mining Fig. <ref type="figure">1</ref>. The Double Exposure Framework (adapted from <ref type="bibr" target="#b40">Leichenko and O'Brien 2008)</ref>. The blue lines depict the response strategies anticipated to influence the contextual environment of the exposed system towards positive resilience, while the red lines depict negative outcome pathways that are counterproductive to extractivism and global environmental changes. landscape, falls within the Sefwi Wiawso and Bibiani-Ahwiaso-Bekwai municipalities in the Western-North region. The Nzema mining landscape falls within the Nzema-East municipality and the Ellembelle district in the Western region. Generally, the Nzema and Sefwi people who dominate the Nzema and Chirano landscapes respectively have similar cultural characteristics as they belong to the same Akan ethnic group <ref type="bibr" target="#b9">(Antwi et al., 2020)</ref>. Rural settlements dominate both landscapes <ref type="bibr" target="#b83">(WRC, 2009)</ref>. The Nzema landscape is also located within the Greater Amanzule Wetland Conservation Area, whilst the Chirano mining landscape is located within the Tano-Suraw Extension Forest Reserve where both minerals and extractivism is actively on going. Major livelihood activities in the landscapes consist mainly of petty trading, rain-fed farming, and non-timber forest products (NFTPs) as well as artisanal fishing <ref type="bibr">(Ahenkan and</ref><ref type="bibr">Boon, 2010, 2011)</ref>. In addition, the oil and gas production activities along the shores in the Nzema mining landscape generate livelihood dynamics that can affect households.</p><p>Across the two landscapes, the rainfall pattern is bimodal, i.e., from </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Sampling methodology, primary data collection and analysis</head><p>A stratified random sampling method was employed in conducting the study. First, a transect was laid from the nearest large-scale mining site towards the public road within each landscape. The communities along the transect were stratified into catchment communities (statutorily recognised traditional owners of extractives concessions), resettled communities (statutorily recognised traditional owners of concessions whose original settlement have been relocated to make way for extractive operations) and satellite communities (not land owners but directly affected by extractive operations such as public infrastructural networks and proximity). Eight communities from the Chirano mining landscape and six communities from the Nzema mining landscape each containing one community strata along the transect were selected. The difference in number is mainly based willingness of communities along the transect to participate due to onset of the pandemic.  Secondly, a simple random method was then used to survey households within each community strata. Household heads refers to the main breadwinner of the housing unit.</p><p>The survey instrument, structured into three sections, was used to elicit information from the households. The first section collected information on the socio-demographic background of respondents. The second section ascertained their experiences with the effect of increasing variabilities under the local climatic conditions on livelihood sources as well as the effects of extractives' operational activities in proximity to their livelihood sources. The third section qualitatively inquired their perspective on the adaptation measures necessary to enhance resilience in the mining landscape. Community schoolteachers who later supported as enumerators during the survey translated the survey instrument into the Sefwi and Nzema dialect. The data collection was conducted between April and October 2020.</p><p>Data collected were entered and cleaned with Microsoft Excel and imported to STATA (version 16) for further analysis. Descriptive statistics were used to analyse households' perspectives on climatic variability and extractivism effects on their livelihood sources, whereas the Chi square test was used to test for differences in perceptions amongst households. A logistic regression model was used to identify the contextual factors that influence respondents' perception of the double exposure climate variability and extractivism effects.</p><p>The logit model was adopted due to the dichotomous nature of the decision variables, that is whether respondents perceived climate variability to affect their livelihood or otherwise. The model considers the relationship between a binary dependant variable and a set of independent variables, whether binary or continuous <ref type="bibr" target="#b63">(Peng et al., 2002)</ref>. The logistic model for 'n' independent variables (x 1 ,x 2 ,x 3 ….., x n ) is given by</p><formula xml:id="formula_0">Logit P (x) = α + ∑ n i=1 βixi</formula><p>where Exp (βi) shows the odd ratio for a respondent having characteristics i versus not having, while βi is the regression coefficient, and α is a constant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Demographic characteristics of case study households</head><p>Table <ref type="table" target="#tab_0">1</ref> provides a summary description of the households who participated in the study. In total, 611 households were surveyed. Based on the agro-ecological zones, 43% of respondents were located in the rainforest and 57% in the deciduous forest zones, respectively. Regarding the type of community, 35% of the respondents were located in mineral extractive communities, 24% in mineral and forestry extractive communities, 15% in petroleum extractive communities and 25% in non-extractive communities.</p><p>A substantial number of respondents (83%) who identified themselves, as the household heads were natives of their communities. The average household size was five with the majority of household heads having at least basic education, while 29% being illiterate. In terms of gender, 55% were males and 45% were females. The average age was 45 (± 11). In addition, 76% of the respondents were married while the remaining were either divorced, widowed or not married. Almost all household heads (94%) had some form of economic activity in terms of their working status. Farming was the major occupation (60%), while 15% reported to be self-employed for instance as hairdressers, tailors, repairs men etc. Eleven percent (11%) were petty traders, 6% mining employees and 5% were formal employees such as teachers and health workers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Double exposure of extractivism and climate variability on rural livelihoods</head><p>The general perspectives on the extent to which the effects of minerals, petroleum and forestry extractivism, coupled with changing climatic patterns, are perceived to affect livelihood sources within the NB: Likert Scale with 1 = low, 2 = no effect, and 3 = high.</p><p>mining landscapes of southwestern Ghana (Table <ref type="table" target="#tab_1">2</ref>). Majority of household heads perceive that their livelihood sources are exposed to both extractivism (92%) and climatic variability (92%) effects. Moreover, the majority perceive a high extent of double exposure of their livelihoods, thus corroborating the double exposure of their livelihoods to the two changing forces.</p><p>In addition, households' perspectives were compared between the Nzema and Chirano mining landscapes (Fig. <ref type="figure" target="#fig_3">4</ref>). Majority of respondents (93%) from the Nzema mining landscape perceived the high effect of climate variability on their livelihood sources just as extractivism (96%). Within the Chirano mining landscape, 89% of respondents perceived their livelihood sources exposed to climate variability effects just as extractivism effects (71%).</p><p>Moreover, the Chi square test result indicates no significant difference in respondents' perception on climate variability effect on livelihood sources (p = 0.124), whereas significant differences existed on the perceived effect of extractivism on livelihood sources (p&lt;0.0001).</p><p>Hence, rural livelihoods in mining landscapes are perceived to be double exposed to the effect of extractivism and changing climatic conditions. However, the difference in perception also underscores the fact that key factors making up the contextual environment are influencing the perspectives of household heads. Thus, contextual factors influencing households' perspectives were determined using a linear logistic regression model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Contextual factors underlining climate variability exposure on rural livelihoods</head><p>Certain socio-economic, demographic, communal, and agroecological types (Table <ref type="table" target="#tab_2">3</ref>) were significant in determining households' perspectives on the exposure to climate variability effects on their livelihoods.</p><p>More specifically, native household heads with large household size were more likely to perceive the effects of climate variability on their livelihoods. In comparison, female household heads were less likely to perceive that climate variability affects their livelihoods. Moreover, the more educated respondents were, the less likely they perceived that climate variability affects their livelihoods. Finally, household heads with primary occupations other than farming were less likely to perceive that their livelihoods were affected by increasing climatic variability. It is, however, noteworthy that the widowed, divorced and unemployed are more likely to perceive that climate variability has influence on their livelihoods although these were not statistically significant.</p><p>Respondents living in communities affected by both minerals and forestry extractivism were more likely to perceive that climate variability affects their livelihoods. In contrast, respondents from communities affected by petroleum extractivism were less likely to perceive that climate variability affects their livelihoods. Lastly, respondents located in the deciduous forest zone were more likely to perceive that climate variability affects their livelihoods. Literature corroborates the significance of NTFPs as livelihood strategies in the deciduous forest within the Chirano mining landscape <ref type="bibr" target="#b2">(Ahenkan and Boon, 2010)</ref>. Since ecosystem resources are susceptible to climate changes <ref type="bibr" target="#b49">(Millar et al., 2007)</ref>, it is no surprise that households attest the influence of climate  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Contextual factors underlining livelihood exposure to extractivism</head><p>Similarly, seven out of the ten socio-demographic and economic characteristics making up the contextual environment of the households seem to influences the perceived exposure of a household's livelihood sources to extractivism effect as presented in Table <ref type="table" target="#tab_3">4</ref>.</p><p>Equally, respondents who are natives of their communities with large household sizes were more likely to perceive that extractive activities affect their livelihoods. However, adult respondents were less likely to perceive that extractivism affects their livelihoods. In a similar manner, female respondents were less likely to perceive that extractivism affects their livelihoods compared to males. Respondents with formal employment were also less likely to perceive that extractivism affects their livelihoods, whereas the widowed and divorced respondents were more likely to perceive that extractivism affects their livelihoods although not statistically significant.</p><p>On the contrary, respondents from communities affected by mineral extractives were more likely to perceive that extractivism affects their livelihoods whilst communities affected by both minerals and forestry extractives are less likely to perceive that extractivism affects their livelihoods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">Response strategies to enhance livelihood resilience to double exposure</head><p>The perceived strategies of households' needed to influence the contextual environment of mining landscapes are summarised qualitatively in Table <ref type="table" target="#tab_4">5</ref>. Households were determined to improve their adaptive capacity to reduce exposure through both individual and communal actions.</p><p>For instance, most households being farmers propose to engage in irrigated farming practises by constructing small dams being demanded from national and local governments, while others propose to improve farm management practises such as planting more disease and pest resistant crop varieties, adjust planting seasons and type of crops, practice crop rotation and apply fertiliser, amongst others. However, it is noteworthy certain strategies such as farming near water bodies, not knowing what to do or lacking support reveals the risk of households being vulnerable to double exposure. This may be due to in sufficient access to information on sustainable agricultural practises. Some households also plan to diversify their income sources by engaging in other activities such as labour jobs, harvesting crops with other households to get surplus as well as trading. In addition, some households anticipate other Outcome pathways such as flooding and related human security and health implications. As an example, some respondents proposed to build walls around their houses to prevent floodwater from entering their houses and to clean gutters. They also indulge the national government and non-governmental organisations to improve social amenities in the respective communities such as the drainage systems and health facilities as well as providing capacity building in terms of extension and awareness creation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Conclusion</head><p>Rural livelihoods in mining landscapes of southwestern Ghana are exposed to the effects of the interacting changes, but the exposure and outcome are dependant on the contextual factors of the household and the communities. The focus of the study was to identify contextual  factors at household level that influence their perspectives of the double exposure on livelihood resilience. This is necessary to identify vulnerability indicators such as being a widow, divorced or unemployed to whom policy can be directed to in contrast to the common assumption that livelihoods in mining landscapes are resilient. In addition, the study examined the anticipatory response strategies that can cushion adaptive capacity of households against double exposure of extractivism and climate variability effects.</p><p>The study provides an empirical perspective on the simultaneous effects of extractivism and climate variability on livelihoods as perceived by households in mineral/ petroleum/ forestry affected communities, dubbed resource-fringing, and non-extractive communities selected within southwestern Ghana. Both Nzema and Chirano mining landscapes belong to the forest zone of Ghana with almost similar biophysical characteristics, which probably confirm the similarities in household perception on climate variability effect. This perception is affirmed in other studies on the climate-sensitive nature of rural livelihoods in the forest zone of Ghana <ref type="bibr" target="#b8">(Antwi-Agyei et al., 2014;</ref><ref type="bibr" target="#b18">Boon and Ahenkan, 2012;</ref><ref type="bibr" target="#b24">Dumenu and Obeng, 2016;</ref><ref type="bibr" target="#b28">Fosu-Mensah et al., 2012;</ref><ref type="bibr" target="#b43">Limantol et al., 2016;</ref><ref type="bibr" target="#b66">Sani and Chalchisa, 2016)</ref>. However, there were differences in perception amongst households on the effect of extractivism exposure. This may be differentiated by the contextual factors such as socio-economic and household characteristics like household size, gender, age, education, type of primary occupation of household heads and being a native of communities as well as the type of extractivism in a community. It is particularly noteworthy that female household heads are less likely to perceive that climate variability and extractivism exposures affect their livelihoods. This could be so since rural women have the cultural liberty to engage in petty trading such as direct sales in the market or door-to-door sales in rural communities irrespective of age, thus diversifying their income sources compared to men hence feeling empowered and resilient <ref type="bibr" target="#b57">(Okyireh and Nkansah Simpeh, 2006)</ref>. Nevertheless, a more detailed gender related anthropological studies would be needed to ascertain these observations. However, being a widow, divorced and unemployed were not statistically significant determinants of respondents' perceptions, but such groups are nonetheless more likely to perceive that climate variability and extractivism affect livelihoods. This observation reveals the existence of vulnerable groups within resource-fringing communities burdened by double exposure, irrespective of the notion of self-reliance in mining landscapes.</p><p>In addition, households were free to propose adaptation measures without coaching which enabled them to independently articulate as possible. Some measures such as "farming near water bodies'' and "not directly affected" reveal poor environmental awareness at the community level and lack of information on sustainable agricultural practises like climate-smart agriculture and sustainable intensification programs that are already promoted in the savannah and transitional zones of Ghana <ref type="bibr" target="#b4">(Alare et al., 2018;</ref><ref type="bibr" target="#b86">Zakaria et al., 2020)</ref>. Hence, it is imperative for policy-makers to consider mining landscapes to contain equally vulnerable groups who need to be considered in livelihood empowerment and climate adaptation programs.</p><p>It is also noteworthy that resource-fringing communities expect the national government and NGOs to support community development by improving infrastructural and health care systems; to reduce flood risk and health related implications apart from economic resources. For instance, community members are willing to undertake communal activities to improve drainage systems in anticipation of flooding and use insecticides to control pest infestation. Flooding is already anticipated in mining landscapes that are spatially characterised by various impoundments and river diversions constructed in the different mining sites <ref type="bibr" target="#b61">(Osei et al., 2021)</ref> thus affirming the relevance of households perceived response strategies. In addition, such communal groups intending to promote community resiliency need to be facilitated as a means to promote community level adaptation.</p><p>In summary, this study establishes the usefulness of the double exposure framework to contextualise the interactive effects of climate variability and extractivism on other resource systems in mining landscapes for which proactive responses are imperative.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Map showing selected communities within southwestern mining landscapes.</figDesc><graphic coords="4,129.66,55.42,335.93,254.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3b .</head><label>3b</label><figDesc>Fig. 3b. Trend in rainfall variability across Sefwi Bekwai and Axim weather stations (1976-2018); SDII= Simple daily intensity index (mm), R10m=Heavy rainfall days (day). (Source; analysed by author).</figDesc><graphic coords="5,117.52,55.40,360.21,249.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3c .</head><label>3c</label><figDesc>Fig. 3c. Trend in temperature variability across Sefwi Bekwai and Axim weather stations (1976-2018): TNX=Monthly maximum value of daily minimum temperature ( • C), TNN=Monthly minimum value of daily minimum temperature ( • C). (Source; analysed by author).</figDesc><graphic coords="5,117.64,352.30,360.00,246.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Perceived effects of climatic variability and extractivism on livelihood resilience, (source: survey data).</figDesc><graphic coords="7,117.64,509.56,360.00,216.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="3,117.64,488.19,360.00,218.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Summary descriptive of case study households.</figDesc><table><row><cell>Variable</cell><cell>Explanation of variables</cell><cell>Mean</cell><cell>Standard</cell></row><row><cell></cell><cell></cell><cell></cell><cell>deviation</cell></row><row><cell>Age</cell><cell>In years</cell><cell>44.86</cell><cell>10.72</cell></row><row><cell>Female</cell><cell>Dummy</cell><cell>0.45</cell><cell>0.50</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Education</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No school</cell><cell>Dummy</cell><cell>0.29</cell><cell>0.45</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Primary</cell><cell>Dummy</cell><cell>0.11</cell><cell>0.32</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Junior high school</cell><cell>Dummy</cell><cell>0.29</cell><cell>0.45</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Senior high &amp; vocational</cell><cell>Dummy</cell><cell>0.22</cell><cell>0.42</cell></row><row><cell>school</cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Tertiary</cell><cell>Dummy</cell><cell>0.08</cell><cell>0.27</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Marital status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Married</cell><cell>Dummy</cell><cell>0.76</cell><cell>0.43</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Divorced</cell><cell>Dummy (1=yes,</cell><cell>0.07</cell><cell>0.26</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Widow</cell><cell>Dummy (1=yes,</cell><cell>0.09</cell><cell>0.28</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Single</cell><cell>Dummy (1=yes,</cell><cell>0.08</cell><cell>0.28</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Working status</cell><cell>Dummy</cell><cell>0.94</cell><cell>0.27</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Primary occupation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Farming</cell><cell>Dummy (1=yes,</cell><cell>0.60</cell><cell>0.49</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Mine worker</cell><cell>Dummy (1=yes,</cell><cell>0.06</cell><cell>0.24</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Self-employed</cell><cell>Dummy (1=yes,</cell><cell>0.15</cell><cell>0.36</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Petty trader</cell><cell>Dummy (1=yes,</cell><cell>0.11</cell><cell>0.31</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Formal sector</cell><cell>Dummy (1=yes,</cell><cell>0.07</cell><cell>0.25</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell cols="2">Type of extractivism fringing communities</cell><cell></cell><cell></cell></row><row><cell>Mineral extractivism</cell><cell>Dummy (1=yes,</cell><cell>0.35</cell><cell>0.48</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Mineral &amp; forestry</cell><cell>Dummy (1=yes,</cell><cell>0.24</cell><cell>0.43</cell></row><row><cell>extractivism</cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Petroleum extractivism</cell><cell>Dummy (1=yes,</cell><cell>0.15</cell><cell>0.36</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Non-extractives</cell><cell>Dummy (1=yes,</cell><cell>0.25</cell><cell>0.43</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Household size</cell><cell>count</cell><cell>4.80</cell><cell>4.29</cell></row><row><cell>Natives of community</cell><cell>Dummy (1=yes,</cell><cell>0.83</cell><cell>0.38</cell></row><row><cell></cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Agroecological zone</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Deciduous forest zone</cell><cell>Dummy</cell><cell>0.57</cell><cell>0.49</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Rainforest zone</cell><cell>Dummy</cell><cell>0.43</cell><cell>0.49</cell></row><row><cell></cell><cell>(1=yes,0=otherwise)</cell><cell></cell><cell></cell></row><row><cell cols="2">Number of households, valid N = 611</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Perceived effect of extractivism and climate variability on livelihood sources.</figDesc><table><row><cell>Variable</cell><cell>Explanation of</cell><cell>Mean</cell><cell>Standard</cell></row><row><cell></cell><cell>Variables</cell><cell></cell><cell>deviation</cell></row><row><cell>Extractivism affect livelihood</cell><cell>Dummy (1=yes,</cell><cell>0.92</cell><cell>0.27</cell></row><row><cell>sources</cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Extent of extractive activities</cell><cell>Likert Scale</cell><cell>3.0</cell><cell>0.82</cell></row><row><cell>effect on livelihoods</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Increasing climate variability</cell><cell>Dummy (1=yes,</cell><cell>0.92</cell><cell>0.28</cell></row><row><cell>affect livelihood sources</cell><cell>0=otherwise)</cell><cell></cell><cell></cell></row><row><cell>Extent of climate variability</cell><cell>Likert Scale</cell><cell>3.0</cell><cell>0.32</cell></row><row><cell>effect on livelihoods</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of households, N = 611</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Perceived effect of climate variability on livelihoods in mining landscapes.</figDesc><table><row><cell>Covariates</cell><cell>Coefficient</cell><cell>Odd ratio</cell></row><row><cell></cell><cell>Estimate (Standard</cell><cell>Estimate (Standard</cell></row><row><cell></cell><cell>error)</cell><cell>error)</cell></row><row><cell>Household size</cell><cell>0.17(0.06)**</cell><cell>1.18(0.07)**</cell></row><row><cell>Age</cell><cell>-0.03(0.02)</cell><cell>0.97(0.020)</cell></row><row><cell>Female</cell><cell>-0.91(0.45)*</cell><cell>0.40(0.18)**</cell></row><row><cell>Primary Education</cell><cell>0.19(0.73)</cell><cell>1.21(0.88)</cell></row><row><cell>Senior High Education</cell><cell>-0.25(0.42)</cell><cell>0.78(0.33)</cell></row><row><cell>Tertiary Education</cell><cell>-0.92(0.51)*</cell><cell>0.40(0.22)*</cell></row><row><cell>Married</cell><cell>-0.26(0.56)</cell><cell>0.77(0.43)</cell></row><row><cell>Divorce</cell><cell>0.30(0.84)</cell><cell>1.35(1.13)</cell></row><row><cell>Widow/Widower</cell><cell>0.38(0.89)</cell><cell>1.46(1.31)</cell></row><row><cell>Working Status</cell><cell>0.37(0.57)</cell><cell>1.44(0.82)</cell></row><row><cell>Mining Worker</cell><cell>-1.48(0.61)**</cell><cell>0.23(0.14)**</cell></row><row><cell>Self-Employed</cell><cell>-1.30(0.44)**</cell><cell>0.27(0.12)**</cell></row><row><cell>Formal Sector</cell><cell>-1.50(0.50)**</cell><cell>0.22(0.11)**</cell></row><row><cell>Native of Community</cell><cell>0.86(0.44)*</cell><cell>2.36(1.05)*</cell></row><row><cell>Minerals &amp; Forestry</cell><cell>15.88(0.87)***</cell><cell>1.27(1.11)***</cell></row><row><cell>Extractivism</cell><cell></cell><cell></cell></row><row><cell>Minerals Extractivism</cell><cell>-0.31(0.88)</cell><cell>0.74 (0.65)</cell></row><row><cell>Petroleum Extractivism</cell><cell>-1.87(0.79)**</cell><cell>0.16(0.12)**</cell></row><row><cell>Deciduous forest</cell><cell>16.21(0.47)***</cell><cell>1.91(5129)***</cell></row><row><cell>_cons</cell><cell>3.52(1.65)**</cell><cell>33.67(55.72)**</cell></row><row><cell>Number of Observations X 2 Pseudo R 2</cell><cell>611 4034.37*** 0.32</cell><cell>611 4034.37*** 0.32</cell></row></table><note><p>* Significant at 1, 5 and 10% probability level, respectively. Standard errors in parentheses ** .. *** .. variability exposure on their livelihood sources.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Perceived effect of extractivism on livelihoods in mining landscape.</figDesc><table><row><cell>Covariates</cell><cell>Coefficient</cell><cell>Odd ratio</cell></row><row><cell></cell><cell>Estimate (Standard</cell><cell>Estimate (Standard</cell></row><row><cell></cell><cell>error)</cell><cell>error)</cell></row><row><cell>Household size</cell><cell>0.14(0.07)**</cell><cell>1.15(0.08)**</cell></row><row><cell>Age</cell><cell>-0.05(0.02)**</cell><cell>0.95(0.02)**</cell></row><row><cell>Female</cell><cell>-0.87(0.39)**</cell><cell>0.42(0.17)**</cell></row><row><cell>Primary Education</cell><cell>-0.63(0.48)</cell><cell>0.53(0.25)</cell></row><row><cell>Senior High Education</cell><cell>-0.39(0.49)</cell><cell>0.67(0.33)</cell></row><row><cell>Tertiary Education</cell><cell>-0.12(0.94)</cell><cell>0.89(0.83)</cell></row><row><cell>Married</cell><cell>-0.16(0.69)</cell><cell>0.86 (0.59)</cell></row><row><cell>Divorce</cell><cell>1.67(1.19)</cell><cell>5.31(6.30)</cell></row><row><cell>Widow/Widower</cell><cell>0.07(0.88)</cell><cell>1.08(0.94)</cell></row><row><cell>Working Status</cell><cell>-0.16(0.52)</cell><cell>0.85(0.44)</cell></row><row><cell>Mining Worker</cell><cell>0.87(1.1)</cell><cell>2.39(2.63)</cell></row><row><cell>Self-Employed</cell><cell>-0.67(0.51)</cell><cell>0.51(0.26)</cell></row><row><cell>Formal Sector</cell><cell>-2.11(0.76)**</cell><cell>0.12(0.09)**</cell></row><row><cell>Native of Community</cell><cell>1.20(0.39)**</cell><cell>3.33(1.29)**</cell></row><row><cell>Minerals &amp; Forestry</cell><cell>-3.27(1.07)**</cell><cell>0.04(0.04)**</cell></row><row><cell>Extractivism</cell><cell></cell><cell></cell></row><row><cell>Mineral Extractivism</cell><cell>1.69(0.73)**</cell><cell>5.44(3.97)**</cell></row><row><cell>Petroleum Extractivism</cell><cell>-0.03(0.61)</cell><cell>0.97(0.58)</cell></row><row><cell>Deciduous Forest</cell><cell>3.53(1.20)**</cell><cell>34.07(40.97)**</cell></row><row><cell>Cons</cell><cell>3.52(1.53)**</cell><cell>33.72(51.47)**</cell></row><row><cell>Number of Observations X 2 Pseudo R 2</cell><cell>611 75.69*** 0.27</cell><cell>611 75.69*** 0.268</cell></row></table><note><p>*Significant at 1, 5 and 10% probability level, respectively. Standard errors in parentheses ** .. *** ..</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Adaptation strategies to enhance livelihood resilience in mining landscapes (source: survey data).</figDesc><table><row><cell>Anticipatory Response</cell><cell>Frequency</cell><cell>Examples of measures</cell></row><row><cell>strategies</cell><cell>(strategies</cell><cell>mentioned</cell></row><row><cell></cell><cell>repeated)</cell><cell></cell></row><row><cell>Farm management and</cell><cell>672</cell><cell>I will construct small dams on</cell></row><row><cell>technology</cell><cell></cell><cell>farms, farming closer to river/</cell></row><row><cell></cell><cell></cell><cell>stream, irrigation for farming,</cell></row><row><cell></cell><cell></cell><cell>planting other crops that could</cell></row><row><cell></cell><cell></cell><cell>withstand the season conditions,</cell></row><row><cell></cell><cell></cell><cell>application of fertilizers, organic</cell></row><row><cell></cell><cell></cell><cell>manure and other</cell></row><row><cell></cell><cell></cell><cell>agrochemicals, crop rotation,</cell></row><row><cell></cell><cell></cell><cell>adjusting to the start of rain,</cell></row><row><cell></cell><cell></cell><cell>warehouse construction</cell></row><row><cell>Income diversification</cell><cell>197</cell><cell>Engage in other activities aside</cell></row><row><cell></cell><cell></cell><cell>farming, engage in some labourer</cell></row><row><cell></cell><cell></cell><cell>work for survival, harvesting</cell></row><row><cell></cell><cell></cell><cell>crops, trading, engaging in other</cell></row><row><cell></cell><cell></cell><cell>activities that would be suitable,</cell></row><row><cell></cell><cell></cell><cell>do construction work, drive taxi</cell></row><row><cell>Communal, Government, NGO</cell><cell>179</cell><cell>Will visit health centre in our</cell></row><row><cell>intervention in rural</cell><cell></cell><cell>communities for medical</cell></row><row><cell>infrastructure, health care</cell><cell></cell><cell>assistance, assistance from</cell></row><row><cell>services and risk reduction</cell><cell></cell><cell>government and other NGO's,</cell></row><row><cell>for the rural population</cell><cell></cell><cell>construction of drainage systems,</cell></row><row><cell></cell><cell></cell><cell>build bridges on farm ways,</cell></row><row><cell></cell><cell></cell><cell>desilting choked gutters, build</cell></row><row><cell></cell><cell></cell><cell>walls around my house, plant</cell></row><row><cell></cell><cell></cell><cell>trees around houses to control</cell></row><row><cell></cell><cell></cell><cell>flood</cell></row><row><cell>Knowledge management,</cell><cell>99</cell><cell>I will educate the public on flood</cell></row><row><cell>networks, and governance</cell><cell></cell><cell>and erosion control, I would seek</cell></row><row><cell></cell><cell></cell><cell>advice from extension officers, I</cell></row><row><cell></cell><cell></cell><cell>will listen to the weather forecast</cell></row><row><cell></cell><cell></cell><cell>to plan my farming activities,</cell></row><row><cell></cell><cell></cell><cell>education on climate change,</cell></row><row><cell></cell><cell></cell><cell>access to weather forecast</cell></row><row><cell>Migration</cell><cell>90</cell><cell>Relocating to stay with other</cell></row><row><cell></cell><cell></cell><cell>family members at where it is</cell></row><row><cell></cell><cell></cell><cell>safe, relocate to the city</cell></row><row><cell>Barriers to adaptation</cell><cell>289</cell><cell>No assistance or got no support</cell></row><row><cell></cell><cell></cell><cell>/not financially equipped/ no</cell></row><row><cell></cell><cell></cell><cell>idea on any relevant measure to</cell></row><row><cell></cell><cell></cell><cell>take/ lack of technical</cell></row><row><cell></cell><cell></cell><cell>knowledge</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p><rs type="person">Foundation Fiat Panis</rs>, the <rs type="funder">German Catholic Academic Exchange Service (KAAD)</rs> and the <rs type="funder">Center for Development Research (ZEF)</rs>, <rs type="funder">University of Bonn</rs> supported the study.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abbam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Padmadas</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/2017EA000327</idno>
+		<ptr target="https://doi.org/10.1002/2017EA000327" />
+	</analytic>
+	<monogr>
+		<title level="m">Spatiotemporal variations in rainfall and temperature in Ghana over the twentieth century</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="120" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Extractivism and neoextractism: two sides of the same curse</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acosta</surname></persName>
+		</author>
+		<idno type="DOI">10.20446/jep-2414-3197-28-3-74.Issue</idno>
+		<ptr target="https://doi.org/10.20446/jep-2414-3197-28-3-74.Issue" />
+	</analytic>
+	<monogr>
+		<title level="j">Beyond Dev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">61</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Commercialization of non-timber forest products in Ghana: processing, packaging and marketing</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Food Agric. Environ</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="962" to="969" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Non-timber forest products farming and empowerment of rural women in Ghana</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boon</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-011-9295-7</idno>
+		<ptr target="https://doi.org/10.1007/s10668-011-9295-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Dev. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="863" to="878" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Climate smart agriculture practices in semiarid northern Ghana: implications for sustainable livelihoods</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Alare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Owusu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Owusu</surname></persName>
+		</author>
+		<idno type="DOI">10.5539/jsd.v11n5p57</idno>
+		<ptr target="https://doi.org/10.5539/jsd.v11n5p57" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">57</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Modeling impact of climate change on water resources and agriculture demand in the Volta Basin and other basin systems in Ghana</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Amisigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mccluskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Swanson</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su7066957</idno>
+		<ptr target="https://doi.org/10.3390/su7066957" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="6957" to="6975" />
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Switzerland)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Corruption, natural resources and development: from resource curse to political ecology. Corruption, Natural Resources and Development: From Resource Curse to Political Ecology</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Le Billon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Edward Elgar</publisher>
+			<biblScope unit="page" from="1" to="178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Challenges of corporate social responsibility (CSR) in domestic settings: an exploration of mining regulation vis-à-vis CSR in Ghana</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andrews</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2015.11.001</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2015.11.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">40</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Livelihood adaptations to climate variability: insights from farming households in Ghana</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Antwi-Agyei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Stringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Dougill</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10113-014-0597-9</idno>
+		<ptr target="https://doi.org/10.1007/s10113-014-0597-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Reg. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1615" to="1626" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Understanding wisdom in the old testament through its akan (Ghana) parallels: linkages and disconnections*</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K E</forename><surname>Antwi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Adjei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Asuming</surname></persName>
+		</author>
+		<idno type="DOI">10.17159/2312-3621/2020</idno>
+		<ptr target="https://doi.org/10.17159/2312-3621/2020" />
+	</analytic>
+	<monogr>
+		<title level="j">Old Testament Essays</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="408" to="427" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Dependence on forest resources and tropical deforestation in Ghana</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Appiah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Blay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Damnyag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Dwomoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pappinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Luukkanen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-007-9125-0</idno>
+		<ptr target="https://doi.org/10.1007/s10668-007-9125-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Dev. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="471" to="487" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Evaluating the environmentaltechnology gaps of rice farms in distinct agro-ecological zones of Ghana</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Asravor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Wiredu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Siddig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Onumah</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su11072072</idno>
+		<ptr target="https://doi.org/10.3390/su11072072" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2019">2019</date>
+			<pubPlace>Switzerland)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The spatio-temporal variability of rainfall over the agro-ecological zones of Ghana</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Atiah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Amekudzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quansah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Preko</surname></persName>
+		</author>
+		<idno type="DOI">10.4236/acs.2019.93034</idno>
+		<ptr target="https://doi.org/10.4236/acs.2019.93034" />
+	</analytic>
+	<monogr>
+		<title level="j">Atmos. Clim. Sci</title>
+		<imprint>
+			<biblScope unit="volume">09</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page" from="527" to="544" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The &quot;new extractivism&quot; in Ghana: a critical review of its development prospects</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ayelazuno</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2014.04.008</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2014.04.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="292" to="302" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Social responsibility agreements in ghana&apos;s forestry sector</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ayine</surname></persName>
+		</author>
+		<ptr target="http://www.csr-weltweit.de/uploads/tx_jpdownloads/Dominic_M_Ayine_01.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Dev. Legal Tools Citiz. Empower. Ser. IIED Lond</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mining, risk and climate resilience in the &quot;other&quot; pacific: Latin American lessons for the South Pacific</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rogan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/apv.12098</idno>
+		<ptr target="https://doi.org/10.1111/apv.12098" />
+	</analytic>
+	<monogr>
+		<title level="j">Asia Pac. Viewp</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="207" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A review of the geology and the petroleum potential of the cretaceous tano Basin of Ghana</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Bempong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Ozumba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hotor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Takyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Nwanjide</surname></persName>
+		</author>
+		<idno type="DOI">10.35248/2157-7463.19.10.395</idno>
+		<ptr target="https://doi.org/10.35248/2157-7463.19.10.395" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Pet. Environ. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">1000395</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Climatic zoning of Ghana using selected meteorological variables for the period 1976-2018</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bessah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Amponsah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Ansah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Afrifa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yahaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Wemegah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Amekudzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Agyare</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/met.2049</idno>
+		<ptr target="https://doi.org/10.1002/met.2049" />
+	</analytic>
+	<monogr>
+		<title level="j">Meteorol. Appl</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Assessing climate change impacts on ecosystem services and livelihoods in Ghana: case study of communities around sui forest reserve</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ahenkan</surname></persName>
+		</author>
+		<idno type="DOI">10.4172/2157-7625.s3-001</idno>
+		<ptr target="https://doi.org/10.4172/2157-7625.s3-001" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Ecosyst. Ecogr</title>
+		<imprint>
+			<biblScope unit="volume">03</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Motivations for providing CSR-mediated initiatives in mining communities of Ghana: a multiple-case study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Boso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Afrane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K B</forename><surname>Inkoom</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40991-017-0018-8</idno>
+		<ptr target="https://doi.org/10.1186/s40991-017-0018-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Corp. Soc. Responsib</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Community development agrrements in mining projects</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Bruckner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Climate change adaptation in rural Ghana: indigenous perceptions and strategies</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Cobbinah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Anane</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17565529.2015.1034228</idno>
+		<ptr target="https://doi.org/10.1080/17565529.2015.1034228" />
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Dev</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="178" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Government of Ghana, Ministry of Finance</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Act 815</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Extractive industries, livelihoods and natural resource competition: mapping overlapping claims in Peru and Ghana</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Millones</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apgeog.2014.05.003</idno>
+		<ptr target="https://doi.org/10.1016/j.apgeog.2014.05.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="250" to="261" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Climate change and rural communities in Ghana: social vulnerability, impacts, adaptations and policy implications</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Dumenu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Obeng</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsci.2015.10.010</idno>
+		<ptr target="https://doi.org/10.1016/j.envsci.2015.10.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Policy</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="208" to="217" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Freeman</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203006214</idno>
+		<ptr target="https://doi.org/10.4324/9780203006214" />
+		<title level="m">Rural livelihoods and poverty reduction policies. Rural Livelihoods Poverty Reduct. Policies</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Inventory analysis of the timber industry in Ghana</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Eshun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Potting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Leemans</surname></persName>
+		</author>
+		<idno>11367- 010-0207-0</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Life Cycle Assess</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="715" to="725" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Mineral Development Fund Act</title>
+		<imprint>
+			<date type="published" when="2016">2016 Act 912. 2016</date>
+			<biblScope unit="volume">912</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Farmers&apos; perception and adaptation to climate change: a case study of Sekyedumase district in Ghana</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Y</forename><surname>Fosu-Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L G</forename><surname>Vlek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Maccarthy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10668-012-9339-7</idno>
+		<ptr target="https://doi.org/10.1007/s10668-012-9339-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Dev. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="495" to="505" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Linkages between vulnerability, resilience, and adaptive capacity</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gallopin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2006.02.004</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2006.02.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="293" to="303" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">From enclave to linkage economies? A review of the literature on linkages between extractive multinational corporations and local industry in Africa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hansen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Harvesting mineral riches: 1000 years of gold mining in Ghana</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0301-4207(03)00002-3</idno>
+		<ptr target="https://doi.org/10.1016/S0301-4207(03)00002-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="13" to="26" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The environmental and socioeconomic performance of multinational mining companies in the developing world economy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haselip</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14041040410027318</idno>
+		<ptr target="https://doi.org/10.1080/14041040410027318" />
+	</analytic>
+	<monogr>
+		<title level="j">Miner. Energy</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="25" to="47" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Structural adjustment in Ghana: assessing the impacts of miningsector reform</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hilson</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/aft.2004.51.2.52</idno>
+		<ptr target="https://doi.org/10.2979/aft.2004.51.2.52" />
+	</analytic>
+	<monogr>
+		<title level="j">Afr. Today</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="53" to="77" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Climate change 2014: synthesis report. contribution of working groups i, ii and iii to the fifth assessment report of the intergovernmental panel on climate change</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/CBO9781139177245.003</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Intergovemental Panel on Climate Change</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">9781107025</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jakku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Scientific</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lynam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Society</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>What is adaptive capacity</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Corporate social responsibility (CSR) in the mining industry-the risk of community dependency</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Obara</surname></persName>
+		</author>
+		<ptr target="http://www.oxfam.org.au/campaigns/mining/index.html" />
+		<imprint>
+			<date type="published" when="2008-09">2008. September, 1-23</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">International journal of food and nutrition the impact of environmental degradation by surface mining on sustainable agriculture in Ghana the future of traditional knowledge studies view project food security view project</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J K</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsui</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/publication/330982716" />
+		<imprint>
+			<date type="published" when="2018">2018. 2018</date>
+			<biblScope unit="page" from="1" to="5" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Global changes in local governance of the commons the case of the African Parks foundation engagement in Nech Sar National Park, Ethiopia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kelboro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stellmacher</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781351050982</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Commons in a Glocal World</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Haller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Breu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>De Moor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Rohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Znoj</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Mining and community development: problems and possibilities of local-level practice</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kemp</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cdj/bsp006</idno>
+		<ptr target="https://doi.org/10.1093/cdj/bsp006" />
+	</analytic>
+	<monogr>
+		<title level="j">Community Dev. J</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="198" to="218" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Environmental Change and Globalization: Double Exposures</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>O'brien</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Climate change and the global financial crisis: a case of double exposure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Soleck</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00045608.2010.497340</idno>
+		<ptr target="https://doi.org/10.1080/00045608.2010.497340" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Assoc. Am. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="963" to="972" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The private sector in climate governance: opportunities for climate compatible development through multilevel industry-government engagement</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leventon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Van Alstine</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2015.04.125</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2015.04.125" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="316" to="323" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Farmers&apos; perception and adaptation practice to climate variability and change: a case study of the Vea catchment in Ghana</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Limantol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Azabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lennartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40064-016-2433-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Springerplus</title>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Deficit and opportunities in Africa. Economic Brief, The African Development Bank Group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mafusire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anyanwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zuzuna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maurice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cheif Economist Complex</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2010-09">2010. September</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Pastoralists under pressure: double exposure to economic and environmental change in Niger</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Mckune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220388.2013.822067</idno>
+		<ptr target="https://doi.org/10.1080/00220388.2013.822067" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Dev. Stud</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1711" to="1727" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Does environmental laws and policies work? A review of Ghana&apos;S case</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Justice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Henrietta</surname></persName>
+		</author>
+		<idno type="DOI">10.30564/re.v2i3.2216</idno>
+		<ptr target="https://doi.org/10.30564/re.v2i3.2216" />
+	</analytic>
+	<monogr>
+		<title level="j">Res. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="32" to="41" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mensah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">.</forename><surname>Amoako</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kankam</surname></persName>
+		</author>
+		<ptr target="http://www.crc.uri.edu/projects_page/ghanasfmp/" />
+		<title level="m">Ankobra estuarine community climate vulnerability assessment</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Ghana&apos;s fourth national communication to the united nations framework convention on climate change (Issue May)</title>
+		<author>
+			<persName><surname>Mesti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Climate change and forests of the future: managing in the face of uncertainty</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Stephens</surname></persName>
+		</author>
+		<idno type="DOI">10.1890/06-1715.1</idno>
+		<ptr target="https://doi.org/10.1890/06-1715.1" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Appl</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2145" to="2151" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Influence of cold-dry (harmattan) season on colonic temperature and the development of pulmonary hypertension in broiler chickens, and the modulating effect of ascorbic acid</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Minka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ayo</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/oaap.s51741</idno>
+		<ptr target="https://doi.org/10.2147/oaap.s51741" />
+	</analytic>
+	<monogr>
+		<title level="j">Open Access Anim. Physiol. 1</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Strategies for managing large-scale mining sector land use conflicts in the global south</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Moomen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2016.11.010</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2016.11.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="85" to="93" />
+			<date type="published" when="2016">2017. November 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Double exposure to capitalist expansion and climatic change: a study of vulnerability on the Ghanaian coastal commodity frontier</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Delabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Menga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goodman</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/es-12815-270101</idno>
+		<ptr target="https://doi.org/10.5751/es-12815-270101" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Soc</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The local impact of mining on poverty and inequality: evidence from the commodity boom in Peru</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jamele</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2016.03.005</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2016.03.005" />
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="219" to="234" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Double exposure: assessing the impacts of climate change within the context of economic globalization</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Leichenko</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0959-3780(00)00021-2</idno>
+		<ptr target="https://doi.org/10.1016/S0959-3780(00)00021-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="221" to="232" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Mining and climate change: a review and framework for analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Odell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Frey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.exis.2017.12.004</idno>
+		<ptr target="https://doi.org/10.1016/j.exis.2017.12.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="201" to="214" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Governments, investors and local communities: analysis of a multi-actor investment contract framework</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Odumosu-Ayanu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Melb. J. Int. Law</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="473" to="514" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Exploring the Nature of Psychological Empowerment of Women Entrepreneurs in a Rural Setting</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A A</forename><surname>Okyireh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nkansah Simpeh</surname></persName>
+		</author>
+		<idno type="DOI">10.12691/jbms-4-6-2</idno>
+		<ptr target="https://doi.org/10.12691/jbms-4-6-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Management Sciences</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="138" to="141" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Oldekop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meyfroidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Bengston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blackman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davidson-Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Dinsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Fontana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gumucio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Mwampamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41477-020-00814-9</idno>
+		<ptr target="https://doi.org/10.1038/s41477-020-00814-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Plants</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1400" to="1407" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Climate change impact and adaptation pathways for forest dependent livelihood systems in Nigeria</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Onyekuru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marchant</surname></persName>
+		</author>
+		<idno type="DOI">10.5897/AJAR2013.8315</idno>
+		<ptr target="https://doi.org/10.5897/AJAR2013.8315" />
+	</analytic>
+	<monogr>
+		<title level="j">Afr. J. Agric. Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="1819" to="1832" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Assessing surface water resources of the Southwestern and Coastal basin systems of Ghana</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Opoku-Ankomah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Forson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02626669809492169</idno>
+		<ptr target="https://doi.org/10.1080/02626669809492169" />
+	</analytic>
+	<monogr>
+		<title level="j">Hydrol. Sci</title>
+		<imprint>
+			<biblScope unit="page" from="37" to="41" />
+			<date type="published" when="1998-10">1998. October 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Assessment of flood prone zones in the Tarkwa mining area of Ghana using a GIS-based approach</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Osei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ahenkorah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ewusi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Fiadonu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envc.2021.100028</idno>
+		<ptr target="https://doi.org/10.1016/j.envc.2021.100028" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Chall</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2021">2021. 100028. January</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beaumier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11027-010-9269-3</idno>
+		<ptr target="https://doi.org/10.1007/s11027-010-9269-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Mitig. Adapt. Strat. Glob. Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="368" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">An introduction to logistic regression analysis and reporting</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y J</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Ingersoll</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00220670209598786</idno>
+		<ptr target="https://doi.org/10.1080/00220670209598786" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Educ. Res</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Adaptation and development: livelihoods and climate change in Subarnabad</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pouliotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Westerhoff</surname></persName>
+		</author>
+		<idno type="DOI">10.3763/cdev.2009.0001</idno>
+		<ptr target="https://doi.org/10.3763/cdev.2009.0001" />
+	</analytic>
+	<monogr>
+		<title level="j">Bangladesh. Clim. Dev</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="46" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Climate change and mining: a foreign policy perspective</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rüttinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sharma</surname></persName>
+		</author>
+		<ptr target="www.adelphi.de" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Farmer&apos;s perception, impact and adaptation strategies to climate change among smallholder farmers in Sub-Saharan Africa: asystemic review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chalchisa</surname></persName>
+		</author>
+		<ptr target="www.iiste.org" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Resour. Dev. Manag</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Farmers&apos; perceptions of climate change impacts on ecosystem services delivery of parklands in southern Mali</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sanogo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Binam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Villamor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kalinganire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dodiomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10457-016-9933-z</idno>
+		<ptr target="https://doi.org/10.1007/s10457-016-9933-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Agrofore. Syst</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="345" to="361" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Exportation of timber in ghana: the menace of illegal logging operations. SSRN Electron</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sarfo-Mensah</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.670621</idno>
+		<ptr target="https://doi.org/10.2139/ssrn.670621" />
+		<imprint>
+			<date type="published" when="2005-02">2005. February 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Impacts of surface gold mining on land use systems in Western Ghana</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Schueler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kuemmerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schröder</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13280-011-0141-9</idno>
+		<ptr target="https://doi.org/10.1007/s13280-011-0141-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Ambio</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="528" to="539" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Livelihoods perspectives and rural development</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Scoones</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03066150902820503</idno>
+		<ptr target="https://doi.org/10.1080/03066150902820503" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Peasant Stud</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="171" to="196" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: technological, institutional and policy options</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shiferaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tesfaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kassie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Prasanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menkir</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.wace.2014.04.004</idno>
+		<ptr target="https://doi.org/10.1016/j.wace.2014.04.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Weather and Clim. Extremes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="67" to="79" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Africa&apos;s mining potential: trends, opportunities. Chall. Strat. Issue</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Signé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021-05">2021. May www.policycenter.ma</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">An indicator framework for assessing livelihood resilience in the context of social-ecological dynamics</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Speranza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rist</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2014.06.005</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2014.06.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="119" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Impact of harmattan season on human health in Keffi, nasarawa state</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sufiyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mohammed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Bello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zaharadeen</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/MTSM.MTSM</idno>
+		<ptr target="https://doi.org/10.4103/MTSM.MTSM" />
+	</analytic>
+	<monogr>
+		<title level="j">Nigeria. Matrix Sci. Med. Matrix Sci. Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="202044" to="202050" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Livelihood resilience in the face of climate change. Nat</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wrathall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bronen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cradock-Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lawless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nawrotzki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alaniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nadiruzzaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Henly-Shepard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomalla</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nclimate2431</idno>
+		<ptr target="https://doi.org/10.1038/nclimate2431" />
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Change</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="26" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Impacts of climate change on livelihood and its adaptation needs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Thakur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bajagain</surname></persName>
+		</author>
+		<idno type="DOI">10.3126/aej</idno>
+		<ptr target="https://doi.org/10.3126/aej" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Agric. Environ</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="173" to="185" />
+			<date type="published" when="2019-06">2019. June. 20i0.25067</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Livelihood resilience and adaptive capacity: tracing changes in household access to capital in central Vietnam</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Thulstrup</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2015.05.019</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2015.05.019" />
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="352" to="362" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Actors, alliances and power in negotiation: unequal distribution of mining benefits in Tarkwa&apos;s gold mining area of western Ghana</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tsuma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Adaptive capacity for climate change in Canadian rural communities</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Marzall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549830600785506</idno>
+		<ptr target="https://doi.org/10.1080/13549830600785506" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environ</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="373" to="397" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Mining, rural livelihoods and food security: a disaggregated analysis of sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wegenast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beck</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.104921</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2020.104921" />
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<date type="published" when="2020">2020. 104921</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">What is benefit sharing? Respecting indigenous rights and addressing inequities in Arctic resource projects</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/resources8020074</idno>
+		<ptr target="https://doi.org/10.3390/resources8020074" />
+	</analytic>
+	<monogr>
+		<title level="j">Resources</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Ghana : country environmental analysis</title>
+		<ptr target="https://www.sprep.org/att/IRC/eCOPIES/Countries/Vanuatu/38.pdf" />
+		<imprint>
+			<date type="published" when="2020">2020. Issue April</date>
+			<publisher>World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<author>
+			<persName><surname>Wrc</surname></persName>
+		</author>
+		<title level="m">Ankobra river basin -integrated water resources management plan. WRC (Water Resource Commission Ghana)</title>
+		<imprint>
+			<date type="published" when="2009-03">2009. March</date>
+			<biblScope unit="page" from="1" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Adaptation to Climate Change and Variability in Rural West Africa. Adaptation to Climate Change and Variability in Rural West Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Yaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hesselberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-31499-0</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-31499-0" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The incursions of extractivism: moving from dispersed places to global capitalism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ploeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shanin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03066150.2018.1559834</idno>
+		<ptr target="https://doi.org/10.1080/03066150.2018.1559834" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Peasant Stud</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="183" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Factors influencing the adoption of climate-smart agricultural technologies among rice farmers in Northern Ghana</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zakaria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Alhassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K M</forename><surname>Kuwornu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Azumah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A A</forename><surname>Derkyi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s41748-020-00146-w</idno>
+		<ptr target="https://doi.org/10.1007/s41748-020-00146-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth Syst. Environ</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="257" to="271" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

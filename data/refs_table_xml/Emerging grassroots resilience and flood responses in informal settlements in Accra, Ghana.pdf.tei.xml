@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Emerging grassroots resilience and flood responses in informal settlements in Accra, Ghana</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Clifford</forename><surname>Amoako</surname></persName>
+							<email>camoako.cap@knust.edu.gh</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Planning</orgName>
+								<orgName type="department" key="dep2">Faculty of Built Environment</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+									<country key="GH">Ghana</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Planning</orgName>
+								<orgName type="department" key="dep2">Faculty of Built Environment</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+									<country key="GH">Ghana</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ó</forename><surname>Springer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Planning</orgName>
+								<orgName type="department" key="dep2">Faculty of Built Environment</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+									<country key="GH">Ghana</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Science+business</forename><surname>Media</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Planning</orgName>
+								<orgName type="department" key="dep2">Faculty of Built Environment</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+									<country key="GH">Ghana</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Emerging grassroots resilience and flood responses in informal settlements in Accra, Ghana</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C2D872298B3416124C7C61D9A4766488</idno>
+					<idno type="DOI">10.1007/s10708-017-9807-6</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Flood vulnerability</term>
+					<term>Informal settlement</term>
+					<term>Adaptive capacity</term>
+					<term>Social resilience</term>
+					<term>Accra</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the last five decades, many informal communities in Accra, Ghana have suffered from annual flood hazards. Residents of these communities appear to have successfully resisted evictions by city authorities; survived flood hazards and poor environmental health conditions. These flood affected households continue to survive with increasing housing and population densities in the face of these annual floods. Are they becoming resilient? Have residents built adaptive capacities through learning experiences from previous flood occurrences and evictions attempts? What has produced and continued to shape their responses to flooding? What can be learned from this supposed grassroots resilience to inform flood management in urban Africa? Using case studies of three informal communities of Glefe, Agbogbloshie and Old Fadama, this paper explores the gradual and evolving adaptive capacities and social resilience to flood hazards among poor urban dwellers. The paper reveals the depth of understanding and embodied nature of flood experiences among affected slum dwellers and how these are gradually being transformed into adaptive capacities and shaping their responses. In the absence of efficient state flood interventions, there are emerging and enduring flood responses and adaptation practices shaped by residents' social networks, political alliances and sense of place. These responses translates into continuous restructuring of housing units, construction of communal drains, creation of local evacuation teams and safe havens. Urban policy contributions that can be learned from these emerging grassroots capacities for flood vulnerability management have been proposed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction to urban flood vulnerability and survival in informal settlements</head><p>Urban Flood vulnerability has been associated with informal urbanization, rapid population growth and habitation in hazardous spaces; urban poverty and socio-economic marginalisation and poor urban governance <ref type="bibr" target="#b6">(Amoako and Inkoom 2017;</ref><ref type="bibr" target="#b21">Gencer 2013)</ref>. <ref type="bibr">Gencer (2013, p. 14)</ref> attributes flood vulnerability to the rapid and uncontrolled growth of the populations of urban informal settlements in cities of the urban south through migration from their impoverished rural economies. These ''urban newcomers'' are forced to live in hazardous areas where they can get cheap accommodation in the urban environment mostly at the blind side of the so called formal planning system <ref type="bibr" target="#b4">(Amoako 2016)</ref>. These informal urban residents live in precarious conditions and are exposed to all forms of natural hazards. For instance, <ref type="bibr">Pelling (1997, pp. 205-207)</ref> showed the extent to which flood vulnerability is influenced by the lack housing and municipal infrastructure, water and sanitation, and community organization in his study of Georgetown, the capital of Guyana. He <ref type="bibr">(Pelling 1997, pp. 205-207)</ref> posited that vulnerability to flooding and flood impacts in the city have been shaped by access (or the lack of it) to ''secure housing, adequate health care and education, economic and social resources including community based organizations''. Hence flood vulnerability in slums has been wholly or in part attributed to urban informality, occupation in flood prone zones and poor access to social, economic and physical infrastructure.</p><p>The most vulnerable urban dwellers to flood hazards are the low-income households, homeless rural to urban migrants, those living in shacks and poor housing structures, and those without any form of insurance, sustainable livelihoods and access to financial services <ref type="bibr" target="#b21">(Gencer 2013)</ref>. Most of these people live in slums, squatter and other informal settlements <ref type="bibr" target="#b37">(Roy 2005;</ref><ref type="bibr" target="#b38">Roy and Alsayyad 2004)</ref> with unclear tenure and recognition by city and state governments; poor housing conditions and household infrastructure <ref type="bibr" target="#b16">(Dovey and King 2011)</ref>. The negative impacts of flood hazards on these groups of urban dwellers have been well documented in the literature <ref type="bibr" target="#b15">(Douglas et al. 2008;</ref><ref type="bibr" target="#b43">Wisner et al. 2004)</ref>. Thus the relationship between urban flood vulnerability and informal urbanization is somewhat known. What has not received much scholarly attention is the capacity of these informal communities to draw on both local, regional and international resources to cope with and build resilience to floods and other vulnerabilities they face.</p><p>Being the most urbanising and vulnerable to climate change, many African cities are challenged with informal urbanisation and floods hazards <ref type="bibr" target="#b15">(Douglas et al. 2008)</ref>. Flood events affect millions of poor people living in precarious conditions every year <ref type="bibr" target="#b15">(Douglas et al. 2008)</ref>. Existing scholarship on Africa's urban flooding situation cite two key causes. Firstly, rapid and unplanned urbanization with a huge informal sector have been identified as a cause ( <ref type="bibr" target="#b0">UN Habitat 2011;</ref><ref type="bibr" target="#b27">Jha et al. 2011)</ref>. These include the case of urban poor forced to live in hazardous places in the towns and cities of Africa. The second driver is climate change and/or variability projected to make precipitation less predictable, more frequent and severe <ref type="bibr">(IPCC 2012;</ref><ref type="bibr" target="#b15">Douglas et al. 2008)</ref>.The impacts of these urban flood events in many African cities have also been extensively discussed in the existing literature <ref type="bibr" target="#b1">(Adelekan 2010;</ref><ref type="bibr" target="#b15">Douglas et al. 2008)</ref>. In all these works, the urban poor, located in flood prone locations have been identified as the most vulnerable due to their little or no adaptive capacities to deal with flood disasters.</p><p>To date, understandings of how informal flood victims in African cities response have been conceptually and practically limited <ref type="bibr" target="#b6">(Amoako and Inkoom 2017)</ref>. Existing literature perceive residents in flood prone informal settlements as politically voiceless, lacking the full knowledge of the dynamics of their vulnerability <ref type="bibr" target="#b36">(Rain et al. 2011;</ref><ref type="bibr" target="#b1">Adelekan 2010;</ref><ref type="bibr" target="#b15">Douglas et al. 2008</ref>) and hence see their efforts towards flood management as insignificant. Using three case studies from Accra: Glefe, Agbogbloshie and Old Fadama, this paper explores the capacities of flood-affected residents in urban informal settlements to respond and manage their vulnerabilities and exposure to flood events.</p><p>Like many informal settlements in Accra, the three selected communities experience annual flood hazards; but their residents appear to have successfully resisted evictions by city authorities; survived flood hazards, and poor environmental health conditions.The communities continue to expand with increasing housing and population densities in the face of these annual floods. Are they becoming resilient? Have their residents built adaptive capacities through learning experiences from previous flood occurrences and evictions attempts? What has produced and continue to shape their responses to flooding? What can be learned from this supposed grassroots resilience to inform flood management in urban Africa? These questions emerge from the continuous expansion of these settlements in flood prone zones. Using the cases of the three informal communities described above, this paper seeks to provide answers to the foreging questions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conceptualizing community adaptive capacity and resilience to natural hazards</head><p>Two related concepts have been borrowed to drive this study: Adaptive Capacity <ref type="bibr">(Smit and Wandel 2006, pp. 286/287)</ref> and Resilience <ref type="bibr" target="#b20">(Folke et al. 2010)</ref>. <ref type="bibr">Smit and Wandel (2006, p. 287)</ref> explain adaptation as a ''manifestation of the adaptive capacity'' of a system or community. In this definition, adaptation is seen as a process. In an earlier study by <ref type="bibr">O'Brien and Holland (1992, p. 37</ref>) adaptation as a process was explained as how ''groups of people add new and improved methods of coping with the environment to their cultural repertoire''. Their explanation to adaptation points to two key understandings. Firstly, adaptation involves new approaches for dealing with hazards when they occur. Secondly, in order for communities to adapt to changes in their environment, they improve on their existing responses to the hazard involved. The choices made by communities in these two instances are shaped by their understanding of the nature of disturbances or changes in their environment.</p><p>Systems or communities that go through any of the two processes described above are considered to have high ''adaptability'' or ''capacity to adapt'' <ref type="bibr">(Smit and Wandel 2006, p. 283)</ref>. In this explanation, adaptive capacity or adaptability is loosely used to reflect the resilience of systems <ref type="bibr" target="#b20">(Folke et al. 2010;</ref><ref type="bibr" target="#b42">White and O'Hare 2014)</ref>. Resilience in this context is the ''capacity of social-ecological systems (SES) to continually change and adapt'' <ref type="bibr">(Folke et al. 2010, p. 1)</ref>. Combining ''adaptive capacity'' and ''resilience <ref type="bibr">'', Berkes et al. (2003)</ref> explains adaptability to include the capacity of community to learn, combine experience and knowledge, adjust its responses to changing external drivers and internal processes, and continue developing within the current stability domain. Hence, this study connects the two concepts of adaptive capacity and resilience as a social process through which communities learn to understand, organise and respond to environmental changes and natural hazards and framed as social resilience.</p><p>Social resilience, as framed by this study includes social capital, socio-material resources and community leadership and draws from the values of the continuous evolution in informal communities <ref type="bibr" target="#b6">(Amoako and Inkoom 2017)</ref>. Hence as a framework, social resilience is an important tool in understanding how societies work in drawing from their endogenous and exogenous resources to self-organize, learn, cope with and adapt to socio-economic, political and environmental changes <ref type="bibr" target="#b11">(Carpenter et al. 2001;</ref><ref type="bibr" target="#b2">Adger 2000)</ref>. <ref type="bibr">Adger (2000, p. 352)</ref> pointed out that social resilience of communities can be studied or examined using social, economic and political indicators as proxies. In identifying such proxy indicators for this study, the adaptive governance framework to building <ref type="bibr">[social]</ref> resilience to natural hazards proposed by <ref type="bibr">Djalante et al. (2011, p. 4</ref>) is adopted. In the framework proposed by <ref type="bibr" target="#b14">Djalante et al. (2011)</ref>, four key parameters are identified as shaping social resilience, namely: community based multilayered institutions; socio-political alliances and collaboration; continuous learning and innovation; and social organisation (Fig. <ref type="figure" target="#fig_0">1</ref>). The interaction between these four parameters is crucial to the evolutionary processes through which social systems or communities go in responding to and coping with disturbances and building resilience as espoused by <ref type="bibr" target="#b42">White and O'Hare (2014)</ref>.</p><p>In Fig. <ref type="figure" target="#fig_0">1</ref>, community based multilayered institutions include non-state actors involved in the ''administrative, regulatory, managerial and mediating functions'' <ref type="bibr">(Djalante et al. 2011, p. 4</ref>) and shaping the adaptive capacities of communities to flood hazards. These actors operate at local, national and even international levels; and their presence in slum communities present important social resources for building social resilience. In many instances, slum dwellers draw on the support of actors such as community based organizations, NGOs and other international development and donor agencies to claim legitimate urban citizenship and to make their voices heard <ref type="bibr" target="#b4">(Amoako 2016;</ref><ref type="bibr" target="#b24">Grant 2009)</ref>. Again, socio-political alliances refer to all the mechanisms, communication channels and modes of engagements between communities, their leadership and other institutional stakeholders in building resilience to flood hazards <ref type="bibr" target="#b4">(Amoako 2016;</ref><ref type="bibr" target="#b3">Afenah 2009;</ref><ref type="bibr" target="#b24">Grant 2009)</ref>. <ref type="bibr">Sachs (2005, pp. 240-241)</ref> showed the positive effects of such alliances in building resilience and resistance among slum dwellers in Mumbai, India.</p><p>Self-organization and network is also an important component in building social resilience to flood hazards in informal communities. These range from the spontaneous organization of residents to respond to flood through to well-coordinated local mobilization based on common interests <ref type="bibr" target="#b4">(Amoako 2016)</ref>. Such selforganized networks exist in many informal communities to provide channels for bargain and to create social arena for community level engagements. In many cases, these community-based organised networks are not necessarily recognized by state and city authorities but form pockets of pressure groups within slum communities useful in building social resilience <ref type="bibr" target="#b28">(Lindell 2010)</ref>. Lastly, continuous learning and innovation of informal communities are based on their social memory and transfer of knowledge acquired by living with flood hazards and their residents' interactions with various stakeholders in planning and responding to flood hazards. <ref type="bibr" target="#b29">McFarlane (2011)</ref> provides a conceptual platform for understanding community learning, innovation and survival in urban informal settlements. In his view, informal communities are complex socio-spatial assemblages in which residents evolve and learn to survive all geophysical, socio-economic and political stresses in the urban space. Hence, the Community Social Resilience framework shown in Fig. <ref type="figure" target="#fig_0">1</ref> provides the parameters for assessing the level of community adaptive capacities and grassroots resilience to flood hazards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research approach and selection of cases</head><p>In keeping with the study's ontological position-the emergence of grassroots resilience to flooding in real life contexts, the case study design was adopted. The strength of case study approach in this study is in its focus on specific contexts and ability to draw from multiple sources of evidence to show relationships between elements and processes <ref type="bibr">(Gillham 2000, pp. 1-2)</ref>. Furthermore, ''the realities and experiences'' of emerging phenomenon in urban Africa can best be studied through selected cases ''as they unfold in different times and spaces'' <ref type="bibr">(Duminy et al. 2014, p. 1)</ref>. This is because in such situations the researcher requires detailed and in-depth appreciation of all the factors at play and inter-relationships in their real-life contexts. Therefore <ref type="bibr">Duminy et al. 2014 (1)</ref> argue that ''case study research is a pre-eminent means of constructing bodies of theory…based on careful empirical analysis of what really exists, and critical reflection on how it has come to be that way''. A Case study was adopted in similar context by <ref type="bibr" target="#b33">Pelling (1997)</ref> in Georgetown, Guyana.</p><p>The selection of Accra as a primary case study is based on the city's exposure and susceptibility to flood hazards. Accra, the capital of Ghana, was purposively selected due to its long history of flood hazards <ref type="bibr" target="#b4">(Amoako 2016;</ref><ref type="bibr" target="#b5">Amoako and Frimpong Boamah 2015)</ref>. The city has the highest flood related mortality</p><p>1. Community based multilayered institutions Multiple actors at multiple levels Social Resilience to Flood Events Ability to self-organize, learn and adapt 3. Self-organization/networks Bridging organization, boundary organization, transition arena 4. Continuous learning and innovation Public/social learning and institutional memory 2. Socio-political alliances and collaboration Leadership, trust, social capital GeoJournal</p><p>in Ghana <ref type="bibr" target="#b36">(Rain et al. 2011</ref>). Accra's exposure and susceptibility to flood risks and hazards have been associated with its low-lying topography described by <ref type="bibr" target="#b13">Dasgupta et al. (2009)</ref> as vulnerable to coastal inundation and storm surges as a result of sea level rise. The city's current and future susceptibility and vulnerability to local flash and riverine floods have also been severally discussed <ref type="bibr" target="#b36">(Rain et al. 2011;</ref><ref type="bibr" target="#b15">Douglas et al. 2008)</ref>. Hence, Accra presented the best case in Ghana for a study on flood vulnerability in informal settlements.</p><p>The selection of communities for the study were based on three key criteria. First was that the settlement involved had to be an informal settlement-with unclear tenure or unapproved developments. Secondly, informal settlements selected had experienced at least three major flood events in the last decade. The third criterion for selection was that the settlements were located at areas officially declared as flood prone zones by the Accra Metropolitan Assembly (AMA) (AMA and <ref type="bibr" target="#b0">UN Habitat 2011)</ref>. In consultations with officials of the Accra Metropolitan Assembly, Metropolitan Town and Country Planning Department, National Disaster Management Organization (NADMO) and the Water Research Institute (WRI), informal settlements within flood prone zones meeting the criteria established above were selected. These were Glefe, Agbogbloshie and Old Fadama (Fig. <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection methods</head><p>Data for the study were obtained from six main sources: government documents including consultancy reports; semi-structured interviews of city and other government officials; focus group discussions with residents of selected informal communities; informal interviews of selected flood victims (households); documents from community development associations and direct observation. Forty-one officials of 14 institutions were purposively sampled and interviewed. These were made up of 31 officials of state and international institutions and 10 respondents from community based non-state institutions (Table <ref type="table" target="#tab_1">1</ref>). These officials were interviewed based on their functional and operational knowledge on the topic under investigation. Some of the interviews revealed a number of relevant documents which were also obtained and reviewed as shown in Table <ref type="table" target="#tab_1">1</ref>.</p><p>At the community level, 6 major focus group discussions were carried out, two in each community. There was an average of 20 participants at each session-between the ages of 20 and 70 years and dominated by males. Discussions at these meetings focused on the following: perceptions, experiences and local knowledge of impacts of and responses to flood events in the communities. Other methods used include mini workshops of between 4 and 5 participants, field observations and informal interactions. A total of 18 of this mini workshops were held as follows: 5 in Agbogbloshie; 10 in Old Fadama; and 3 in Glefe covering a total of 80 flood victims between the ages of 30 and 70 years-also male dominated. Community key informants and opinion leaders consulted include: the chiefs/caretaker chiefs, community representatives at the AMA, leaders of ethnic groups, market women and religious organisations. Field observations took the form of transect walks, picture taking of flooded areas, and informal interactions with some flood affected households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study contexts and entry points</head><p>Glefe is a small coastal community along the Atlantic Ocean, west of Accra. The settlement has grown informally on a sand bar between two lagoons; Gbugbe and Gyatakpo <ref type="bibr">(Amoako 2016, p. 10)</ref>. As a result, the community is also exposed and vulnerable to perennial flood hazards from storm surges and overflow of the two lagoons. Over the last two decades, the community has experienced perennial flood events from high tides along the Atlantic and overflow of the two lagoons. Glefe's first reported case of flooding was in 1995. Two key causes given from the community interviews for the increasing impacts of flood hazards is sand mining along the shore and salt production by a local company, Pambros Salt Production company Ltd which has dammed one of the lagoons for its operations <ref type="bibr" target="#b6">(Amoako and Inkoom 2017;</ref><ref type="bibr" target="#b4">Amoako 2016</ref>). According to residents, this dam is the main cause of the yearly overflows. Every year, some residents are displaced, there are outbreaks of waterborne diseases and hundreds of informal livelihoods are destroyed (Appeaning Addo and Adeyemi 2013). City authorities in Accra suggest that the settlement must be relocated due to its hazardous location; but the customary owners of the land, do not agree to that option <ref type="bibr" target="#b4">(Amoako 2016)</ref>. None of these proposed interventions by the Accra Metropolitan Assembly have been implemented.</p><p>Similar to Glefe are Agbogbloshie and Old Fadama, also informal communities in Accra, which suffer from perennial floods. Agbogbloshie is an indigenous Ga community located on a 115 hectare of land while Old Fadama is a squatter settlement of residents mainly from northern Ghana on a 31 hectare unused government land resulting from the overspill of Agbogbloshie. Located along the banks of Odaw River and Korle Lagoon draining Accra Central into the Atlantic Ocean, the two communities are vulnerable to perennial flood hazards from the overflow of two water bodies and occasional backlash from the ocean. Hence, the two communities could be said to be located at the ecologically sensitive locations in the city, but also the most neglected. Agbogbloshie and Old Fadama have been experiencing perennial flood events since 1986 and that flooding has been a yearly occurrence since then <ref type="bibr" target="#b4">(Amoako 2016)</ref>. Hence, sections of the two communities have come under constant threats of evictions from city authorities fueled by a section of the local media <ref type="bibr" target="#b23">(Grant 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Incremental social learning and community flood responses</head><p>Though earlier studies on flooding in Glefe, Agbogbloshie and Old Fadama indicates that the areas are susceptible to annual flood events (Amoako and Inkoom 2017; Amoako 2016; Appeaning Addo and Adeyemi 2013), there are no rainfall figures for the study communities nor are there official data on flood days, frequencies and intensities. As a result, information on flood events at three communities are based on mental records, experiences and general knowledge of key informants such as chiefs and some elders in the communities. None of the communities has a weather station within its catchment to provide accurate flood data. Based on these collective social memories, residents of the three communities have increasingly learnt to live with and respond to flood hazards as and when they occur. They deal with the particular exigencies of each flood event on its own, all the while learning useful lessons for future occurrences. Communities' actions are physical, social and political and are based on their social capital and previous flood experiences.</p><p>The communities' capacities to respond to flood events and coping abilities are influenced by existing kinship ties and emerging social protection networks, the level of information and local knowledge available about rainfall and flooding patterns. These existing and emerging social networks include community development and property owners associations, ethnic groupings, churches, traditional leadership and civil society organisations. However, there are more vibrant and politically active local institutions at Agbogbloshie and Old Fadama than there are at Glefe. This is because conflicts over land and flooding around the Korle lagoon have resulted in the formation of many local associations that provide support to landless flood victims and mobilise them for self-help activities such as constructing local drains and clearing existing ones. These neighbourhood associations are built around property owners, migrant groups, various traditional councils, gender based associations and faith based or religious organizations (AMA and UN  <ref type="bibr" target="#b25">Habitat 2011</ref>). An example of a neighbourhood association is the Old Fadama Development Association (OLDFADA) which is a community mobilisation group for self-help activities. The presence and activities or otherwise of such social network institutions is also seen as a factor of building community adaptive capacities <ref type="bibr">(COHRE 2004, p. 55)</ref>. The value of these community social networks has been harnessed to reduce exposure and vulnerabilities to flood hazards.</p><p>Apart from the traditional authorities and a few recognised civil society organisations, many of the community-based institutions have grown spontaneously after previous floods and are neither registered nor recognised by city authorities. They become vocal only during and after major flood events or when they mobilise to engage with city authorities. These unrecognised local institutions build their capacities through their alliances with well-established international donors, NGOs and slum advocacy institutions. For instance, flood vulnerability, homelessness and landlessness among slum dwellers in Accra have attracted the attention of several international development agencies and NGOs <ref type="bibr" target="#b3">(Afenah 2009;</ref><ref type="bibr">COHRE 2004</ref>) who have partnered with local identifiable groups, traditional and city authorities in dealing with the numerous environmental challenges facing informal settlements. For instance, the current Ghana Plan of Action on Disaster Risk Reduction by NADMO, with technical and financial assistance from UNDP and the World Bank, respectively, constitutes a milestone in this process (Government of Ghana 2017, p. 83)</p><p>These collaborations are becoming a key part of the general urban environmental management of Accra and provide platform and voice for slum dwellers. Non-state groups and institutions in the three study communities have taken advantage of some of these alliances in building their social resilience to flooding. For example, after the June 3rd, 2015 combined flood and fire disasters, the AMA embarked on a mass demolition exercise at Old Fadama on the 20th and 21st, June; displacing between 12,000 and 20,000 residents. With the help of their chiefs, opinion leaders and a section of the Ghanaian media, affected residents staged a massive demonstration to demand compensations for their loss on Monday, 22nd June, 2015. The demonstration received extensive media coverage and stalled the initial demolition plans of the AMA. The foregoing shows how residents could partner with international agencies to mobilise resources and make their voices heard on their concerns, contrary to existing narratives that tag them as illegal, chaotic and voiceless.</p><p>At the individual households' level, adaptive capacities in the study communities are emerging through their experiences with flood events. Household adaptive capacities are influenced by socioeconomic conditions of families involved. However, the key factor for adapting and coping with recent floods identified in the communities was previous experience in flood hazards. Such experiences influence how flood victims and non-victims prepare and respond to flood events. For example, flood victims interviewed are aware of the patterns of flood events and know the rise level of flood water from their walls (see Fig. <ref type="figure" target="#fig_2">3</ref>).</p><p>Based on lessons from past flood events such as shown in Fig. <ref type="figure" target="#fig_2">3</ref>, residents reconstruct and reinforce their houses and sometimes move their valuable assets to friends and relatives outside flood zones. Sometimes, from their learning and experiences of past flood events, affected victims take non-structural and intangible actions. For example, a female flood victim interviewed at Agbogbloshie stated that:</p><p>Well, since the flood comes normally during the rainy seasons we prepare for it in order to avoid deadly impacts… (Hajia, 50, flood victim and unit committee<ref type="foot" target="#foot_0">foot_0</ref> member)</p><p>The preparations and actions referred to in the above statement are subsequently discussed as part of community and household responses before, during and after flood events (Tables <ref type="table" target="#tab_2">2</ref>, <ref type="table" target="#tab_3">3</ref>).</p><p>Both structural and non-structural community responses to flood hazards in the three study areas were through self-help initiatives and engagements with city authorities and other relevant institutions in flood management. At Agbogbloshie and Old Fadama respondents revealed the following as their structural responses before floods: clearing silt materials from primary and secondary storm drain; filling muddy and swampy areas with gravels and stones; and clearing solid waste at open areas of the community while non-structural responses community education by opinion leaders and officials of NGOs/CBOs as well as engagements with city authorities for the provision of flood management infrastructure (Table <ref type="table" target="#tab_2">2</ref>).</p><p>Similarly, at Glefe it was revealed that on suspicion of a rainfall event the youth of the community are made to construct temporary channels to redirect the flow of the Gyatakpo and Gbugbe lagoons or remove the dam made by Pambros Salt Production Company to separate the lagoons from its salt ponds as the community's tangible responses before flooding. However these approaches have brought conflicts and various levels of misunderstanding between the community's leadership and the management of the salt company. As a result, the community's self-help association, the Glefe Development Association, has been engaging with the various stakeholders involved to deal with flood hazards in the community. When asked how effective these engagements have been in preventing or reducing the impacts of floods; secretary of the association had the following to say and showed copies of their correspondence to various stakeholders:</p><p>I have personally written several letters to the authorities about our flood situation and related issues without any significant impact. What else do they want us to do?</p><p>Community responses during floods are spontaneous in the three communities (Table <ref type="table" target="#tab_2">2</ref>). Since emergency systems are almost non-existent, young men in the communities help with the evacuation of people and household items affected to safety. Apart from these spontaneous community level evacuations of flood victims, flood water channels are re-directed to flow out of the community by these community volunteers as the only structural community response in the study communities during flood hazards. At Agbogbloshie and Old Fadama storm water is channelled through temporary drains constructed for the purpose, while the only community level structural response at Glefe is the removal of the dam between their community and Pambros Salt Production Company.</p><p>From Table <ref type="table" target="#tab_2">2</ref>, community flood responses could be viewed from <ref type="bibr">Parker's (2000a, b, p. 34</ref>) description of ''traditional adjustments'' in which local communities make ''efforts to reduce the harmful effects'' of flood hazards but not to eliminate them. These adjustments have evolved through the communities' understanding of which are most appropriate, less expensive and effective under the different flood circumstances. The continuous usage of these responses or adjustments in the study communities can also be attributed to the lack of or inadequate state interventions in flood management in informal settlements in Accra.</p><p>Households' and victims' responses to flood hazards differ widely among respondents based on the intensity and time of the flood event; their locations in the study communities, tenancy and type of housing, gender, and household sizes. The common responses among all respondents interviewed is to secure or try to protect their family; by either evacuating them to safety within the community if the event is moderate or outside the community if the event is life-threatening and protection of household items by raising platforms within the room on which these valuable items are kept (Table <ref type="table" target="#tab_3">3</ref>). These responses, though important to flood affected victims and households, appear less tangible to officialdom and usually ignored in planning for post-hazard resettlement and rehabilitation by city authorities. According to <ref type="bibr">Parker (2000a, b, p. 32)</ref>, these important flood responses are usually not considered as key efforts made by affected victims or households. From Table <ref type="table" target="#tab_3">3</ref> common individual households' flood responses include intangible actions such as evacuation or relocation and tangible actions including: putting sand bags and/or bamboo pegs in pathways of the stormwater runoff; Raising the foundation, walls and entry points of their houses or rooms; re-building collapsed sections of their houses; and re-roofing reaped-off roofs.</p><p>Households' flood responses presented in Table <ref type="table" target="#tab_3">3</ref> give an indication that many floods victims are beginning to accept flood events as part of their everyday life in the rainy seasons. Flood responses in the three communities reveal households' actions and that perpetuate their continuous in the communities. This observation explains the sense of place and identity built by households over the years. Most flood victims interviewed had been staying in their respective communities since their childhood, have easy access to their daily livelihoods in or near the community and have built neighbourhood relationships that provide various support systems and social capital in times of need-social capital built in the face of marginalization <ref type="bibr">(Afenah 2009, p. 15)</ref>. These findings also resonate with that of a similar study by <ref type="bibr">Zoleta-Nantes (2000, pp. 69-88)</ref> among residents of urban poor settlements in Metro Manila in the Philippines. In her study, flood-affected respondents adopted and used basic local flood mitigation measures but refused to relocate from their communities <ref type="bibr">(Zoleta-Natnes 2000, pp. 80-81)</ref>. Community and household capacities revealed during the field study can be situated within four factors as contained in the Community Social Resilience framework in Fig. <ref type="figure" target="#fig_0">1</ref> namely: self-organisation and community development networks; involvement and activities of local and external institutions; socio-political alliances and collaboration; and social learning and innovations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-organization and community development networks</head><p>Residents of Glefe, Agbogbloshie and Old Fadama mobilize themselves around their local opinion leaders including the Assemblyman, traditional leaders, market queens,<ref type="foot" target="#foot_1">foot_1</ref> leaders of the various ethnic groups<ref type="foot" target="#foot_2">foot_2</ref> within their communities. The status and powers of these individuals and groups of residents are derived from the existing local power and governance structure within the communities. The Assemblymen are elected at the community level as representatives at the Accra Metropolitan Assembly (AMA). Traditional leaders are the indigenous owners of the land under customary titles. Though poorly recognised by Accra's city authorities, the presence and activities or otherwise of such social network institutions is seen as a factor of building community adaptive capacities <ref type="bibr">(COHRE 2004, p. 55)</ref>. For instance, at Agbogbloshie and Old Fadama the Assemblyman stated that:</p><p>As opinion leaders we organize communal activities such as cleaning portions of the storm drains, preventing people from dumping [refuse into the drains] or reporting them to authorities for building too close to water ways…. the Landlords/ Landladies [property owners] Association has been engaging various stakeholders in flood management and also helping with the community level interventions. Aside this, individual households have their own ways of protecting themselves and their assets from flood hazards Opinion leaders use various forms of communication channels and tools including ''house-to-house'' invitations, community-wide information systems and the use of the communities' representatives at AMA. Aside the opinion leaders, residents also organized spontaneously along known groups such as ethnicity, kinship and religious ties to tackle common problems including flooding. The value of these communities' social networks have been harnessed to reduce exposure and vulnerabilities to flood hazards at various times. At Glefe a leader of the community's development association indicated that:</p><p>We use stones to fill the muddy places when organized by the opinion leaders in the community. Due to the absence of drains in the community some areas get flooded and the youth groups are mobilized to clear these areas mostly before the rains set in.</p><p>Community level agencies and capacities for selforganisation and networking have influenced community and households flood responses and can be further harnessed for community flood risk management. Activities of community development network have emerged out of the need for immediate flood responses in the absence of clear state interventions. These are rooted in emerging social cohesion and protection built in the form of self-help and neighbourhood associations which are involved in communal cleaning, social and material support for flood victims.</p><p>Many researchers have indicated that among all the factors for building communities' coping abilities at various stages of the disaster cycle, social organisation appears to be key <ref type="bibr" target="#b34">(Pelling 1998;</ref><ref type="bibr" target="#b19">Few 2003)</ref>. Regardless of how one looks at it, the discussion in this section points out that contrary to the general opinions about how chaotic informal communities in Accra are, they have the capacity to organize internally to respond to environmental hazards such as flooding <ref type="bibr">(Grant 2009, 111)</ref>. The involvement and activities of local and international institutions in flood management are discussed in the next sub-section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Activities of community-based and international institutions</head><p>Recognized community-based institutions in the flood prone communities present rallying points for emerging community interest groups. These include civil society organizations registered with the state and operating within the study communities. Examples of these community-based organisations mentioned include the People's Dialogue on Human Settlements (PD) and Ghana Federation of the Urban Poor (GHAFUP) operating in Agbogbloshie and Old Fadama.The presence of these institutions present capacities for community level disaster responds and engagements with international slum advocacy institutions. These local and international advocacy institutions have formed various alliances at local and transnational levels using their strong community bond and social capital. Through their political and social alliances these local associations have been organising communal activities towards the prevention or mitigation of flood impacts while with city authorities to demand for the provision of the needed flood management infrastructure and resisting forced evictions. For example, through the People's Dialogue on Human Settlements (PD) residents' associations of Old Fadama collaborated with Shack Dwellers International (SDI) in providing support for housing development in 2002 <ref type="bibr" target="#b3">(Afenah 2009)</ref> Again, with the help of some of the communitybased organisations such as the People's Dialogue on Human Settlements (PD), Ghana Federation of the Urban Poor (GHAFUP) and Centre on Housing Rights and Eviction (COHRE) as well as International organisations like Slum/Shack Dwellers International (SDI), residents have resisted eviction threats by the AMA. For example, in May 2002, the AMA had served an eviction notice to the residents of some sections of Agbogbloshie and Old Fadama settlements to make way for the Korle Lagoon Ecological Restoration Project (KLERP). However, the Centre on Housing Rights and Evictions (COHRE) commissioned an alternative environmental report on the Korle lagoon to counter the AMA's earlier report which proposed the eviction of residents of Old Fadama. COHRE's report concluded that the AMA's ''assessment exaggerated the negative impacts of the settlements… and that Agbogbloshie and Old Fadama contributes only 5% of the lagoon's pollution load'' <ref type="bibr">(CORHE 2004, 49)</ref>.</p><p>Based on COHRE's counter-report on Korle lagoon, one Issah Iddi,<ref type="foot" target="#foot_3">foot_3</ref> an opinion leader, and ten others, with the support of the Ghana's division of the Centre for Public Interest Law (CEPIL) applied for a High Court injunction to stop the eviction, but this was rejected by the Accra High Court on 24 July 2002 <ref type="bibr" target="#b24">(Grant 2009)</ref>. Even though, the community lost the case, this was an unprecedented case of community mobilization and response to the state's hostile treatment. Similar community level engagements were reported between residents of Glefe, AMA and the salt company through their community's development association. Again, flood victims at Glefe have received relief items from the USAID and the Catholic Church in the community.</p><p>Beyond their communities, residents of the informal settlements have also received support and collaborations from international agencies such as the UN Habitat, Slum/Shack Dwellers International (SDI) in building physical, social and political responses against flood vulnerability and threats of forced eviction from AMA. For example, in 2004, the UN Habitat under an urban management programme initiated the Community-Led Infrastructure Finance Facility (CLIFF) at Old Fadama to support housing improvement and provision of community infrastructure through micro-financing <ref type="bibr" target="#b26">(Jack and Farouk 2004)</ref>. Though not entirely successful, the facility created the awareness that with combined efforts of local and international institutions, informal settlements can provide some of the basic infrastructure without depending on city authorities thereby strengthening their resistance of eviction and shaping community level planning for flood response.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Socio-political alliances and collaborations</head><p>In ''Self-organization and community development networks'' and ''Activities of community-based and international institutions'' sections above, community social resilience are being built through community level self-organisation, engagements with community based and international organizations and the resulting platforms for residents to engage city authorities in flood management and eviction. For instances, references have been made to the alliances between community-based NGO and international institutions such as CEPIL, CORHE, and UN Habitat to resist forced eviction by city authorities discussed earlier.</p><p>The processes and outcomes of such alliances have produced a complex network of actions, inactions, persistence and resistance of the city's informal governance systems, local and international NGOs and civil society organizations. All these complex systems have capacities for shaping community responses to flood hazards. For example through the mobilisation of the local Catholic Church, the youth of Glefe have constructed local drains, which are desilted monthly. It was also revealed that after most flood events residents of Agbogbloshie and Old Fadama have received relief items from international agencies such as the Red Cross Society (RCS) and United Nations Humanitarian Response Depot (UNHRD) among others. The foregoing alliances among </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social learning, improvisation and preparedness</head><p>The various levels of experiences and engagements discussed under the three previous sub-section points to a platform for social learning, improvisation and preparedness for the occurrence of perennial floods in the study communities. The study revealed that residents of the study communities have gathered various knowledge and experiences with which they plan their households' and community responses. Yearly occurrences of flood events have become embedded in the everyday lives of residents in the study communities such that building structures and livelihood patterns are gradually changing in preparation for flood events. For example, the foundations of wooden shacks are being changed into concrete blocks based on the socio-economic circumstances of their occupants. Again, in Glefe sand and gravel mining to support the local construction industry has been a booming livelihood activities in the last two decades. These sand and gravel mining activities take place along the shoreline of the community is key to building more resilient building in the community.</p><p>Decades of responding to flood events have brought about various forms of households' and community knowledge about flood patterns, intensities and areas of worst impacts. These sets of community knowledge have been accumulated over the years through the embedded relations between residents and flood events. Victims are experientially informed through their flood encounters while non-victims of flood gather their knowledge through shared and transferred knowledge. An example of such acquired experience and innovation was presented by a community leader at Glefe thus:</p><p>We find a way to make the water flow out of the community. Some [people] will call the ''Assemblyman'' who doesn't live in this community [on his cell phone] and mobilize the youth to go to the place dammed by Pambros <ref type="bibr">[Salt Production Limited]</ref> and open the channel … Another thing the youth group [a part of the Glefe Community Development Association] does is to help those whose houses have been affected to move out their families and some of their valuable items out to safety. (Nii, 62, Member of the traditional council, Glefe)</p><p>Though the above community level activities were said to be spontaneous responses to flood events, they have become a routine such that residents have groups of young people within the association with specific roles on flood days. Such community social engagements have been learned over time and make use of local human and material resources. For example the use of mobile phones to inform community leaders of danger and construction of local drains to channel out flood water are all dependent on local resources and accumulated knowledge. Again, residents of Glefe indicated that building with the gravels and sand from the shoreline along their community makes the buildings stronger to resist the impacts of flood hazards. Mining of this gravel and sand has been a growing industry and part of the community's growth since the mid-1970s and has also been cited as one of the causes of coastal erosion and flooding <ref type="bibr" target="#b7">(Amoani et al. 2012)</ref>. But some members of the community's association rather believe building with the sand and gravel from the shoreline strengthens their houses against the impacts of floods.</p><p>Previously affected residents reinforce their housing structures by use of concrete housing to make them resilient to the impacts of future flood events. Foundations of houses are raised, additional stairs are constructed and roofs are changed in preparation for future floods (see Table <ref type="table" target="#tab_3">3</ref>). Small backyard drains are also constructed to channel flood water out of the house during flood events. These incremental structural changes are made based on flood water level and sections of the houses affected in previous flood events. Housing in this sense is simply an everyday response to changes in the physical and socioeconomic environment in the city. Hence for these slum dwellers, learning to live and respond to floods is not different from responding to their everyday challenges in the urban environment. None of these responses are ''simply ad hoc'', linear or totally spontaneous (McFarlane 2011, p. 39) but rather products of incremental learning from previous experiences that take shape over time and based on availability of local resources.</p><p>Another evolving social learning relative to flooding in the study communities is the ability to perceive the occurrence of heavy rainfall likely to be followed by floods. Residents and community groups can sometimes predict and flood events accurately through local knowledge and The nature and intensity of floods that might follow certain types of rainfall events can also be predicted by older members of the community through experience. Predictions are made based on the positioning of the sun, sound of thunder and period of the year events occur. Local predictions can fail and they sometimes do. When they do, the repercussions are very disastrous. A respondent at Old Fadama pointed out that:</p><p>The floods take so many forms…at times, when it is raining, we realize that water starts coming from the ground beneath us. That is also very dangerous, because when that happens it means the water will remain in your room even after the rains or even the building may collapse. In that case you have to vacate the room for a long time or even permanently (Asuo, 49, Driver and flood victim) This is how a male resident at Glefe also put the failure in flood predictions: Mostly, it rains in the night, at dawn and very early in the morning…how can one prepare in such circumstances?… Once I evacuate my family, I leave flood activities to take their course… <ref type="bibr">(McCarthy,</ref><ref type="bibr">38,</ref><ref type="bibr">flood victim)</ref> Although not always accurate, local flood predictions influence households' and community preparation for hazards. For households, preparation activities mentioned include: evacuating family on suspicion of heavy rainfall; putting valuable items in the room on tables and in wardrobes; weeding and clearing the immediate housing environment; clearing and rechannelling household drains; and fixing leaking roofs. At the community level, residents undertake communal self-help activities as their preparation. Particularly, participants mentioned clearing silt materials from the uncovered drains, constructing drains to channel flood water into the lagoons and community education by community based and international NGOs. While the inertia of city authorities and other stakeholders breed distrust, it has produced the communities' capacities to gradually learn from, mobilize and respond to flood events. Residents' capacities to cope with flood hazards keep evolving over time-space and continue to shape community and household flood responses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contribution and conclusion</head><p>This paper set out to explore what appears to be emerging adaptive capacities of residents in informal communities in Accra, Ghana. Various arguments have been put forward in the literature on why residents in flood prone informal communities continue to live at places where they are exposed and vulnerable <ref type="bibr" target="#b21">(Gencer 2013;</ref><ref type="bibr" target="#b43">Wisner et al. 2004;</ref><ref type="bibr" target="#b19">Few 2003)</ref>. Urban poverty and inability of slum dwellers to rent and live at safe places <ref type="bibr" target="#b19">(Few 2003)</ref>; nearness and attachment to places of livelihoods <ref type="bibr" target="#b44">(Zoleta-Nantes 2000)</ref>; and inability to engage city authorities <ref type="bibr" target="#b21">(Gencer 2013)</ref> are some of the arguments discussed in the literature to explain the continuous expansion of informal communities at flood prone zones. Beyond these dominant narratives, this paper posits that slum residents' capacities to respond to flood hazards are produced by and have co-evolved with their embodied and embedded understanding of flood events. Residents keep learning from their experiences of past flood events and respond appropriately based on their acquired knowledge.</p><p>This paper submits that residents of the study communities are active agents, with socially and politically organised institutions, in the management of their vulnerability and responses to flood events. However, the study revealed that capacities to respond to floods are not equally distributed among the study communities. For instance, Agbogbloshie and Old Fadama with relatively well organised and vibrant civil society organisations <ref type="bibr" target="#b18">(Farouk and Owusu 2012;</ref><ref type="bibr" target="#b3">Afenah 2009</ref>) had more efficient local mobilization frameworks than Glefe, which had only a communitybased development association which is not recognised by the city authorities.</p><p>Consequently, while residents of Old Fadama and parts of Agbogbloshie affected by perennial floods have been able to prevent forced evictions by the city authorities since 2002, several petitions and letters from the Glefe Community Development Association to the Accra Metropolitan Assembly have gone unanswered. Nonetheless the association has been instrumental in Glefe's flood management efforts. Through their engagements with these institutions, residents have social capital, and innovations in their responses. Though the communities' capacities are yet to be fully harnessed, it the basis for current responses to hazards.</p><p>The study reveals that the unclear and sometimes lack of state flood management interventions have contributed strongly to the growth of socio-political agencies in response to floods in informal settlements, even extending to cities of the global south. Built on their accumulation of local knowledge, flood experiences and incremental learning of the city (McFarlane 2011), flood victims in these communities design the responses with socio-material resources available to them. Through this learning processes, <ref type="bibr">Simone (2008, 186)</ref> suggests that residents of informal areas ''through their configurations of space, social relations and infrastructure continuously attempt to re-construct conditions… viable for their everyday lives''. In learning the city, urbanites do not depend on ''formal, linear and cognitive processes, but through experiential immersion in urban space-time'' <ref type="bibr">(McFarlane 2011, p.32)</ref>.</p><p>The emerging community capacities, revealed by this paper, have not been effectively captured in government disaster management policy documents (NADMO 2010). Hence, they are not considered in the design of flood vulnerability management programs. The evolving capacities of flood prone communities could be harnessed in various ways and at multiple scales for flood risk and vulnerability management <ref type="bibr" target="#b35">(Pelling and High 2005)</ref>. According to <ref type="bibr">Douglas et al. (2008, 201)</ref> community level capacities and initiatives could be harnessed through capacity building, resource transfer and inter-organisational learning and collaboration. Community capacities provide important value for state institutions, civil society organizations and the affected residents in flood risk and vulnerability management.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig.1Community social resilience framework. Source: Adopted and modified fromDjalante et al. (2011, p. 4)    </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Map of Accra showing case study communities. Source: Amoako and Inkoom (2017)</figDesc><graphic coords="6,49.65,59.25,447.84,331.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 A building showing flood mark of about 1.5 m rise in 2013 (2 years earlier) at Glefe. Source: Photo by Author during fieldwork in Accra, Ghana, June-July, 2015</figDesc><graphic coords="9,106.30,59.24,334.56,250.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>community based institutions point to a gradual transformation, from just local slum residents to global urban citizens through cross-border activism 2001; Grant 2009). Through such tactical partnerships and learning, slum dwellers can negotiate their urban marginality (McFarlane 2011).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Relevant institutions interviewed and documents reviewed. Source: Author's fieldwork in Accra, Ghana, June-July, 2015</figDesc><table><row><cell>Institutions interviewed</cell><cell>No. of</cell><cell>Documents collected and reviewed</cell></row><row><cell></cell><cell>officials</cell><cell></cell></row><row><cell></cell><cell>interviewed</cell><cell></cell></row><row><cell>Accra Metropolitan Assembly (AMA)</cell><cell>5</cell><cell>Participatory Slum Upgrading and Prevention-2011</cell></row><row><cell>Town and Country Planning Department (TCPD)</cell><cell>5</cell><cell>Greater Accra Metropolitan Area Strategic Plan-</cell></row><row><cell></cell><cell></cell><cell>1991/1992</cell></row><row><cell></cell><cell></cell><cell>National Urban Policy Framework-2012</cell></row><row><cell></cell><cell></cell><cell>Ghana National Urban Policy Action Plan-2012</cell></row><row><cell>Hydrological Services Department (HSD)</cell><cell>2</cell><cell>-</cell></row><row><cell>Environmental Protection Agency (EPA)</cell><cell>4</cell><cell>Climate Change Vulnerability and Adaptation</cell></row><row><cell></cell><cell></cell><cell>Assessment of Coastal Zone of Ghana-2000</cell></row><row><cell></cell><cell></cell><cell>Climate Change Vulnerability and Adaptation</cell></row><row><cell></cell><cell></cell><cell>Assessment on Water Resources of Ghana-2000</cell></row><row><cell>Ghana Meteorological Agency (GMET)</cell><cell>2</cell><cell>Rainfall and Temperature patterns in Accra for the</cell></row><row><cell></cell><cell></cell><cell>period between 1960 and 2015</cell></row><row><cell cols="2">Surface Water Division of Water Research Institute (WRI) 4</cell><cell>Update of Flood Phenomenon in Ghana-Draft Report</cell></row><row><cell></cell><cell></cell><cell>2011</cell></row><row><cell>National Disaster Management Organization (NADMO)</cell><cell>5</cell><cell>National Disaster Management Plan-2010</cell></row><row><cell></cell><cell></cell><cell>Disaster Annual Action Plan for Year 2014</cell></row><row><cell>Drainage Maintenance Unit of AMA</cell><cell>2</cell><cell>-</cell></row><row><cell>UNDP (UN Habitat, Accra Office)</cell><cell>1</cell><cell>Rapid Disaster Waste Management Assessment-26th</cell></row><row><cell></cell><cell></cell><cell>October Flash Flooding, Central Accra, Ghana-</cell></row><row><cell></cell><cell></cell><cell>2011</cell></row><row><cell>UN Country Team Ghana (UNCT)</cell><cell>1</cell><cell>Ghana-Floods Situation Report (2015)</cell></row><row><cell>Community based organisations/community self-help</cell><cell></cell><cell></cell></row><row><cell>organisations</cell><cell></cell><cell></cell></row><row><cell>People's Dialogue on Human Settlements (PD)</cell><cell>1</cell><cell>-</cell></row><row><cell>Ghana Federation of the Urban Poor (GHAFUP)</cell><cell>3</cell><cell>-</cell></row><row><cell>Old Fadama Development Association (OLDFADA)</cell><cell>3</cell><cell>-</cell></row><row><cell>Glefe Community Development Association</cell><cell>3</cell><cell>Letters of correspondence and minutes of meetings</cell></row><row><cell>Total</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Community flood responses and coping strategies to flood hazards Sources: Community focus group discussions at Agbogbloshie, Old Fadama and Glefe in Accra, Ghana July/August, 2015</figDesc><table><row><cell>Responses</cell><cell>Agbogbloshie and Old Fadama</cell><cell>Glefe</cell></row><row><cell>and coping</cell><cell></cell><cell></cell></row><row><cell>strategies</cell><cell></cell><cell></cell></row><row><cell cols="2">Before floods Structural responses</cell><cell>Structural Responses</cell></row><row><cell></cell><cell>Clearing silt materials from storm drains</cell><cell>Re-directing the flow of Gyatakpo and Bugbe lagoons</cell></row><row><cell></cell><cell>Filling muddy and swampy areas with gravels and</cell><cell>Removing dam between lagoons and Salt ponds of</cell></row><row><cell></cell><cell>stones</cell><cell>Pambros salt production company on suspicion of</cell></row><row><cell></cell><cell>Clearing Solid Waste at inappropriate places</cell><cell>rainfall events</cell></row><row><cell></cell><cell>Non-structural responses Community education and campaigns by opinion leaders(Assemblyman, Traditional leadership and</cell><cell>Communal cleaning of inappropriate disposal of solid waste etc. Non-Structural Responses</cell></row><row><cell></cell><cell>officials of NGOs/CBOs)</cell><cell>Engagements between Glefe Development Association</cell></row><row><cell></cell><cell>Engagements with city authorities for the provision of relevant infrastructure and support</cell><cell>and relevant stakeholders on reducing flood risks and vulnerability</cell></row><row><cell>During flood</cell><cell>Structural Responses</cell><cell>Structural Responses</cell></row><row><cell>hazards</cell><cell>Draining/channelling flood water out of community</cell><cell>Removing blockade between lagoons and Pambros'</cell></row><row><cell></cell><cell>Non-Structural Responses</cell><cell>salt ponds for the free flow of storm water into the sea</cell></row><row><cell></cell><cell>Evacuation of affected households/victims and their</cell><cell>Non-Structural Responses</cell></row><row><cell></cell><cell>valuable items</cell><cell>Evacuation of affected households/victims</cell></row><row><cell>After floods</cell><cell>Structural Responses</cell><cell>Structural Responses</cell></row><row><cell></cell><cell>Creating temporary channels for flood water to flow out</cell><cell>Organizing spraying exercises to reduce the spread of</cell></row><row><cell></cell><cell>of community</cell><cell>malaria and other infectious diseases</cell></row><row><cell></cell><cell>Non-Structural Responses</cell><cell>Engaging city authorities and other stakeholders on the</cell></row><row><cell></cell><cell>Engaging NADMO and AMA for the distribution of</cell><cell>provision of flood reduction infrastructure</cell></row><row><cell></cell><cell>relief items</cell><cell>Collaborating with Media to get the story of flooding</cell></row><row><cell></cell><cell>Community education and campaigns about outbreak of</cell><cell>across for support</cell></row><row><cell></cell><cell>diseases and prevention</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Victims' and households responses and coping strategies to flood hazards. Source: Victims' interviews/mini workshops at Agbogbloshie, Old Fadama and Glefe in Accra, Ghana July/August, 2015</figDesc><table><row><cell>Stage</cell><cell>Agbogbloshie and Old Fadama</cell><cell>Glefe</cell></row><row><cell>Before</cell><cell>Structural responses</cell><cell>Structural responses</cell></row><row><cell>floods</cell><cell>Building platforms in rooms to store valuable items</cell><cell>Raising the foundation, walls and entry points of</cell></row><row><cell></cell><cell>Putting sand bags and/or bamboo pegs in the expected pathways</cell><cell>the house</cell></row><row><cell></cell><cell>of the stormwater runoff</cell><cell>Building platforms in rooms to store valuable</cell></row><row><cell></cell><cell>Cleaning of choked local drains and construction of new channels</cell><cell>items</cell></row><row><cell></cell><cell>around the house to carry some of the storm water in the event of</cell><cell>Mounting beds on concrete blocks</cell></row><row><cell></cell><cell>a rainfall</cell><cell>Re-roofing housing before the rains set in Putting</cell></row><row><cell></cell><cell>Non-structural responses</cell><cell>sand bags and/or bamboo pegs in the expected</cell></row><row><cell></cell><cell>Re locating to stay with friends or giving valuable items to</cell><cell>pathways of the stormwater runoff</cell></row><row><cell></cell><cell>friends for safe keeping</cell><cell>Non-structural responses</cell></row><row><cell></cell><cell></cell><cell>Re locating to stay with friends or giving valuable</cell></row><row><cell></cell><cell></cell><cell>items to friends for safe keeping</cell></row><row><cell>During</cell><cell>Structural responses</cell><cell>Structural Responses</cell></row><row><cell>flood hazards</cell><cell>Evacuating family to safety Running to safety out of the community (these include the</cell><cell>Evacuating family to safety Disposing of water in rooms using buckets</cell></row><row><cell></cell><cell>church/mission houses etc.)Packing valuable household items on tables and wardrobe</cell><cell>Running to safety out of the community (these include the church/mission houses etc.)</cell></row><row><cell></cell><cell></cell><cell>Putting buckets/containers under leaking holes in</cell></row><row><cell></cell><cell></cell><cell>roof</cell></row><row><cell></cell><cell></cell><cell>Shouting for help from neighbours</cell></row><row><cell>After</cell><cell>Structural responses</cell><cell>Structural Responses</cell></row><row><cell>floods</cell><cell>Re-building collapsed sections of the building</cell><cell>Re-building collapsed sections of the building</cell></row><row><cell></cell><cell>Non-Structural Responses</cell><cell>Re-roofing where roofs are reaped off</cell></row><row><cell></cell><cell>Clean houses and rooms affected by floods</cell><cell>Channelling flood/storm water from</cell></row><row><cell></cell><cell>Dry items affected/soaked in water</cell><cell>homes/houses affected</cell></row><row><cell></cell><cell>Re-locate if house/dwelling is completely destroyed</cell><cell>Non-Structural Responses</cell></row><row><cell></cell><cell></cell><cell>Re-locate if house/dwelling is completely</cell></row><row><cell></cell><cell></cell><cell>destroyed</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Unit committee is a community based decentralised institution with elected members responsible for community development and linking residents to the local government administration.GeoJournal</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Women in the Agbogbloshie markets are grouped by what they sell and these groups also appoint their leaders who regulate market prices and help their groups with other decision-making activities.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>All the study communities have different ethnic groups from different parts of Ghana and these selected their leaders to represent them in local decision making processes.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>This is the name of community leader who led the court action against forced eviction. He could not be identified and interviewed.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Participatory slum upgrading and prevention: Millennium city of Accra</title>
+		<author>
+			<persName><forename type="first">Accra</forename><surname>Metropolitan Assembly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Ama)</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">N</forename><surname>Habitat</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>UN Habitat</publisher>
+			<pubPlace>Ghana. Accra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Vulnerability of poor urban coastal communities to flooding in Lagos</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Adelekan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nigeria. Environment and Urbanization</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="433" to="450" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Social and ecological resilience: Are they related?</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="364" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Conceptualizing the effects of neoliberal urban policies on housing rights: An analysis of the attempted unlawful forced eviction of an informal settlement in Accra, Ghana. DPU working paper</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Afenah</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>UCL Development Planning Unit</publisher>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Brutal presence or convenient absence: The role of the state in the politics of flooding in informal Accra</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Amoako</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="16" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The three-dimensional causes of flooding in Accra</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Amoako</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frimpong Boamah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ghana. International Journal of Urban Sustainable Development</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="129" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The production of flood vulnerability in Accra, Ghana: Re-thinking flooding and informal urbanisation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Amoako</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K B</forename><surname>Inkoom</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0042098016686526</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Urban Studies</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Short-term shoreline evolution trend assessment: A case study in Glefe</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Amoani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Appeaning-Addo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Laryea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Disaster Risk Studies</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Ghana</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Deep democracy: Urban governmentality and the horizon of politics</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Appadurai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Urbanization</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="23" to="43" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Assessing the impact of sea-level rise on a vulnerable coastal community in Accra, Ghana</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Appeaning Addo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adeyemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Disaster Risk Studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Navigating social ecological systems: Building resilience for complexity and change</title>
+		<editor>Berkes, F., Colding, J., &amp; Folke, C.</editor>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">From metaphor to measurement: Resilience of what to what?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Anderies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Abel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="765" to="781" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">A precarious future: The informal settlement of Agbogbloshie</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>COHRE</publisher>
+			<pubPlace>Accra, Ghana</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Climate change and the future impacts of storm-surge disasters in developing countries</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Benoit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siobhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>David</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>The Center for Global Development</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Adaptive governance and managing resilience to natural hazards</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Djalante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Holley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Thomalla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disaster Risk Science</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Unjust Waters: Climate change, flooding and the urban poor in Africa</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Alam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maghenda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mcdonnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Urbanization</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="205" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Forms of informality: Morphology and visibility of informal settlements</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dovey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Built Environment</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="29" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duminy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Odendaal</surname></persName>
+		</author>
+		<title level="m">Introduction in planning and the case study method in Africa</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Duminy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Andreasen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Lerise</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Odendaal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><surname>Watson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">&apos;&apos;If in doubt, count&apos;&apos;: The role of community-driven enumerations in blocking eviction in Old Fadama</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Farouk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Owusu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Accra. Environment and Urbanization</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="57" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Flooding vulnerability and coping Local responses to a global threat</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Few</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress Development Studies</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="58" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">thinking: Integrating resilience, adaptability and transformability</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Folke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scheffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chapin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rockstrom</surname></persName>
+		</author>
+		<ptr target="http://www.ecologyandsociety.org/vol15/iss4/art20" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">20</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Gencer</surname></persName>
+		</author>
+		<title level="m">The interplay between urban development, vulnerability, and risk management</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Case study research methods. London: Continuum. Government of Ghana</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gillham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000. 2017</date>
+			<publisher>The World Bank Group</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Enhancing urban resilience in the greater accra metropolitan area</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Out of place? Global citizens in local places: A study of informal settlements in the Korle lagoon environs in Accra</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ghana. Urban Forum</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Globalizing city: The urban and economic transformation of Accra</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Syracuse University Press</publisher>
+			<pubPlace>Ghana. Syracuse, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Managing the risks of extreme events and disasters to advance climate change adaptation</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">N</forename><surname>Habitat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Global report on human settlements 2011: Cities and climate change</title>
+		<meeting><address><addrLine>London; Melbourne, Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Intergovernmental Panel on Climate Change (IPCC)</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Feasibility study for the application of Community Led Infrastructure Finance Facility (CLIFF) operations in Ghana</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Farouk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Homeless International and UN Habitat</publisher>
+			<pubPlace>Accra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Cities and flooding: A guide to integrated urban flood risk management for the 21st century</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lamond</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>The World Bank</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Between exit and voice: Informality and the spaces of popular agency</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lindell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">African Studies Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Learning the city: Knowledge and translocal assemblage</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcfarlane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2011. 2010</date>
+			<publisher>NADMO and UNDP</publisher>
+			<pubPlace>West Sussex, UK; Accra, Ghana</pubPlace>
+		</imprint>
+	</monogr>
+	<note>National Disaster Management Organization (NADMO) National disaster management plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The role of adaptation in archaeological explanation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Holland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Antiquity</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="69" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Parker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Floods</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Abingdon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Making the town: Ga state and society in early colonial Accra</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000b</date>
+			<publisher>Heinemann</publisher>
+			<pubPlace>Portsmouth</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">What determines vulnerability to floods: A case study in Georgetown</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Guyana. Environment and Urbanization</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="203" to="226" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Participation, social capital and vulnerability to urban flooding in Guyana</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Development</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="469" to="486" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Understanding adaptation: What can social capital offer assessments of adaptive capacity?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>High</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="308" to="319" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Accra Ghana: A city vulnerable to flooding and drought-induced migration: case study prepared for cities and climate change</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Engstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ludlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Antos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>UN Habitat</publisher>
+			<pubPlace>Accra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Urban informality: Toward an epistemology of planning</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Planning Association</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="147" to="158" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Urban informality transnational perspectives from the middle east</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alsayyad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">latin America and South Asia</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Lexington Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Challenges of sustainable development under globalisation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sachs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Development Issues</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The politics of the possible: Making urban life in Phnom Penh</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Simone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Singapore Journal of Tropical Geography</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="186" to="204" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Adaptation, adaptive capacity and vulnerability</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wandel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="282" to="292" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">From rhetoric to reality: Which resilience, why resilience, and whose resilience in spatial planning?</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>O'hare</surname></persName>
+		</author>
+		<idno type="DOI">10.1068/c12117</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning C: Government and Policy</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">At risk: Natural hazards, people&apos;s vulnerability and disaster</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wisner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Blackie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Flood hazard vulnerabilities and coping strategies of residents of urban poor in Metro Manila, the Philippines</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zoleta-Nantes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Floods</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Parker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge, Taylor &amp; Francis Group</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="69" to="88" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

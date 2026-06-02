@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Landslide risk, resilience and resistance: confronting community resilience with economic benefits in landslide-prone areas in Kerala</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-11-28">28 November, 2019.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Mohammed</forename><forename type="middle">Irshad</forename><surname>Sharafudeen</surname></persName>
+							<email>mohammed.irshad@tiss.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Tata Institute of Social Sciences</orgName>
+								<orgName type="department" key="dep2">Centre for Disasters and Development</orgName>
+								<orgName type="department" key="dep3">Jamsetji Tata School of Disaster Studies</orgName>
+								<orgName type="department" key="dep4">Tata Institute of Social Sciences Deonar</orgName>
+								<address>
+									<addrLine>Mumbai-400088</addrLine>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">Mohammed</forename><surname>Irshad</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">1st International Conference on Landslides Risk Reduction and Resilience</orgName>
+								<orgName type="department" key="dep2">Organised by National Institute of Disaster Management</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Landslide risk, resilience and resistance: confronting community resilience with economic benefits in landslide-prone areas in Kerala</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-11-28">28 November, 2019.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F31BD9E2C82C96355EA42E04A4354152</idno>
+					<idno type="DOI">10.1504/IJEM.2021.118769</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>community mobility</term>
+					<term>landslide</term>
+					<term>movement</term>
+					<term>quarry industries</term>
+					<term>resilience</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Landslides are increasingly posing challenges to disaster risk management institutions in countries like India. Unlike other disaster risk reduction measures that include community-based resilience, it is a challenging task in the present context of development. Landslide-prone areas in India are not just risky geographical regions with vulnerable people; instead these are 'emerging economic zones'. The economic value of these regions displaces the risk and hence, state governments and central government often find it difficult to promote community-based resilience in landslide-prone areas. The community often interprets resilience as resistance. Community-based resilience in landslide-prone area never follows the general theoretical position on resilience as the ability to bounce back. Large-scale concentrations of quarry industries in the landslide-prone areas of Kerala limit the community mobility as resilience. The idea of resilience converged into resistance in the landslide susceptible areas in Kerala. Resistance becomes an easy method rather than building resilience.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Landslide and community resilience is an important administrative and ecological challenge in the mountain regions of the country. Unlike other natural disasters, landslide susceptibility is highly correlated to anthropogenic factors. As <ref type="bibr">Lee and Jones (2004, p.39</ref>) emphasise people's perception of a landslide is an image of sudden and violent destruction, which results in loss of life and large-scale devastation. <ref type="bibr">Sidle and Ochiai (2006, p.1)</ref> have explained that landslide is a natural geomorphic agent, which shapes mountainous areas and redistributes sediment in gentler terrain. Moreover, streams and rivers receive a large portion of their natural sediment supply from landslides and related debris flows, both active and historic. With the development and settlement of unstable terrain, landslides heretofore considered as natural processes have become natural disasters. Additionally, human activities have strongly influenced the extent and timing of landslide occurrence, especially the more frequent, smaller-scale soil mass movements. <ref type="bibr" target="#b10">Lacasse and Nadim (2009)</ref> have observed that heavy precipitation, floods, earthquakes, and soil erosion along with anthropogenic actions can lead to landslides. In general, they happen after a rainstorm. Landslide is a process which results in downward and outward movement of slope-forming materials such as natural rock and soil. The natural force displaces and moves the heavy materials in multiple ways. It is otherwise a natural change in mountainous regions, but becomes a disaster only when it takes lives and causes property loss. The extent of the disaster is determined by the amount of loss.</p><p>Landslide leads to direct and indirect losses. Physical damage of capital assets and replacement costs are direct economic impacts of landslides. The amount of direct cost is related to the economic activity in the affected area, more specifically, the capitalisation of resources. As in the case of an earthquake, there is a direct relationship between capitalisation of resources and landslide loss. Landslide alters natural resources. However, such alterations become visible only when they affect the local economy, which is dependent on local labour and extensive use of natural resources. While capital loss is the major direct impact of landslide, indirect impacts are generally in terms of loss of productivity of material and human capital, and in terms of investments in preventive activities. Apart from these, landslides also lead to reduction of tax income from the area; in fact, every disaster results into low tax income in some way. Decreased quality of natural resources such as water and land can have negative effects on the local economy and also on the community. <ref type="bibr" target="#b12">MacFarlane and Wohl (2003)</ref> have observed that the landslides and the flow of collapsing debris can create flooding in headwaters and large river systems. Thomas and Megahan (1998) have explained that a high velocity flow of debris can lead to a reduction in times of concentration and increases peak flow, which could persist in channels till roughness is fully recovered. <ref type="bibr" target="#b16">Ramachandra et al. (2010)</ref> discussed that the landslides are the events due to combination of predisposing factors, triggering factors, and human activities of altering natural slope stability.</p><p>The impact of landslide on socio-economic conditions of the community and the region is difficult to assess because landslides generally cause other natural hazards such as extreme precipitation, earthquakes or floods. Hence, the impact assessment needs a comprehensive approach. <ref type="bibr" target="#b6">Glade et al. (2005)</ref> have explained that the susceptibility to landslide is a function of the inherent stability of the slope and the factors that trigger the movement. Similar to an earthquake, landslide prediction is dependent on the assessment of past incidents and anthropogenic causes. It is, in fact, a challenge in any disaster risk reduction programs that the natural causes which trigger landslides are quite normal in the larger environmental context. <ref type="bibr">Wisner et al. (2004)</ref> have argued that landslide can be triggered by heavy rainfall on hills and mountain sides, and earthquakes can occur due to geological causes. However, their impacts on human beings are caused by activities that disrupt the normal existence of nature.</p><p>The perception of landslide risk varies according to the severity of past incidents and live experience of landslide risks. The probability of occurrence of a landslide could be assessed with various methods such as past incidents and natural risk assessment. The impact, as in the case of earthquakes, is dependent on human actions. The landslide in Amboori village, Thiruvanathapuram district of Kerala, India on 9 November, 2011 is an example of risks and uncertainty in predicting landslides. It claimed 40 lives, most of which were family members gathered in one house. The property loss was not significant since it is an underdeveloped area. The village is situated on the slopes of Western Ghats. <ref type="bibr">Chattopadhyay and Franke (2006, p.121)</ref> observed that the large-scale land use and land cover had critically modified the slope, which directly hit the hillslope hydrology. According to them, these alterations weaken the already ecologically sensitive area and lead to disaster. However, ecological sensitivity was neglected and the land alterations in the area were not prevented. The landslide risk assessment was proper; landslide was deemed to be the normal outcome of natural change. The impact on the community was also anticipated. However, no prevention methods were applied. The human rationality of development acted upon nature and nature could not act according to human needs.</p><p>This paper is an attempt to explore the landslide and community resilience in the context of higher concentration of quarry industries in the landslide-prone areas and also quarry industry-induced landslide risks in Kerala. As per the Mining and Geology Department of Kerala's website, there are 4426 quarries in Kerala , however, there are allegations that a large number of illegal quarries are operating in Kerala. This paper argues that the developmental priority of the Kerala state often ignore the environmental impacts and permits the quarry industries to overlook the administrative regulations for conservation. Poor implementation of conservation rules and norms increases the landslide susceptibility and decreases the community resilience and also shift the idea of building resilience into developing resistance movement. This paper attempts to study how local resistance movements against violation of environmental conservation acquire the character of a resilience movement? and how community became risk informed and mobilise themselves to sustainable resilience? 2 Conceptual framework and methodology <ref type="bibr" target="#b1">Chen et al. (2008)</ref> argued that people's assessment of hazard and mitigation is based on a particular environmental condition and disaster occurrence. Also the resilience of the community is associated with the level of preparedness and environmental conditions of the community and hence resilience is closely associated with governing commons and ecosystem. Ecosystem plays a critical role in building once perception on resilience including community resilience or collective resilience. As <ref type="bibr" target="#b5">Daily (2000)</ref> once observed ecosystem assessment is, in fact, a method of organising information to arrive at possible decisions. The decision is also about managing the larger politics of decision making. <ref type="bibr">Liekens et al. (2014)</ref> have attempted to explain the nature of economic values in assessing the ecosystem. Liekens et al. observe that putting economic values on natural resources, in general, is associated with scarcity and trade-offs, and is quite anthropocentric in nature. It is quite easy to do a cost-benefit analysis of ecosystem's management in the current development framework. Conversion of resources into capital is the major driver of the analysis. The benefit derived from such conservation is increasing in the current system. It also results in a conflict of interest over conservation and competition to take over the resources. <ref type="bibr">Walker and Salt (2006)</ref> argued that resilience is about a quality of material or an ecosystem. Walker and Salt observe that resilience is a connected process with community, business, individual and nation. Resilience is about applying once individual agency in accessing opportunities in the close living environment to increase their psychological functioning. Building community resilience is a complex process and it needs a sense of belonging and ownership on the institutions, norms and policy of resilience. It includes those inherent conditions that allow the system to absorb impacts and cope with an event, as well as post-event. Apart from that it is an adaptive processes that facilitate the ability of the social system to re-organise, change, and learn in response to a threat. <ref type="bibr" target="#b11">Magis (2010)</ref> observed that resilient communities cope with, adapt to, and shape the change caused by the risk and uncertainty. It is also about protecting community resources, engagement with community resources, active agents of conservations, collective action, strategic action, equity, and impact. This explains why resilience building is the most critical challenge in disaster-prone areas. It needs an interface between multiple agencies and institutions including risk governance and development.</p><p>Building community resilience becomes an important project and it needs a resource base as well. As explained by <ref type="bibr" target="#b19">Godschalk (2003)</ref> and <ref type="bibr" target="#b13">Pfefferbaum et al. (2005)</ref> land, raw materials, accessible house, physical capital, health services, educational institutions, and employment opportunities create a resource base of community resilience. <ref type="bibr">Norris et al. (2008)</ref> argued that the community must develop economic resources, reduce risk and resource inequality to develop resilience. Social vulnerability reduced the ability to build resilience and force the community to search for alternative method of resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Resilience as resistance</head><p>Resilience often adopts the character of a resistance in certain context in time, as <ref type="bibr" target="#b18">Sonn and Fisher (1998)</ref> argued community resilience is a process of mediating through peer groups and family to moderate the impact of oppressive systems. <ref type="bibr" target="#b8">Geis (2000)</ref> and <ref type="bibr" target="#b3">Chen (2002)</ref> have defined the 'disaster resistance' as the capability to repel, and also 'disaster resilience' as an ability to recover from a calamity, and hence, Disaster Resilience Capacity (DRC) is explained as community's capability to survive. Community adapts the character of resistance as resilience when risk is imposed on them and put them into a vulnerable situation. In such a crisis context community becomes concerned on conservation rather than capitalisation of resources. <ref type="bibr">Hobfoll (1998</ref><ref type="bibr">Hobfoll ( , 2006) )</ref> proposed the concept of 'conservation of resources' as community resilience project. Theory of conservation of resources argues that the individuals put their efforts to obtain, retain, protect, and foster the things they value; it could be otherwise called resources. This theory argues that the community must invest in resources to prevent loss and gain benefits. Resilience becomes a project of assessing distributive justice. <ref type="bibr" target="#b0">Adger (2000)</ref> also argues 'social resilience' as economic growth, stability of livelihoods, and equitable distribution of income and assets within the population. The study by <ref type="bibr" target="#b4">Comfort (2005)</ref> explained that uncertainties led community mobility to broaden and widen the scope of actors and agents to respond. <ref type="bibr" target="#b24">Tartaglia's (2006)</ref> study argues that place attachment is closely related to community sense. It is about one's living environment and specific sense of belonging. Displacing from the sense of belonging and exposure to risks transform resilience into resistance. The anti-quarry movements in the landside-prone areas of Kerala resemble the character of resilience movement. The local community found that all conventional methods of resilience are ineffective, and hence form collective to oppose the quarry and act as agents of resilience. The ability to bounce back does not offer any risk reduction to the local community in this areas, and hence, the option left for them to move beyond the established concept of resilience. The anti-quarry movement is a collective and put in place the need of transform the protest into a resilience. Such resilience movements and concepts challenges the state driven resilience concepts in global south. The community is taking the advantage of the given liberty in defining resilience than trust the state and institutions. The following part discusses this critical transformation of community collective into a resilience building process through resistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Method of the study</head><p>This paper is primarily a critical engagement of the concept of resilience, and attempt to demonstrate that resistance can be resilience in its true theoretical sense. So the method of this paper is an evolving process of engaging with the literatures and critically engages with the local activists who are an integral in shaping the transition of resistance as resilience. Review of literatures on resilience and close observation of the activities of the local activists have done to conceptualise the paper and demonstrate the relationship between resilience and resistance. One of the prominent members of an anti-quarry movement was interviewed to get the grassroots perception of the landslide risks. The purpose of choosing this particular movement is that, this movement has influenced similar protests in the landslide prone areas of Kerala state. A semi structured interview schedule was used for this interview and also a critical report published in local vernacular magazine is used to get the response of Kerala's political activists on the issue. This author also conducted discussion with the local journalist to know his experience of reporting illegal quarry industries in Kerala, his unpublished and classified sources are reviewed for this paper. The core focus of the data collection was on the community perception and polices towards the quarry industries in Kerala.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Landslide and quarry industries in Kerala</head><p>The Kerala State Disaster Management Authority has developed maps of landslide-prone and susceptible areas in Kerala. Please refer to the Figure <ref type="figure" target="#fig_0">1</ref>. The quarry industries are actually located around these areas. <ref type="bibr" target="#b23">Thampi et al. (1995)</ref> assessed that 13 out of 14 districts (Alappuzha) are prone to landslides, and about 8% (1400 km 2 ) of the Western Ghats region is classified as critical zone for mass movements. <ref type="bibr" target="#b7">Gopinath (1985)</ref> observed that landslide became an issue in Kerala only after 1949. Study by <ref type="bibr">Kuriakose et al. (2009)</ref> argued that the early historical documents on Kerala did not give any description of landslides. They argued that there were no incidences of landslides in Kerala till the mid of 20 th century. They also mentioned that most of the mass movements in Kerala occur in hill slopes along the Western Ghats regions. Extensive exploitation of the region, increasing construction and tree cutting, increases the risk of landslides in these regions. <ref type="bibr" target="#b15">Raji et al. (2001)</ref> argued that there exists a good correlation between earthquakes and medium and major lineaments of Kerala. Their assessment showed that out of 41 lineaments, nine were connected with earthquake occurrences. <ref type="bibr" target="#b14">Rajendran et al. (2009)</ref> observed that the anthropogenic activity is the deciding factor of higher seismicity in Kerala. The Madhav Gadgil and Kasturi Ranjan committee report has raised the public understanding of landslide in larger context of destruction of forest land and poor biodiversity conservation. Source: Kerala State Disaster Management Authority Kerala floods in 2018 and 2019 brought the Gadgil and Ranjan report back into public sphere. The anti-quarry movements became a public debate thereafter. For instance, a research by Sajeev and Alex (2017) triggered the public debate on mining and quarry industries in Kerala. Their research paper attracted a wider spectrum of readers from general public than academics and research. It openly challenged the quarry industries in Kerala by giving the GIS-based data on illegal quarries in Kerala and their susceptibility to landslide. The 2019 floods and soil piping triggered this debate and still their data remains unchallenged. Please refer to Table 1.</p><p>Mr. Sunil 1 (2019) narrated how bureaucracy and political parties work together to ease the quarry industries in Western Ghats region of Kerala. It exposed how the state government and political parties use government rules and regulations to violate the norms for quarry industries in Kerala. The ecological security is no longer considered in this process. He stated that the Land Revenue Commissioner has prepared a report that, the land assigned to the farmers as per the 1964 rule is in rocky areas and hence, government should allow mining and quarrying to remove the rocks to make the land cultivable. Ongoing developmental projects in Kerala need a relaxation of mining and quarrying rules. It was evident during the 2019 floods, the public pressure forced the government to stop all mining and quarry industries; however, within four days the Government of Kerala reversed its decision and permitted the quarries to operate. That decision alone was sufficient enough to prove to the poor how inadequate the landslide resilience building was in Kerala. quarry movements and landslide resilience Local movements against mining and quarry industries in Kerala are increasingly becoming major environmental movements in Kerala. Such movements are local in nature and hardly come under any state level organisational structure and form. Political parties in Kerala deliberately keep a distance from these anti-quarry movements. It does not mean that anti-quarry movements and their members are apolitical and close to nongovernmental organisations. It could be otherwise called risk informed collective rather than a local protest movement. Nabeel ( <ref type="formula">2017</ref>) has documented the anti-quarry movements across Kerala with details. The following case study is selected from that list and it explains the complexities in detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Mysoremala Prakrathi Samrakshana Samithi in Mukkam, Kozhikode</head><p>The above said movements are completely local-centric and led by local people. This study has taken one of the anti-quarry movements in Kerala for a critical analysis. The study has taken Kodiyathoor and Kumaranaloor villages of Mukkam Panchayat for case study analysis. The people formed a movement called Mysore Mala Samrakshana Samithi (Mysore Hill Protection Council) in the area to coordinate the activities. There were seventeen quarries in just one kilometre area in Kumaranaloor village and all those quarries were in the plantation land. The mining industry was initiated before independence. About 2558 acres of land was acquired by Mr. Rangashesha Iyangar for gold mining, however, the project was dropped later. Originally it was a plantation land, which was later on transferred to others and quarry industries could acquire that land.</p><p>There are six big quarries in the area, among them one was promoted by a cooperative movement led by left parties. The local community started protests in 2006 itself. These two villages are ruled by left front governments; however, the left parties are not supportive of the anti-quarry movements. Mr. Balakrishnan, an active member of the movement against the quarry, categorically stated that they are not fully against mining industries, however, what they are demanding is regulated and scientific mining as per the rule of law. The success of their movement was that they were able to stop ten illegal quarries in Kumaranaloor village. It was a great success for them to continue the fight. He said that the quarry industries are forcefully acquiring the revenue surplus land. The movement he belongs to has no particular leadership; it is a collective against the mining risks.</p><p>Though the movement could stop illegal mining, still mobilising local community is a complex matter. The ruling party 2 targets the local activists. Mr. Balakrishnan said that, people are afraid to come and support openly and they think that the administration of the local self-government will not consider their application for state-led welfare scheme benefits. He said the applications submitted to the local self-government by the local activists are often delayed and denied by raising technical reasons.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.1">Landslide susceptibility of the area</head><p>The local community resistance against the plant is not simply a movement against the quarry only. They have collected possible scientific evidences and government reports to justify their arguments. Every member of the movement is aware of the environmental risks persisting in the area. They try to give scientific evidence for their argument.</p><p>For instance the letter written by the District Soil Conservation Officer of Kozhikode district on 23 rd October 2018 to the District Collector of Kozhikode is one such report the community members keep and share. The letter made it clear that the area is listed in the medium hazard zone of landslide as assessed by National Centre for Earth Science Studies. The letter stated that there were four quarries and one metal sand unit that operate in one kilometre in the hilly areas of the village. It mentioned that heavy rain fall in 2014 resulted in the flow of debris from these quarries and it was deposited in the agricultural land. It affected the poultry farmers; apart from that the letter said that there were landslides in 2018. The letter made it clear that the heavy quarrying and mining activities have badly affected the water streams and made the areas more susceptible to landslide. It is quite evident that the local activists are highly informed on the risk they are subjected to and they want to establish their case with clear scientific evidence. They have used the 'Right to Information Act 2005' to collect all those documents to support their argument.</p><p>They tried to establish that the area where their movement is located is a landslideprone area and hence, needs the active intervention of the government to regulate the quarry industries. The survey conducted by Kerala State Disaster Management Authority (KSDMA) in areas where landslide and soil piping had occurred proved their argument. KSDMA survey in Kumaranaloor village on 24th September, 2019 established that there is a landslide risk in the village and it support the local community claims. The survey accepted that it belonged to a moderate landslide susceptible area. The major findings of the survey were as follows, Based on their assessment the KSDMA does not recommend the area for human habitation.</p><p>The above said two reports and assessments are significant for the local activists to pull together the community and demand for a government intervention. Mr. Balakrishnan said that they collected these documents to substantiate their claims and if need be file cases against the administration. Scientific assessment of risk based on the authentic sources helped the movement to convince the members and to ensure their participation in the movement.</p><p>Government and quarry industries in Kerala prefer to relax the rules and regulations for mining and quarry industries. Floods in 2018 and 2019 have changed the status of public understating of the environment. The media debates on Mr. Gadgil committee reports, Mr. Sajeev's paper and comments on Mr. <ref type="bibr">Sunil</ref>'s popular papers after the 2019 floods indicate the changing perception of local community. The government and bureaucracy are in favour of the quarry industries since it is an essential raw material for development. It is evident in the case of Kerala Government amendment of Mines and Mineral (Development and Regulation) Act 1957.On 15 Government of Kerala amended the Mines and Minerals (Development and Regulation) Act, 1957 and introduced two bills Kerala Minor Mineral Concession Rules, 2015 and Kerala Minerals (Prevention of Illegal Mining, Storage and Transportation) Rules, 2015. The Kerala Minor Mineral Concession Rules, 2015 does not insist a proper method of environmental clearance for mining. Apart from that the Rule insists that environmental clearance is not required for renewing permits of exiting quarries. This is against the Supreme Court Judgement Deepak Kumar v. State of Haryana, (2012) 4 SCC 629, according to which the Court had revised Environment Impact Assessment Notification of 2006 and directed all state/UTs to seek EIA clearance for permitting and renovating the existing mining less than 5 acres of land.</p><p>Earlier it was restricted to more than 5 acres, and hence Kerala Minor Mineral Concession Rules, 2015 is the clear violation court rule. This Rule proposed by the Government of Kerala is intended to ease the quarry business rather than put these hazardous industries under strict regulation of managing risks. Government of Kerala's amendment was benefiting the existing quarries in Kerala. The Amendment came when Congress-led UDF was in power and the successive Left Front Governments do not intend to change this amendment. The political consensus ensures legal protection to quarry industries, however such legal protection is not available to resilience institutions and process.</p><p>Building resilience to reduce the landslide risk is a challenge for Kerala in the present context. It was evident during the 2019 floods in Kerala. Resisting the illegal and unscientific quarries has captured the idea of resilience in the landslide-prone areas in Kerala. This is evident in the case of Kavalappara village in Nilambur Taluka of Malappuram district in Kerala. About 48 people died in Kavalappara village in Nilambur Taluka of Malappuram district in Kerala due to landslide and soil piping triggered by heavy rains in August 2019. I have interacted with the local community right after the flood risks and all of them referred to the quarry industries in the area. They were aware of the number and even the amount of extraction per day. The entire disaster was attributed to the quarry industries and they wanted strict government intervention to stop it. For them resilience is nothing but stop or regulate the quarries. It may be right or wrong, but still the community perceives quarry as the reason for the disaster. It is difficult for a scientist to convince the people that quarry industries alone do not lead to landslides. The risk of quarry is the biggest threat on community resilience. The only possibility is displacement, which eventually would take away their right over land and resources. There is no scope left to the people to demand for 'development democracy'. <ref type="bibr" target="#b9">Irshad's (2019)</ref> study attempted to explain how local movements should be assessed on their rights to demand development as their democratic rights. Local community thinks that resisting the quarry is their democratic right and hence, resilience building is integrated into the resistance. The literature of resilience never agrees to the idea of resistance as resilience. Theories of resilience are evolved out of an institutional process of supporting community and government to ease the response and finance disaster risk reduction measures.</p><p>Higher concentration of quarry industries in the ecologically sensitive areas with the government support is the biggest threat to resilience. The affected community often fights with a larger resource owning class. It was evident in the case of mass protest by the quarry industries and encroachers in the Western Ghats region against the Madhav Gadgil and Kasturi Ranjan committee reports in Kerala. Political parties in Kerala express their support of the movement led by quarry industries. The protesters floated a separate movement and their representative was elected as the Member of Parliament from the area 3 . Landslide mitigation and risk reduction in Kerala are limited by this strong nexus between the industry-bureaucracy and hence, community resilience against the risk is exclusively vested on the local community. Such isolated responsibilities force them to consider resistance as resilience. The academic debate on resilience is yet to pay attention to the idea of resilience as resistance. This particular case in Kerala in fact poses multi prong challenges to the theories of resilience. These movements are close to the concept of Community Based Disaster Risk Reduction (CBDRR), however, the local community perceive risk reduction as an ecological security. All conventional methods of building CBDRR such as local network, sharing local knowledge, and partnership with local institutions etc., are followed here as well, however, instead of building institutions, Mysoremala Prakrathi Samrakshana Samithi converge into a protest movement and put across the idea of resilience. The ability to bounce back is interface with political will to challenge the institutions. The politics of rights and institutional understating of disaster risk lead to resistance in this particular case. Theories of resilience need to engage with such local movements and reshape the concept of resilience to accommodate large scale conservation movements in developing countries. The local community is much for risk informed, and hence for them resilience is closely associated with everyday life. <ref type="bibr">Thomas, R.B. and Megahan, W.F. (1998)</ref> 'Peakflow responses to clear cutting and roads in small and large basins, western Cascades, Oregon: a second opinion <ref type="bibr">', Water Resour. Res., Vol. 34, pp.3393-3403. Walker, B. and</ref><ref type="bibr">Salt, D. (2006) Resilience Thinking, Washington DC, Isand Press. London. Wisner, B., Blaikie, P., Cannon, T. and</ref><ref type="bibr">Davis, I. (2004)</ref> At Risk: Natural Hazards, People's Vulnerability and Disasters, Routledge. London.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1 He is senior reporter and documented anti-quarry movement in Kerala, and according to him these are movement to conserver the environment and build resilience. 2 CPI (M) led LDF. 3 The Member of Parliament from Idukki constituency of Kerala from 2014 to 2019 was an active member of Malayora Samrakshana Samithi, an organisation floated by quarry industries and land owners in Western Ghats. He was against the Gadgil and Kasturi Ranjan committee report and the Left parties supported him because they wanted to demonstrate their pro-industry position and oppose the government at that time.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Landslide prone areas in Kerala (see online version for colours)</figDesc><graphic coords="7,65.45,264.48,350.28,244.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>a</head><figDesc>landslide and soil piping occurred in 2018 during monsoon time b water streams exist in the area c it is a forest area d there were landslides in the previous years e fracture/joints/foliations in dipping towards the slope f Central Geological Survey of India has issued notification for restricting house constructions g slope of the area is 41 degrees h quarry industries are posing threats to houses.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Proximity of granite quarries to lineaments and earthquake epicentres</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Distance from</cell><cell></cell><cell>Distance from</cell></row><row><cell></cell><cell></cell><cell></cell><cell>lineament</cell><cell></cell><cell>Epicentre</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0-1 Km</cell><cell></cell><cell>0-1 Km</cell></row><row><cell>Sector</cell><cell>Districts</cell><cell>No</cell><cell>Area</cell><cell>No</cell><cell>Area</cell></row><row><cell>Northern Kerala</cell><cell>Kasargod</cell><cell>29</cell><cell>10.82</cell><cell>-</cell><cell></cell></row><row><cell></cell><cell>Kannur</cell><cell>15</cell><cell>15.81</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Kozhikode</cell><cell>22</cell><cell>18.87</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Wayanad</cell><cell>11</cell><cell>7.83</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Malappuram</cell><cell>57</cell><cell>149.79</cell><cell>5</cell><cell>2.58</cell></row><row><cell></cell><cell>Total</cell><cell>134</cell><cell>203.12</cell><cell>5</cell><cell>2.58</cell></row><row><cell>Central Kerala</cell><cell>Palakkad</cell><cell>86</cell><cell>110.09</cell><cell>17</cell><cell>22.2</cell></row><row><cell></cell><cell>Thrissur</cell><cell>20</cell><cell>67.48</cell><cell>20</cell><cell>91.76</cell></row><row><cell></cell><cell>Ernakulam</cell><cell>39</cell><cell>162.99</cell><cell>5</cell><cell>2.84</cell></row><row><cell></cell><cell>Idukki</cell><cell>23</cell><cell>15.11</cell><cell>2</cell><cell>1.16</cell></row><row><cell></cell><cell>Total</cell><cell>168</cell><cell>355.67</cell><cell>44</cell><cell>117.96</cell></row><row><cell>Southern Kerala</cell><cell>Alappuzha</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Kottayam</cell><cell>13</cell><cell>3.79</cell><cell>14</cell><cell>4.91</cell></row><row><cell></cell><cell>Pathanamthitta</cell><cell>22</cell><cell>29.67</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Kollam</cell><cell>11</cell><cell>14.6</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Thiruvananthapuram</cell><cell>6</cell><cell>5.64</cell><cell>15</cell><cell>16.23</cell></row><row><cell></cell><cell>Total</cell><cell>52</cell><cell>53.7</cell><cell>29</cell><cell>21.14</cell></row><row><cell></cell><cell>Grand Total</cell><cell>354</cell><cell>612.49</cell><cell>78</cell><cell>141.68</cell></row><row><cell cols="2">Source: Sajeev and Alex (2017)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social and ecological resilience: Are they related?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Adger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="347" to="364" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Assessment of disaster resilience capacity of hillslope communities with high risk for geological hazards</title>
+		<author>
+			<persName><forename type="first">S-C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-W</forename><surname>Ferng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-T</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T-Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Engineering Geology</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="86" to="101" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Striving for Sustainability: Environmental Stress and Democratic Initiatives in Kerala</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Franke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Concept Publishing Company</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Investigation and Analysis for Catastrophic Debris-flow Events over the Years, and Countermeasures Against Debris-flow Hazards, Soil and Water Conservation Bureau</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Council of Agriculture</publisher>
+			<pubPlace>Taiwan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Risk, security, and disaster management</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Comfort</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="335" to="356" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The value of nature and the nature of value</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Daily</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="issue">5478</biblScope>
+			<biblScope unit="page" from="395" to="396" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Glade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Crozier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Landslide Hazard and Risk</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>England</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Debris flows in the Western Ghats [UrulpottalPaschimaghattathil (in Malayalam)]&apos;, Workshop on landslides in Western Ghats, 30-31 July</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Gopinath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kerala State Committee on Science, Technology and Environment</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<pubPlace>Kozhikode, India</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">By design: the disaster resistant and quality-of-life community</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Geis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Hazards Reviews</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="106" to="120" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Anti-displacement movement and development democracy: A study on Keezhattur Protest in Kerala</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Irshad</surname></persName>
+		</author>
+		<idno type="DOI">10.12893/gicpi2019.1.6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Glocalism: Journal of Culture</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Politics and Innovation</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Landslide risk assessment and mitigation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lacasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nadim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Landslides -Disaster Risk Reduction</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Sassa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Canuti</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Community resilience: an indicator of social sustainability</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Magis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Society and Natural Resources</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="401" to="416" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Influence of step composition on step geometry and flow resistance in step-pool streams of the Washington Cascades</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Macfarlane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wohl</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2001WR001238</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water Resour. Res</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">1037</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Building resilience to mass trauma events</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K M</forename><surname>Nabeel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pfefferbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reissman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pfefferbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klomp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gurwitch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook on Injury and Violence Prevention Interventions</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Doll</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Bonzo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Mercy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Sleet</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="2005">2017. 2005</date>
+		</imprint>
+	</monogr>
+	<note>Murivetta Malazhyalam</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Reassessing the earthquake hazard in Kerala based on the historical and current seismicity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Rajendran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sreekumari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rajendran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Geological Society of India</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="785" to="802" />
+			<date type="published" when="2009-06">2009. June</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Lineaments and seismicity of Kerala -a remote sensing based analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Raji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Paull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Hegdei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nijagunappa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Indian Society of Remote Sensing</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="203" to="211" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Landslide susceptible locations in Western Ghats: prediction through open modeller</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Ramachandra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Aithal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Diwakar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Joshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 25th Annual in-House Symposium on Space Science and Technology</title>
+		<meeting>the 25th Annual in-House Symposium on Space Science and Technology</meeting>
+		<imprint>
+			<date type="published" when="2010-01">2010. January, 2010</date>
+			<biblScope unit="page" from="65" to="74" />
+		</imprint>
+		<respStmt>
+			<orgName>Organised by ISRO-IISc Space Technology Cell, IISc</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Paschimaghattam Quarrymafiyak Theerezhuthumbol (Handing Over Western Ghat to Quarry Mafia)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sunil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Madhyamam Weekly</title>
+		<imprint>
+			<biblScope unit="page" from="8" to="15" />
+			<date type="published" when="2019-07">2019. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Sense of community: community resilient responses to oppression and change</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="457" to="472" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Urban hazard mitigation: Creating resilient cities</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Godschalk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Hazards Review</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="136" to="143" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Mapping of granite quarries in Kerala, India: a critical mapping initiative</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Sajeev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Alex</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>MadhavGaadgil at School of Legal studies, Cochin University of Science and Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note>Paper presented during the Erudite Lecture Series of Prof</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Landslides -Disaster Risk Reduction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sassa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Canuti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer-Verlag</publisher>
+			<pubPlace>Berlin Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Landslides: Processes, Prediction, and Land Use</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Sidle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ochiai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>American Geophysical Union</publisher>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">A Regional Evaluation of Landslide Prone Areas in the Western Ghats of Kerala, Abstracts of the National Seminar on Landslides in Western Ghats, 29-30 August</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Thampi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mathai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sankar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Thiruvananthapuram, India</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Centre for Earth Science Studies, Government of Kerala</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A preliminary study for a new model of sense of community</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tartaglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="25" to="36" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

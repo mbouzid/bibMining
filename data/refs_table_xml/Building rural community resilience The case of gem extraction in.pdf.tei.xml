@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Building rural community resilience: The case of gem extraction in flood-affected areas of Sri Lanka</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-10-30">30 October 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ananda</forename><forename type="middle">Y</forename><surname>Karunarathne</surname></persName>
+							<email>ananda@geo.cmb.ac.lk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Colombo</orgName>
+								<address>
+									<addrLine>94 Cumaratunga Munidasa Mawatha Colombo-3</addrLine>
+									<postCode>00700</postCode>
+									<country key="LK">Sri Lanka</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><forename type="middle">R</forename><surname>Gress</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography Education</orgName>
+								<orgName type="institution">Seoul National University</orgName>
+								<address>
+									<addrLine>1 Gwanak-Ro Gwanak-Gu</addrLine>
+									<postCode>08826</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Colombo</orgName>
+								<address>
+									<addrLine>Colombo -03</addrLine>
+									<country key="LK">Sri Lanka</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Building rural community resilience: The case of gem extraction in flood-affected areas of Sri Lanka</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-10-30">30 October 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5050238DD32E9C6B819EA86CEB3298DF</idno>
+					<idno type="DOI">10.1016/j.exis.2023.101365</idno>
+					<note type="submission">Received 18 May 2023; Received in revised form 13 October 2023; Accepted 14 October 2023</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Gem mining community resilience (GMCR) Extractive industries Flood disasters Gem mining Social support network legacies Sri Lanka</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Sri Lankan gem mining and extractive industry communities experience enormous amounts of devastation from mass flooding events. Despite the pressing importance of understanding Gem Mining Community Resilience (GMCR) vis-à-vis community flood disaster management, the topic remains under researched. In order to address this gap in the extant literature, this study investigates the resilience of Sri Lankan gem mining communities' social support network legacies (mitigation and adaptation) in response to a 2017 mass flooding event. Survey data were collected from 167 flood-affected gem mining households (GMHs) in fifteen local administrative units (GNDs) located in two Sri Lankan divisional secretariat divisions (DSDs). Social Network Analysis (SNA) is deployed to investigate the changing contours of social support network centralities before, during, and after the flooding event. Results suggest that the social support network legacies of the surveyed communities evolved over different flood-inundation phases in different geographical settings, thus improving GMCR. Flood inundation depth impacted network activities as well. Multi-actor social support networks working in concert with social capital legacies have shaped the processes of resource mobilization and flood victim livelihood revivification. These mitigation and adaptation practices, along with a GMCR framework developed in the study, may impart lessons for local and national policy, as well as for gem mining communities in other developing countries.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Flood disasters have emerged as preeminent hydro-climatological hazards on a global scale. These disasters impact regions that are also renowned for their prominence in mining and extractive industries, though strategies to address resilience connected to these hazards visà-vis these communities remain largely under researched (see <ref type="bibr">IPCC, 2014;</ref><ref type="bibr" target="#b38">Richard et al., 2021)</ref>. Sri Lanka, a developing South Asian country, has been adversely impacted by flood disaster events for decades <ref type="bibr" target="#b10">(Churchill and Hutchinson, 1984)</ref>. During the southwest monsoon season, the west zone catchment of Sri Lanka experiences torrential rains and associated river flooding affecting thousands of people in many lowland areas <ref type="bibr" target="#b29">(Karunarathne and Lee, 2020)</ref>. For example, many local administrative units, or Grama Niladari Divisions (GNDs), located in this zone catchment area were adversely affected by mass flooding events in 2016 and 2017 <ref type="bibr" target="#b28">(Karunarathne and Gress, 2022)</ref>. Likewise, whole Divisional Secretariat Divisions (DSDs), upper administrative levels above the GNDs, such as Kuruwita, Elapatha and Rathnapura, experienced ferocious floods in 2017 <ref type="bibr" target="#b29">(Karunarathne and Lee, 2020)</ref>.</p><p>Disaster researchers now recognize the applicability and importance of social support network legacies and related social capital metaphors to the mitigation of disaster impacts <ref type="bibr" target="#b16">(Fass and Jones, 2017)</ref>. Improving the resilience of vulnerable communities helps to empower them in the face of future disasters. Related to poor, small-scale mining communities in general, the challenges associated with underdeveloped livelihood strategies have come to the fore of research (see <ref type="bibr" target="#b15">Devenish et al., 2023;</ref><ref type="bibr">Hilson et al., 2022;</ref><ref type="bibr">Hilson and Hu, 2022;</ref><ref type="bibr" target="#b37">Owusu, 2019;</ref><ref type="bibr" target="#b22">Hilson, 2002)</ref>. Conversely, there is a conspicuous dearth of research concerning gem mining and its associated themes <ref type="bibr" target="#b9">(Cartier, 2019)</ref>. However, as shall be discussed, natural disaster-related impacts on this sector in Sri Lanka, such as increasing costs due to mine collapse and tunneling, interruption of gem panning and gem-related business, and impacts on workers' households warrant the development of multi-actor, multi-spatial disaster risk mitigation and adaptation practices in the 21st century for all stakeholders involved.</p><p>Sri Lanka is one of the most famous natural gem producers in the world <ref type="bibr">(ICA, 2006;</ref><ref type="bibr" target="#b30">Katz, 2022)</ref>. The country is well known for its naturally mined emerald, beryl, ruby, zircon, topaz, sapphire, and tourmaline <ref type="bibr" target="#b9">(Cartier, 2019;</ref><ref type="bibr" target="#b14">Dahanayake, 1980)</ref>. Sri Lanka, as a low-income developing country, derives significant and much needed foreign capital from its gem exports. Small-scale gem mining and extractive communities, however, are prone to a range of disasters including mass flooding events. Some communities in close proximity to the country's main rivers, for example the Kalu River, are exposed to adverse impacts from flooding.</p><p>The erosion or buildup of resilience may determine the severity of impacts associated with such extreme events (see <ref type="bibr" target="#b32">Luke and Evensen, 2021)</ref>. Resilience has been directly linked with the socio-demographic, economic, and environmental/ecological components of both individuals and communities <ref type="bibr" target="#b6">(Borie et al., 2019;</ref><ref type="bibr" target="#b11">Cutter et al., 2014;</ref><ref type="bibr" target="#b19">Gukurume and Tombindo, 2023)</ref>. Relatedly, if intra-community resilience is strong enough to cope with and recover from disasters, there is necessarily less dependence on external support and resources <ref type="bibr" target="#b44">(Wasserman, and Faust, 1994)</ref>, a key consideration for developing countries and aid agencies alike.</p><p>Regrettably, there is a dearth of studies on disaster resilience in the Sri Lankan context (see <ref type="bibr" target="#b29">Karunarathne and Lee, 2020)</ref>. Further, disaster resilience vis-à-vis communities involved in mining and extractive industries is acutely under researched, particularly given the aforementioned importance of this industry to the economies of some developing countries, to include Sri Lanka (see <ref type="bibr" target="#b31">Kumar et al., 2022;</ref><ref type="bibr" target="#b32">Luke and Evensen, 2021;</ref><ref type="bibr">Tannor et al., 2022 for exceptions)</ref>. Taking the preceding as motivation, the key objective of this contribution is to investigate the actors and spatial patterns associated with the resilience of Sri Lankan gem mining communities (referred to as Gem Mining Community Resilience, or GMCR, from here on) in response to a 2017 mass flooding event. An associated goal is to develop a GMCR framework that may benefit gem mining communities (GMCs) and policy in Sri Lanka as well as in other developing countries going forward. Two research questions guide the study: What are the spatial and temporal patterns associated with GMCR over different flood inundated areas? Is GMCR associated with flood intensity (inundation depths)?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Literature review</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Community resilience</head><p>Disaster resilience empowers individuals, groups of people, and communities, particularly those who are consistently vulnerable to potential natural disasters to more effectively and efficiently rebound from these events. Indeed, the concept of resilience is multi-faceted, multidimensional, and often intertwined with many aspects of communities and their wellbeing <ref type="bibr" target="#b31">(Kumar et al., 2022)</ref>. These aspects include their demographic characteristics, education levels, economic backgrounds, social networks and trust, characteristics of dwelling units, and ecological conditions <ref type="bibr" target="#b6">(Borie et al., 2019)</ref>, all of which in turn define the potential resiliency of people and their communities. Unsurprisingly, more advanced and improved resilience helps to minimize disaster-related consequences <ref type="bibr" target="#b32">(Luke and Evensen, 2021)</ref>.</p><p>According to W.N. Adger, "social resilience is the ability of groups or communities to cope with external stresses and disturbances as a result of social, political and environmental change" <ref type="bibr">(Adger 2000: 347)</ref>. In the extant literature, the term "community resilience" has a meaning similar to "social resilience." For instance, according to <ref type="bibr">Cutter et al. (2014: 65)</ref>, "Resilience, especially the concept of community resilience is becoming the de facto framework for enhancing community-level disaster preparedness, response, and recovery in the short term, and climate change adaptation in the longer term." Both definitions highlight improving the ability of groups when preparing for, responding to, and recovering from the negative consequences of natural disasters. Accordingly, research has demonstrated that communities build resilience when they develop the ability to cope with unexpected events (e.g., economic crises) or natural calamities <ref type="bibr" target="#b1">(Adger, 2003;</ref><ref type="bibr" target="#b11">Cutter et al., 2014;</ref><ref type="bibr" target="#b19">Gukurume and Tombindo, 2023)</ref>. The livelihoods and socioeconomic conditions of extractive communities are constantly challenged by, and vulnerable to, such unexpected climate change related disasters (see <ref type="bibr" target="#b17">Gatsinzi and Hilson, 2022;</ref><ref type="bibr" target="#b21">Hatlebakk, 2023;</ref><ref type="bibr">Hilson and Hu, 2022;</ref><ref type="bibr" target="#b43">Tannor et al., 2022)</ref>. Unpacking and analyzing these challenges provide partial impetus for the present study.</p><p>The notion of resilience has also been intertwined with the concept of "ecological resilience," which implies that community resilience is, in turn, dependent upon the ecological and environmental conditions and resources characterizing communities <ref type="bibr" target="#b0">(Adger, 2000</ref><ref type="bibr" target="#b2">(Adger, , 2006))</ref>. This attention to the environment and resources provides clear impetus for the present contribution because gem mining is crucial to the livelihood strategies in the communities in the study, and they are challenged by flood inundations. Indeed, not only have mass flooding events been increasing in regularity in both the northern and southern hemispheres, but they have been increasing in intensity, both of which may be connected to global climate change (consider, for example, the 2021 German flood; the 2021 record rainfall in Greenland's mountainous areas; the 2022 Pakistan flood; and the 2023 Libyan flood) (IPCC, 2014). In the Sri Lankan context, author field observations likewise noted escalating levels of rainfall and unexpected torrential rains over the last three years. There is clear consensus that "disaster resilience enhances the ability of a community to prepare and plan for, absorb, recover from, and more successfully adapt to actual or potential adverse events in a timely and efficient manner, including the restoration and improvement of basic functions and structures" <ref type="bibr">(Cutter et al., 2014: 65;</ref><ref type="bibr">see, also, Cutter et al., 2010)</ref>. These aspects deserve significant scrutiny where the industry under study is concerned, particularly given the frequent occurrence of disasters associated with the extractive and mining industries (see <ref type="bibr" target="#b33">Lyra, 2019;</ref><ref type="bibr" target="#b34">Milanez et al., 2021)</ref>.</p><p>Disciplines from Geography, Economics, Demography, Sociology, and many Natural Sciences deploy different conceptualizations of resilience. A connection to resilience and the creation of more ecologically responsive global value chains in Economic Geography, for example, will be discussed vis-à-vis results presented later. Place-based and geographic approaches to resilience are also useful when studying a range of determinants in and/or across locales (see <ref type="bibr" target="#b13">Cutter and Finch, 2008)</ref>. However, there are only a limited number of studies that illustrate the geographical spatiality of resilience within the context of extractive and mining industries (see <ref type="bibr" target="#b19">Gukurume and Tombindo, 2023;</ref><ref type="bibr" target="#b31">Kumar et al., 2022;</ref><ref type="bibr" target="#b32">Luke and Evensen, 2021;</ref><ref type="bibr" target="#b43">Tannor et al., 2022)</ref>. In general, the extant body of literature stresses that extractive industries have had adverse impacts on the resilience of impoverished populations, and on the environment <ref type="bibr" target="#b15">(Devenish et al., 2023;</ref><ref type="bibr" target="#b19">Gukurume and Tombindo, 2023;</ref><ref type="bibr" target="#b23">Hilson, 2010;</ref><ref type="bibr" target="#b33">Lyra, 2019;</ref><ref type="bibr" target="#b37">Owusu, 2019)</ref>. The focus in the present research is clearly different as the purpose is to assess networks associated with the resilience of gem mining households (GMHs) in the face of a natural disaster. Further, rather than presenting a static analysis, the present study examines the development of networks over the course of the flooding event. A more agent-centered, socially constructed, and spatially cognizant perspective will be highlighted in the ensuring section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Why and how social networks matter in determining community resilience?</head><p>Examining of the characteristics of community support and reciprocal support networks has evolved into one of the most fundamental practices in the epistemology of social network research (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>. Specific to the present study, it is noteworthy that the social network research approach has found application within the domain of extractive industries research, thus underscoring its relevance and versatility in examining various facets of resource extraction and its consequences on human populations (see <ref type="bibr" target="#b39">Rinaldi, 2023;</ref><ref type="bibr" target="#b41">Siakwah, 2017;</ref><ref type="bibr" target="#b42">Sippl, 2015)</ref>. The behavior of agentic individuals and organizations in reciprocal support networks shapes the structures and the characteristics of network topologies. Likewise, characteristics of community networks change with the evolution of reciprocal ties in response to disaster events (see <ref type="bibr" target="#b41">Siakwah, 2017)</ref>. Studies revealed, for example, that collective actions undertaken by community networks help to mold network structures <ref type="bibr" target="#b7">(Broek et al., 2019)</ref>. Salazar-De la Cruz et al. (2020), for example, conducted a seminal study highlighting the intricate governance network that plays a pivotal role in decision-making processes within the fishing oil-related socio-ecological system.</p><p>Network structures are gauged by network size, density, and degree centralization, largely because the locations and behaviors of actors shape the structural properties of their networks (e.g., degree of relations, degree of cohesiveness, how subgroups are interconnected, and degree centralization) <ref type="bibr" target="#b3">(Bodin and Crona, 2009)</ref>. In contrast, personal ties shape the nature of network characteristics and properties <ref type="bibr" target="#b44">(Wasserman and Faust, 1994)</ref>, important in part because network scholars are often concerned with the nature of network topologies in their analyses (see <ref type="bibr" target="#b36">Newman, 2010)</ref>. As we shall see, reciprocal support networks, then, help to buttress the social capital critical to community resilience, including the bonding, bridging, and linking mechanisms that create synergistic ties within and between communities and organizations over time (see, also, <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>. Key to the present study, understanding networks can play a pivotal role in comprehending various aspects specifically associated with gem mining in Sri Lanka. Along a similar vein, Rinaldi (2023) deployed narrative network analysis to an understanding of fracking in Columbia.</p><p>As alluded to in the previous section, location and space also matter, and this involves observing agentic behavior situated in embedded social relations in and across space. For example, the nature of social interactions differs between urban and rural areas (see <ref type="bibr" target="#b11">Cutter et al., 2014)</ref>. In the Sri Lankan context, rural societies, can muster dense social interactions that prove invaluable when absorbing external socks associated with unexpected disasters. In other words, rural societies may exemplify denser reciprocal support network legacies than those found in urban settings (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022</ref>, for a Sri Lankan example). Having said this, the density of reciprocal support networks may still vary among different rural spatial units. The resilience of a community, for example, is often influenced by industrial practices and associated impacts on livelihoods across different geographic regions (see <ref type="bibr" target="#b32">Luke and Evensen, 2021)</ref>. For <ref type="bibr" target="#b27">Johnston and Pattie (2011)</ref>, a neighborhood effect dramatically shapes community networks and their typologies.</p><p>Another consideration pertains to spatial selection, for example areas where people choose to live. This is generally based on socioeconomic opportunities and demographics, and to some degree cognitive aspects such as ideologies and attitudes. One of the best examples of the influence of spatiality is what DiMaggio et al. ( <ref type="formula">2012</ref>) called "cultural networks," or networks formed between cultural groups in very close proximity to each other with similar characteristics. These cultural networks also shape reciprocal support networks. A study by <ref type="bibr" target="#b43">Tannor et al. (2022)</ref> focusing on households affected by extractive industries highlights the onus on both affiliated government authorities and extractive companies to allocate resources for the provision of alternative livelihoods and the enhancement of infrastructure at the local level, thereby fortifying the resilience of these communities. There is, however, also the possibility for agentic behavior within networks <ref type="bibr" target="#b44">(Wasserman and Faust, 1994)</ref>. This manifested in reciprocal support networks in rural areas impacted by extreme flooding in Sri Lanka; residents, working in concert with firms, and both government and non-governmental organizations, increased the resilience potential of their locations over time (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Data and methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Study areas</head><p>This study examined two Divisional Secretariat Divisions (DSDs), Elapatha and Kuruwita, which are situated in Sri Lanka's Rathnapura District. The Rathnapura District, located in Sri Lanka's Saparagamuwa Province, is one of the world's most famous "gem cities." The DSDs were affected by a 2017 mass flooding event. Field work was subsequently conducted in 15 local administrative units, or Grama Niladari Divisions (GNDs), seven in Kuruwita and eight in Elapatha.</p><p>Kuruwita GNDs are located in very close proximity to the Kuru River, one of the main tributaries of the Kalu River. Local estimates suggest that more than 75,000-100, 000 people are engaged legally and illegally in the gem mining industry in the Rathnapura District. Roughly 3000-5000 gem mining licenses are issued annually by the National Gem and Jewelry Authority (NGJA) per year (National Gem and Jewelry Authority, 2021). Regulations and procedures governing small-scale mining and licensing in Sri Lanka were codified with the establishment of the Gem Mining and Jewelry Act No. 50 in 1993. In order to start up a gem mine, an applicant must follow a formal application process. First, the land owner should obtain an application from the NGJA (the District Office in the case of Rathnapura) and apply for a license with a copy of the deed for the land and supporting documentation showing the ownership history of the land stretching back ten years. Second, after screening the application, the NGJA informs the land owner of a date for a field inspection. After a field inspection is made by an enforcement officer (EO) from the NGJA, the EO posts a public notice asking for any public objections to the proposed mine. Objections should be made within 14 days. After evaluation of all the public feedback by the EO, the application is handed over to a legal officer to verify the land ownership. After verification of the land ownership, restrictions on the public/private use of infrastructure and on-site safety are reviewed. Barring any infractions, approval is given by the Regional Manager (NGJA, Rathnapura) and the Chairperson of the NGJA in Colombo and a license is issued.</p><p>Elapatha DSD is very famous for its high levels of poverty. Some of the country's most impoverished people reside in this area. These individuals face a multitude of challenges in their daily lives, challenges compounded by recurring natural disasters like flooding and landslides. GNDs in Elapatha experience flooding because of their proximity to the Kalu River. All the study areas are situated in a wet-zone catchment area that experiences torrential rains during the southwest monsoon season from May to September each year. In fact, all of the study areas engaged in gem mining are located in high rainfall intensity areas (see Fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Data</head><p>Data were collected from 167 flood-affected GMHs (Table <ref type="table" target="#tab_0">1</ref>), 77 in Kuruwita DSD (Kitulpe-8, Ihalagama-9, Galukagama-10, Theppanawa-9, Pahalaa Kuruwita-12, Miyanadeniya-10, Pahalagama-9, and Ovitigama-10), and 90 in Elapatha DSD (Kahawatta-9, Samangama-11, Amuwela-12, Dambuluwana-10, . A household survey was conducted over a ten-month period from January to October of 2022. Permission for data collection was obtained from related Grama Niladari Officers (GNOs), and consent from every respondent was obtained prior to the survey distribution. The survey solicited information pertaining to the socioeconomic and demographic aspects of the households and flooding impacts on gem mining activities. In addition, flood inundation (i.e., duration and depth), and social network data connected to the 2017 flooding event was collected. The sample was generated by targeting GMHs in each DSD/GND impacted by the mass flooding event. A simple random sampling technique was then used to select a sample of GMHs. In this way, each and every flood-affected household in the targeted study areas had an equal probability of being included in the survey sample (see <ref type="bibr">Bryman, 2012: 190)</ref>. A noteworthy field observation was that workers in these rural, flood-affected GMHs were very supportive of the study effort, and were quite forthcoming with information.</p><p>Roughly 40-50 min were spent per individual household (e.g., to complete one questionnaire). This time allotment also covered brief semi-structured interviews that were conducted on site. Informants were asked to name the individuals and/or organizations that provided support and assistance in the wake of the flooding event, namely the provision of information, shelter, and food; evacuation support; support for cleaning contaminated households and public places; and emotional support.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Methodology</head><p>This study deploys Social Network Analysis (SNA). Most commonly, the degree distribution (degree centrality) of networks is identified as a basic measurement of network size and structure, and indicates actors' positions in networks <ref type="bibr" target="#b44">(Wasserman and Faust, 1994;</ref><ref type="bibr">Faas and Jones, 2017)</ref>. Accordingly, degree centrality values for GMHs were tabulated to analyze flood disaster network performance, as these detailed the number of links associated with individual actors. The density of one's network also determines the amount or size of support and resource sharing <ref type="bibr">(Faas and Jones, 2017)</ref>. The average number of ties per node represents the average degree of a particular network <ref type="bibr" target="#b44">(Wasserman and Faust, 1994)</ref>. Degree centrality describes the number of incoming and outgoing ties of organizational actors, and can be calculated using the following formula (see <ref type="bibr">Borgatti et al., 2013: 165;</ref><ref type="bibr" target="#b29">Karunarathne and Lee, 2020)</ref>.</p><formula xml:id="formula_0">d i = ∑ j x ij (1)</formula><p>The d i depicts the degree centrality of actor i, whereas x ij represents the elements of the adjacent matrix x. The summation of row values of each and every observation unit (e.g., households) indicates their degrees. All the collected network data were fed into an Excel sheet to make network matrixes for each GND. These data were then imported into the UCINET software. UCINET 6.679 <ref type="bibr" target="#b4">(Borgatti et al., 2002)</ref> was used for network data analysis. Finally, network degree centrality values for each GMH were normalized using the following formula (2). Min-Max normalization ensures the resizing and rescaling of all the observational values into one scale (e.g., analogous). In other words, normalized values are scaled between 0 and 1. Eq. 2 was used to normalize the empirical social network data <ref type="bibr" target="#b11">(Cutter et al., 2014;</ref><ref type="bibr" target="#b20">Hahn et al., 2009)</ref>.</p><formula xml:id="formula_1">index sov = s ov -s min s max -s min (2)</formula><p>Where, s ov is the observed value of the variable (e.g., degree centrality) linked to household s (e.g., observation s), and s max and s min are maximum and minimum values of degree centrality of the GMH, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Empirical results and discussion</head><p>As a brief introduction to this section, the results shall indicate that culturally embedded gem mining community social support networks in rural flood-inundated areas augmented by both internal and external support helped GMHs to recover from the detrimental impacts of the mass flooding event. The 15 inundated GNDs deployed different kinds of support via social support network actors and related organizations. These networks and their resource mobilization legacies evolved over the course of the flooding event, and may potentially be more influential in reducing flood vulnerabilities going forward. Based on the analyses, a GMCR framework is also introduced. The findings of the study and the potential importance of the framework are summarized and discussed in more detail in the following sections.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Social support network legacies and improving GMCR</head><p>The first research question examines the spatial and temporal patterns associated with GMCR in different flood-inundated areas. Findings suggest that denser social support networks were recorded in different flood-inundated areas (see Fig. <ref type="figure" target="#fig_1">2</ref>). The Support Network Degree centrality exemplifies the size and nature of how the flood-inundated GMHs intertwined with community support reciprocal networks and their resource mobilizations. In particular, field work unearthed a range of reciprocal helping ties that supported flood-inundated GMHs in terms of providing food, water, temporary shelters, and other basic needs before, during and after flooding events. A higher extent of resource mobilizations was observed at Theppanawa and Pahalagama GNDs. Differences in degree centralities between Kuruwita DSDs and Elepatha DSDs will be discussed shortly.</p><p>An interesting additional piece of information gleaned from on-site Source: Authors' survey. * 1USD = 365LKR at the time of this writing.</p><p>interviews was that some wealthy gem businesspeople also support GMHs at different scales and in varying capacities. Interviews and field observations further indicated that native ethos, including norms, customs, beliefs, religious practices, values, and trust shaped and revived the flood-affected gem mining communities. As described in other research, these aspects of community life are very pervasive and rich in some rural, flood-affected areas in Sri Lanka (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>. The social support network legacies observed in the surveyed areas were tightly interlaced with these institutions. More specifically, robust reciprocal support networks, including pragmatic resource mobilization, evacuation plans, and the provision of shelters, food, and basic needs, were observed in the rural flood-inundated areas, and these functions were augmented by locally embedded knowledge practices and social capital. Kuruwita and Elapatha DSDs have been inundated by torrential rains for many years, and many GNDs, such as Raddella, Haldola, Karangoda, and Dambuluwana in Elapatha DSD, and Ihalagama, Galukagama, Ovitigama, Miyanadeniya and Pahala Kuruwita in Kuruwita DSD, have reported being stranded after mass flooding events. In fact, the majority of respondents mentioned that the low-lying areas of the Kalu River and the Kuru River's flood plains have been adversely affected by mass flooding events for decades. Many rural, low-lying areas can be completely submerged after heavy rains. Regarding a local-level response to these adverse situations, the villagers have their own traditional practices, including flood alert mechanisms, evacuation plans, sheltering support, and resource mobilization plans, that remain available to flood victims in emergency circumstances. A particularly dangerous situation arises when GMHs are encircled and finally deluged by floodwaters. In such circumstances, people should immediately move away from their residences to a safer place until the floodwaters recede. Network supporters -volunteers, friends, relatives, and villagers, use their own boats to evacuate anyone in need, and create makeshift flood relief facilities for victims (see Fig. <ref type="figure" target="#fig_2">3</ref>). Of equal importance, flood victims also require financial assistance from reciprocal networks because their livelihoods are interrupted. Livelihood strategies are of paramount importance in the extractive industries given an emphasis on manual labor (see <ref type="bibr" target="#b23">Hilson, 2010;</ref><ref type="bibr" target="#b37">Owusu, 2019)</ref>. This will be discussed in greater depth shortly.</p><p>As previously mentioned, the present study examines transitions associated with network architectures over time rather than providing a static picture. This study specifically considers three main phases associated with flood inundations, namely before, during, and after the events. Generally, "before" denotes the time before rushing floodwaters breach the household; "during" includes the time experiencing the inundation; and "after" refers to when the river flow becomes normal and GMHs are no longer inundated. Inundation depths and inundated days necessarily vary from place to place, meaning that these terms need to be contextualized by place. As a brief aside, mining activities may exert a notable influence on the occurrence and severity of flooding, in part by depositing massive sediment loads, particularly in developing regions (see <ref type="bibr" target="#b38">Richard et al., 2021)</ref>.</p><p>Referring back to Fig. <ref type="figure" target="#fig_1">2</ref>, the evolutionary patterns of social support and reciprocal networks in responding to different flood inundation phases are evident. Note that households in different areas reported  receiving different levels of support during the three phases of inundation. In general, extensive support legacies were reported during and after the inundation phases compared to before the inundation phase. The Kuruwita GNDs of Theppanawaa, Pahala Kuruwitaa, and Pahalagamaa exemplified quite high network degree values compared to the Raddellaa, Haldolaa, Karangodaa, Dambuluwanaa, Amuwalaa, and Samangamaa GNDs in the Elapatha DSD despite the presence of many support network actors discussed by respondents in Elapatha GNDs. This is in accordance with network theory; in fully saturated networks, network densities equal to one in this type of situation are very rare even in very small networks <ref type="bibr" target="#b44">(Wasserman and Faust, 1994)</ref>. Raddella, Haldola, Karangoda, Dambuluwana, and Amuwala GNDs manifested significantly larger numbers of network actors in all the flood inundation phases compared to the rest of the GNDs. In contrast, their network ties numbered comparatively lower than the rest of the GNDs. Some extractive industry-based studies also found that actor collaborations matter in terms of improving community resilience <ref type="bibr" target="#b19">(Gukurume and Tombindo, 2023;</ref><ref type="bibr" target="#b31">Kumar et al., 2022)</ref>. Here, we see more acutely the spatial differentiation associated with these networks, something that may benefit attempts to more equitably address resiliency building efforts going forward.</p><p>One contribution stemming from these results is the discovery of changes in network degree centralities over different phases associated with mass flooding events in gem mining communities. In some areas, the network degree centrality values slightly increased in the "during" phase compared to the preceding phase (e.g., Kithulpe). Data unearthed that during flood inundation events, many residents stayed with relatives or friends located in non-inundated or upper highland areas. Other residents stayed in community centers, temples, and schools. These strategies presented additional opportunities to meet with aid assistants such as volunteers and GNOs critical to mobilizing necessary resources. In this sense, their networks were highly embedded and integrated during this phase. This was also exemplified in a study of artisanal and small-scale mining (ASM) <ref type="bibr" target="#b42">(Sippl, 2015)</ref>.</p><p>These networks differ from those comprising traditional social capital in the affected areas. Formal life ties in Sri Lanka are much denser than ties formed due to the flooding events, particularly in rural areas (see <ref type="bibr" target="#b29">Karunarathne and Lee, 2020)</ref>. A majority of GNDs exhibited the highest network densities in the "after" phase. A range of helping and reciprocal activities, such as moving belongings from affected GMHs and the cleaning of contaminated houses and public places, collaboratively helped to re-stablish livelihood practices related to small-scale gem mining. Many volunteers are involved with these activities, particularly in rural areas. Therefore, it is somewhat understandable that network degree centralities indicated some improvements when comparing the "before" and "after" phases. This is also potentially important to both corporate and government policy related to the gem mining industry specific to these regions. In brief, labor is inherently tied to the mining sector in the areas under study, and sectoral resilience is in turn tied to the economic fate of the region <ref type="bibr" target="#b35">(Navarro-Espigares et al., 2012)</ref>. In Sri Lanka, this has implications for national-level economic performance as well given the sector's contribution to GDP. This has apparently not gone unbeknownst to local authorities and business interests.</p><p>In the "during" and "after" phases, results also identified key players in support networks that acted in order to revive the livelihoods of flood victims in GMCs. GNOs or local administrators; volunteers; armed forces officials and police; friends, neighbors, relatives, NGOs/INGOs, and temples, all emerged as significant actors. Indeed, dense resource mobilizations through reciprocal support networks were observed in almost all the sampled GNDs (see Fig. <ref type="figure" target="#fig_1">2</ref>). Likewise, bonding, bridging, and linking social capital mobilization legacies were also observed during and after flooding events in some inundated GNDs in Kuruwita and Elapatha DSDs (see, also, <ref type="bibr" target="#b28">Karunarathne and Gress, 2022</ref>). GMHs, for example, are interlaced with family members and relatives (bonding), with villagers and their organizations (bridging), and with outsiders, including gem industry businesspersons (linking), making their networks more robust. Actor Network Theory (ANT) likewise uncovered locally embedded and international relationships specific to responses to oil industry impacts in Ghana (see <ref type="bibr" target="#b41">Siakwah, 2017)</ref>.</p><p>However, Raddella, Haldola, Karangoda, Dambuluwana, and Amuwala GNDs showed lower network densities during all flood inundation phases (see Fig. <ref type="figure" target="#fig_1">2</ref>). Field observations indicated the main reason for this was that even though a range of network actors were involved with resource mobilization activities, they were not all equally distributed among the affected GMCs. In short, they did deploy their known networks, but to assist their friends, relatives, and neighbors rather than only GMHs in all the impacted GMCs. One implication that can be derived from this is that investigating the embedded geographies of support network densities among geographically varied rural settings is a worthwhile endeavor. Local embeddedness and networks, for example, also helped to mitigate loss connected to mining-induced displaced communities in Zimbabwe (see <ref type="bibr" target="#b19">Gukurume and Tombindo, 2023)</ref>. It may be incumbent on mining organizations of any size, therefore, to step in and fill gaps that may impede the mobilization of aid and assistance to GMHs.</p><p>De facto helping ties can be identified as the primary factor useful for improving and securing GMCR in an overarching framework (Fig. <ref type="figure" target="#fig_3">4</ref>). There are few extant studies on support network legacies and their densities in the context of community disaster resilience covering varied geographical domains (see <ref type="bibr" target="#b29">Karunarathne and Lee, 2020)</ref>. In the rural flood disaster management context of Sri Lanka, support network legacies have become a panacea of sorts, an expedient and locally embedded mode of healing victims' flood disaster-related wounds. Helping others in times of disaster events like flooding is indeed enormously useful in revivifying flood-affected GMHs and their livelihoods in the rural context, and assistance networks and social capital legacies are in turn fostered by a "native ethos" and altruism (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>. However, support should not be grounded in these embedded local ties alone; additional aid is required to fully undertake resilience-oriented activities. Taken together, then, GMCR should be multi-actor, and multi-spatial, and community-based activities embedded in larger-scale, national-level disaster impact mitigation strategies.</p><p>The GMCR framework (Fig. <ref type="figure" target="#fig_3">4</ref>) built out via on-site interviews and field observation demonstrates the in-situ adaptation and livelihood strategies of GMHs fostered by their knowledge practices and embedded reciprocal support network legacies. Conversely, the challenges facing GMHs and GMCs, for example mass-scale gem mining activities by those politically empowered in the gem business, unfair pricing for GMHs' gemstones by powerful elites in the sector, competing demand for synthetic gemstones, natural disasters like flooding, and related perturbations exacerbated by mining practices, have to be adequately addressed in order to ensure sustainable, small-scale gem mining and extractive industrial practice in Sri Lanka. This is in line with the most recent work being done in Economic Geography in relation to resilience, regional development, and the creation of more ecologically responsible global value chains. <ref type="bibr" target="#b18">Grillitsch and Asheim (2023)</ref>, for example, build out an agentic-oriented framework centering on iteration (agentic behavior embedded over time in communities), projectivity (the possibility to change agentic behavior), an impetus to perform practical evaluation, and the resulting adaptation (resilience to the pre-crisis norm) or adaptability (resilience revolving around path extension). The iterative behavior is clear in these Sri Lankan GMHs, but there is potential for projectivity (i.e., change) based on both endogenous and exogenous impacts. A practical evaluation would help to formally address the embedded worst practices associated with the industry at the local level, optimistically moving past mere adaptation to the creation of more responsible gem mining GVCs via adaptability.</p><p>The GMCR framework may help authorities to understand the myriad obstacles faced by GMHs on the one hand, and the activities deployed to meet challenges on the other. Indeed, organizational networks also played a cardinal role in reviving flood affected livelihoods vis-à-vis flood disaster management in both rural and urban floodaffected areas (see <ref type="bibr" target="#b28">Karunarathne and Gress, 2022)</ref>, and GMCs appear to be similar in this regard. Organizational networks in GMCs intertwined with community reciprocal support networks in terms of providing many of the basic needs for flood victims. Community level organizations, government organizations, including armed forces and local and foreign non-governmental organizations (NGOs), collaboratively worked to assist GMCR. Augmenting the aforementioned local institutional architecture, these organizations play pivotal roles during and after flood disaster events, thus contributing to potential post-event effectiveness (see <ref type="bibr" target="#b32">Luke and Evensen, 2021)</ref>. Therefore, various network densities examined over the course of disaster events provide clues pertaining to more effectual and efficient, multi-actor resource mobilization and necessary reciprocal activities that should be carried forth into the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">How has flood intensity impacted and shaped GMCR?</head><p>The extant body of literature has shown that natural disasters have shaped social support network behaviors, social capital accumulation, and resource mobilization <ref type="bibr" target="#b29">(Karunarathne and Lee, 2020)</ref>. The second RQ put forth in the present study inquires as to whether the intensity of disaster events (i.e., flood inundation depths) may also reduce access to disaster-affected areas and therefore impede GMCR. Results show that different flood inundation depths did indeed shape the social network centralities of support networks (see Fig. <ref type="figure" target="#fig_1">2</ref>). For example, gem panning activities in the Kalu River have contributed to an embedded population of expert swimmers, which, in turn, have helped to manage reaction to the mass flooding events and rushing floodwaters.</p><p>As also reflected in Fig. <ref type="figure" target="#fig_1">2</ref>, some Elapatha GNDs, such as Raddella, Haldola, Karangoda, and Dambuluwana experienced very high inundation depths <ref type="bibr">(i.e., 15, 13.26, 11.37, and 12.52 feet, respectively)</ref>, while the reciprocal support network centralities depict rather low values compared to the rest of the GNDs. However, at high inundation levels, all the actors were not networked with each other all the time. On the one hand, community-level support network activities were impeded and jeopardized by the rushing floodwaters in the "during" phase of the flooding event. This may explain any reduction in the support of reciprocal activities and their network centralities. On the other hand, theoretically, the reduction in network densities may be attributable to a lower number of network linkages among a larger number of network actors (see, also, <ref type="bibr" target="#b44">Wasserman and Faust 1994)</ref>. Raddella, Haldola, Karangoda, and Dambuluwana GNDs, for example, had a larger number of support network actors yet relatively low numbers of ties among them. As mentioned earlier, the inundation depth impacted the support network activities and helped to determine the network densities (Fig. <ref type="figure" target="#fig_1">2</ref>). Other research has also shown that the properties and distinctive characteristics of support networks are frequently molded by intra-network dynamics <ref type="bibr" target="#b42">(Sippl, 2015)</ref>.</p><p>Field observations and interviews helped to build out associated narratives. According to respondents, almost all of the surveyed GMHs were adversely impacted by the mass flooding event in one way or another, whether gem mining, conducting gem-related business, gem panning, tunneling, damage to their homes, or a combination of all five aspects (see Fig. <ref type="figure" target="#fig_4">5</ref>). People in the low-lying GNDs of the down-valley areas of the Kalu River, for example, experience more frequent flooding events, especially during the annual southwest monsoon period from May to September. People in these areas have been managing flood disasters to varying degrees of efficacy for decades (see <ref type="bibr" target="#b29">Karunarathne and Lee, 2020)</ref>. In particular, their knowledge practices associated with managing flooding events, or "Traditional Social Capital" (TSC), have enabled them to ameliorate many adverse consequences of flood disasters, and to more effectively revive flood victim's livelihoods. These narratives indicate that community reciprocal support networks matter when mobilizing resources and improving GMCR, much as they have in other adversely impacted areas for quite some time. Again, however, these embedded networks should not preclude the involvement of corporate, government, and NGO participation in GMCR.</p><p>More importantly, taken in conjunction with results presented earlier (see Fig. <ref type="figure" target="#fig_1">2</ref>), inundation depths lead to different levels of impacts and consequences for different gem mining-related activities in both of the DSDs. As shown in Fig. <ref type="figure" target="#fig_4">5</ref>, GMHs in Elapatha were more severely impacted than those in Kuruwita. While housing impacts were serious, but somewhat less pronounced in Kuruwita by way of comparison, gem mining activities in both regions were negatively impacted to a serious degree. The GMCR framework forwarded earlier might help to focus efforts on revivifying both local households and local industry in these regions with the end goal of improving both disaster and economic resiliency over the longer term.</p><p>As previously mentioned, many GMHs have their own (wooden) boats that have enabled them not only to manage climate change-driven mass flooding events, but also to ensure and revivify GMC livelihoods. GMHs consider their wooden boats to be precious assets. Informants suggested that wooden boat legacies have also helped them to improve their GMCR for decades. Proponents of resiliency incline that localized efforts play a pivotal role in mitigating the adverse effects caused by industrial activities <ref type="bibr" target="#b32">(Luke and Evensen, 2021)</ref>. Here, we suggest that these locally embedded assets increase the likelihood of GMC resiliency success. <ref type="foot" target="#foot_0">1</ref> In turn, community resilience contributes to sectoral resiliency, which in turn builds out regional economic resiliency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Concluding remarks</head><p>This study deployed Social Network Analysis to examine 167 floodaffected households involved in gem mining in Sri Lanka's Elapatha and Kuruwita DSDs and their disaster risk management networks before, during, and after the major flooding event that occurred in 2017. Value added from the contribution included the discovery of changes in network degree centralities over different phases associated with mass flooding events, and associated actors involved in GMCR; the unearthing of impacts to GMCR stemming from the intensity of a disaster event (i.e., inundation depths); and the development of a GMCR framework.</p><p>Results indicated that socially and culturally embedded reciprocal support activities and resource mobilizations among flood victims helped to improve the resilience of their communities, but that these networks were especially effective if accompanied by outside support from the government, corporate entities, and NGO actors. The GMCR framework offered highlighted both the presence of adverse situations and actors that detrimentally affect GMCs and GMCR. It emphasizes the importance of proactive measures rather than reacting passively to these challenges. Corporate, aid, and governmental entities acting at multiple spatial scales can use this information to create reactive agendas in advance of disaster events.</p><p>Results suggested that reciprocal support networks evolved over the course of different flood inundation phases. In particular, for the floodaffected gem mining communities in Sri Lanka, local GMCR via social capital and support networks should be incorporated into the nationallevel disaster risk reduction (DRR) policies. In this regard, the GMCR framework may hold promise for disaster-affected communities located in proximity to extractive industries in other LDCs. The impetus to do so was made clear in the introduction. As described in the results, an agentic-oriented framework emanating from Economic Geography <ref type="bibr" target="#b18">(Grillitsch and Asheim, 2023)</ref> and centering on embedded agentic behavior, projectivity (the possibility to change agentic behavior), the necessity to perform practical evaluations, and the resulting adaptation (resilience to the pre-crisis norm) or adaptability (resilience revolving around path extension), mirrors several of the conclusions drawn in the present work. The present contribution, by way of comparison, however, more concretely highlighted the who, the when, and the what associated with change and resilience specific to the gem mining industry and GMCs in the two regions studied.</p><p>One of the key shortcomings of this study is that time and budget considerations meant that one hundred percent of the flood-affected GMHs in the study areas could not be included in the data collection effort. The scope of the data collection effort, in other words, would have benefited from additional breadth. Additional interview data from corporate, government, and NGO actors would have also helped to build out a more inclusive picture of disaster resilience in the impacted areas under study. In the future, researchers may wish to address these limitations in conjunction with research into natural disaster resilience scenarios impacting extractive industries in Sri Lanka and elsewhere. Future research may also wish to deploy, and possibly build upon, the GMCR framework, potentially in connection with the creation of more ecologically responsible global value chains, all of which impact GMHs and GMCs. Finally, future work could more closely examine financial impacts on extractive industries vis-à-vis natural disasters and resulting response and resilience-building efforts. This effort could then be scaled up, from the individual, to the household, to the corporate, to the community, to the regional and national levels, in order to better understand equity-related issues associated with resilience, particularly in LDCs.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Relative locations of study areas and surveyed GMHs. Source: Authors' cartographic compilation, 2023.</figDesc><graphic coords="3,308.58,537.60,252.00,179.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Spatial and temporal patterns of resilience (support network degree centralities) for different DSDs/GNDs before, during, and after flooding phases, and average inundation depths (Note: average network degree centrality values of each observation unit at each phase are normalized). Note: K = GNDs in Kuruwita DSD; all other DSD in Elepatha GND. Source: Authors' survey.</figDesc><graphic coords="5,40.20,55.44,245.89,175.93" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Boats and their role in GMCR. Source: Authors' field observations.</figDesc><graphic coords="5,141.62,485.08,312.00,231.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Gem mining community resilience (GMCR) framework. Source: On-site data collection and field observations.</figDesc><graphic coords="6,308.58,512.79,252.00,203.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Technical impacts of a mass flooding event on gem mining (respondents' experiences). Source: Prepared by authors based on data collected from GMHs.</figDesc><graphic coords="7,309.20,55.43,245.89,164.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of sampled respondents in GMHs (averages).</figDesc><table><row><cell>Key components</cell><cell>Kuruwita-DSD (%)</cell><cell>Elapatha-</cell></row><row><cell></cell><cell></cell><cell>DSD</cell></row><row><cell>Gender</cell><cell></cell><cell></cell></row><row><cell>Female</cell><cell>50.9</cell><cell>51.5</cell></row><row><cell>Male</cell><cell>49.1</cell><cell>48.5</cell></row><row><cell>Marital Status</cell><cell></cell><cell></cell></row><row><cell>Married</cell><cell>78.0</cell><cell>76.2</cell></row><row><cell>Single</cell><cell>20.5</cell><cell>21.8</cell></row><row><cell>Other (divorced, separated and or widowed)</cell><cell>1.5</cell><cell>2.0</cell></row><row><cell>Employment Environment</cell><cell></cell><cell></cell></row><row><cell>Employed</cell><cell>60.5</cell><cell>58.8</cell></row><row><cell>Unemployed (including students and infants)</cell><cell>39.5</cell><cell>41.2</cell></row><row><cell>Monthly income (LKR)*</cell><cell>27,362.00</cell><cell>22,146.00</cell></row><row><cell>Educational Background</cell><cell></cell><cell></cell></row><row><cell>No schooling</cell><cell>7.5</cell><cell>9.8</cell></row><row><cell>Below primary</cell><cell>62.0</cell><cell>64.0</cell></row><row><cell>Primary and secondary</cell><cell>28.5</cell><cell>25.4</cell></row><row><cell>Above secondary</cell><cell>2.0</cell><cell>0.8</cell></row><row><cell>Age groups</cell><cell></cell><cell></cell></row><row><cell>&lt;15</cell><cell>6.5</cell><cell>8.1</cell></row><row><cell>16-24</cell><cell>12.8</cell><cell>11.0</cell></row><row><cell>25-40</cell><cell>32.2</cell><cell>30.0</cell></row><row><cell>40-64</cell><cell>41.5</cell><cell>43.8</cell></row><row><cell>&gt;65</cell><cell>7.0</cell><cell>8.1</cell></row><row><cell>Active social organizations</cell><cell>09</cell><cell>12</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Respondents also indicated that two factors -debris in floodwaters and the lush tree canopy, impeded accessibility via land, water, and air in the</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2017" xml:id="foot_1"><p>flooding events. Recalling Fig.2, variations in reciprocal support networks and their measures were observed in different geographical settings. This may stem from geographical variations in the multi-facet composite social vulnerability indexes (MFCSVI) investigated in the same study areas (seeKarunarathne and  Lee, 2020a). In the present study, challenges associated with resilience assume paramount significance, particularly in the context of extractive industries<ref type="bibr" target="#b15">(Devenish et al., 2023;</ref> Luke and Evensen,2021).</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors would like to extend their deep appreciation to <rs type="person">Mr. Kanishka Abeynayaka</rs>, Assistant Director, NGJA, all the household survey participants, and the <rs type="institution">Grama Niladari Officers (GNOs)</rs> who participated in the household survey.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Competing Interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social and ecological resilience: are they related?</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="347" to="364" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Social capital, collective action, and adaptation to climate change</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econ. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="387" to="404" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Vulnerability</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="268" to="281" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The role of social networks in natural resource governance: what relational patterns make a difference?</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Crona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="366" to="374" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Ucinet 6 for Windows: Software for Social Network Analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Borgatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Everett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Freeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analytic Technologies</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Harvard, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Analyzing social networks</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Borgatti</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">SAGE publication Ltd</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Everett</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">SAGE publication Ltd</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">SAGE publication Ltd</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mapping narratives of urban resilience in the global south</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Borie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ziervogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hyams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="203" to="213" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The influence of network structure and prosocial cultural norms on charitable giving: a multilevel analysis of November&apos;s fundraising campaigns in 24 countries</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A V D</forename><surname>Broek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Need</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ehrenhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Priante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hiemstra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Networks</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="128" to="135" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bryman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford university press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Gemstones and sustainable development: perspectives and trends in mining, processing and trade of precious stones</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Cartier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1013" to="1016" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Flood hazard in Ratnapura, Sri Lanka: individual attitudes vs collective action</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Churchill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Hutchinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="517" to="524" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The geographies of community disaster resilience</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Ash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Emrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="65" to="77" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Disaster resilience indicators for benchmarking baseline conditions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Emrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Homel. Secur. Emerg. Manag</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Temporal and spatial changes in social vulnerability to natural hazards</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Finch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PNAS</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2301" to="2306" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Modes of occurrence and provenance of gemstones of Sri Lanka</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dahanayake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Miner. Depos</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="86" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mapping to explore the challenges and opportunities for reconciling artisanal gem mining and biodiversity conservation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Devenish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Goodenough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P G</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Ratsimba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Willcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Dimaggio</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Scott</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Carrington</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2012">2023. 101311. 2012</date>
+			<publisher>Sage publications Ltd</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Sage Handbook of Social Network Analysis</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Social network analysis focused on individuals facing hazards and disasters</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Fass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Social Network Analysis of Disaster response, Recovery, and Adaptation. Butterworth-Heinemann, an imprint of</title>
+		<editor>
+			<persName><forename type="first">Eric</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Faas</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="11" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Age is just a number&apos;: articulating the cultural dimension of child labour in Africa&apos;s small-scale mining sector</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gatsinzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">102779</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Towards regenerative regional development in responsible value chains: an agentic response to recent crises</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grillitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Asheim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers in Evolutionary Economic Geography</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Mining-induced displacement and livelihood resilience: the case of Marange</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gukurume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tombindo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zimbabwe. Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">101210</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The livelihood vulnerability index: a pragmatic approach to assessing risks from climate variability and change-a case study in Mozambique</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Riederer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Foster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="74" to="88" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">River sand mining as a livelihood activity: the case of Nepal</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hatlebakk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind.. Soc</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">101266</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">An overview of land use conflicts in mining communities</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Land Use Policy</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="65" to="73" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Once a miner, always a miner&apos;: poverty and livelihood diversification in Akwatia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ghana. J. Rural Stud</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="296" to="307" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Brick by brick, block by block: building a sustainable formalization strategy for small-scale gold mining in Ghana</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bartels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Policy</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="207" to="225" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Changing priorities, shifting narratives: remapping rural livelihoods in Africa&apos;s artisanal and small-scale mining sector</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Rural Stud</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="93" to="108" />
+			<date type="published" when="2006">2022. 2006</date>
+			<publisher>World color gemstone mining report</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<ptr target="https://www.ipcc.ch/report/ar5/syr/(accessed:12/12/2022" />
+		<title level="m">International Panel for Climate Change (IPCC)</title>
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+	<note>AR5 synthesis report: climate change</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Social networks, Geography, and neighbourinhood effects</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pattie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The sage handbook of social network analysis</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage publications Ltd</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The role of organizational networks in ameliorating flood disaster impacts: a case study of flood inundated rural and urban areas in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Karunarathne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Gress</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Disaster Risk Reduct</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">102819</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The geographies of the dynamic evolution of social networks for the flood disaster response and recovery</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Karunarathne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page">102274</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Building field trips to small scale mines into university undergraduate degrees: the case of gemstone extraction in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">101131</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Community resilience, corporate social responsibility and local economic development: the case of coal mining in India</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">101120</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">After the dust settles: community resilience legacies of unconventional gas development</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Luke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Evensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">100856</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Challenging extractivism: activism over the aftermath of the Fundão disaster</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lyra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="897" to="905" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Mapping industrial disaster recovery: lessons from mining dam failures in Brazil</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Milanez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A P</forename><surname>De Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2021">2021. 100900</date>
+			<pubPlace>Colombo</pubPlace>
+		</imprint>
+	</monogr>
+	<note>National Gem and Jewellery Authority, 2021. Annual reports</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The role of the service sector in regional economic resilience</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Navarro-Espigares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Martin-Segura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hernandez-Torrez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Serv. Ind. J</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="571" to="590" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Networks: An Introduction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E J</forename><surname>Newman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Impacts of the petroleum industry on the livelihoods of fisherfolk in Ghana: a case study of the Western Region</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Owusu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1256" to="1264" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Towards a better integration of local populations in the design of projects to manage the massive aggradation of rivers stemming from mining activity in Thio</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sabinot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gosset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Worliczek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pidjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bertrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garcin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="64" to="73" />
+			<date type="published" when="2021">2021</date>
+			<pubPlace>New Caledonia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Water science in the public sphere: a narrative network analysis of fracking and oil spills in Colombian media</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Rinaldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">101215</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Governance networks in marine spaces where fisheries and oil coexist: tabasco</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Salazar-De La Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Zepeda-Domínguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Espinoza-Tenorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Ramos-Muñoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">México. Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="676" to="685" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Actor network theory, globalised assemblages and the impact of oil on agriculture and industry in Ghana</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Siakwah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="462" to="472" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Private and civil society governors of mercury pollution from artisanal and small-scale gold mining: a network analytic approach</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sippl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="198" to="208" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Climate variability and extractivism exposures: understanding household perspectives on livelihood resilience in rural Ghana</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Tannor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kelboro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Greve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Borgemeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tischbein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Extr. Ind. Soc</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">101164</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Social Network Analysis: Method and Applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faust</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

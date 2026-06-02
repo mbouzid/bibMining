@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sustainable Water-Related Hazards Assessment in Open Pit-to-Underground Mining Transitions: An IDRR and MCDM Approach at Sijiaying Iron Mine, China</title>
+				<funder ref="#_BrnNT2V">
+					<orgName type="full">Fundamental Research Funds for the Central Universities of China</orgName>
+				</funder>
+				<funder ref="#_E723wj9 #_MBcXdtp">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-04-30">30 April 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Aboubakar</forename><surname>Siddique</surname></persName>
+							<idno type="ORCID">0009-0004-2945-5321</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Zhuoying</forename><surname>Tan</surname></persName>
+							<email>markzhuoyingtan@ustb.edu.cn</email>
+							<idno type="ORCID">0009-0004-2945-5321</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wajid</forename><surname>Rashid</surname></persName>
+							<idno type="ORCID">0000-0002-3003-4805</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Environmental &amp; Conservation Sciences</orgName>
+								<orgName type="institution">University of Swat</orgName>
+								<address>
+									<postCode>19130</postCode>
+									<settlement>Mingora</settlement>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hilal</forename><surname>Ahmad</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Resources and Safety Engineering</orgName>
+								<orgName type="institution">University of Science and Technology</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<settlement>Beijing Beijing</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sustainable Water-Related Hazards Assessment in Open Pit-to-Underground Mining Transitions: An IDRR and MCDM Approach at Sijiaying Iron Mine, China</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2025-04-30">30 April 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0BDADBB5E1D27F4F5148E8639DB916F1</idno>
+					<idno type="DOI">10.3390/w17091354</idno>
+					<note type="submission">Received: 8 March 2025 Revised: 5 April 2025 Accepted: 9 April 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>water-related hazards</term>
+					<term>sustainable mining</term>
+					<term>open pit-to-underground transition</term>
+					<term>IDRR</term>
+					<term>MCDM</term>
+					<term>spatiotemporal modeling</term>
+					<term>SDG alignment</term>
+					<term>environmental impact assessment</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The transition from open pit to underground mining intensifies water-related hazards such as Acid Mine Drainage (AMD), groundwater contamination, and aquifer depletion, threatening ecological and socio-economic sustainability. This study develops an Inclusive Disaster Risk Reduction (IDRR) framework using a Multi-Dimensional Risk (MDR) approach to holistically assess water hazards in China's mining regions, integrating environmental, social, governance, economic, technical, community-based, and technological dimensions. A Multi-Criteria Decision-Making (MCDM) model combining the Fuzzy Analytic Hierarchy Process (AHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) evaluates risks, enhanced by a Z-number Fuzzy Delphi AHP (ZFDAHP) spatiotemporal model to dynamically weight hazards across temporal (short-, medium-, long-term) and spatial (local to global) scales. Applied to the Sijiaying Iron Mine, AMD (78% severity) and groundwater depletion (72% severity) emerge as dominant hazards exacerbated by climate change impacts (36.3% dynamic weight). Real-time IoT monitoring systems and AI-driven predictive models demonstrate efficacy in mitigating contamination, while gender-inclusive governance and community-led aquifer protection address socio-environmental gaps. The study underscores the misalignment between static regulations and dynamic spatiotemporal risks, advocating for Lifecycle Assessments (LCAs) and transboundary water agreements. Policy recommendations prioritize IoT adoption, carbon-water nexus incentives, and Indigenous knowledge integration to align mining transitions with Sustainable Development Goals (SDGs) 6 (Clean Water), 13 (Climate Action), and 14 (Life Below Water). This research advances a holistic strategy to harmonize mineral extraction with water security, offering scalable solutions for global mining regions facing similar ecological and governance challenges.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The global demand for mineral resources continues to drive the expansion of mining activities. Yet, the environmental and socio-economic costs of these activities, particularly water-related hazards, remain poorly controlled <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Mining transitions, such as from open pit-to-underground mining, pose complex threats, such as Acid Mine Drainage (AMD), groundwater contamination, and aquifer depletion, that threaten ecosystems and human livelihood <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. Such concerns are exacerbated in environmentally sensitive regions, such as China's Luanhe River Basin, where mining activity overlaps with critical water resources and vulnerable populations <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>. While growing awareness of such concerns is apparent, existing frameworks do not necessarily integrate technical, environmental, and social dimensions, and hence, mitigation responses remain fragmented <ref type="bibr" target="#b9">[10]</ref>. This study fills this gap by outlining a holistic approach to water hazard management within the framework of the United Nations Sustainable Development Goals (SDGs), namely SDG 6 (Clean Water), SDG 13 (Climate Action), and SDG 14 (Life Below Water) <ref type="bibr">[11]</ref>.</p><p>Recent examples, such as the 2022 Jagersfontein tailings dam collapse in South Africa, which flooded nearby communities with 9 million cubic meters of toxic slurry and contaminated critical farmland, and persistent Acid Mine Drainage (AMD) contamination in Chile's Atacama Desert copper mines (2024), underscore enduring ecological and human health risks <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. Globally, over 10,000 abandoned mines continue to contaminate water systems, while modern operations exacerbate water scarcity in arid regions like Chile's Atacama Desert <ref type="bibr" target="#b13">[14]</ref>. Traditional mitigation strategies, such as static risk assessments and end-of-pipe treatments, have proven inadequate in addressing the dynamic interplay of climate change, socio-economic inequities, and technological limitations <ref type="bibr" target="#b14">[15]</ref>. Recent studies emphasize the need for adaptive frameworks that prioritize spatiotemporal risk modeling and participatory governance, yet few integrate these elements cohesively <ref type="bibr" target="#b15">[16]</ref>.</p><p>Multi-Criteria Decision-Making (MCDM) tools like AHP and TOPSIS are widely used to assess mining transition impacts but face limitations when applied independently <ref type="bibr" target="#b16">[17]</ref>. Conventional AHP struggles with expert judgment ambiguities and static weights, while TOPSIS neglects socio-environmental interdependencies despite its dynamic ranking strengths. Combining AHP's hierarchy with TOPSIS's proximity analysis enables robust prioritization of hazards like Acid Mine Drainage (AMD), yet rigid spatiotemporal assumptions hinder adaptability to climate-driven risks <ref type="bibr" target="#b17">[18]</ref>. Integrating Z-number Fuzzy Delphi AHP (ZFDAHP) addresses this gap by embedding fuzzy logic and iterative expert consensus into dynamic weighting, quantifying uncertainties across temporal (short-, medium-, long-term) and spatial scales <ref type="bibr" target="#b18">[19]</ref>. This synergy bridges static technical assessments with dynamic socio-ecological realities, offering a holistic framework to address both immediate and systemic vulnerabilities <ref type="bibr" target="#b19">[20]</ref>.</p><p>Existing methodologies, including Inclusive Disaster Risk Reduction (IDRR) and Multi-Criteria Decision-Making (MCDM) tools such as the Analytic Hierarchy Process (AHP), have advanced hazard prioritization but remain constrained by static parameters and limited stakeholder engagement <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>. While conventional AHP overlooks uncertainties in expert judgments, IDRR frameworks often struggle to quantitatively integrate community-driven metrics like gender equity and Indigenous knowledge into technical risk assessments <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24]</ref>. Innovations such as the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) improve dynamic ranking but lack systematic incorporation of spatial-temporal scales and participatory governance. Combining IDRR's emphasis on inclusive, community-centered risk reduction with MCDM's structured prioritization capabilities enhanced by Fuzzy AHP to address expert judgment uncertainties and Znumber Fuzzy Delphi AHP (ZFDAHP) for dynamic spatiotemporal weighting bridges these gaps <ref type="bibr" target="#b24">[25]</ref>. This integration enables the synthesis of socio-technical criteria (e.g., community water governance, AI-driven monitoring) with environmental and economic factors, offering a holistic framework that aligns technical rigor with equitable resource stewardship, thus addressing critical voids in contemporary hazard assessment literature <ref type="bibr" target="#b25">[26]</ref>.</p><p>This study uniquely combines three methodological pillars: (1) a hybrid MCDM framework combining TOPSIS and Z-number Fuzzy Delphi AHP (ZFDAHP) to assess water-related hazard mitigation and sustainability impacts in mining transitions; (2) a spatiotemporal analysis applied to China's Sijiaying Iron Mine; and (3) global implications evaluated through Inclusive Disaster Risk Reduction (IDRR) for water-related hazards. The research concludes with actionable policy recommendations, synthesizing MCDMdriven hazard prioritization, dynamic spatiotemporal modeling, and IDRR principles. By harmonizing these approaches, the study advances a holistic strategy to reconcile mineral extraction with water security, offering scalable solutions to 21st-century mining challenges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study Area (Sijiaying Open Pit Mine Case Study)</head><p>The Sijiaying Iron Mine, a large open-pit operation in Hebei, China, lies within the ecologically sensitive Luanhe River Basin, a region increasingly challenged by water-related hazards linked to mining activities (Figure <ref type="figure" target="#fig_1">1</ref>). Declining near-surface ore reserves have intensified pressure to transition to underground mining, a shift that risks exacerbating groundwater contamination, aquifer depletion, and Acid Mine Drainage (AMD) from sulfide-rich waste. The mine's proximity to critical water resources heightens vulnerability to sedimentation, heavy metal leaching, and seasonal water table fluctuations, threatening both aquatic ecosystems and downstream agricultural communities. These hazards are compounded by the semi-arid regional climate, where over-extraction and contamination jeopardize already strained water supplies. This study evaluates strategies to mitigate these risks while balancing mineral extraction demands, emphasizing stakeholder-driven solutions to safeguard water quality, habitat integrity, and long-term resource sustainability under SDGs 6 (Clean Water) and 14 (Life Below Water).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Overall Methodology Introduction</head><p>This research employs a comprehensive Multi-Criteria Decision-Making (MCDM) strategy to evaluate water-related hazards during the transition from open pit to underground mining at China's Sijiaying Iron Mine (Figure <ref type="figure" target="#fig_4">2</ref>). The methodology integrates 159 parameters across environmental, social, technical, and economic dimensions, prioritized through a Fuzzy Analytic Hierarchy Process (AHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS), leveraging insights from 30 multidisciplinary experts. A hybrid spatiotemporal model categorizes impacts into temporal (short-, medium-, long- The Sijiaying Iron Mine is one of China's largest iron ore reserves, spanning an operational area of 6.27 km 2 following its 2013 expansion into the Yinyu mining zone. This expansion increased the proven reserves to 909.8 million metric tons, with an annual production capacity of 22.7 million metric tons, positioning it as a critical contributor to regional steel industries. The mine employs the Stage Subsequent Filling Mining (SSFM) method, a tailored approach where ore extraction occurs in vertical stages (~100 m height) with backfilling using cemented rock waste to minimize surface subsidence-a critical measure given its proximity to agricultural lands and residential settlements like Qianying Village. Stability assessments have revealed surface deformation metrics nearing critical thresholds, necessitating continuous geotechnical monitoring to prevent infrastructure damage as mining progresses to deeper levels. Environmental risks are amplified by the mine's location within the Luanhe River Basin, a vital water resource for 3.2 million people. Groundwater monitoring data (2015-2023) indicate fluctuating water tables (seasonal declines up to 4.2 m) and localized AMD risks due to sulfide-rich waste rock exposure. Recent mitigation efforts include impermeable grout curtains along the northern pit boundary and IoT-enabled pH sensors to detect AMD precursors in real time. This integrated geotechnical and hydrological context validates the study's focus on balancing extraction efficiency with ecological safeguards in mining transitions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Overall Methodology Introduction</head><p>This research employs a comprehensive Multi-Criteria Decision-Making (MCDM) strategy to evaluate water-related hazards during the transition from open pit to underground mining at China's Sijiaying Iron Mine (Figure <ref type="figure" target="#fig_4">2</ref>). The methodology integrates 159 parameters across environmental, social, technical, and economic dimensions, prioritized through a Fuzzy Analytic Hierarchy Process (AHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS), leveraging insights from 30 multidisciplinary experts. A hybrid spatiotemporal model categorizes impacts into temporal (short-, medium-, long-term) and spatial (local, regional, national, global) scales, with dynamic weights calculated using Z-number Fuzzy Delphi AHP to emphasize global climate risks and localized water contamination. Scenario-based scoring and lifecycle assessments quantify mitigation strategies, while alignment with Sustainable Development Goals (SDGs 6, 13, 14) ensures a balance between operational efficiency, ecological preservation, and equitable resource governance. The approach combines quantitative analytics, stakeholder engagement, and adaptive modeling to address water sustainability challenges in mining transitions. This study evaluates mining transitions using 159 parameters, prioritizing water-related hazards such as acid mine drainage (WA5), groundwater depletion (SW7), and freshwater ecotoxicity (SW4) (Table <ref type="table" target="#tab_0">1</ref>). Parameters are categorized into environmental, 2.3. Data Collection 2.3.1. Parameters</p><p>This study evaluates mining transitions using 159 parameters, prioritizing waterrelated hazards such as acid mine drainage (WA5), groundwater depletion (SW7), and freshwater ecotoxicity (SW4) (Table <ref type="table" target="#tab_0">1</ref>). Parameters are categorized into environmental, social, technical, and economic groups, with emphasis on SDG 6 (Clean Water), SDG 14 (Life Below Water), and SDG 13 (Climate Action). Key metrics include contamination risks (SW5, SW6), aquifer sustainability (SW7), community-led water governance (SC1, PM5), and spatiotemporal impacts on the Luanhe River Basin. These criteria bridge operational challenges with global sustainability targets, enabling holistic assessment of strategies to mitigate water degradation, safeguard aquatic ecosystems, and ensure equitable resource stewardship in mining transitions. Table 1. Cont. No. Groups of Major Category Parameters Major Categories of Parameters Code Parameters Social and Community Factors Community and Social SC 45-Improving the situation of local people (SC1), 46-reduce social problems (SC2), 47-job security (SC3), 48-reception of local people in the area (SC4), 49-revival of cultural and regional identity (SC5), 50-quality of life improvements (SC6), 51-social cohesion (SC7). Safety and Health SH 52-Occupational health and safety (SH1), 53-occupational accidents (SH2), 54-fire and explosions (SH3), 55-dust, noise, and vibration (SH4), 56-toxic gas ventilation (SH5), 57-emergency rescue (SH6). Regional Impact RI 58-Landscape/topography degradation (RI1), 59-ground vibration (RI2), 60-noise impact on surrounding areas (RI3), 61-air overpressure (RI4), 62-geothermal effects of mining depth (RI5), 63-short-term impact (RI6), 64-medium-term impact (RI7), 65-long-term impact (RI8), 66-local scale (RI9), 67-regional scale (RI10), 68-national scale (RI11), 69-global scale (RI12). National and Global Level Impacts NG 70-Impact on global social justice concerns (NG1), 71-impact on Indigenous communities at a global level (NG2), 72-impact of mining on global human rights (NG3), 73-impact of mining on cultural heritage preservation (NG4), 74-global public health impacts of mining activities (NG5), 75-impact of global migration due to mining (NG6), 76-global labor rights in mining (NG7), 77-impact on sustainable development goals (SDGs) (NG8), 78-impact of global community protests on mining projects (NG9), 79-global collaboration for responsible mining practices (NG10). Post Mining Factors PM 80-Land rehabilitation (PM1), 81-biodiversity restoration (PM2), 82-reclamation planning (PM3), 83-proposed land use (PM4), 84-community engagement in post-mining plans (PM5). Long-Term Impacts of Mining LT 85-Depletion of non-renewable resources (LT1), 86-intergenerational equity (LT2), 87-sustainability of mining practices (LT3), 88-long-term environmental degradation (LT4), 89-social and economic impacts on future generations (LT5), 90-dependence on mining economies (LT6). Technical and Geological Factors Technical Te 91-Production rate (Te1), 92-exploitation efficiency (Te2), 93-transportation continuity (Te3), 94-system reliability (Te4), 95-blasting efficiency (Te5), 96-height of extraction (Te6), 97-stockpile management (Te7), 98-flexibility in mining method (Te8). Technological TG 99-Advanced mining technologies (TG1), 100-robotic transport (TG2), 101-automation in mining (TG3), 102-energy-efficient machinery (TG4).</p><p>Table 1. Cont. No. Groups of Major Category Parameters Major Categories of Parameters Code Parameters Geological GG 103-Type of ore reserve (GG1), 104-reserve depth (GG2), 105-grade distribution (GG3), 106-physical properties of mined lands (GG4), 107-compressive and shear strength (GG5), 108-groundwater level (GG6), 109-geomechanical aspects of ore body (GG7). Site-situation SS 110-Site location (SS1), 111-extent of mined lands (SS2), 112-topography of mined lands (SS3), 113-access to water resources (SS4), 114-repair shop area (SS5). Mechanical Equipment ME 115-Drilling equipment (ME1), 116-loading equipment (ME2), 117-transportation equipment (ME3), 118-equipment reliability (ME4), 119-maintenance status (ME5). Face Operation FO 120-Roof fall (FO1), 121-ventilation and toxic gases (FO2), 122-water inrush (FO3), 123-falling from height (FO4), 124-electrical hazard (FO5). Economic and Regulatory Factors Financial and Economical FE 125-Capital cost (FE1), 126-operating cost (FE2), 127-return on investment (FE3), 128-reclamation cost (FE4), 129-taxes and government rights (FE5), 130-labor wages cost (FE6), 131-inflation rate (FE7). Carbon Pricing and Financial Impacts CP 132-Carbon price variability across regions (CP1), 133-carbon tax impact on operational costs (CP2), 134-financial risk of carbon pricing (CP3), 135-carbon pricing effect on block sequencing (CP4), 136-carbon pricing integration in Net Present Value (NPV) calculations (CP5), 137-sensitivity of profitability to carbon price changes (CP6), 138-carbon tax-based cost adjustments for waste blocks (CP7). Infrastructure and Accessibility IA 139-Transportation infrastructure (IA1), 140-access roads (IA2), 141-utilities availability (IA3), 142-accessibility to site (IA4). Regulatory and Management RM 143-Compliance with regulations (RM1), 144-mining site security (RM2), 145-safety inspection (RM3), 146-environmental monitoring (RM4). Land and Energy Factors Land Stability LS 147-Surface ground stability (LS1), 148-slope stability (LS2), 149-land disturbance (LS3). Energy EN 150-Energy consumption (EN1), 151-fossil fuel depletion (EN2), 152-renewable energy generation (EN3). Sustainable and Green Mining SG 153-Integration of life cycle assessment (LCA) in mine planning (SG1), 154-use of renewable energy in mining operations (SG2), 155-sustainable haulage and transportation systems (SG3), 156-adoption of eco-friendly blasting techniques (SG4), 157-Minimization of ecological footprint in block sequencing (SG5), 158-long-term reclamation and biodiversity restoration plans (SG6), 159-incorporation of green technologies in mining equipment (SG7).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.2.">Aspects</head><p>This study evaluates the transition from open pit to underground mining through 25 interdisciplinary aspects (A1-A25), prioritizing water-related hazards and aligning with the United Nations Sustainable Development Goals (SDGs). Technical aspects, including geotechnical stability (A2), optimal transition depth (A4), and phased execution (A6), ensure operational feasibility while mitigating risks such as groundwater contamination and slope failure. Environmental criteria focus on water sustainability, addressing Acid Mine Drainage (AMD) via real-time water quality monitoring (A1, A17), sediment control (A8), and aquifer protection (A22), directly supporting SDG 6 (Clean Water) and SDG 14 (Life Below Water). Socio-economic dimensions emphasize equitable water access (A14), resilience to floods/droughts (A25), and Indigenous rights (A23), ensuring community welfare (SDG 11) and inclusive stakeholder engagement (A18). Governance frameworks integrate transboundary water agreements (A13), regulatory compliance (A10), and lifecycle assessments of contamination (A20) to align local practices with global sustainability targets (SDG 6/14). Energy efficiency (A21) and waste valorization (A16) further reduce water-energy footprints, while aquatic ecosystem monitoring (A15) safeguards biodiversity (Table <ref type="table" target="#tab_3">2</ref>). Collectively, these aspects provide a unified foundation for multi-criteria decision-making (MCDM) and spatiotemporal modeling, balancing short-term operational challenges with long-term planetary health imperatives. The integration of water-centric metrics ensures policymakers can navigate trade-offs among mineral extraction efficiency, ecological preservation, and equitable resource governance under the 2030 Agenda. This study engaged 30 multidisciplinary experts specializing in water-related hazards, sustainability, and mining governance to ensure targeted insights aligned with the Water journal's scope. The panel included hydrologists (e.g., groundwater sustainability, community-led water allocation), environmental chemists (e.g., heavy metal contamination remediation), public health researchers (e.g., gender-specific impacts of water pollution), and policy advisors (e.g., SDG 6/14 compliance) (Table <ref type="table" target="#tab_4">3</ref>). Five structured questionnaires were designed to address: (1) criteria weighting via Fuzzy AHP for prioritizing watercentric parameters (e.g., acid mine drainage, aquifer protection); (2) spatiotemporal impact assessment of groundwater depletion and contamination risks; (3) SDG alignment focusing on clean water (SDG 6) and aquatic ecosystems (SDG 14); (4) technical feasibility of water-efficient mining transitions; and (5) community engagement in water governance. The questionnaires combined Likert scales and pairwise comparisons to balance qualitative inputs (e.g., Indigenous water rights, stakeholder perceptions) with quantitative data (e.g., contamination levels, flood frequency). This approach validated the framework's robustness in harmonizing operational efficiency with water sustainability, leveraging expertise from hydrology, environmental chemistry, and policy design. Static weights derived via Fuzzy AHP were dynamically adjusted using Z-number Fuzzy Delphi <ref type="bibr" target="#b26">(Kang et al., 2012)</ref>, ensuring adaptive prioritization of water hazards across spatial (local/global) and temporal (short-/long-term) scales <ref type="bibr" target="#b26">[27]</ref>. The study evaluates the impacts of transitioning from open pit to underground mining on sustainable development indexes (economic, social, environmental) at the Sijiaying Iron Mine, China. A hybrid semi-quantitative approach integrating Multi-Criteria Decision-Making (MCDM) methods was employed. Initial parameters were identified through a literature review, field surveys, and expert consultations. Twenty-five key transition aspects (e.g., geotechnical stability, energy efficiency, regulatory compliance) were categorized into environmental, social, technical, and economic groups (Table <ref type="table" target="#tab_5">4</ref>). Thirty criteria across three sustainable dimensions (e.g., pollution reduction, employment rates, infrastructure development) were defined (Table of Parameters). A structured questionnaire (Questionnaire 1) was distributed to mining experts (specializing in extraction, environment, economics) to score the significance of transition aspects using a 1-10 scale. The Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) method prioritized factors based on their closeness coefficient (C i ), calculated as:</p><formula xml:id="formula_0">C i = D - i D + i + D - i<label>(1)</label></formula><p>where D + i and D - i represent Euclidean distances from ideal and negative-ideal solutions. Rankings (Table <ref type="table" target="#tab_6">5</ref>) identified the top 10 influential factors, including Alignment with SDGs (A19) and Optimal Transition Depth (A4). Pairwise comparisons of the 10 prioritized factors were conducted (Questionnaire 2) to assign relative weights using AHP. Experts rated factors on a 1-9 scale, and weights were derived through eigenvalue normalization (Table <ref type="table" target="#tab_7">6</ref>). For example, Alignment with SDGs (A19) received the highest weight (0.1046), reflecting its critical role in sustainability. Consistency ratios (CR &lt; 0.1) ensured validity. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.4.">Impact Assessment Matrix Construction</head><p>A correlation matrix linked the 10 prioritized factors to 30 sustainable development criteria. Experts scored impacts using a 1-10 scale (Table <ref type="table" target="#tab_8">7</ref>), categorized as Low (1-2.9), Medium (3-4.9), High (5-6.9), or Very High <ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref>. Scores were normalized and weighted using AHP-derived values to compute severity percentages. For instance, Technical Fac-tors (Te) scored 81.2% (Very High Impact) due to reliance on advanced equipment and lifecycle assessments. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.5.">Final Impact Calculation</head><p>The severity of impacts on each sustainable development index (economic, social, environmental) was aggregated using weighted normalized scores. The relative impact (RI) for each index was calculated as:</p><formula xml:id="formula_1">RI index = ∑(Weighted Scores) Max Possible Score × 100<label>(2)</label></formula><p>For example, economic impacts (RI Economic ) scored 72.5% (High Impact), driven by factors like metal price volatility and operational costs (Table <ref type="table" target="#tab_9">8</ref>). The overall sustainability score (49.76%) highlighted the need for mitigation strategies. This methodology ensures a systematic evaluation of mining transitions, enabling data-driven decisions for sustainable resource management.</p><p>The impact of various factors can be categorized into five levels based on a score range. "Very Low Impact" corresponds to a score range of 1.0 to 2.9, indicating minimal significance. "Low Impact" falls within the range of 3.0 to 4.9, suggesting a slight influence. "Medium Impact" is characterized by scores between 5.0 and 6.9, reflecting moderate importance. "High Impact" ranges from 7.0 to 8.9, representing a substantial effect. Lastly, "Very High Impact" is indicated by a score range of 9.0 to 10.0, signifying a highly significant impact.</p><p>Scores were calculated by aggregating weighted impacts from the weighted normalized correlation matrix for each category and normalizing to a percentage scale.</p><p>Categories like Post Mining factors (PM), Technical factors (Te), and Sustainable and Green mining (SG) show very high impacts due to alignment with SDGs and lifecycle assessments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">A Hybrid Spatiotemporal Approach to Assess Water-Related Hazards in Open Pit Mining 2.5.1. Parameter Categorization</head><p>The study identifies 44 environmental parameters grouped into 11 categories (Table <ref type="table" target="#tab_10">9</ref>), including Waste (W), Acid Mine Drainage (AMD), Biodiversity (B), Soil (S), Water (Wa), Air (A), Energy (E), Climate Change (CC), Land Stability (LS), Post-Mining (PM), and Regional Impacts (RIs). Each parameter is defined with technical descriptions tailored to the Sijiaying Iron Ore Mine's semi-arid climate and proximity to the Luanhe River Basin. For instance, WA5 (acidification due to sulfur) assesses AMD risks, while CC1-CC5 track greenhouse gas emissions and heat island effects.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.2.">Spatiotemporal (ST) Scenario Classification</head><p>Parameters are classified into temporal (short-, medium-, long-term) and spatial (local, regional, national, global) scales (Table <ref type="table" target="#tab_12">10</ref>). Temporal scores (f t ) and spatial scores (f s ) are assigned as follows: Temporal: short-term = 1, medium-term = 3, long-term = 4. Spatial: local = 1, regional = 2, national = 3, global = 4. For example, WA1 (overburden volume) is short-term/local (f t = 1, f s = 1), while CC1 (GHG emissions) is long-term/global (f t = 4, f s = 4).</p><p>Temporal scales (short-term = 1, medium-term = 3, long-term = 4) align with IPCC's near-term (0-20 years), medium-term (20-50 years), and long-term (50+ years) climate impact categories (IPCC, 2021). Spatial scales (Local = 1, Global = 4) follow the UNEP's tiered environmental impact classification (UNEP, 2019) <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.3.">Static and Dynamic Weight Calculation</head><p>Static weights (W s ) are derived using the Z-number Fuzzy Delphi Analytical Hierarchy Process (ZFDAHP) to aggregate expert judgments. Dynamic Weights (W d ) integrate ST scales using:</p><formula xml:id="formula_2">(W d ) i = f t × f s × (W s ) i ∑(ft × f s × (W s ) i )<label>(3)</label></formula><p>where f t : temporal score, f s : spatial score, W s : static Weight.</p><p>Table <ref type="table" target="#tab_13">11</ref> shows the results: Climate Change dominates dynamic weights (36.3%) due to global/long-term impacts, while post-mining has the lowest W d (0.6%). Parameters are scored via scenario-based evaluations (Table <ref type="table" target="#tab_14">12</ref>). Experts assign scores (S j ) based on mitigation measures (e.g., "WA1, WA2, WA4: waste management plans partially applied" scores 5). Scores are aggregated and normalized for each category. </p><formula xml:id="formula_3">(S E ) static = ∑ (S i × W s ), (S E ) dynamic = ∑ (S i × W d ) (4)</formula><p>where S i : Category Score, W s : Static Weight, W d : Dynamic Weight.</p><p>For Sijiaying Mine, the S E values are 3.110 (static) and 3.200 (dynamic) out of 10 (Table <ref type="table" target="#tab_15">13</ref>), highlighting Climate Change as the most critical dynamic factor. The spatiotemporal scales for the Sijiaying Mine are categorized into several scenarios based on the duration and extent of their impacts. Short-term impacts occur during mining operations and immediately after closure. Medium-term impacts emerge during the mining process and can persist for decades after closure. Long-term impacts continue for centuries, influencing future generations. At the local scale, impacts are confined to the mine site and its immediate surroundings, while at the regional scale, they extend to surrounding provinces or ecosystems. National impacts affect resources, ecosystems, or policies on a national level, and global impacts cross national borders, influencing global climate, health, or human rights. Dynamic weights from the spatiotemporal model were input as features into the GBR and SVM workflows. For instance, the climate change weight (36.3%) directly influenced GHG reduction forecasts in GBR.</p><p>This methodology adapts the published model's framework but customizes parameters and ST scales to reflect Sijiaying Mine's context, ensuring transparency and reducing bias through ZFDAHP and dynamic weighting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Inclusive Disaster Risk Reduction for Water-Related Hazards in Mining</head><p>The methodology for this study employs a Multi-Dimensional Risk (MDR) framework to holistically assess water-related hazards in Chinese mining regions. This innovative approach integrates seven interconnected dimensions-environmental, social, governance, economic, geological/technical, community-based, and technological-to address the complexity of localized risks and prioritize inclusive mitigation strategies (Table <ref type="table" target="#tab_16">14</ref>). The MDR framework diverges from traditional three-factor models by incorporating a broader spectrum of vulnerabilities, ensuring a granular understanding of interactions between mining operations, ecological systems, and marginalized communities. The methodology is structured into eight sequential steps, each supported by analytical tables to ensure reproducibility and transparency.</p><p>Water-related hazards in mining regions manifest through complex interactions between environmental degradation and socio-economic vulnerabilities. Table <ref type="table" target="#tab_18">15</ref> synthesizes eight critical hazards-including acid mine drainage (AMD), tailings dam failures, and waterborne diseases-alongside their gendered impacts and mitigation strategies. This framework highlights the interplay of technical risks (e.g., IoT-enabled monitoring) and human-centric challenges (e.g., gender-based violence), offering actionable insights to align hazard management with SDGs 6 (Clean Water) and 5 (Gender Equality). Effective governance of water-related hazards requires collaboration among diverse stakeholders with competing priorities and influence levels. Table <ref type="table" target="#tab_19">16</ref> maps key stakeholder groups-from mining companies and local communities to NGOs and international donors-detailing their roles, motivations, and challenges in water governance. By contextualizing power dynamics and accountability gaps, this table underscores the need for inclusive, multi-tiered partnerships to reconcile operational demands with equitable resource stewardship. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head><p>3.1. Water-Related Hazard Mitigation and Sustainability Impacts in Open Pit-to-Underground Mining Transitions</p><p>The analysis of water-related hazard mitigation (Figure <ref type="figure" target="#fig_6">3</ref>) underscores the dominance of Waste and Acid Mine Drainage (WA) and Environmental Factors (En) in driving sustainability impacts during the transition to underground mining, with severity scores of 78% and 72%, respectively. These categories reflect critical risks, such as Acid Mine Drainage (AMD) leaching into groundwater, heavy metal contamination of surface water, and aquifer depletion, exacerbated by the Sijiaying Mine's proximity to the Luanhe River Basin. Notably, Sustainable and Green Mining (SG) practices-though scoring highest (81.2%)-rely heavily on mitigating water-centric risks through strategies like closed-loop water recycling and real-time AMD monitoring, aligning with SDG 6 (Clean Water). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">A Hybrid Spatiotemporal Approach to Assess Water-Related Hazards in Open Pit Mining</head><p>The hybrid spatiotemporal model reveals significant disparities between static weights (short-term, localized impacts) and dynamic weights (long-term, cross-scale impacts) for water-related hazards, emphasizing their evolving risks over time and space (Figure <ref type="figure" target="#fig_8">4</ref>). Waste and Acid Mine Drainage (AMD) emerged as dominant contributors, with dynamic weights exceeding static values by 18%, underscoring the compounding long-term impacts of AMD on groundwater contamination and aquatic toxicity in the Luanhe River Basin <ref type="bibr" target="#b31">[32]</ref>. Similarly, water parameters (surface/groundwater quality, water table fluctuations) exhibited a dynamic weight of 14.4% compared to 16.5% static weight, reflecting their acute sensitivity to seasonal climate extremes, such as droughts and floods, in Hebei's semi-arid region <ref type="bibr" target="#b32">[33]</ref>. These results align with Sustainable Development Goal (SDG) 6 targets, highlighting the urgency of adaptive strategies like real-time water quality monitoring systems to mitigate contamination risks across spatial and temporal scales.</p><p>The spatiotemporal classification further prioritized Climate Change as the most critical dynamic factor (36.3% weight), driven by its global and long-term repercussions on regional water security. For instance, greenhouse gas emissions and carbon sink destruction exacerbate aquifer depletion and sedimentation, amplifying water scarcity risks (severity: 78% for waste-related hazards, 72% for environmental factors) <ref type="bibr" target="#b33">[34]</ref>. Conversely, governance factors and regulatory compliance scored lower in dynamic weighting (7% and 5%, respectively), indicating systemic gaps in enforcing transboundary water agreements and participatory frameworks <ref type="bibr">[35]</ref>. This misalignment stresses the need for policies that integrate localized water stewardship, such as community-led aquifer protection zones, with global climate resilience agendas <ref type="bibr" target="#b35">[36]</ref>. The lower severity of Infrastructure and Accessibility (IA) (63%) and Technical Factors (Te) (68%) highlights gaps in adaptive water management systems during transition phases. For instance, delayed adoption of IoT-based water quality sensors (A17) and insufficient stakeholder engagement in aquifer protection (A22) amplify contamination risks. Conversely, the high impact of Climate Change (CC) (55.8%) underscores the compounding effects of regional droughts and floods on water table stability, necessitating integrated spatiotemporal models to balance extraction efficiency with long-term water security <ref type="bibr" target="#b29">[30]</ref>. These findings emphasize the need for prioritizing water-centric criteria in mining transitions to safeguard vulnerable aquatic ecosystems and downstream communities <ref type="bibr" target="#b30">[31]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">A Hybrid Spatiotemporal Approach to Assess Water-Related Hazards in Open Pit Mining</head><p>The hybrid spatiotemporal model reveals significant disparities between static weights (short-term, localized impacts) and dynamic weights (long-term, cross-scale impacts) for water-related hazards, emphasizing their evolving risks over time and space (Figure <ref type="figure" target="#fig_8">4</ref>). Waste and Acid Mine Drainage (AMD) emerged as dominant contributors, with dynamic weights exceeding static values by 18%, underscoring the compounding long-term impacts of AMD on groundwater contamination and aquatic toxicity in the Luanhe River Basin <ref type="bibr" target="#b31">[32]</ref>. Similarly, water parameters (surface/groundwater quality, water table fluctuations) exhibited a dynamic weight of 14.4% compared to 16.5% static weight, reflecting their acute sensitivity to seasonal climate extremes, such as droughts and floods, in Hebei's semi-arid region <ref type="bibr" target="#b32">[33]</ref>. These results align with Sustainable Development Goal (SDG) 6 targets, high-lighting the urgency of adaptive strategies like real-time water quality monitoring systems to mitigate contamination risks across spatial and temporal scales. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Inclusive Disaster Risk Reduction for Water-Related Hazards in Mining</head><p>The analysis of water-related hazards across Chinese mining regions highlights systemic gaps in integrating gender equity and community-driven solutions into disaster risk reduction frameworks. While Environmental Factors (En) and water scarcity dominate severity scores (90-100%), gender inequities (50%) and Community-Based Factors (CE) (30%) remain underprioritized, despite their critical role in hazard resilience (Figure <ref type="figure" target="#fig_10">5</ref>). For instance, women in mining-adjacent communities disproportionately bear water collection burdens during droughts, yet their participation in governance forums (e.g., transboundary water agreements) remains limited. Similarly, Indigenous Knowledge Integration (TECH) (45%) and AI Monitoring Adoption (AMT) (20%) reflect untapped synergies between traditional erosion control practices and modern technologies like IoT sensors. Strengthening Governance Factors (GOV) (60%) through gender-inclusive policies and decentralized decision-making could bridge these gaps, ensuring hazard mitigation aligns with SDG 5 (Gender Equality) and SDG 11 (Sustainable Communities). This underscores the need for holistic frameworks that harmonize technical water management with social equity and grassroots stewardship <ref type="bibr" target="#b36">[37]</ref>.</p><p>-5.00%</p><p>5.00% 15.00% 25.00% 35.00% 45.00% 55.00% Waste AMD Biodiversity Soil Water Air Energy Climate Change Land Stability Post-Mining Regional Impacts Static Weight (W_s) Dynamic Weight (W_d) The spatiotemporal classification further prioritized Climate Change as the most critical dynamic factor (36.3% weight), driven by its global and long-term repercussions on regional water security. For instance, greenhouse gas emissions and carbon sink destruction exacerbate aquifer depletion and sedimentation, amplifying water scarcity risks (severity: 78% for waste-related hazards, 72% for environmental factors) <ref type="bibr" target="#b33">[34]</ref>. Conversely, governance factors and regulatory compliance scored lower in dynamic weighting (7% and 5%, respectively), indicating systemic gaps in enforcing transboundary water agreements and participatory frameworks <ref type="bibr">[35]</ref>. This misalignment stresses the need for policies that integrate localized water stewardship, such as community-led aquifer protection zones, with global climate resilience agendas <ref type="bibr" target="#b35">[36]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Inclusive Disaster Risk Reduction for Water-Related Hazards in Mining</head><p>The analysis of water-related hazards across Chinese mining regions highlights systemic gaps in integrating gender equity and community-driven solutions into disaster risk reduction frameworks. While Environmental Factors (En) and water scarcity dominate severity scores (90-100%), gender inequities (50%) and Community-Based Factors (CE) (30%) remain underprioritized, despite their critical role in hazard resilience (Figure <ref type="figure" target="#fig_10">5</ref>). For instance, women in mining-adjacent communities disproportionately bear water collection burdens during droughts, yet their participation in governance forums (e.g., transboundary water agreements) remains limited. Similarly, Indigenous Knowledge Integration (TECH) (45%) and AI Monitoring Adoption (AMT) (20%) reflect untapped synergies between traditional erosion control practices and modern technologies like IoT sensors. Strengthening Governance Factors (GOV) (60%) through gender-inclusive policies and decentralized decision-making could bridge these gaps, ensuring hazard mitigation aligns with SDG 5 (Gender Equality) and SDG 11 (Sustainable Communities). This underscores the need for holistic frameworks that harmonize technical water management with social equity and grassroots stewardship <ref type="bibr" target="#b36">[37]</ref>. Severity analysis identified AMD (score: 3/10) and water scarcity (score: 5/10) as highpriority hazards linked to poor waste valorization and over-extraction in mining operations. The low adoption of AI-driven monitoring systems (severity: 40%) further exacerbates these risks, as manual sampling delays contamination detection. However, community-based factors and Indigenous knowledge integration showed moderate effectiveness (severity: 55-60%), suggesting that stakeholder-driven solutions, such as gender-inclusive water governance and traditional erosion control, can bridge technical and socio-environmental gaps <ref type="bibr" target="#b37">[38]</ref>. These findings advocate for a holistic framework that prioritizes water-centric metrics, ensuring mining transitions align with planetary boundaries and equitable resource access under SDGs 6 (Clean Water) and 13 (Climate Action) <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions and Future Recommendations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Conclusions</head><p>This study underscores the critical interplay between water-related hazards and sustainable mining transitions, offering a multi-criteria framework to address risks such as Acid Mine Drainage (AMD), groundwater contamination, and water scarcity in China's mining regions. By combining spatiotemporal modeling with stakeholder-driven prioritization, the analysis reveals that dynamic, long-term impacts-particularly from climate change and AMD-demand adaptive strategies like real-time water quality monitoring and closed-loop recycling systems. The severe risks posed by aquifer depletion (72-78% severity) and the under-prioritization of gender equity (50% severity) highlight systemic gaps in current practices, necessitating alignment with Sustainable Development Goals (SDGs) 6 (Clean Water) and 13 (Climate Action). These findings affirm that water-centric metrics must guide mining transitions to balance operational efficiency with ecological and social resilience.</p><p>The role of governance and inclusive policies emerge as pivotal in mitigating hazards, Severity (%) Severity analysis identified AMD (score: 3/10) and water scarcity (score: 5/10) as highpriority hazards linked to poor waste valorization and over-extraction in mining operations. The low adoption of AI-driven monitoring systems (severity: 40%) further exacerbates these risks, as manual sampling delays contamination detection. However, community-based factors and Indigenous knowledge integration showed moderate effectiveness (severity: 55-60%), suggesting that stakeholder-driven solutions, such as gender-inclusive water governance and traditional erosion control, can bridge technical and socio-environmental gaps <ref type="bibr" target="#b37">[38]</ref>. These findings advocate for a holistic framework that prioritizes water-centric metrics, ensuring mining transitions align with planetary boundaries and equitable resource access under SDGs 6 (Clean Water) and 13 (Climate Action) <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions and Future Recommendations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Conclusions</head><p>This study underscores the critical interplay between water-related hazards and sustainable mining transitions, offering a multi-criteria framework to address risks such as Acid Mine Drainage (AMD), groundwater contamination, and water scarcity in China's mining regions. By combining spatiotemporal modeling with stakeholder-driven prioritization, the analysis reveals that dynamic, long-term impacts-particularly from climate change and AMD-demand adaptive strategies like real-time water quality monitoring and closed-loop recycling systems. The severe risks posed by aquifer depletion (72-78% severity) and the under-prioritization of gender equity (50% severity) highlight systemic gaps in current practices, necessitating alignment with Sustainable Development Goals (SDGs) 6 (Clean Water) and 13 (Climate Action). These findings affirm that water-centric metrics must guide mining transitions to balance operational efficiency with ecological and social resilience.</p><p>The role of governance and inclusive policies emerge as pivotal in mitigating hazards, as evidenced by the low dynamic weights of regulatory compliance (5%) and community engagement (30%) despite their theoretical importance. Decentralized, gender-inclusive frameworks-such as combining Indigenous knowledge with AI-driven monitoring-could bridge technical and socio-environmental divides, fostering equitable resource stewardship. For instance, participatory water governance models not only enhance contamination detection but also empower vulnerable groups, such as women in drought-prone communities, to lead resilience-building efforts. This synergy between technological innovation and grassroots involvement is essential to achieving SDG 11 (Sustainable Cities and Communities) and ensuring transboundary water security in miningaffected regions.</p><p>Future research should prioritize scaling IoT and blockchain technologies for real-time hazard tracking while addressing socio-technical barriers to inclusive governance. The persistent disconnect between static risk assessments and dynamic spatiotemporal realities calls for lifecycle-based evaluations of contamination impacts, particularly in semi-arid regions like Hebei. Policymakers must institutionalize adaptive frameworks that link carbon pricing mechanisms to water sustainability targets, incentivizing green mining practices. By centering water as a nexus of ecological, economic, and social imperatives, this study provides a roadmap for harmonizing mineral extraction with planetary health, ensuring that mining transitions advance global sustainability without compromising local livelihoods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Future Recommendations</head><p>Future research and implementation efforts should prioritize integrated technological and governance frameworks to address mining-related water challenges. The adoption of IoT and blockchain systems for monitoring Acid Mine Drainage (AMD), heavy metals, and groundwater dynamics could mitigate spatiotemporal risks, such as droughts, aligning with SDG 6 (Clean Water) and SDG 9 (Industry Innovation).</p><p>Concurrently, embedding gender-disaggregated data and quotas in water governance structures would reduce socio-economic inequities (50% severity) while advancing SDG 5 (Gender Equality) and SDG 10 (Reduced Inequalities). Carbon pricing mechanisms linked to water sustainability metrics could incentivize closed-loop recycling practices, directly addressing climate impacts (36.3% weight) under SDG 13 (Climate Action) and SDG 12 (Responsible Consumption). Legal recognition of Indigenous custodianship over aquifers would decentralize stewardship, reduce conflicts, and align with SDG 11 (Sustainable Communities) and SDG 16 (Peaceful Institutions).</p><p>Mandating lifecycle assessments (LCAs) for mining permits could enforce accountability for contamination risks (e.g., AMD) and remediation, supporting SDG 15 (Life on Land) and SDG 14 (Life Below Water). Transboundary agreements for shared basins, such as the Luanhe River, should be strengthened under SDG 17 (Partnerships) to manage groundwater extraction and stabilize water table fluctuations (14.4% weight). Finally, AI-driven predictive modeling for tailings dam failures could bridge SDG 6 (Clean Water) and SDG 7 (Affordable Clean Energy) through early warning systems, enhancing hazard resilience. These recommendations collectively aim to harmonize technical innovation, equitable governance, and global sustainability targets.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Water 2025 ,</head><label>2025</label><figDesc>17, x FOR PEER REVIEW 4 of 26</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Location map of the study area. (a) Map of China highlighting Hebei Province. (b) Map of Hebei Province with the Sijiaying Iron Mine's location in Tangshan District. (c) High-resolution satellite image of the Sijiaying Iron Mine and its proximity to the Luanhe River Basin.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Location map of the study area. (a) Map of China highlighting Hebei Province. (b) Map of Hebei Province with the Sijiaying Iron Mine's location in Tangshan District. (c) High-resolution satellite image of the Sijiaying Iron Mine and its proximity to the Luanhe River Basin.</figDesc><graphic coords="3,165.04,390.97,388.89,274.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Water 2025 , 26 Figure 2 .</head><label>2025262</label><figDesc>Figure 2. Methodological demonstration diagram for this study.2.3. Data Collection 2.3.1. Parameters</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Methodological demonstration diagram for this study.</figDesc><graphic coords="4,96.84,516.34,404.11,224.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Severity of impact of transition from open pit to underground mining on sustainable development indexes.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Severity of impact of transition from open pit to underground mining on sustainable development indexes.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Environmental impact category weights (%).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Environmental impact category weights (%).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Severity analysis of multi-dimensional risk factors.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Severity analysis of multi-dimensional risk factors.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Table of parameters.</figDesc><table><row><cell>No.</cell><cell>Groups of Major Category Parameters</cell><cell>Major Categories of Parameters</cell><cell cols="2">Code Parameters</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>1-Pollution caused by crushing (En1), 2-possibility of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>pollution in future (En2), 3-reduce greenhouse gas</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>emissions (En3), 4-reduce soil contamination (En4),</cell></row><row><cell>1</cell><cell>Environmental Factors</cell><cell>Environmental Pollution and Preservation</cell><cell>En</cell><cell>5-reduce water contamination (En5), 6-reduce air contamination (En6), 7-preserve local animals (En7), 8-preserve local plants (En8), 9-rate of increase of pollutants compared to permissible environmental</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>indicators (En9), 10-contaminants available (En10),</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>11-impact of mine reclamation (En11), 12-reuse of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>mined lands (En12).</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>13-Environmental cost of block transportation (EC1),</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>14-energy consumption during drilling and blasting</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(EC2), 15-environmental costs of ancillary tasks (EC3),</cell></row><row><cell>2</cell><cell></cell><cell cols="2">Environmental Costs EC</cell><cell>16-crushing emissions and associated costs (EC4), 17-Global Warming Potential (GWP) of mining</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>activities (EC5), 18-cumulative environmental costs</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>over mine life (EC6), 19-environmental cost</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>minimization in mine planning (EC7).</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>20-Greenhouse gas emissions (CC1), 21-carbon sinks</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>destruction (CC2), 22-deforestation and land-use</cell></row><row><cell>3</cell><cell></cell><cell>Climate Change</cell><cell>CC</cell><cell>changes (CC3), 23-reduction of gases produced by</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>machinery and facilities (CC4), 24-increase in</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>atmospheric heat (CC5).</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>25-Topsoil quality (SW1), 26-deep soil quality (SW2),</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>27-terrestrial ecotoxicity (SW3), 28-freshwater</cell></row><row><cell>4</cell><cell></cell><cell>Soil, Water, and Air</cell><cell>SW</cell><cell>ecotoxicity (SW4), 29-surface water quality (SW5), 30-underground water quality (SW6), 31-water table</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>change (SW7), 32-air quality (SW8), 33-dust reduction</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(SW9), 34-noise reduction (SW10).</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>35-Overburden volume (WA1), 36-waste rock volume</cell></row><row><cell>5</cell><cell></cell><cell>Waste and Acid Mine Drainage</cell><cell>WA</cell><cell>(WA2), 37-tailing volume (WA3), 38-waste management and reuse (WA4), 39-acidification due to</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>sulfur (WA5).</cell></row><row><cell>6</cell><cell></cell><cell>Biodiversity and Ecosystem</cell><cell>BE</cell><cell>40-Deforestation (BE1), 41-migration or destruction of animal species (BE2), 42-restoration of biodiversity (BE3), 43-life below water (BE4), 44-ecotoxicity (BE5).</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Aspects for open pit-to-underground mining transition.</figDesc><table><row><cell>No.</cell><cell>Aspect</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Selected expert panel for multidisciplinary mining sustainability assessment.Assessing Water-Related Hazard Mitigation and Sustainability Impacts in Open Pit-to-Underground Mining Transitions 2.4.1. Study Design and Parameter Identification</figDesc><table><row><cell cols="2">Expert No. Occupation/Position</cell><cell>Academic Degree</cell><cell>Work Experience (Years)</cell><cell>Field of Study/Expert Science Interests</cell></row><row><cell>1</cell><cell>Geotechnology Professor</cell><cell>Doctor (Engineering)</cell><cell>41</cell><cell>Geotechnical stability; mining system design</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Poverty cycles in</cell></row><row><cell>2</cell><cell>Socio-Economic Vulnerability Expert</cell><cell>PhD (Development Economics)</cell><cell>14</cell><cell>mining-dependent communities; livelihood</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>diversification strategies</cell></row><row><cell>3</cell><cell>Hydrologist and Water Governance Expert</cell><cell>PhD (Water Resource Management)</cell><cell>18</cell><cell>Groundwater sustainability in mining regions; community-led water allocation frameworks</cell></row><row><cell>4</cell><cell>Iron Ore Mining Engineer</cell><cell>PhD (Mining Engineering)</cell><cell>15</cell><cell>Iron ore extraction; hybrid mining methods</cell></row><row><cell>5</cell><cell>Environmental Scientist</cell><cell>PhD (Environmental Science</cell><cell>12</cell><cell>GHG emissions; biodiversity restoration</cell></row><row><cell>6</cell><cell>Water Quality and Contamination Expert</cell><cell>PhD (Environmental Chemistry)</cell><cell>11</cell><cell>Monitoring and remediation of water contamination; heavy metal pollution in mining regions</cell></row><row><cell>7</cell><cell>Renewable Energy Analyst</cell><cell>MSc (Energy Systems)</cell><cell>8</cell><cell>Energy efficiency; renewable adoption (SDG 7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Health impacts of water</cell></row><row><cell>8</cell><cell>Environmental Health Researcher</cell><cell>PhD (Public Health)</cell><cell>8</cell><cell>contamination; gender-specific vulnerabilities to</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>mining-related hazards</cell></row><row><cell>9</cell><cell>Mining Policy Advisor</cell><cell>JD/PhD (Environmental Law)</cell><cell>20</cell><cell>SDG alignment; regulatory compliance</cell></row><row><cell>10</cell><cell>Social Sustainability Expert</cell><cell>PhD (Sociology)</cell><cell>9</cell><cell>Community engagement; cultural heritage; workforce welfare</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4 .</head><label>4</label><figDesc>Experts' average ratings on Questionnaire 1 to identify 10 significant influencing elements.</figDesc><table><row><cell>No.</cell><cell>Aspect</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 .</head><label>5</label><figDesc>Ranking results of influential factors.</figDesc><table><row><cell>Rank</cell><cell>Aspect</cell><cell>Symbol</cell><cell>Closeness Coefficient</cell><cell>Impact Category</cell><cell>Impact on Sustainability</cell><cell>Recommended Action/Strategy</cell></row><row><cell></cell><cell>Alignment with SDG 6 (Clean Water) and SDG 14 (Life Below Water)</cell><cell>A19</cell><cell>0.912</cell><cell>Very High Impact</cell><cell>Protects freshwater, reduces contamination, preserves aquatic ecosystems</cell><cell>Integrate SDG 6/14 into planning; enforce community-led governance</cell></row><row><cell></cell><cell>Optimal transition depth determination</cell><cell>A4</cell><cell>0.876</cell><cell>Very High Impact</cell><cell>Minimizes groundwater contamination, stabilizes water tables</cell><cell>Use geotechnical-hydrogeological studies; predictive groundwater models</cell></row><row><cell></cell><cell>Geotechnical/</cell><cell></cell><cell></cell><cell></cell><cell>Prevents structural</cell><cell>Implement real-time</cell></row><row><cell></cell><cell>geomechanical stability of</cell><cell>A2</cell><cell>0.864</cell><cell>Very High Impact</cell><cell>failures causing water</cell><cell>stability monitoring;</cell></row><row><cell></cell><cell>ore body and strata</cell><cell></cell><cell></cell><cell></cell><cell>contamination</cell><cell>reinforce critical zones</cell></row><row><cell></cell><cell>Real-time water quality monitoring systems (AMD, heavy metals)</cell><cell>A17</cell><cell>0.843</cell><cell>High Impact</cell><cell>Detects AMD/heavy metals early, reduces water toxicity</cell><cell>Deploy IoT sensors and blockchain tracking</cell></row><row><cell></cell><cell>Waste and tailings valorization strategies</cell><cell>A16</cell><cell>0.821</cell><cell>High Impact</cell><cell>Reduces leaching, supports circular economy</cell><cell>Partner to repurpose tailings; use AI for reuse</cell></row><row><cell></cell><cell>Energy efficiency and</cell><cell></cell><cell></cell><cell></cell><cell>Lowers carbon footprint</cell><cell>Shift to solar/wind</cell></row><row><cell></cell><cell>renewable</cell><cell>A21</cell><cell>0.798</cell><cell>High Impact</cell><cell>of water-intensive</cell><cell>pumps; optimize</cell></row><row><cell></cell><cell>energy adoption</cell><cell></cell><cell></cell><cell></cell><cell>processes</cell><cell>energy use</cell></row><row><cell></cell><cell>Water resource management and aquifer protection</cell><cell>A22</cell><cell>0.785</cell><cell>High Impact</cell><cell>Prevents aquifer depletion, ensures water security</cell><cell>Adopt closed-loop recycling; community-led protection zones</cell></row><row><cell></cell><cell>Resilience to water-related climate extremes (floods, droughts)</cell><cell>A25</cell><cell>0.763</cell><cell>High Impact</cell><cell>Reduces climate vulnerability for opera-tions/communities</cell><cell>Build adaptive infrastructure; drought-resistant sourcing</cell></row><row><cell></cell><cell>Aquatic ecosystem health monitoring</cell><cell>A15</cell><cell>0.742</cell><cell>High Impact</cell><cell>Protects biodiversity (SDG 14)</cell><cell>Conduct biodiversity audits; restore riparian zones</cell></row><row><cell></cell><cell>Lifecycle assessment</cell><cell></cell><cell></cell><cell></cell><cell>Quantifies long-term</cell><cell>Perform LCAs; fund</cell></row><row><cell>10</cell><cell>(LCA) of water</cell><cell>A20</cell><cell>0.721</cell><cell>High Impact</cell><cell>risks for proactive</cell><cell>post-closure</cell></row><row><cell></cell><cell>contamination impacts</cell><cell></cell><cell></cell><cell></cell><cell>mitigation</cell><cell>remediation</cell></row><row><cell></cell><cell cols="5">2.4.3. Weighting Criteria via Analytical Hierarchy Process (AHP)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 6 .</head><label>6</label><figDesc>The AHP method's relative weight of the criterion.</figDesc><table><row><cell>Factor</cell><cell>Weight</cell><cell>Rank</cell><cell>Factor</cell><cell>Weight</cell><cell>Rank</cell></row><row><cell>A19</cell><cell>0.104567</cell><cell>1</cell><cell>A21</cell><cell>0.098871</cell><cell>6</cell></row><row><cell>A4</cell><cell>0.103454</cell><cell>2</cell><cell>A22</cell><cell>0.098283</cell><cell>7</cell></row><row><cell>A2</cell><cell>0.102893</cell><cell>3</cell><cell>A25</cell><cell>0.09769</cell><cell>8</cell></row><row><cell>A17</cell><cell>0.100615</cell><cell>4</cell><cell>A15</cell><cell>0.097094</cell><cell>9</cell></row><row><cell>A16</cell><cell>0.100038</cell><cell>5</cell><cell>A20</cell><cell>0.096495</cell><cell>10</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 7 .</head><label>7</label><figDesc>Size values or significance of key elements for Sijiaying Iron Mine under normal circumstances.</figDesc><table><row><cell>Aspects</cell><cell>Feasible Solutions</cell><cell>Points Range</cell><cell>Average Points</cell><cell>Codes</cell></row><row><cell>Alignment with SDG 6 (Clean Water) and SDG 14</cell><cell>Integrate SDG 6/14 metrics into mine planning; enforce community-led water governance.</cell><cell>8 ≤ S &lt; 10</cell><cell>9.1</cell><cell>A19</cell></row><row><cell></cell><cell>Partial adoption of SDG criteria with limited stakeholder involvement.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Minimal SDG integration; no participatory frameworks.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Optimal transition depth determination</cell><cell>Use hydrogeological studies and predictive groundwater models.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.9</cell><cell>A4</cell></row><row><cell></cell><cell>Limited modeling; reliance on historical data.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Ad-hoc depth selection without technical analysis.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Geotechnical stability of ore body/strata</cell><cell>Real-time stability monitoring; reinforcement with grouting/rock bolts.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.8</cell><cell>A2</cell></row><row><cell></cell><cell>Periodic inspections; partial reinforcement.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No proactive measures; reactive repairs only.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Real-time water quality monitoring</cell><cell>Deploy IoT sensors for AMD/heavy metals; blockchain-enabled data tracking.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.4</cell><cell>A17</cell></row><row><cell></cell><cell>Manual sampling with delayed reporting.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No systematic monitoring; reliance on external reports.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Waste and tailings valorization</cell><cell>Partner to repurpose tailings into construction materials; AI-driven reuse strategies.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.3</cell><cell>A16</cell></row><row><cell></cell><cell>Limited recycling; no circular economy partnerships.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Landfill disposal; no valorization efforts.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Energy efficiency and renewable adoption</cell><cell>Shift to solar/wind-powered pumps; optimize energy use in water recycling.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.1</cell><cell>A21</cell></row><row><cell></cell><cell>Partial renewable adoption; fossil fuel dependency.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No renewable integration; high carbon footprint.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Water resource management/aquifer protection</cell><cell>Closed-loop water recycling systems; community-led aquifer protection zones.</cell><cell>8 ≤ S &lt; 10</cell><cell>8.0</cell><cell>A22</cell></row><row><cell></cell><cell>Partial recycling; limited community involvement.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Linear water use; no aquifer safeguards.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Resilience to water-related climate extremes</cell><cell>Build flood barriers; adopt drought-resistant water sourcing (e.g., rainwater harvesting).</cell><cell>8 ≤ S &lt; 10</cell><cell>7.9</cell><cell>A25</cell></row><row><cell></cell><cell>Basic infrastructure; limited climate adaptation.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No adaptive measures; high vulnerability.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>Aquatic ecosystem health monitoring</cell><cell>Quarterly biodiversity audits; restore riparian zones with native vegetation.</cell><cell>8 ≤ S &lt; 10</cell><cell>7.8</cell><cell>A15</cell></row><row><cell></cell><cell>Annual audits; minimal habitat restoration.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No monitoring; ecosystem degradation unchecked.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row><row><cell>LCA of water contamination impacts</cell><cell>Perform LCAs for all phases; fund post-closure remediation programs.</cell><cell>8 ≤ S &lt; 10</cell><cell>7.7</cell><cell>A20</cell></row><row><cell></cell><cell>Partial LCAs; limited remediation funding.</cell><cell>6 ≤ S &lt; 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell>No LCAs; contamination risks unaddressed.</cell><cell>1 ≤ S &lt; 6</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 8 .</head><label>8</label><figDesc>Weighted normalized correlation matrix.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>A19</cell><cell>A4</cell><cell>A2</cell><cell>A17</cell><cell>A16</cell><cell>A21</cell><cell>A22</cell><cell>A25</cell><cell>A15</cell><cell>A20</cell></row><row><cell></cell><cell cols="2">Environmental</cell><cell></cell><cell cols="7">En EC CC SW WA 0.045063 0.011179 0.072773 0.066056 0.06299 0.059014 0.04405 0.072506 0.041629 0.08043 0.04307 0.048019 0.076982 0.0635 0.022493 0.009908 0.056242 0.011889 0.045367 0.076182 0.04679 0.023523 0.069884 0.032937 0.049808 0.011238 0.024775 0.071738 0.063229 0.016074 0.025192 0.039073 0.008973 0.058911 0.027666 0.050516 0.024068 0.041794 0.021467 0.02972 0.010414 0.067675 0.026111 0.064323 0.050956 0.037226 0.021546 0.057643 0.029296 0.029395 BE 0.027229 0.039192 0.06726 0.034168 0.031298 0.020319 0.055608 0.036356 0.058528 0.035594</cell></row><row><cell cols="2">Social and</cell><cell cols="2">Community</cell><cell cols="7">SC SH RI NG 0.051201 0.050388 0.053673 0.011851 0.064673 0.029807 0.025332 0.045493 0.028694 0.040707 0.047677 0.029131 0.038245 0.032499 0.008609 0.02948 0.043641 0.028926 0.063129 0.0819 0.025663 0.053232 0.011532 0.063421 0.052632 0.010586 0.069667 0.013676 0.014708 0.012218 0.08071 0.064028 0.066384 0.042677 0.009336 0.038303 0.054577 0.041887 0.053975 0.017347 PM 0.065719 0.034964 0.064665 0.029723 0.047336 0.066818 0.061698 0.072049 0.018298 0.072043</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>LT</cell><cell cols="6">0.017652 0.018429 0.061126 0.032274 0.027446 0.013114 0.04363 0.008719 0.024349 0.019803</cell></row><row><cell cols="2">Technical and</cell><cell cols="2">Geological</cell><cell>Te TG GG SS ME FO</cell><cell cols="6">0.016506 0.050045 0.036079 0.01292 0.072963 0.061904 0.050516 0.036909 0.013692 0.017326 0.040943 0.034164 0.014047 0.052698 0.035105 0.063532 0.046045 0.03867 0.028128 0.016531 0.060441 0.035928 0.037324 0.008127 0.072621 0.065866 0.035691 0.008222 0.030224 0.009694 0.062092 0.057775 0.07951 0.050827 0.014885 0.0587 0.016264 0.035832 0.056992 0.066887 0.032491 0.01329 0.03162 0.010879 0.031919 0.062199 0.031588 0.045363 0.061409 0.058448 0.041305 0.051388 0.01299 0.057873 0.065105 0.011325 0.049333 0.02391 0.02356 0.029401</cell></row><row><cell>Economic</cell><cell cols="2">and</cell><cell>Regulatory</cell><cell cols="7">FE CP IA RM 0.046511 0.04682 0.025756 0.035953 0.043073 0.014267 0.030906 0.030756 0.014422 0.061638 0.060386 0.007946 0.038904 0.051578 0.037779 0.053589 0.041304 0.054298 0.0621 0.029367 0.041539 0.057567 0.017893 0.017605 0.035312 0.057459 0.018633 0.062357 0.061591 0.053393 0.049082 0.026175 0.017288 0.053032 0.069766 0.049066 0.028091 0.027723 0.057326 0.075595</cell></row><row><cell>Land</cell><cell cols="2">and</cell><cell>Energy</cell><cell>LS EN SG</cell><cell cols="6">0.010291 0.033472 0.01946 0.031916 0.008641 0.025359 0.048111 0.056323 0.037658 0.018995 0.04297 0.053233 0.032633 0.046015 0.044216 0.059398 0.050183 0.043926 0.060685 0.030262 0.009061 0.053366 0.018886 0.038236 0.013373 0.041008 0.028503 0.033032 0.029543 0.02105</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">2.4.6. Validation and Strategic Recommendations</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">Results were validated against expert feedback and benchmarked with prior studies.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">Critical issues included post-mining land use (PM: 75.6% impact) and energy efficiency</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">(EN: 73.8%). Strategies such as real-time environmental monitoring (A17) and waste val-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">orization (A16) were proposed (Table 6) to align operations with Sustainable Development</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Goals (SDGs).</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">The key equations and symbols included the following:</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">TOPSIS Closeness Coefficient (C i ): Measures proximity to ideal solutions.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">D + i : Distance from positive ideal solution. D -</cell></row></table><note><p>i : Distance from negative ideal solution. AHP Weighting: Normalized eigenvector of pairwise comparison matrix. Relative Impact (RI): Aggregated weighted scores normalized to percentage scale.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 9 .</head><label>9</label><figDesc>Parameter categorization for sustainability assessment.</figDesc><table><row><cell>Groups of Parameters</cell><cell>Parameters</cell><cell>Overall Technical Description</cell></row><row><cell></cell><cell></cell><cell>Quantifies the volume of non-ore materials (overburden, waste</cell></row><row><cell></cell><cell>WA1: Overburden volume, WA2: waste rock</cell><cell>rock) removed during mining operations, tailings generated from</cell></row><row><cell>1. Waste (W)</cell><cell>volume, WA3: tailings volume, WA4: Waste wanagement and reuse, WA5: acidification</cell><cell>ore processing, and strategies for waste reuse. WA5 assesses sulfur-induced acidification risks from exposed sulfide minerals</cell></row><row><cell></cell><cell>due to sulphur</cell><cell>(e.g., pyrite) in waste dumps, which could lead to Acid Mine</cell></row><row><cell></cell><cell></cell><cell>Drainage (AMD) in the semi-arid climate of Hebei.</cell></row><row><cell></cell><cell></cell><cell>Focuses on sulfur oxidation in waste materials, which generates</cell></row><row><cell>2. Acid Mine Drainage</cell><cell></cell><cell>sulfuric acid and leaches heavy metals (e.g., Fe, As) into</cell></row><row><cell>(AMD) and Heavy Metal</cell><cell>WA5: Acidification due to sulfur</cell><cell>groundwater and surface water. Critical for Sijiaying Mine due to</cell></row><row><cell>Leaching</cell><cell></cell><cell>its proximity to the Luanhe River Basin, where AMD could</cell></row><row><cell></cell><cell></cell><cell>contaminate regional water resources.</cell></row><row><cell></cell><cell>BE1: Deforestation, BE2:</cell><cell>Evaluates habitat loss from land clearing (BE1), impacts on endemic</cell></row><row><cell>3. Biodiversity and</cell><cell>migration/destruction of animal species,</cell><cell>species (e.g., Hebei's migratory birds), reclamation efforts (BE3),</cell></row><row><cell>ecosystem (B)</cell><cell>BE3: restoration of biodiversity, BE4: life</cell><cell>aquatic ecosystem health in local reservoirs (BE4), and toxicity from</cell></row><row><cell></cell><cell>below water, BE5: ecotoxicity</cell><cell>heavy metals (BE5) affecting soil and water organisms.</cell></row><row><cell></cell><cell></cell><cell>Measures physical/chemical degradation of topsoil (SW1) from</cell></row><row><cell>4. Soil (S)</cell><cell>SW1: Topsoil quality, SW2: deep soil quality, SW3: terrestrial ecotoxicity</cell><cell>mining activities, contamination of deeper soil layers (SW2) by leachates, and ecotoxicological risks (SW3) from metal</cell></row><row><cell></cell><cell></cell><cell>accumulation (e.g., Fe, Mn) in agricultural soils near the mine.</cell></row><row><cell></cell><cell></cell><cell>Assesses contamination of surface water (SW5) and groundwater</cell></row><row><cell>5. Surface Water Quality</cell><cell>SW4: Freshwater ecotoxicity, SW5: surface</cell><cell>(SW6) by suspended solids, heavy metals, and pH changes. SW4</cell></row><row><cell>and Groundwater</cell><cell>water quality, SW6: underground water</cell><cell>evaluates toxicity to aquatic life in the Luanhe River, while SW7</cell></row><row><cell>Resources (Wa)</cell><cell>quality, SW7: water table change</cell><cell>tracks aquifer depletion due to mine dewatering in Hebei's</cell></row><row><cell></cell><cell></cell><cell>water-stressed region.</cell></row><row><cell>6. Airborne</cell><cell></cell><cell></cell></row><row><cell>Contaminants (A)</cell><cell></cell><cell></cell></row></table><note><p>En1: Pollution caused by crushing, En2: possibility of future pollution, SW8: air quality, SW9: dust reduction, SW10: noise reduction Monitors particulate matter (PM10, PM2.5) from ore crushing (En1), fugitive dust (SW8) from haul roads, mitigation measures (SW9: water spraying, SW10: noise barriers). En2 addresses long-term risks of heavy metal-laden dust dispersion to nearby villages.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 9 .</head><label>9</label><figDesc>Cont.</figDesc><table><row><cell>Groups of Parameters</cell><cell>Parameters</cell><cell>Overall Technical Description</cell></row><row><cell>7. Energy (E)</cell><cell>EN1: Energy consumption, EN2: fossil fuel depletion, EN3: renewable energy generation</cell><cell>Quantifies diesel/petrol use in heavy machinery (EN1), reliance on non-renewable resources (EN2), and adoption of solar/wind energy (EN3) to offset carbon emissions in Hebei's coal-dominated energy grid.</cell></row><row><cell></cell><cell>CC1: Greenhouse gas emissions, CC2:</cell><cell>Tracks CO 2 /CH 4 emissions from machinery (CC1), loss of carbon</cell></row><row><cell>8. Climate Change (CC)</cell><cell>carbon sinks destruction, CC3: deforestation, CC4: reduction of gases from machinery,</cell><cell>sequestration from deforestation (CC2-CC3), mitigation via fuel-efficient equipment (CC4), and localized heat island effects</cell></row><row><cell></cell><cell>CC5: increase in atmospheric heat</cell><cell>(CC5) from exposed mine surfaces.</cell></row><row><cell></cell><cell></cell><cell>Evaluates risks of landslides (LS1) in highwall slopes (up to 63 •</cell></row><row><cell>9. Land Stability(LS) and</cell><cell>LS1: Surface ground stability, LS2: slope</cell><cell>bench angles), slope failure (LS2) due to blasting vibrations, and</cell></row><row><cell>Sediment Control</cell><cell>stability, LS3: land disturbance</cell><cell>land subsidence (LS3) from large-scale excavation in Hebei's loess</cell></row><row><cell></cell><cell></cell><cell>terrain.</cell></row><row><cell></cell><cell>PM1: Land rehabilitation, PM2: biodiversity</cell><cell>Defines strategies for backfilling pits (PM1), reintroducing native</cell></row><row><cell>10. Post-Mining (PM)</cell><cell>restoration, PM3: reclamation planning, PM4: proposed land use, PM5: community</cell><cell>vegetation (PM2), converting mined land to agriculture/recreation (PM4), and involving local communities (PM5) in post-mining</cell></row><row><cell></cell><cell>engagement in post-mining plans</cell><cell>land-use decisions.</cell></row><row><cell></cell><cell>RI1: landscape/topography degradation,</cell><cell></cell></row><row><cell></cell><cell>RI2: ground vibration, RI3: noise impact on</cell><cell>Addresses blasting-induced ground vibrations (RI2) affecting</cell></row><row><cell></cell><cell>surrounding areas, RI4: air overpressure,</cell><cell>nearby infrastructure, noise pollution (RI3) in rural Hebei</cell></row><row><cell>11. Regional Impacts (RI)</cell><cell>RI5: geothermal effects of mining depth,</cell><cell>communities, geothermal changes (RI5) from deep mining (500 m+),</cell></row><row><cell></cell><cell>RI6-RI8: short/medium/long-term impacts,</cell><cell>and multi-scale impacts (RI6-RI12) on regional ecosystems and</cell></row><row><cell></cell><cell>RI9-RI12: local/regional/national/global</cell><cell>national resource policies.</cell></row><row><cell></cell><cell>scale impacts</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>Table 10 .</head><label>10</label><figDesc>Spatiotemporal (ST) scenarios for all parameters.</figDesc><table><row><cell>Parameters</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 11 .</head><label>11</label><figDesc>Static and dynamic weights.</figDesc><table><row><cell cols="2">Impact Category f t</cell><cell>f s</cell><cell>f t ×f s ×W s</cell><cell>Dynamic Weight (W d )</cell><cell>Static Weight (W s )</cell></row><row><cell>Waste</cell><cell>1</cell><cell></cell><cell>1 × 1 × 23.89 = 23.89</cell><cell>20.8%</cell><cell>23.89%</cell></row><row><cell>AMD</cell><cell>3</cell><cell></cell><cell>3 × 2 × 11.40 = 68.40</cell><cell>9.9%</cell><cell>11.40%</cell></row><row><cell>Biodiversity</cell><cell>4</cell><cell></cell><cell>4 × 3 × 5.70 = 68.40</cell><cell>9.9%</cell><cell>5.70%</cell></row><row><cell>Soil</cell><cell>3</cell><cell></cell><cell>3 × 2 × 11.70 = 70.20</cell><cell>10.2%</cell><cell>11.70%</cell></row><row><cell>Water</cell><cell>3</cell><cell></cell><cell>3 × 2 × 16.50 = 99.00</cell><cell>14.4%</cell><cell>16.50%</cell></row><row><cell>Air</cell><cell>1</cell><cell></cell><cell>1 × 1 × 4.20 = 4.20</cell><cell>0.6%</cell><cell>4.20%</cell></row><row><cell>Energy</cell><cell>4</cell><cell></cell><cell>4 × 4 × 3.30 = 52.80</cell><cell>7.7%</cell><cell>3.30%</cell></row><row><cell>Climate Change</cell><cell>4</cell><cell></cell><cell>4 × 4 × 15.63 = 250.08</cell><cell>36.3%</cell><cell>15.63%</cell></row><row><cell>Land Stability</cell><cell>1</cell><cell></cell><cell>1 × 1 × 2.60 = 2.60</cell><cell>0.4%</cell><cell>2.60%</cell></row><row><cell>Post-Mining</cell><cell>4</cell><cell></cell><cell>4 × 3 × 0.36 = 4.32</cell><cell>0.6%</cell><cell>0.36%</cell></row><row><cell cols="2">Regional Impacts 3</cell><cell></cell><cell>3 × 2 × 0.79 = 4.74</cell><cell>0.7%</cell><cell>0.79%</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell>687.63</cell><cell>100%</cell><cell>100%</cell></row><row><cell></cell><cell></cell><cell></cell><cell>2.5.4. Factor Scoring (0-10 Scale)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>Table 12 .</head><label>12</label><figDesc>Use scenario-based scoring.</figDesc><table><row><cell>Parameter</cell><cell>Scenario Example</cell><cell>Score (S j )</cell></row><row><cell>WA1, WA2, WA4</cell><cell cols="2">Waste management plans partially applied 5</cell></row><row><cell>WA3, WA5</cell><cell>High AMD risk</cell><cell>3</cell></row><row><cell>BE1, BE3</cell><cell>Partial biodiversity restoration</cell><cell>6</cell></row><row><cell>SW1, SW8, SW9</cell><cell>Moderate air quality improvement</cell><cell>7</cell></row><row><cell>CC1, CC2</cell><cell>High GHG emissions</cell><cell>2</cell></row><row><cell cols="2">2.5.5. Final Sustainability Score Calculation</cell><cell></cell></row><row><cell cols="3">The Environmental Sustainability Score (S E ) combines Category Scores (S i ), Static</cell></row><row><cell cols="2">Weights (W s ), and Dynamic Weights (W d ):</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15"><head>Table 13 .</head><label>13</label><figDesc>Final Sustainability Score (S E ) and results.</figDesc><table><row><cell>No</cell><cell>Impact Category</cell><cell>S i</cell><cell>W s</cell><cell>W d</cell><cell>(S E ) static</cell><cell>(S E ) dynamic</cell></row><row><cell>1</cell><cell>Waste</cell><cell>5.0</cell><cell>23.89%</cell><cell>20.8%</cell><cell>1.195</cell><cell>1.040</cell></row><row><cell>2</cell><cell>AMD</cell><cell>4.0</cell><cell>11.40%</cell><cell>9.9%</cell><cell>0.456</cell><cell>0.396</cell></row><row><cell>3</cell><cell>Biodiversity</cell><cell>6.0</cell><cell>5.70%</cell><cell>9.9%</cell><cell>0.342</cell><cell>0.594</cell></row><row><cell>4</cell><cell>Soil</cell><cell>7.0</cell><cell>11.70%</cell><cell>10.2%</cell><cell>0.819</cell><cell>0.714</cell></row><row><cell>5</cell><cell>Water</cell><cell>5.0</cell><cell>16.50%</cell><cell>14.4%</cell><cell>0.825</cell><cell>0.720</cell></row><row><cell>6</cell><cell>Air</cell><cell>7.0</cell><cell>4.20%</cell><cell>0.6%</cell><cell>0.294</cell><cell>0.042</cell></row><row><cell>7</cell><cell>Energy</cell><cell>5.0</cell><cell>3.30%</cell><cell>7.7%</cell><cell>0.165</cell><cell>0.385</cell></row><row><cell>8</cell><cell>Climate Change</cell><cell>3.0</cell><cell>15.63%</cell><cell>36.3%</cell><cell>0.469</cell><cell>1.089</cell></row><row><cell>9</cell><cell>Land Stability</cell><cell>8.0</cell><cell>2.60%</cell><cell>0.4%</cell><cell>0.208</cell><cell>0.032</cell></row><row><cell>10</cell><cell>Post-Mining</cell><cell>6.0</cell><cell>0.36%</cell><cell>0.6%</cell><cell>0.022</cell><cell>0.036</cell></row><row><cell>11</cell><cell>Regional Impacts</cell><cell>4.0</cell><cell>0.79%</cell><cell>0.7%</cell><cell>0.032</cell><cell>0.028</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell>3.110</cell><cell>3.200</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16"><head>Table 14 .</head><label>14</label><figDesc>Key parameters considered for this study.</figDesc><table><row><cell>No.</cell><cell>Category of Parameters</cell><cell>Key Parameters</cell><cell>Code</cell><cell>Key Insights</cell><cell>Data Sources</cell></row><row><cell>1</cell><cell>Environmental</cell><cell>Air Pollution</cell><cell>AP</cell><cell>PM2.5/PM10 emissions from mining activities degrade air quality in regions like Inner Mongolia and Shanxi.</cell><cell>411 (air quality monitoring frameworks)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Over-extraction of groundwater</cell><cell></cell></row><row><cell>2</cell><cell></cell><cell>Water Resource Depletion and Contamination</cell><cell>WRD</cell><cell>in arid regions (e.g., Xinjiang) worsens water scarcity, competing with agriculture. Acid mine drainage and heavy metals</cell><cell>China Water Risk Report, WHO Water Quality Reports</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>pollute water sources.</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Soil erosion, habitat</cell><cell></cell></row><row><cell>3</cell><cell></cell><cell>Land Degradation and Biodiversity Loss</cell><cell>LDB</cell><cell>fragmentation, and threats to endemic species in coal-rich areas (e.g., Shanxi) and ecologically sensitive zones (e.g., Yunnan). Low post-mining reclamation</cell><cell>MEE Annual Report, UNEP Assessment on Chinese Mining</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>rates.</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Local communities (especially</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Community-Based</cell><cell></cell><cell>women) monitor water quality.</cell><cell>UN-Water</cell></row><row><cell>4</cell><cell></cell><cell>Water Monitoring and Flood</cell><cell>CBW</cell><cell>Restored wetlands/forests near mines reduce flood runoff</cell><cell>Guidelines, IUCN Case Studies on</cell></row><row><cell></cell><cell></cell><cell>Mitigation</cell><cell></cell><cell>through nature-based solutions</cell><cell>NBS</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(NBS).</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Women bear disproportionate</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>burdens (water collection, health</cell><cell>UN Women</cell></row><row><cell>5</cell><cell>Social</cell><cell>Gender Inequities and GBV</cell><cell>GIG</cell><cell>risks) and face violence due to economic stress and displacement</cell><cell>Reports, Human Rights Watch</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>in mining areas. Limited</cell><cell>Reports</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>decision-making power.</cell><cell></cell></row><row><cell>6</cell><cell></cell><cell>Health Impacts</cell><cell>HI</cell><cell>Respiratory diseases from air pollution; anxiety/depression in women due to water scarcity. Limited healthcare access in remote regions.</cell><cell>NBS Labor Reports, Lancet Planetary Health Studies</cell></row><row><cell>7</cell><cell></cell><cell>Cultural Heritage Loss and Gender-Responsive Water Access</cell><cell>CHG</cell><cell>Mining near historical sites (e.g., Shanxi temples) sparks cultural conflicts. Water distribution systems prioritize women's needs (proximity, safety).</cell><cell>Cultural Relics Bureau, WHO/UNICEF Joint Monitoring Programme</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Weak enforcement of</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Regulatory</cell><cell></cell><cell>environmental laws and gaps in</cell><cell>MEE Compliance</cell></row><row><cell>8</cell><cell>Governance</cell><cell>Compliance and</cell><cell>RCG</cell><cell>state-led "eco-friendly mining"</cell><cell>Audits, CMA</cell></row><row><cell></cell><cell></cell><cell>Green Mining</cell><cell></cell><cell>policies (e.g., renewable mineral</cell><cell>Policy Briefs</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>extraction).</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Inclusive frameworks where</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Participatory DRR</cell><cell></cell><cell>women/marginalized groups</cell><cell>UNDRR Report on</cell></row><row><cell>9</cell><cell></cell><cell>Policy Co-Design and Gender</cell><cell>PDC</cell><cell>shape water hazard strategies. Mandating 50% women in</cell><cell>Participatory DRR, UN Women</cell></row><row><cell></cell><cell></cell><cell>Quotas</cell><cell></cell><cell>disaster committees</cell><cell>Policy Briefs</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>ensures equity.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17"><head>Table 14 .</head><label>14</label><figDesc>Cont.</figDesc><table><row><cell>No.</cell><cell>Category of Parameters</cell><cell>Key Parameters</cell><cell>Code</cell><cell>Key Insights</cell><cell>Data Sources</cell></row><row><cell>10</cell><cell>Economic</cell><cell>Socio-Economic Inequality and Livelihood Diversification</cell><cell>SEL</cell><cell>Water hazards deepen poverty cycles for women/marginalized groups. Training women in eco-tourism/agroforestry reduces mining dependency.</cell><cell>World Bank Reports, ILO Studies on Green Jobs</cell></row><row><cell>11</cell><cell></cell><cell>Economic Dependency and Compensation Gaps</cell><cell>EDC</cell><cell>Local economies rely on mining jobs, creating market vulnerability. Financial redress for water scarcity impacts (e.g., crop failure) is rarely enforced.</cell><cell>China National Bureau of Statistics, World Bank Reports</cell></row><row><cell>12</cell><cell>Geological/ Technical</cell><cell>Land Instability and Water Table Disruption</cell><cell>LIW</cell><cell>Open-pit mining triggers landslides/subsidence and alters groundwater flow, worsening scarcity/contamination.</cell><cell>Geological Survey of China, China Institute of Water Resources</cell></row><row><cell>13</cell><cell></cell><cell>Seismic Risks and Participatory Risk Mapping</cell><cell>SRP</cell><cell>Blasting increases seismic activity in unstable regions. Communities use GIS tools to map flood/drought zones, integrating local/technical knowledge.</cell><cell>Chinese Academy of Geological Sciences, ESRI Case Studies</cell></row><row><cell>14</cell><cell></cell><cell>Gender-Sensitive Early Warning Systems</cell><cell>GEW</cell><cell>Flood/drought alerts accessible to women via SMS/local languages. Grassroots systems lack funding and gender-sensitive design.</cell><cell>GFDRR Guidelines, NGO Case Studies</cell></row><row><cell>15</cell><cell>Community-Based</cell><cell>Participatory DRR Planning and Traditional Knowledge</cell><cell>PDT</cell><cell>Limited inclusion of ignored. women/marginalized groups in DRR decisions. Indigenous water management practices are often</cell><cell>UNDRR Reports, UNESCO LINKS</cell></row><row><cell>16</cell><cell></cell><cell>Community-Led Early Warning and Women-Led Water Governance</cell><cell>CEW</cell><cell>Grassroots flood/drought alerts underfunded; women manage water distribution/conflict resolution in mining villages.</cell><cell>NGO Case Studies, FAO Gender and Water Governance</cell></row><row><cell>17</cell><cell></cell><cell>DRR Education for Marginalized Groups</cell><cell>DEM</cell><cell>Culturally relevant workshops prepare Indigenous communities for water hazards.</cell><cell>UNESCO DRR Education Toolkit</cell></row><row><cell>18</cell><cell>Technological</cell><cell>AI and Mobile Tech for Water Monitoring and Data</cell><cell>AMT</cell><cell>AI predicts contamination/scarcity; apps collect sex-disaggregated data on evidence-based DRR. water access/hazards for</cell><cell>IEEE Journals, MIT Technology Review</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Slow adoption of solar/wind</cell><cell></cell></row><row><cell>19</cell><cell></cell><cell>Renewable Energy and Reclamation Tech</cell><cell>RET</cell><cell>energy reduces mining's carbon footprint. Advanced techniques (e.g., phytoremediation) underused for post-mining land</cell><cell>IRENA, IUCN Nature-Based Solutions</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>rehabilitation.</cell><cell></cell></row><row><cell>20</cell><cell></cell><cell>Decentralized Water Treatment Tech</cell><cell>DWT</cell><cell>Community-managed filtration involved in maintenance. systems (e.g., bio-sand filters) address contamination. Women</cell><cell>Water Research Journal (MDPI)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18"><head>Table 15 .</head><label>15</label><figDesc>Water-related hazards in mining regions (AMD (Acid Mine Drainage), IoT (Internet of Things), GBV (Gender-Based Violence)).</figDesc><table><row><cell>Hazard</cell><cell>Key Characteristics</cell><cell>Vulnerable Groups</cell><cell>Gender Impacts</cell><cell>Mitigation Strategies</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>IoT flood early</cell></row><row><cell>Floods</cell><cell>Overflow due to rainfall, dam failure, poor drainage.</cell><cell>Low-income households, Indigenous communities</cell><cell>Women face caregiving burdens; limited evacuation access.</cell><cell>warning systems; wetland restoration; gender-inclusive early warning</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>committees.</cell></row><row><cell>Droughts</cell><cell>Water scarcity from over-extraction, climate shifts.</cell><cell>Farmers, women-led households</cell><cell>Women spend 3-6 h/day collecting water; girls drop out of school.</cell><cell>WQQM monitoring; rainwater harvesting; groundwater extraction caps.</cell></row><row><cell>Contamination</cell><cell>Pollution by heavy metals, Acid Mine Drainage (AMD).</cell><cell>Fishing communities, pregnant women</cell><cell>Higher miscarriages; loss of livelihoods.</cell><cell>AI water sensors; women-led monitoring; AMD remediation.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Satellite dam</cell></row><row><cell>Tailings Dam Failures</cell><cell>Toxic slurry release from dam collapses.</cell><cell>Downstream villages, Indigenous lands</cell><cell>Women displaced; GBV risks in shelters.</cell><cell>monitoring; women in safety inspections; community</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>relocation.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>WQQM water</cell></row><row><cell>Groundwater Depletion</cell><cell>Aquifer loss due to mining withdrawals, aridification.</cell><cell>Small farmers, pastoralists</cell><cell>Women lose income; debt from water purchases.</cell><cell>recycling; agricultural water quotas; drip irrigation</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>cooperatives.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Reforestation;</cell></row><row><cell>Sedimentation</cell><cell>River siltation from soil erosion.</cell><cell>Fishing communities, urban populations</cell><cell>Women lose fish market income; time filtering water.</cell><cell>gender-sensitive sediment traps; erosion fines to</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>community funds.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Phytoremediation;</cell></row><row><cell>Acid Mine Drainage</cell><cell>Acidic water leaching from mines.</cell><cell>Children, elderly, farmers</cell><cell>Skin diseases; impacts on breastfeeding.</cell><cell>women-trained AMD units; corporate</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>remediation bonds.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Decentralized</cell></row><row><cell>Waterborne Diseases</cell><cell>Cholera, dysentery, heavy metal poisoning.</cell><cell>Children, informal miners</cell><cell>Women care for sick; girls miss school.</cell><cell>filtration; mobile clinics; sex-disaggregated</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>health tracking.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_19"><head>Table 16 .</head><label>16</label><figDesc>Key Stakeholders in Mining-Region Water Hazard Governance.</figDesc><table><row><cell>Stakeholder Group</cell><cell cols="2">Role/Responsibility Interests/Motivations</cell><cell>Influence Level</cell><cell>Key Challenges</cell></row><row><cell></cell><cell>Operational</cell><cell>Profitability,</cell><cell></cell><cell>Profit vs.</cell></row><row><cell></cell><cell>management, water</cell><cell>regulatory</cell><cell></cell><cell>sustainability</cell></row><row><cell>Mining Companies</cell><cell>use, tailings dam</cell><cell>compliance, resource</cell><cell>High</cell><cell>trade-offs; resistance</cell></row><row><cell></cell><cell>safety, CSR</cell><cell>access, community</cell><cell></cell><cell>to gender-inclusive</cell></row><row><cell></cell><cell>initiatives.</cell><cell>relations.</cell><cell></cell><cell>policies.</cell></row><row><cell>Local Communities</cell><cell>Provide local knowledge, participate in DRR planning, monitor water quality.</cell><cell>Safe water access, health, cultural preservation, livelihood security.</cell><cell>Medium</cell><cell>Underrepresentation in decision-making; lack of technical/resources.</cell></row><row><cell>Government Agencies</cell><cell>Policy enforcement, licensing, disaster response coordination.</cell><cell>Economic growth, environmental compliance, social stability.</cell><cell>High</cell><cell>Corruption; fragmented policies; limited gender-sensitive DRR frameworks.</cell></row><row><cell></cell><cell>Advocate for</cell><cell></cell><cell></cell><cell>Limited funding;</cell></row><row><cell>NGOs and Advocacy Groups</cell><cell>marginalized groups, conduct independent audits, promote</cell><cell>Environmental justice, gender equity, transparency.</cell><cell>Medium</cell><cell>restricted access to mining sites; reliance on corporate</cell></row><row><cell></cell><cell>inclusive DRR.</cell><cell></cell><cell></cell><cell>cooperation.</cell></row><row><cell>Academia/Research</cell><cell>Provide technical expertise (e.g., WQQM systems), risk assessments, policy recommendations.</cell><cell>Data-driven solutions, sustainable mining practices.</cell><cell>Medium</cell><cell>Limited implementation power; dependence on industry partnerships.</cell></row><row><cell></cell><cell>Fund water</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>management</cell><cell>Climate resilience,</cell><cell></cell><cell>Bureaucratic delays;</cell></row><row><cell>International Donors</cell><cell>projects, enforce ESG</cell><cell>SDG alignment, risk</cell><cell>Medium</cell><cell>misalignment with</cell></row><row><cell></cell><cell>compliance in</cell><cell>reduction.</cell><cell></cell><cell>local priorities.</cell></row><row><cell></cell><cell>mining investments.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding:</head><p>The authors sincerely appreciate the financial support from the <rs type="funder">National Natural Science Foundation of China</rs> (No. <rs type="grantNumber">51574015</rs> and No. <rs type="grantNumber">51174013</rs>) and the <rs type="funder">Fundamental Research Funds for the Central Universities of China</rs> (<rs type="grantNumber">FRF-MP-20-19</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_E723wj9">
+					<idno type="grant-number">51574015</idno>
+				</org>
+				<org type="funding" xml:id="_MBcXdtp">
+					<idno type="grant-number">51174013</idno>
+				</org>
+				<org type="funding" xml:id="_BrnNT2V">
+					<idno type="grant-number">FRF-MP-20-19</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data Availability Statement: Data is available upon request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An Overview of the Impact of Mining and Mineral Processing Operations on Water Resources and Water Quality in the Zambezi, Limpopo and Olifants Catchments in Southern Africa</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Ashton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mahachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H G M</forename><surname>Dirks</surname></persName>
+		</author>
+		<idno>No. ENV-PC</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Contract Report to the Mining, Minerals and Sustainable Development (Southern Africa) Project</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1" to="362" />
+			<date type="published" when="2001">2001</date>
+			<pubPlace>Zimbabwe</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>CSIR-Environmentek, Pretoria and Geology Department, University Zimbabwe-Harare: Harare</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Water management capacity building to support rapidly developing mining economies</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Woodley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Danoucaras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Coles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Water Policy</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1191" to="1208" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Public water risk concerns triggered by energy-transition-mineral mining</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mckechnie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-Q</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K S</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Environ. Sustain</title>
+		<imprint>
+			<date type="published" when="2025">2025. 100196</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nyirenda</surname></persName>
+		</author>
+		<title level="m">Geochemical Modelling of Acid Mine Drainage (AMD) and Processes Controlling the Fate and Transport of AMD Pollutants in Groundwater Around Kansanshi Mine Site in Solwezi Town</title>
+		<meeting><address><addrLine>Pullman, WA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Zambia; Washington State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Construction of a hydrogeochemical conceptual model and identification of the groundwater pollution contribution rate in a pyrite mining area</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Pollut</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<date type="published" when="2022">2022. 119327</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Creating lakes from open pit mines: Processes and considerations, emphasis on northern environments</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Gammons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Cott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Hanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. Tech. Rep. Fish. Aquat. Sci</title>
+		<imprint>
+			<biblScope unit="page">2826</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Baseline Study to Evaluate the Groundwater Conditions and Predict Future Impacts of Mining at Matsopa Minerals</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Mokitlane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Bloemfontein, South Africa</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of the Free State</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Spatial-temporal changes in ecosystem service value and its overlap with coal mining intensity in the Yellow River Basin</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ISPRS Int. J. Geo Inf</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2000">2000-2030. 2024</date>
+			<pubPlace>China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of climate and land use changes on runoff, sediment, nitrogen and phosphorus losses in the Haihe River Basin</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Earth Sci</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="934" to="948" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">International principles and standards for the ecological restoration and recovery of mine sites</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Gann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tashe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jasper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Silveira</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Restor. Ecol. 2022, 30, e13771</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Geospatial Assessment of water-migration scenarios in the context of sustainable development goals (SDGs) 6, 11, and 16</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nagabhatla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brahmbhatt</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Remote Sens. 2020, 12, 1376. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Metal pollution and mining in the Iberian Pyrite Belt: New remediation technologies to improve the ecosystem services of the river basins</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bonnail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blasco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conradi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Á</forename><surname>Delvalls</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1302">2023. 1302</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Tracing Acid Mine Drainage from an Accidental Spill on the Estuary of Huelva (Sw Spain)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pérez-López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Cánovas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Macías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Basallote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Freydier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Olías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Nieto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Pollut</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<date type="published" when="2025">2025. 126033</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pascual</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Piana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">U</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Corbera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Fensham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fernández-Martínez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cultural Ecohydrogeology of Mediterranean-Climate Springs: A Global Review with Case Studies</title>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<biblScope unit="page">110</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mirchi</surname></persName>
+		</author>
+		<title level="m">System Dynamics Modeling as a Quantitative-Qualitative Framework for Sustainable Water Resources Management: Insights for Water Quality Policy in the Great Lakes Region</title>
+		<meeting><address><addrLine>Houghton, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Technological University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Experience and future research trends of wetland protection and restoration in China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Geogr. Sci</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="229" to="251" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A hybrid approach using fuzzy AHP-TOPSIS assessing environmental conflicts in the titan mining industry along central coast Vietnam</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Dao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Pham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">T</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Dao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Dang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">2930</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The development of a mining method selection model through a detailed assessment of multi-criteria decision methods</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Baloyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Meyer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Results Eng. 2020, 8, 100172. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Environmental Sustainability Assessment Model for Deep and Large-scale Open-pit Copper Mines</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heydari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Osanloo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spatiotemporal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Eng</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="830" to="847" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Multi-criteria Decision-making Methods for Sustainable Decision-making in the Mining Industry (A Comprehensive Study)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pouresmaieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ataei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nouri Qarahasanlou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Barabadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Min. Environ</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="683" to="706" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Research on influencing factors of coal mine safety production based on integrated fuzzy DEMATEL-ISM methods</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Sources Part A Recovery Util. Environ. Eff</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="2811" to="2830" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The significance of groundwater flow modeling study for simulation of opencast mine dewatering, flooding, and the environmental impact</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szczepi Ński</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">An epistemic context-based decision-making framework for an infrastructure project investment decision in Indonesia</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Too</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Le</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Manag. Eng</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<date type="published" when="2022">2022. 05022008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Hydrogeological hazards in open pit coal mines-investigating triggering mechanisms by validating the European ground motion service product with ground truth data</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tzampoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Loupasakis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1474">2023. 1474</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">A Risk Assessment of Water Inrush in Deep Mining in Metal Mines Based on the Coupling Methods of the Analytic Hierarchy Process and Entropy Weight Method: A Case Study of the Huize Lead-Zinc Mine in Northeastern Yunnan</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ren</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">643</biblScope>
+			<pubPlace>China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Decision Support Tool for Assessing the Sustainability of Water Reuse for Portable Applications in South African Communities</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Abimbade</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Johannesburg, South Africa</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of the Witwatersrand</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Selecting items of a food behavior checklist for the development of Nutrition Quotient (NQ) for children</title>
+		<author>
+			<persName><forename type="first">M.-H</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-Y</forename><forename type="middle">P</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-K</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-H</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Korean J. Nutr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="372" to="389" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Climate change 2021-the physical science basis. Interaction 2021</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Legg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="44" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The implementation of organizational LCA to internally manage the environmental impacts of a broad product portfolio: An example for a cosmetics, fragrances, and toiletry provider</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>De Camargo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Forin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Macedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Finkbeiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Martínez-Blanco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Life Cycle Assess</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="104" to="116" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Evaluation of Water Inrush Risk in the Fault Zone of the Coal Seam Floor in Madaotou Coal Mine</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">17</biblScope>
+			<pubPlace>Shanxi Province, China</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Dealing with water conflicts: A comprehensive review of MCDM approaches to manage freshwater ecosystem services</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Castro-Pardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fernández Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pérez Zabaleta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Azevedo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">469</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Heavy Metal Contamination in Surface Water of Harike Wetland, India: Source and Health Risk Assessment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Naqash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Singh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Potential Toxic Impacts of Hg Migration in the Disjointed Hyporheic Zone in the Gold Mining Area Experiencing River Water Level Changes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022. 2950</date>
+			<biblScope unit="volume">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Integrated Assessment of Heavy Metal Pollution and Human Health Risks in Waters from a Former Iron Mining Site: A Case Study of the Canton of Bangeli</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Bissang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Aragón-Barroso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>González-López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Osorio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">471</biblScope>
+			<pubPlace>Togo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Failure characteristics of the water-resisting coal pillar under stress-seepage coupling and determination of reasonable coal pillar width</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">1002</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Vulnerability and Impact Perception: An Overview Considering Water Systems Using Collaborative Methods and Mathematical Modelling</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D A</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Risk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Fortaleza, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">An approach for prioritising environmental, social and governance (ESG) water-related risks for the mining industry: The case of Chile</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Garcia-Zavala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ordens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pagliero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aitken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stringer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023, 14, 101259</date>
+			<publisher>Extr. Ind. Soc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Identification of mine water sources using a multi-dimensional ion-causative nonlinear algorithmic model</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">3305</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Achieving Sustainable Development Goal 6 electrochemical-based solution for treating groundwater polluted by fuel station</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C O</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M S</forename><surname>Solano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Barbosa Segundo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Martínez-Huitle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Da Silva</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022. 2911</date>
+			<biblScope unit="volume">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Climatic and hydrological factors affecting the assessment of flood hazards and resilience using modified UNDRR indicators: Ayutthaya</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Munpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kittipongvises</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Phetrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sirichokchatchawan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Taneepanichskul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lohwacharin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Polprasert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1603">2022. 1603</date>
+			<biblScope unit="volume">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Towards a situated urban political ecology analysis of packaged drinking water supply</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kooy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Walter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">225</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher&apos;s Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

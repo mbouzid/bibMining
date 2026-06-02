@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dynamics of local impacts in low-carbon transition: Agent-based modeling of lithium mining-community-aquifer interactions in Salar de Atacama, Chile</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Wenjuan</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">The Extractive Industries and Society</orgName>
+								<orgName type="department" key="dep2">School of Sustainability</orgName>
+								<orgName type="institution">Arizona State University</orgName>
+								<address>
+									<addrLine>800 Cady Mall</addrLine>
+									<postCode>85287</postCode>
+									<settlement>Tempe</settlement>
+									<region>AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">The Extractive Industries and Society</orgName>
+								<orgName type="department" key="dep2">School of Sustainability</orgName>
+								<orgName type="institution">Arizona State University</orgName>
+								<address>
+									<addrLine>800 Cady Mall</addrLine>
+									<postCode>85287</postCode>
+									<settlement>Tempe</settlement>
+									<region>AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Datu</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">The Extractive Industries and Society</orgName>
+								<orgName type="department" key="dep2">School of Sustainability</orgName>
+								<orgName type="institution">Arizona State University</orgName>
+								<address>
+									<addrLine>800 Cady Mall</addrLine>
+									<postCode>85287</postCode>
+									<settlement>Tempe</settlement>
+									<region>AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">The Extractive Industries and Society</orgName>
+								<orgName type="department" key="dep2">School of Sustainability</orgName>
+								<orgName type="institution">Arizona State University</orgName>
+								<address>
+									<addrLine>800 Cady Mall</addrLine>
+									<postCode>85287</postCode>
+									<settlement>Tempe</settlement>
+									<region>AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dynamics of local impacts in low-carbon transition: Agent-based modeling of lithium mining-community-aquifer interactions in Salar de Atacama, Chile</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6B8E784AC560550580FB313A6717BF63</idno>
+					<idno type="DOI">10.1016/j.exis.2021.100927</idno>
+					<note type="submission">Received 19 February 2021; Received in revised form 15 April 2021; Accepted 15 April 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Lithium mining Agent-based model Socio-environmental impacts Community resilience Resource uncertainties</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The global transition to low-carbon technologies has accelerated the extraction of lithium. Its associated implications on local socio-environmental systems, however, are often overlooked. This study develops an agentbased model, applied to the lithium extraction in Salar de Atacama, Chile to understand (1) how mining's brine pumping rates affect groundwater movements and (2) how changes in water resources affect social-stress dynamics under multiple projections of mining activities. The results show the groundwater declines significantly in the mining area with impacts spreading outwards to nearby communities. Communities near mining operations are most vulnerable to mining expansions, while more distant residents experience long-lasting impacts due to lower compensation and delayed groundwater recovery. We found the role of groundwater uncertainties in causing the mismatched evolution of environmental and social dynamics, thereby highlighting some governance challenges stemming from resource uncertainties. Our analysis also points to a possible striking increase in social stress resulting from the recent social overburden in the area, underlining the need of building community resilience. We discuss how improved resource governance, pathways to build community resilience, and alternative mining techniques to decouple water use can help industrial and regional decision-makers better manage the world's largest lithium production sites towards a sustainable future.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The global energy transition towards a low-carbon economy has been driving the demand for critical minerals used in batteries, including lithium, copper, cobalt, and nickel. Among others, Lithium <ref type="bibr">(Li)</ref> is one of the most important materials in lithium-ion batteries used for electric vehicles and energy storage technologies. This trend has been attracting billions of dollars of investment in new Li extraction plants and battery factories. The worldwide Li production has accelerated by approximately 20% per year since 2000 <ref type="bibr" target="#b32">(Martin et al., 2017)</ref>, and for the future growth to be sustained, the global production of Li may need to be doubled in the next decade <ref type="bibr" target="#b7">(Ballinger et al., 2019)</ref>. Salar de Atacama (SdA) in Chile, as the most economically feasible extraction place <ref type="bibr" target="#b18">(Flexer et al., 2018)</ref>, become an investment hotspot that attracts global investors rushing into the arena of <ref type="bibr">Li-mining.</ref> Demand for low-carbon technologies would have to be met through significant extraction of battery minerals, even with improvements in energy efficiency and recycling technologies <ref type="bibr" target="#b48">(Sovacool et al., 2020)</ref>. However, existing energy transition studies rarely acknowledged the local social and environmental implications of the anticipated growth in mineral extractions <ref type="bibr" target="#b23">(Lèbre et al., 2020)</ref>. Mining activities usually bring adverse impacts on the host environment and tend to exacerbate pre-existing vulnerabilities, especially in areas where the local governments are unable to manage the social and environmental outcomes <ref type="bibr" target="#b9">(Bebbington et al., 2018;</ref><ref type="bibr" target="#b23">Lèbre et al., 2020)</ref>. The Li mining process in SdA, for instance, has exacerbated the drought conditions in the area and raised severe concerns on local groundwater depletion with associated impacts on the local ecosystem and social livelihood <ref type="bibr" target="#b26">(Liu and Agusdinata, 2020)</ref>. To achieve the low-carbon transition to be truly sustainable, understanding and managing the downside risks that come along with critical mineral extraction is urgent and necessary <ref type="bibr" target="#b23">(Lèbre et al., 2020)</ref>.</p><p>Notwithstanding the increasing academic interests on the topic, specific studies on impacts from Li-extractions are limited in scope and methods being used. Studies have explored relevant concerns on biodiversity <ref type="bibr" target="#b19">(Gajardo &amp; Redón, 2019)</ref>, flora and fauna richness <ref type="bibr" target="#b27">(Liu et al., 2019)</ref>, social wellbeing <ref type="bibr" target="#b16">(Egbue, 2012;</ref><ref type="bibr" target="#b41">Romero et al., 2012)</ref>. Among others, <ref type="bibr" target="#b29">Marazuela et al. (2020)</ref> examined the hydrodynamics under current volume-based mining concessions in SdA and found the Salar nucleus was the most affected area, and the marginal zones are beginning to be affected. <ref type="bibr" target="#b2">Babidge (2016</ref><ref type="bibr" target="#b5">Babidge ( , 2018</ref><ref type="bibr" target="#b4">Babidge ( , 2020) )</ref> conducted 15-month ethnographic research with communities in SdA, documenting the evolving relationship between the locals and mining companies. In particular, through discussions with the locals using environmental change maps, the study investigates how the locals experience stress related to brine extraction in the Salar <ref type="bibr" target="#b6">(Babidge et al., 2019)</ref>. At a system level, <ref type="bibr" target="#b26">Liu and Agusdinata (2020)</ref> develop a coupled natural-social system framework for mining-community interdependencies in SdA and identify their linkages. However, research efforts are still rare in modeling dynamic interactions and projecting future scenarios regarding the Li-mining industry's ecological and social outcomes.</p><p>The Li supply chain exhibits many features of 'telecoupling' <ref type="bibr" target="#b1">(Agusdinata et al., 2018)</ref>, which refers to the notion that impacts in one socio-ecological system may be associated with actions, policies, behaviors in another geographically distant system <ref type="bibr" target="#b28">(Liu et al., 2013)</ref>. The increasing global demand in Li has led to searches for land resources for extracting raw materials, thereby causing policy-driven impact displacement in resource-extracted places. The Li-mining in SdA, driven by low-carbon policies, accelerates the scale and rate of extraction, threatening groundwater resources, and being contested among other water users. Local communities that independently govern the same focal resource (groundwater) by social norms and institutions become indirectly coupled with global policies in distant places and are being unintendedly affected.</p><p>Bringing distal connections to the attention of decision-makers can be challenging but instrumental in governing telecoupled systems <ref type="bibr">(Eakin et al., 2014;</ref><ref type="bibr" target="#b33">Moser &amp; Hart, 2015)</ref>. <ref type="bibr">Eakin et al. (2014</ref><ref type="bibr" target="#b15">Eakin et al. ( , 2017) )</ref> ascertain that multiple thresholds may exist in telecoupled systems. Among others, a conditional threshold refers to the degree of changes in the resource base conditions. Once either threshold is crossed, telecoupling can become visible to actors as a potential governance concern. The challenge for our case study is that groundwater as the focal resource has inherently large uncertainties. Different from focal resources such as land resources covered in most telecoupling studies (i.e. <ref type="bibr" target="#b43">Rueda &amp; Lambin, 2013;</ref><ref type="bibr" target="#b51">Sun et al., 2017)</ref>, groundwater is not directly observable and less predictable in its dynamics due to high mobility. These uncertainties may obscure the emergence of a threshold and make it unnoticeable, thus significantly delaying feedbacks to other resource users. Subject to such uncertainties, actors can have different understanding and interpretations of the changes in resource conditions, depending on their experience and values <ref type="bibr" target="#b6">(Babidge et al., 2019)</ref>. When certain actors perceive that the threshold has been crossed, social unrest can occur and as a result, the current governance system is pressured to address the externalities through new institutional design <ref type="bibr">(Eakin et al., 2014)</ref>. In the case of Li-mining, these uncertainties may hamper changes in the existing governance, leading to delayed regulatory actions and sustained impacts <ref type="bibr" target="#b3">(Babidge, 2019)</ref>. Given the uncertainties in resource base and delayed response, the study explores the telecoupled system in SdA.</p><p>To simulate such co-evolution of environmental and social systems, the use of integrated models have been growing in recent years <ref type="bibr" target="#b22">(Kelly et al., 2013)</ref> and the agent-based modeling (ABM) approach, in particular, has been demonstrated to be effective (e.g., <ref type="bibr" target="#b17">Filatova et al., 2013;</ref><ref type="bibr" target="#b42">Rounsevell et al., 2012;</ref><ref type="bibr" target="#b46">(Schlüter et al., 2012)</ref>). ABMs have been widely applied in studying human-aquifer interactions for water management issues. <ref type="bibr" target="#b11">Castilla-Rho et al. (2015)</ref>, for instance, developed a so-called FlowLogo model to explore how patterns of groundwater movement and social development can emerge from agents' behavior and their interactions. <ref type="bibr" target="#b36">Noël and Cai (2017)</ref> coupled ABM with a groundwater model to explore the role of farmers' behavior in a groundwater-fed irrigation area. <ref type="bibr" target="#b39">Pope and Gimblett (2015)</ref> developed an ABM to simulate complex feedbacks between human decisions and environmental conditions in an arid watershed. ABM has also been applied in mining-related contexts. <ref type="bibr" target="#b10">Boateng and Awuah-Offei (2017)</ref>, for example, modeled the effect of information diffusion on community acceptance of mining.</p><p>In this paper, we develop an ABM, applied in the Li-mining industry in SdA of Chile, to understand how the Li-mining industry's pumping behaviors affect the groundwater conditions and stress dynamics of local livelihoods, under various mining production projections. By factoring in varied actors' perceptions, we investigate how uncertainties in groundwater levels affect community stress levels and feedbacks. The level of stress tolerance of local communities is also explored to understand the critical range of thresholds in social systems. Results discussed and synthesized in this paper highlight the importance and ways to build community resilience, which refers to the capacity of communities to endure stress and recover after mining activities are significantly slowed. In the following sections, we start by introducing the socio-ecological conditions of SdA in section 2. Then we present the modeling framework and detailed design of ABM in section 3. Results are described and explained in Section 4. Section 5 discusses the implications of the results in terms of Li-governance and points out directions for future research. Finally, the paper concludes with a summary of key findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Study area</head><p>Our study covers the SdA basin in the Antofagasta region of Chile and the local communities close to the mining operations in the central Salar (Fig. <ref type="figure" target="#fig_0">1</ref>). The Li-mining in SdA was started by Albemarle company in 1984, followed by Sociedad Química y Minera de Chile (SQM) in 1994. Since then, the Li-industry has experienced a dramatic and continuous expansion. Measured by the withdrawal rate of brine (i.e. groundwater concentrated with Li), the industry has gone from pumping 0.1 m 3 /s of groundwater to more than 1.5 m 3 /s and is expected to exceed 2 m 3 /s in the near future <ref type="bibr" target="#b29">(Marazuela et al., 2020)</ref>.</p><p>Geographically, the SdA basin is bounded by mountains without a water outlet. The nucleus of Salar contains concentrated Li and the western and eastern boulders are alluvia fans connected to the higher altitude. Between alluvia fans is a transition zone formed by a density contrast between the recharged freshwater and the brine. The zone constitutes a natural discharge area with a shallower water table and high evaporation rates. The lateral recharge from the peripheral subbasins, mainly from the Rio Grande and Toconao sub-basins, constitutes 87% of recharge to SdA <ref type="bibr">(Marazuela et al., 2019b)</ref>. Elevation decreases gradually towards the center of the Salar, averagely from 3300m to 2300m. This area receives limited rainfall, which primarily falls on the north and east boundary. Precipitation level declines from an average of 140 mm/yr in the high mountains to 10 mm/yr in the center of the Salar <ref type="bibr" target="#b44">(Salas et al., 2010)</ref>.</p><p>Two Li-mines in the central Salar are operated separately by SQM and Albemarle. Their brine wells, pumping Li-rich groundwater, are clustered in the southwestern Salar, while freshwater wells, pumping freshwater for the precipitation process of Li, are sparsely distributed in the east and south fringe. Despite not suitable for human or agricultural consumption, groundwater extracted by mining industries still causes stress to the local livelihoods. Communities are located in the north and east. San Pedro de Atacama (SPA) is the largest town in the area clustered with other small communities in the north. For communities sparsely distributed on the eastern fringe, the proximity to the mining sites raises more concerns on the socio-ecological impacts of massive water withdrawals. Local livelihoods mostly rely on the traditional agropastoral economy, although in recent years, they have gradually adapted to the extractive industry <ref type="bibr" target="#b2">(Babidge, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Model description</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Modeling framework</head><p>Our work presents a unique human-aquifer interactions model for the Li-extraction in SdA. In the ABM, groundwater is pumped from concentrated wells exclusively by two mining agents. While most agents (community members) are restricted from pumping wells, they utilize ecological services (e.g. supporting agropastoral lands) and social values (e.g. cultural attachment to water, recreation, and aesthetic values) provided by groundwater. Thus, the excessive uptake of groundwater by Li-mining could lead to land/vegetation degradation and social disturbance, exerting mining-induced stress on agents' livelihood (see below for a detailed explanation of stressors). Due to groundwater uncertainties, agents perceive aquifer conditions and implications differently based on their experience and value, creating important heterogeneity in the model. Rather than modeling agents' water use behaviors, the model focuses on agents' varied experience of mininginduced stress resulting from changes in groundwater depth and its implications.</p><p>Our model structure involves social and hydrological systems (Fig. <ref type="figure" target="#fig_1">2</ref>), which interact through Li-mining companies' daily pumping decisions and water table. Pumping decisions are influenced by global Li demand and governance forces as well as local climatic seasonality. The effect of global policy on pumping decisions is simplified as input in this model since our scope is centered on the local socio-ecological changes. Water table changes are subject to climatic and hydraulic factors, namely precipitations and evapotranspiration. In the social system, Limining companies interact directly and indirectly with local communities and their residents, bringing about social changes to livelihoods. Specifically, mining companies' water withdrawal could directly affect the quality of land and vegetation in community territories. It also brings vast amounts of migrant labor, trucks, and sub-contractors, indirectly disturbing local livelihoods and taking up already limited resources. Coupled with the social and hydrological systems, our model represents the local actors' experience of mining-induced changes in the socioecological system, especially on groundwater changes and social stressors.</p><p>The model is designed based on empirical works on the local experience of mining-induced changes by <ref type="bibr" target="#b6">Babidge et al. (2019</ref><ref type="bibr" target="#b4">Babidge et al. ( , 2020) )</ref> and stakeholder meetings held in March 2018<ref type="foot" target="#foot_0">foot_0</ref> . According to these studies, the local population has been disturbed by mining projects and expansions (e.g., seeing trucks transporting brines back and forth from mining sites). They also perceive the drying vegetation in pastoral lands and the increased population (mainly from migration) in their community as negative effects of the mining industry. In general, perceptions of mining represent an individual's feeling of the vegetation changes in their territory, population growth rate in communities, and mining scales. Such perception can vary across individuals depending on their experience and values. In exchange for community agreement, mining companies offer financial compensation to local communities through corporate social responsibility programs. They are carried out either as direct financial support (i.e., 2% of company sales) or as investments in education, micro-entrepreneurship, community culture, and infrastructure, but are still inadequate to offset the negative mining impacts <ref type="bibr" target="#b26">(Liu and Agusdinata, 2020)</ref>.</p><p>These insights inform our model in two ways. First, the community member agents are designed to perceive mining-induced changes through three major stressors: (1) drought stress (DS), observing the level of vegetation drying affected by groundwater decline; (2) population stress (PS), experiencing population changes in the agent's home community; and (3) mining stress (MS), subject to the scale of mining and the agent's proximity to mining operations. Second, financial compensation from mining company agents is incorporated in our model as a stress relief mechanism.</p><p>The ABM is developed in a NetLogo platform <ref type="bibr" target="#b55">(Wilensky, 1999)</ref>  with a groundwater initialization to stabilize natural water movements, and the social system is then added to the model. At the beginning of each year, new people enter the basin, and mining companies update their pumping rates. In each time step, community members move and observe mining-induced changes, during which their perception of each stressor is assessed. The total perceived stress (TSI) is then calculated based on the agent's perceived importance of each stressor, represented by a set of weights. If the agent feels stressed by the overall impacts, it reports to its home community.</p><p>At the community level, monthly meetings are held to summarize total reported cases of stress, and if there are more than 30 cases of stress the community is stressed. This threshold value was calibrated to match the timeline when the first community declared stress according to news reports (detailed calibration process is in Table <ref type="table">1</ref>, appendix I). After that, quarterly meetings with Li-mining companies are held to discuss compensation. Accordingly, the agent's TSI is then updated to incorporate the relief effect through financial compensation. The threshold when the community as a whole is in stress and companies start compensation is calibrated based on the actual time of events. Environmental inspections and mining expansion requests are added as exogenous events to the model. During environmental inspections, the largest drawdown in the basin is reported to each community member, which in turn will change their perceived DS and TSI. Similarly, for expansion requests, the newly requested quota is reported to all community members, changing the perceived MS and TSI accordingly. The flowchart of the model showing major calculations and scheduling is in Fig. <ref type="figure" target="#fig_1">2</ref> of appendix I.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">The agent-based model elements</head><p>Our model represents a 75km × 105km landscape in SdA with each modeled cell representing an area of 3km × 3km (Fig. <ref type="figure" target="#fig_0">1</ref>, Appendix I). A detailed description of this model and associated parameters is documented following the ODD protocol <ref type="bibr" target="#b20">(Grimm et al., 2006)</ref> in Appendix I. The hydrological and social parameters used in this model are also documented in Table <ref type="table">1</ref> of Appendix I, along with the calibration process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.1.">The groundwater component</head><p>The groundwater system builds on the FlowLogo model by Castilla-Rho et al. <ref type="bibr">(2015)</ref>, which was then parameterized and calibrated with hydrogeological inputs from local groundwater studies by <ref type="bibr">Marazuela et al. (2019a</ref><ref type="bibr" target="#b29">Marazuela et al. ( , 2020))</ref>. The model interface (Fig. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">Appendix I</ref>) includes an unconfined aquifer bounded by no-flow cells at all boundaries. The modeled landscape elements include the nucleus of SdA, wetlands, and barren soils. The aerial recharge is modeled by an input map of superficial recharge with seasonality variations (peaking at southern hemisphere summer) and a random rainfall event in March in the East or North, representing the significant rainfall likely occurring in the basin <ref type="bibr" target="#b8">(Barrett et al., 2016)</ref>. Model cells are defined primarily by drawdown (change in water head to initial head) calculated at each time step. The groundwater inputs are also detailed in Appendix I.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.2.">Type of agents and state variables</head><p>The model has three types of agents: (1) community members (person shape); they are characterized by their spatial locations, perceived stress level, and total stress index (TSI); they conduct daily movement randomly (i.e. for working, herding, local guiding, etc.) from home to any location with a maximum distance of 15km (estimated based on daily activities of the locals; <ref type="bibr" target="#b6">Babidge et al., 2019)</ref>; (2) communities (house shape); they report on community population and the monthly number of cases of stressed community members; and (3) Li-mining companies (triangle shape); they pump throughout the year and decide when to compensate communities. The pumping rates are determined by the historical record of pumping with seasonality variations using a sinusoidal pumping schedule peaking in January (the southern hemisphere summer). The parameters in the social system are mostly based on national statistics and calibrations, which are detailed in appendix I (Table <ref type="table">1</ref>).</p><p>The modeled decision-making process describes how a community member agent perceives mining-induced changes referring to the initial state. The total stress index (TSI), interpreted as the agent's personal experience on overall mining impacts each day, is affected by the agent's location, water table changes, and mining rates. As elaborated in Section 3.1, agents assess the mining-induced changes through personal experiences on three major stressors and will be partially relieved by the mining compensations. For each agent, the personal experience is translated into the weight of each stressor. Following the assessment method widely used in agent-based model studies <ref type="bibr" target="#b25">(Li &amp; Liu, 2008;</ref><ref type="bibr" target="#b34">Murray-Rust et al., 2013)</ref>, the overall stress that an agent r perceives in day t is computed as below,</p><formula xml:id="formula_0">TSI r,t = ∑ ( Sw r,i × S r, i,t ) -Cw r × C r,t<label>(1)</label></formula><p>Where S r, i,t (Stress) represents normalized stress of each stressor i at time t for agent r; C r,t (Compensation) is a normalized indicator of compensation for an agent r at time t; Sw r, i (Stress weight) is interpreted as the perceived relative importance of each stressor i for agent r, and these weights are summed as 1 and assumed constant during simulation; and Cw r (Compensation weight) represents how effective the compensation is to relieve the stress perceived by agent r. The values of weights for agent r, are assigned randomly through a stochastic process to capture the dynamics in values of the local population. Specifically, S r,i, t (Stress) includes Drought-stress (DS), Populationstress (PS), and Mining-stress (MS). DS expresses the stress agent experiences while observing drying vegetations due to groundwater drawdown, which is normalized to 0-1 as:</p><formula xml:id="formula_1">DS r,t = ( AD r,t -VegD ) AD r,t<label>(2)</label></formula><p>Where AD r,t (Actual drawdown) is the maximum drawdown among the cell in neighbors agent r visited at time t, and VegD (Vegetation drying depth) is assumed as 1m according to local vegetation conditions <ref type="bibr" target="#b47">(Scott et al., 1999;</ref><ref type="bibr">Naumburg et al., 2015)</ref>.</p><p>PS represents the stress from a population increase in the home community compared to the initial population at the start of mining activity, which is normalized to 0-1 as:</p><formula xml:id="formula_2">PS r,t = ( Cpop r,t -Ipop ) Cpop r,t<label>(3)</label></formula><p>Where Cpop r,t Community population) is the current population size in agent r's community at time t, and Ipop (Initial population) is the population at the start of the simulation. MS describes the stress from expanding Li-extractions in an agent's adjacent area. It also captures the stress that originated from an agent's indigenous culture or identity (i.e. knowing the fact of ongoing mining makes the agent feel stressed). It is normalized between 0 and 1 as:</p><formula xml:id="formula_3">MS r,t = (TMY t -IMY) TMY / 2 ̅̅̅̅̅̅̅̅̅̅̅ ̅ Dist r,t √<label>(4)</label></formula><p>Where TMY t (Total mining yield) is the total pumping rate of all mining wells at time t, and IMY (Initial mining yield) is the pumping rate when mining starts. Dist r,t (Distance to wells) is the distance between agent r and the closest well at time t.</p><p>Similarly, C r,t is also normalized to represent the level of compensation compared to the maximum possible compensation:</p><formula xml:id="formula_4">C r,t = ( MaxC -AC r,t ) MaxC (5)</formula><p>Where MaxC (Max compensation)is the level of compensation based on the mining quota of each company, whileAC r,t (Actual Compensation) is based on the current pumping rate.</p><p>We represent the community tolerance to stress using a stress threshold, the level above which an agent starts to feel stressed by mining-induced changes. It is a characteristic that is intrinsic to a community: the higher the threshold, the more tolerant and resilient the community is to the negative changes due to mining activities. Our model defines this threshold as in the baseline model (Section 4.1), which is calibrated based on the actual time when the most adjacent community (i.e. Peine) started declaring stress about the mining industry <ref type="bibr" target="#b4">(Babidge, 2020)</ref>. Once the threshold is crossed, the agent starts reporting to its home community and potentially seeking financial compensation from companies or mobilizing social movements for improved governance. The sensitivity of the stress threshold is explored in scenario analysis (Section 4.3) to understand the critical range of thresholds in the system, which can indicate possible ways to help build the resilience of local livelihoods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.3.">Future mining projections</head><p>Future scenarios of mining plans are investigated to understand their effects on groundwater and social stress. Four mining projections are considered for the period 2020 -2030 (Fig. <ref type="figure" target="#fig_2">3</ref>). In the Business-as-usual (BAU), both companies expand the mining business following the same trend in the past ten years until reaching the maximum allowed rate, using the equation regressed by the average pumping rate from 2010 to 2019. In the Mining-commitment (MC) scenario, companies strictly follow their sustainable development plan (SQM, 2020b), which aims to reduce consumption of freshwater by 30% and brine by 20% compared to 2019 until both reach the goal of 50% by 2030. In the Maximum-allowed (MA) scenario, driven by the booming lithium market, companies increase the pumping rate to the maximum allowed rate to seize the opportunity. Lastly, the Mining-Recession (MR) scenario represents a case where mining water use capacity is curtailed due to social and regulatory pressure, to which both companies reduce the pumping rate to the level before they were granted an expansion concession in 2006.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results and analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Baseline model and validation</head><p>The resulting groundwater dynamics are shown in Fig. <ref type="figure" target="#fig_3">4</ref> in a contour map showing the spatial distribution of net groundwater drawdowns (due to pumping) and the temporal evolutions at six monitoring wells. Both results show the southwestern Salar was the most affected area, with deeper net drawdowns larger than 5m and the groundwater pumping impacts spread outwards to the edge of the Salar nucleus (Fig. <ref type="figure" target="#fig_3">4a</ref>). The effect on the transition zone is limited, with only a small decline due to its low hydraulic conductivity. The drawdown effect in communities is similar, with slightly deeper drawdowns in the North than in the East since the northern sub-basins provide major recharge to the SdA basin. For validation purposes, we compare the spatial patterns simulated in this study to existing literature and found that the simulated drawdowns mostly match the magnitude and pattern reported in <ref type="bibr" target="#b29">Marazuela et al. (2020)</ref>.</p><p>We also compare the simulated time-series changes of drawdown to data from observational wells (Fig. <ref type="figure" target="#fig_3">4b</ref>). At specific monitoring wells, the patterns of modeled drawdowns closely mimic those of the measured level, capturing both the oscillations caused by natural processes and the effects of brine pumping. For pumping wells P3 and P4 in particular, the modeled drawdown reflects a similar evolution trend as the observed data, especially on the changing rate (i.e. the modeled drawdown changes slowly at first and becomes much faster after 2010). Although the model does not capture temporary increases as shown in measured data due to the relative simplicity of the model, it successfully reflects the general scale and pattern of groundwater dynamics, which is sufficient for the purpose of this study.</p><p>As for the social system, the evolution of simulated dynamics is compared to the actual timeline of mobilization events in SdA. As shown in Fig. <ref type="figure" target="#fig_4">5</ref>, the trend and patterns in simulated social stress generally match the actual time of local mobilizations. The modeled system gradually increases in stress with oscillations starting in 2010, which is consistent with the time when Li-mining-community disputes increase as documented by <ref type="bibr" target="#b4">Babidge (2020)</ref>. The simulated number of stressed communities (Fig. <ref type="figure" target="#fig_4">5a</ref>) and the share of stressed population (Fig. <ref type="figure" target="#fig_4">5b</ref>) rose sharply in 2017, matching the intensified anti-mining mobilizations around the same period. The spike of simulated stress in early 2018, for instance, captures the most intense protest over the SQM-CORFO agreement in the area <ref type="bibr" target="#b40">(Reuters, 2018)</ref>. Overall, the modeled social dynamics capture the increased trend of stress in the area, following the same trend of more frequent mobilizations against Li-mining operations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Future mining scenarios</head><p>Groundwater and social outcomes associated with the four mining projections are shown in Fig. <ref type="figure" target="#fig_5">6</ref> and Fig. <ref type="figure" target="#fig_6">7</ref>. As for the spatial distribution of drawdown (Fig. <ref type="figure" target="#fig_5">6a</ref>), all scenarios share a similar pattern with the deepest drawdown in southwestern Salar and spreading outwards to the edge of the nucleus. Overall, the MA scenario results in the greatest depletion with the deepest drawdown around 10 m, while the deepest drawdown reaches 9 m in BAU, 5m in MC, and 4m in MR. Compared to the base scenario (Fig. <ref type="figure" target="#fig_5">6</ref>), the BAU and MA scenarios lead to a deeper drawdown in the whole area of the basin, while the MC and MR scenarios result in groundwater recovery in the mining and its adjacent areas. Under the MC and MR scenarios, the drawdown becomes significantly shallower in mining areas and several eastern communities (i.e. Peine, Socaire, Camar, and Talabre) due to the slower pumping rate in both brine and freshwater wells. By contrast, the drawdowns are almost constant in northern communities (i.e. SPA and Toconao) since the northern sub-basins provide major recharge to the Salar nucleus.</p><p>A closer look at the time-series changes reveals that different mining scenarios make little difference in the groundwater level in distant northern communities (Fig. <ref type="figure" target="#fig_5">6b</ref>). The difference is more evident in the mining area and adjacent communities, such as Peine and Camar. In general, drawdown becomes deeper at the fastest rate in MA and the slowest rate in MR. Under the BAU and MA scenarios, drawdown shows little difference across all communities but is more varied in mining sites, with the difference reaching 1m in the SQM well. Under MC and MR, groundwater table recovers in mining areas, compared to the level in 2019. The MC scenario leads to a steady recovery reaching around 5.5m in SQM and 3.5m in ALB, while the MR scenario has a faster recovery reaching around 4m in SQM and 2.5m in ALB. For eastern communities, groundwater table delays recovery but keeps declining at a slower rate in most areas. Particularly in Peine and Camar, drawdown declines much slower and even indicates a sign of recovery, which is attributed to the slower pumping rate of freshwater wells. In northern communities, different mining plans make little difference in groundwater levels. Notably, the groundwater table still declines and delays recovery in most areas even under MC and MR scenarios. This effect implies that even when pumping has been largely reduced, peripheral sub-basins providing major recharge are still affected.</p><p>In the social system, the number of stressed communities increases from 3 to 5 under all scenarios, with no significant difference across scenarios (Fig. <ref type="figure" target="#fig_6">7a</ref>). In general, slightly more communities are stressed under the MA scenario, and the rate of increase is slightly higher under the MR scenario. As for the share of stressed population (Fig. <ref type="figure" target="#fig_6">7b</ref>), the difference across scenarios stands out. The MA scenario results in more stressed residents in the eastern communities, rising from about 27% to 42%, while the MR scenario results in more stressed residents in the northern communities, rising from about 5% to 30%. When mining pumping keeps growing (BAU &amp; MA), the dynamics of stressed communities in the north share the same pattern of increase with the stressed population in the east. When pumping decreases, northern residents become more stressed, even exceeding the eastern residents' stress level in the MR scenario. This seemingly counter-intuitive condition is due to the associated lower compensation from mining companies and delayed recovery in groundwater. In the MC and MR scenarios, the level of stress shows a stable trend for eastern residents. In contrast, northern residents are not relieved, contributing to the gradual increase in the number of stressed communities.</p><p>Under all scenarios, seasonal oscillations are evident in community and population stress with peaks during summer and alleviations in winter periods. The occurrence of peaks also becomes more frequent with time. Notably, when companies pump water at the maximum rate (MA), seasonal oscillation in either the community or population stress becomes less apparent with a smaller amplitude after 2028, implying higher stress all year round. Compared to eastern residents, the stress experience of northern residents is more fluctuating with larger amplitudes. Despite the similarity to the BAU scenario, the eastern residents are more stressed. The difference in the share of stressed population between northern and eastern communities shrinks with time for all scenarios, especially when mining water consumptions are lessened. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Sensitivity of resident stress thresholds</head><p>Each resident's personal experience of mining-induced changes is captured by the total stress index (TSI), representing the perceived changes in the current system compared to the initial state. The stress threshold, calibrated to 0.5 in this model, implies that a resident will feel stressed when he perceives that the current state of resources is only 50% of what it used to be (i.e. the initial state of comparison). In general, as residents become more tolerant of mining-induced changes, their stress threshold would increase (and vice versa). The notion of threshold value can also explain why the older generations are more prone to stress than the younger ones <ref type="bibr" target="#b6">(Babidge et al., 2019)</ref>. Older residents tend to make a comparison between the current states to the time before mining activities took place, which was typically considered better. The social dynamics under varied thresholds are explored in the four mining scenarios over 2020-2030. For ease of comparison, we group the scenarios of expansion in mining water use (BAU and MA) and scenarios of reduction in mining water use (MC and MR) and present average outcomes for each group (Fig. <ref type="figure">8a</ref> and Fig. <ref type="figure">8b</ref>, respectively).</p><p>For communities to be in a stressed state, the critical range of threshold is similar between the mining expansion and reduction futures, ranging between 0.4 and 0.7. More communities, however, become stressed in the expansion scenarios across all threshold levels. In contrast, when mining water use declines, the occurrences of community stress are fewer and more stable (i.e. Fig. <ref type="figure">8</ref> pointers A: 12% smaller amplitudes and Fig. <ref type="figure">8</ref> pointers B: 4% more regular intervals measured by standard deviation). What is common in both expansion and reduction scenarios is that compared to the baseline threshold of 0.5, a small drift towards intolerance leads to about 80% more stressed communities on average over 2020-2030 and a change towards tolerance results in over 60% fewer communities in constant stress. This sensitivity indicates the importance of building community's capacity to endure stress within the social system (discussed further in Section 4.2).</p><p>Residents of communities in the north and east appear to respond differently to the varied level of stress threshold (Fig. <ref type="figure">9</ref>). Under all scenarios, eastern residents have a more diverse response to different threshold values, showing that their experience of impacts is more spread-out, ranging from 0.2 to 0.8, whereas the perceptions of northern residents are more uniform and consistent, ranging between 0.3 and 0.6. The share of stressed residents in the north increases faster than that of the residents in the east for most threshold levels, especially when mining water use falls. Comparing the scenario groups, the stressed population is more stable with regular intervals under scenarios with mining water use reduction, while small spikes occur in low threshold values undermining expansion scenarios. For example, under the expansion scenarios, when the threshold is 0.4 (i.e. residents are somewhat less tolerant to changes), the share of stressed residents rises sharply from 45% to 70% in the north and from 60% to 85% in the east in 2027 (Fig. <ref type="figure">9a</ref>). As the local population is becoming less tolerant to changes (lower threshold), the stressed population in both areas will increase considerably.</p><p>Regarding the population's responses in the two scenario groups, the stressed population in eastern communities increases faster in mining expansion scenarios for most threshold levels. When mining water use declines, the stressed northern population rises more quickly and even almost reaches the same level of stress in the east in 2030 (    Fig. 9. Sensitivity of stress threshold (0.1-1) on the percentage of stressed population in communities during 2020-2030.</p><p>were built within the communities, the stressed population in the north would almost return to zero, while a small of eastern residents would still feel stressed even in mining reduction scenarios. Overall, eastern residents have diverse mining-related impacts and are more vulnerable to such impacts, especially when extraction (and water pumping) activities are intensive. In contrast, northern residents turn to be more vulnerable and perceive long-lasting impacts once mining largely lessens.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Discussion and implications</head><p>In general, our simulation shows that: (1) the groundwater declines significantly in the mining area with impacts spreading outwards to nearby communities; (2) communities near mining are most vulnerable to mining expansions, while distant residents experience long-lasting impacts due to lower compensation and delayed groundwater recovery; (3) material uncertainties of groundwater delay feedback, causing mismatched evolution of environmental and social dynamics. These results reflect the complex dynamics and resource uncertainties captured by the model, but also highlight the need for managing uncertainties, building community resilience, and decoupling water use and mining outputs in governance practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1.">Managing groundwater uncertainties</head><p>The simulated results in the social and groundwater systems in SdA reveal various effects of uncertainties about water, the focal resource in the area. Such uncertainties are due to the physical characteristics of the resources and their relationships with community members. The groundwater resource is not directly observable by residents and has complex dynamics due to the geographical heterogeneity of the area and varied relations to the social actors. These uncertainties cause a time delay for the social system to get feedback on the state of the resource, leading to a mismatched evolution of dynamics in both social and ecological systems. For instance, in the baseline scenario, the groundwater table in the mining area dropped sharply in response to the rapid mining expansion since 2010. For the communities, such a condition was not noticeable and it deteriorated until it reached a critically low level in 2017, causing an increase in stress level in the social system.</p><p>The most affected areas are centered in the mining operation sites in southwestern Salar, but the impacts are not directly observable to residents. With the impact spreading outwards to Salar's edge and around freshwater wells, it becomes observable to nearby residents who visit the impacted area during daily activity, while still uncertain to people without access. The northern aquifers, which mainly feed water to the mining area, are more affected than the eastern aquifers. Thus, the resource condition is more observable to northern residents. Their perceptions are not enough to generate stress since they are more distant from other mining-induced changes. As the impacts accumulate and are sustained even when mining water use largely declines, more residents start to perceive that the threshold has been crossed.</p><p>The effect of groundwater uncertainties presented in this study is consistent with how local communities deal with groundwater uncertainties in the empirical studies. Uncertainties lie in people's memories of landscape features, referring to wetter and drier areas changing and moving without any clear reasons and they raise questions about whether areas close to the mining extractions had resulted in drier land surface <ref type="bibr" target="#b6">(Babidge et al., 2019)</ref>. Uncertainties are also embodied in how local people understand groundwater conditions, reflected in the various conjectures on mining impacts. Some observe local water resources and landscapes are more or less the same in their territory with the conditions before mining began, whereas others perceive mining activity must by drying up the Salar and surrounding aquifers <ref type="bibr" target="#b3">(Babidge, 2019)</ref>. The diverse understanding of resource conditions implies local confusions on the dynamics of subterranean water flows and how they respond to disturbances. This lack of certainty in knowledge enhances concerns on the extent and exact impact of water extraction on unseen aquifers and pastures in their territory.</p><p>Such uncertainties pose governance challenges in the regulation of mining activity and its relations with local livelihoods. In the SdA basin, local people had participated in mining activities as paid surveyors since the start of industrialization in the mid-1980s. However, the participation in decision-making of extractive development only took place until late 2017. Even though the Indigenous Law was established in 1993 for the recognition of indigenous rights, it has broadly been subordinated to the operation of institutions privileging commodification, such as the Water Code and the Mining Code. Until the 2010s, the institutional structure for regulating mining externalities and recognizing indigenous people's participation in decisions over land and water <ref type="bibr" target="#b37">(Ley-20417, 2010)</ref> was introduced, and the regional environmental tribunal was finally established in 2017. Afterward, community participation rose as the institution required community consultations for mining projects. However, it is still limited in ways for involvement and even creates new burdens due to the lack of technical assistance <ref type="bibr" target="#b4">(Babidge, 2020)</ref>.</p><p>Local people have been continuously pressuring the state to regulate water resources and address the externalities with mining. Recent efforts have attempted to improve regulators' understanding of the hydrological balance and the mining-associated impacts in the SdA basin. These efforts, however, have been hampered by lack of reliable data, the remoteness of the locations, and inadequate oversight of mining operations (DGA, 2012), preventing or delaying regulators' actions to address the externalities through new institutional design. This phenomenon is also relevant in mining companies' existing corporate practices, which mishandle these uncertainties in their modeling and reporting, leading to inactions to address concerns by local communities <ref type="bibr" target="#b3">(Babidge, 2019)</ref>. Furthermore, financial compensations, modeled as a stress relief mechanism, can affect the locals in complicated ways such as increasing disputes among communities and weakening social linkages in some cases (H. <ref type="bibr">Romero, personal communication, November 12, 2020)</ref>, implying a higher degree of stress than that is predicted in the model. The latest progress towards environmental regulatory decisions (1TA, 2019), online mining monitoring system (SQM, 2020a), and the company's sustainable mining plan (SQM, 2020b), if strictly followed, may indicate a positive sign in mitigating the unequal effects of uncertainties among resource users. However, the lack of trust in companies may compromise the effectiveness of this progress. How these factors will play out in the future is beyond the scope of the model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2.">Building community resilience</head><p>A discussion about the stress thresholds should relate to the current social and political context in local communities. The local population turns to become overburdened by the mounting up of mining projects and associated social consultations, spurred by the recent regulation shifting to obligatory consultation between the proponents of mining activities and the locals <ref type="bibr" target="#b4">(Babidge, 2020)</ref>. The cumulative and complex impacts of the existing mineral industries, added by consistent consultations, have been excessively pressuring the local population, indicating a shift towards intolerance of stress in the social system. Our threshold analysis shows a striking increase in social stress for all mining scenarios if the threshold shifts towards intolerance. It indicates the necessity of considering the local context of stress threshold in policymaking and underscores the importance of enhancing tolerance by building community resilience.</p><p>Resilience refers to the tendency to return to a reference state after disturbance <ref type="bibr">(Chapin et al., 2002)</ref>. Community resilience, in this case, represents the capacity to endure stress and recover after mining activities are significantly slowed. Our scenario analysis shows that the eastern communities are more resilient when mining water use is largely reduced since the specific features of the transition zone between the communities and mining operations significantly slow the spreading of impacts. Under expansion scenarios, however, they become more vulnerable due to their proximity. For the northern communities, the impacts on their residents and aquifers, which are the major recharge source for SdA, are more long-lasting, especially after lessened mining activities, drawing attention to the need for tolerance development in managing mining-community relations.</p><p>Ways for building community resilience have been increasingly studied (e.g., <ref type="bibr" target="#b0">Aguiñaga et al., 2018;</ref><ref type="bibr" target="#b54">Wasylycia-Leis et al., 2014)</ref>. The measures include managing risks, adapting to changes, and securing sufficient resources <ref type="bibr" target="#b38">(Pasteur, 2010)</ref>. In our case, risk management may involve increasing awareness and preparedness of mining impacts by building an early warning system that will monitor the conditions of the focal resources. Building adaptation capacity requires access to relevant and timely information on mining impacts and an improved understanding of uncertainties in local hydrodynamics and broader climate. Securing sufficient resources may involve strengthening community organizations and improving access to skills and technologies of monitoring and assessment for the local residents. Equally important is that such pathways must be customized to fit with the local culture and translated into local forms of communication <ref type="bibr">(Uddin et al., 2020)</ref>.</p><p>It is important to recognize that, without a critical examination, the notion of resilience can be co-opted to privilege existing power relations, causing increased social inequality <ref type="bibr" target="#b13">(Cretney &amp; Bond, 2014)</ref>. In this case, resilience also incorporates communities' ability to cope with continued mining stress, mobilize resources, and negotiate challenging situations <ref type="bibr" target="#b21">(Jenkins &amp; Rondón, 2015)</ref>. It particularly recognizes communities' struggles and strengths in resisting mining operations, including dramatic confrontations (e.g. protests) and constant struggles (e.g. generation gaps, fractions within the community). Building resilience should also reflect how best to strengthen such capabilities to challenge mining disruptions. Effective measures should address the structural issue of unequal power relations, including community empowerment, decentralizing power, and most importantly, offering funding and resources needed for community participation <ref type="bibr" target="#b13">(Cretney &amp; Bond, 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.">Decoupling water use and Li-mining outputs</head><p>Given the water intensity of Li-mining and the impacts water use has on the local environment and livelihood, it is worth asking what can be done about it. How can mining outputs be decoupled from water use? A key answer to this question lies in the mining processes and technologies. Some improved lithium extraction and processing options are available. These include water recycling, minimizing waste products, processing brine more efficiently, creating a smaller footprint, developing technology that is transferable from site to site, extracting several raw materials from the same brine, and minimizing surface subsidence. Additional examples of mining and processing alternative technologies include the following <ref type="bibr" target="#b22">(Kaunda, 2020)</ref>: (a) adding additives to increase lithium concentration; (b) using material that can selectively adsorb lithium, such as Titanium oxides and hydroxides; (c) treating the brine in adsorbent beds that selectively capture lithium; (d) treating pumped-out brine on ionic-exchange columns, to concentrate lithium chloride prior to placement in evaporation ponds; (e) using of chromatography to separate lithium from both concentrated and diluted brines and (f) selectively capturing of Li-ions using electrolysis.</p><p>Some new Li-mining projects aim to do away from brine-based extraction and use less water-intensive processes. For instance, Tesla, a manufacturer of electric vehicles claimed a more sustainable way of obtaining lithium <ref type="bibr" target="#b45">(Scheyder, 2020)</ref>. The company was planning to develop a 10,000-acre lithium clay deposit in Nevada, USA. Its internally developed extraction and processing technology will mix clay with table salt and then add water, causing a reaction where the salt would leach out with lithium, which can then be extracted. To mitigate environmental damage, the leftover clay would be put back into the earth. In the UK, a pilot plant is being developed to produce lithium from geothermal waters <ref type="bibr" target="#b24">(Leotaud, 2020)</ref>. Lithium will be sieved out of the water using nanofiltration technology. The leftover water will be reinjected to the ground via boreholes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Concluding remarks</head><p>Concerns about the impacts of Li-mining water use have been mounting and put the sustainability of low-carbon transitions into question. Just as explained by a local resident (interview, Peine, March 2018), stress from Li-extraction is centered on water, since it relates to every aspect of social livelihoods:</p><p>"I can see hundreds of trucks taking away the lithium and the water. When I observed the production and the amount of lithium and water being taken away, I fell into tears. Water is the main source of what you see here. They are competing for water, mining, and everything. But no one is talking about the farmers. Agriculture is losing. What about the future of agriculture? ….Water is alive for us, and the salar is our little sea…. I want to know if there is another way to produce lithium but use less water."</p><p>This study developed an ABM model to represent the dynamics of Li mining-community-aquifer interactions in SdA. The model is the first to evaluate the potential impacts of future mining scenarios on the aquifer conditions and mining-induced social stress and investigates how such impacts are affected by the uncertainties embodied in groundwater dynamics. Successfully validated with measurement data, the model confirms the current situations and projects future outcomes under four different water use scenarios. Social stress would increase considerably once the society evolves towards intolerance, while if more tolerance is built, social stress could be largely mitigated. Our study highlights the importance of understanding and managing the downside risks of Liextraction to achieve an energy transition with social justicea transition designed to address climate change while respecting the host communities and protecting the environment (UNFCCC, 2016). We also anticipate the governance challenges, pathways to build community resilience, and techniques to decouple water use from mining products, that are discussed in this work will help mining regulators, local environmental regulators, local decision-makers, and Li-industry decision-makers provide better management of the world's largest Lithium production sites for a sustainable future.</p><p>The results of our model also suggest the need and potential for incorporating some pathways in the future that may help increase stress threshold and build community resilience. For future work, increasing early warning and awareness, for instance, could be incorporated in the future model, in which companies share their projections of impact and potential warning signs with local people, thereby altering the reference point for people's sense of change <ref type="bibr" target="#b6">(Babidge et al., 2019)</ref>. Access to timely information on mining impacts could be added to reduce uncertainties, in which people are no longer subject to the changes in their location but have a broader understanding of the whole basin. Climate uncertainties could also be included by coupling our model with climate models (i.e. CMIP6) to understand how climate change contributes to socio-ecological changes. Other important factors are composed of the uncertainties of mining-community-aquifer relations, such as the cultural relations with water and pathways that are not explicitly designed or could not be translated into models, requiring future efforts with other methods or in broader disciplines.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. The study area in Salar de Atacama, Chile.</figDesc><graphic coords="2,312.09,390.72,240.07,335.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. An agent-based modeling framework for mining-community-aquifer interactions.</figDesc><graphic coords="3,312.09,55.44,240.07,183.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Brine pumping rates under four mining scenarios from 2020 to 2030.</figDesc><graphic coords="5,71.38,562.23,452.57,163.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Evolution of groundwater drawdown at six selected sites showing modeled results compared to data from observational wells. Location and data of observational wells are extracted from Marazuela et al., 2020. Modeled drawdowns (blue line) were calibrated to match the time of observed data (red dots) for comparison.</figDesc><graphic coords="6,65.82,55.44,463.68,316.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Evolution of simulated social dynamics compared to the timeline of mobilization events in the study area. (a) The number of stressed communities; (b) Percentage of stressed population in North (blue) and in East (red). Grey bars represent the presence of mobilization events (protests or environmental sanctions)in the actual timeline, and text boxes above brief these events.</figDesc><graphic coords="7,68.09,55.41,459.15,333.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Evolution of drawdown under four mining scenarios between 2020 and 2030 (a) contour map showing the spatial distribution of net drawdown over 1994-2030; (b)time-series evolution of drawdown in communities and selected mining wells.</figDesc><graphic coords="8,66.50,55.44,462.24,328.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Evolution of simulated social dynamics under four mining scenarios between 2020 and 2030; (a) Number of stressed communities; (b) Percentage of stressed population in North (dashed lines) and in East (solid lines).</figDesc><graphic coords="8,109.70,432.06,375.84,280.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8 .Fig. 9 .</head><label>89</label><figDesc>Fig. 8. Sensitivity of stress threshold (0.1-1) on the number of stressed communities during 2020-2030. (a) Averaged results for mining expansion scenarios. (b) Averaged results for mining reduction scenarios.</figDesc><graphic coords="9,66.33,55.43,462.65,183.70" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>We held stakeholder meetings with local people (including community leaders, ethnic group leaders, representatives from local NGOs, and government officials) to discuss their concerns over the expanding Li-mining industry on March 4-5,</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2018" xml:id="foot_1"><p></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary materials</head><p>Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.exis.2021.100927.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Building resilience: A selfsustainable community approach to the triple bottom line</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aguiñaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Henriques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scheel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2017.01.094</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2017.01.094" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="186" to="196" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Socio-environmental impacts of lithium mineral extraction: towards a research agenda</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Romero</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1748-9326/aae9b1</idno>
+		<ptr target="https://doi.org/10.1088/1748-9326/aae9b1" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<date type="published" when="2018">2018. 123001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Contested value and an ethics of resources: Water, mining and indigenous people in the Atacama Desert</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/taja.12139</idno>
+		<ptr target="https://doi.org/10.1111/taja.12139" />
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Aust. J. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="84" to="103" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sustaining ignorance: the uncertainties of groundwater and its extraction in the Salar de Atacama, northern Chile</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9655.12965</idno>
+		<ptr target="https://doi.org/10.1111/1467-9655.12965" />
+	</analytic>
+	<monogr>
+		<title level="j">J. R. Anthropol. Inst</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="102" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Consultation&apos;s overburden: Indigenous participation in the extractive industry in the Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Transform</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="48" to="63" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Neoextractivism and Indigenous Water Ritual in Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bolados</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0094582X18782673</idno>
+		<ptr target="https://doi.org/10.1177/0094582X18782673" />
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Lat. Am. Perspect</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="170" to="185" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">That&apos;s the problem with that lake; it changes sides&apos;: mapping extraction and ecological exhaustion in the Atacama</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kalazich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yager</surname></persName>
+		</author>
+		<idno type="DOI">10.2458/v26i1.23169</idno>
+		<ptr target="https://doi.org/10.2458/v26i1.23169" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Polit. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3169</biblScope>
+			<biblScope unit="page" from="738" to="760" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The vulnerability of electric vehicle deployment to critical mineral supply</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ballinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Schmeda-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kefford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Parkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smart</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2019.113844</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page">113844</biblScope>
+			<date type="published" when="2019">2019. 2019.113844</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Extreme temperature and precipitation events in March 2015 in central and northern Chile</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vicencio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Veloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rondanelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/2016JD024835</idno>
+		<ptr target="https://doi.org/10.1002/2016JD024835" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Geophys. Res. Atmos</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="4563" to="4580" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Resource extraction and infrastructure threaten forest cover and community rights</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bebbington</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1812505115</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1812505115" />
+	</analytic>
+	<monogr>
+		<title level="j">PNAS</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="13164" to="13173" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Agent-based modeling framework for modeling the effect of information diffusion on community acceptance of mining</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Boateng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Awuah-Offei</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.techfore.2017.01.019</idno>
+		<ptr target="https://doi.org/10.1016/j.techfore.2017.01.019" />
+	</analytic>
+	<monogr>
+		<title level="j">Technol. Forecast. Soc. Change</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">An agentbased platform for simulating complex human-aquifer interactions in managed groundwater systems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Castilla-Rho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mariethoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rojas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F J</forename><surname>Kelly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2015.08.018</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2015.08.018" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Model. Softw</title>
+		<editor>
+			<persName><forename type="first">Iii</forename><surname>Chapin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Lovecraft</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Zavaleta</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Nelson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Robards</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="305" to="323" />
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Kofinas, G</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Principles of Terrestrial Ecosystem Ecology</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Naylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Springer-Verlag</publisher>
+			<pubPlace>New York, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Bouncing back&quot; to capitalism? Grass-roots autonomous activism in shaping discourses of resilience and transformation following disaster</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cretney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bond</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21693293.2013.872449</idno>
+		<ptr target="https://doi.org/10.1080/21693293.2013.872449" />
+	</analytic>
+	<monogr>
+		<title level="j">Resil</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="31" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Significance of telecoupling for exploration of land-use change</title>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">H</forename><surname>Dga (dirección</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Lambin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Marcotullio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zimmerer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">General de Aguas)</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Seto</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Reenberg</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>MIT Prese</publisher>
+			<date type="published" when="2012">2012. 2014</date>
+			<biblScope unit="page" from="141" to="161" />
+		</imprint>
+		<respStmt>
+			<orgName>Ministerio de Obras Públicas, Dirección General de Aguas. San Pedro de Atacama. . . . Eakin,</orgName>
+		</respStmt>
+	</monogr>
+	<note>Rethinking Global Land Use in an Urban Era</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Transforming governance in telecoupled food systems</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mahanti</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/ES-09831-220432</idno>
+		<ptr target="https://doi.org/10.5751/ES-09831-220432" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Soc</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Assessment of social impacts of lithium for electric vehicle batteries. IIE Annu</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Egbue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conf. Proc</title>
+		<imprint>
+			<biblScope unit="volume">2012</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Spatial agent-based models for socio-ecological systems: Challenges and prospects</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Filatova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Verburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Stannard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.03.017</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.03.017" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Model. Softw</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Lithium recovery from brines: A vital raw material for green energies with a potential environmental impact in its mining and processing</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Flexer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Baspineiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Galli</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.05.223</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.05.223" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">639</biblScope>
+			<biblScope unit="page" from="1188" to="1204" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Andean hypersaline lakes in the Atacama Desert, northern Chile: Between lithium exploitation and unique biodiversity conservation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gajardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Redón</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/csp2.94</idno>
+		<ptr target="https://doi.org/10.1111/csp2.94..." />
+	</analytic>
+	<monogr>
+		<title level="j">Conserv. Sci. Pract</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">94</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A standard protocol for describing individual-based and agent-based models Eco</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bastiansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eliassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ginot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Giske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Deangelis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolmodel.2006.04.023</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolmodel.2006.04.023" />
+	</analytic>
+	<monogr>
+		<title level="j">Model</title>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="126" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Eventually the mine will come&apos;: women anti-mining activists&apos; everyday resilience in opposing resource extraction in the Andes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rondón</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13552074.2015.1095560</idno>
+		<ptr target="https://doi.org/10.1080/13552074.2015.1095560" />
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Dev</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="415" to="431" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Selecting among five common modelling approaches for integrated environmental assessment and management Environ</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kaunda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Barreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Borsuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Elsawah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Voinov</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.05.005</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.05.005" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Energy Nat. Resour. Law</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="159" to="181" />
+			<date type="published" when="2013">2020. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Potential environmental impacts of lithium mining Model. Softw.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The social and environmental complexities of extracting energy transition metals</title>
+		<author>
+			<persName><forename type="first">É</forename><surname>Lèbre</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-020-18661-9</idno>
+		<ptr target="https://doi.org/10.1038/s41467-020-18661-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">How Cornish Lithium Plans to Produce Lithium with a Net</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Leotaud</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Zero Footprint</orgName>
+			</affiliation>
+		</author>
+		<ptr target="https://www.mining.com/how-cornish-lithium-plans-to-produce-lithium-with-a-net-zero-footprint/" />
+	</analytic>
+	<monogr>
+		<title level="m">#:~:text=%E2%80%9CThe%20lithium%20will%20have %20a</title>
+		<imprint>
+			<date type="published" when="2020-11-01">2020. 1 November 2020</date>
+		</imprint>
+	</monogr>
+	<note>plant%2C%E2%80%9D%20the%20executive%20said</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Embedding sustainable development strategies in agent-based models for use as a planning tool</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13658810701228686</idno>
+		<ptr target="https://doi.org/10.1080/13658810701228686" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Geogr. Inf. Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="45" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Interdependencies of lithium mining and communities sustainability in Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2020.120838</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2020.120838" />
+	</analytic>
+	<monogr>
+		<title level="j">Chile. J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<date type="published" when="2020">2020. 120838</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal patterns of lithium mining and environmental degradation in the Atacama Salt Flat</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Agusdinata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Myint</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jag.2019.04.016</idno>
+		<ptr target="https://doi.org/10.1016/j.jag.2019.04.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Chile. Int. J. Appl. Earth Obs. Geoinformation</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="145" to="156" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Framing Sustainability in a</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Batistella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Defries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dietz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fu</surname></persName>
+		</author>
+		<idno type="DOI">10.5751/es-05873-180226</idno>
+		<ptr target="https://doi.org/10.5751/es-05873-180226" />
+	</analytic>
+	<monogr>
+		<title level="j">Telecoupled World. Ecol. Soc</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Towards more sustainable brine extraction in salt flats: Learning from the Salar de Atacama</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2019.135605</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2019.135605" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">703</biblScope>
+			<date type="published" when="2020">2020. 135605</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The effect of brine pumping on the natural hydrodynamics of the Salar de Atacama: The damping capacity of salt flats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.11.196</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.11.196" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">654</biblScope>
+			<biblScope unit="page" from="1118" to="1131" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Hydrodynamics of salt flat basins: the Salar de Atacama example</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marazuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vázquez-Suñé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ayora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>García-Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Palma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2018.09.190</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2018.09.190" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">651</biblScope>
+			<biblScope unit="page" from="668" to="683" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Lithium market researchglobal supply, future demand and price development</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rentsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Höck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bertau</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ensm.2016.11.004</idno>
+		<ptr target="https://doi.org/10.1016/j.ensm.2016.11.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Storage Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="171" to="179" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The long arm of climate change: societal teleconnections and the future of climate change impacts studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A F</forename><surname>Hart</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-015-1328-z</idno>
+		<ptr target="https://doi.org/10.1007/s10584-015-1328-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Change</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="26" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Agentbased modelling of land use dynamics and residential quality of life for future scenarios</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Murray-Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rieser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Miličič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rounsevell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2013.02.011</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2013.02.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Model. Softw</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="75" to="89" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Phreatophytic vegetation and groundwater fluctuations: a review of current research and application of ecosystem response modeling with an emphasis on great basin vegetation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Naumburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mata-Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mclendon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Martin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-004-0194-7</idno>
+		<ptr target="https://doi.org/10.1007/s00267-004-0194-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Manage</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="726" to="740" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the role of individuals in models of coupled human and natural systems: Lessons from a case study in the Republican River Basin</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Noël</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envsoft.2017.02.010</idno>
+		<ptr target="https://doi.org/10.1016/j.envsoft.2017.02.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Model. Softw</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Ministry of the General Secretariat of the Presidency (Chile)-Crea el Ministerio</title>
+		<author>
+			<persName><surname>Ley-20417</surname></persName>
+		</author>
+		<ptr target="https://www.leychile.cl/Navegar?idNorma=1010459" />
+	</analytic>
+	<monogr>
+		<title level="m">El Servicio de Evaluacion Ambiental y La Superintendencia del Medio Ambiente</title>
+		<imprint>
+			<date type="published" when="2010-04-05">2010. 5 April 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">From Vulnerability to Resilience: A framework for analysis and action to build community resilience</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pasteur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Linking Bayesian and agent-based models to simulate complex social-ecological systems in semi-arid regions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gimblett</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fenvs.2015.00055</idno>
+		<ptr target="https://doi.org/10.3389/fenvs.2015.00055" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Environ. sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">55</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">UPDATE 1-Chile&apos;s Corfo, SQM Strike Deal in Lithium Dispute</title>
+		<author>
+			<persName><surname>Reuters</surname></persName>
+		</author>
+		<ptr target="https://www.reuters.com/article/sqm-arbitration/update-1-chiles-corfo-sqm-strike-deal-in-lithium-dispute-idUSL1N1PC2D6" />
+		<imprint>
+			<date type="published" when="2018-11-10">2018. 10 November 2019</date>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+	<note>Published on January</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Mining development and environmental injustice in the Atacama Desert of Northern Chile</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Méndez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/env.2011.0017</idno>
+		<ptr target="https://doi.org/10.1089/env.2011.0017" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Justice</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="70" to="76" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">From actors to agents in socio-ecological systems models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D A</forename><surname>Rounsevell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Murray-Rust</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2011.0187</idno>
+		<ptr target="https://doi.org/10.1098/rstb.2011.0187" />
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. Lond., B, Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="259" to="269" />
+			<date type="published" when="1586">2012. 1586</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Linking globalization to local land uses: how ecoconsumers and gourmands are changing the colombian coffee landscapes</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Lambin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2012.05.018</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2012.05.018" />
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="286" to="301" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guimerà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Cornellà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aravena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guzmán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Von Igel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hidrogeología del sistema lagunar del margen este del Salar de</title>
+		<meeting><address><addrLine>Atacama (Chile</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="357" to="372" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Tesla&apos;s Nevada Lithium Plan Faces Stark Obstacles On Path To Production</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scheyder</surname></persName>
+		</author>
+		<ptr target="https://www.reuters.com/article/tesla-batteryday-lithium/teslas-nevada-" />
+		<imprint>
+			<date type="published" when="2020-11-01">2020. 1 November 2020</date>
+		</imprint>
+	</monogr>
+	<note>Published on September lithium-plan-faces-stark-obstacles-on-path-to-product ion-idINL2N2GK2E1</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">New horizons for managing the environment: a review of coupled social-ecological systems modeling</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlüter</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1939-7445.2011.00108.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1939-7445.2011.00108.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Resour. Model</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="219" to="272" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Responses of riparian cottonwoods to alluvial water table declines</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Shafroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Auble</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002679900191</idno>
+		<ptr target="https://doi.org/10.1007/s002679900191" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Manage</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="347" to="358" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Sustainable minerals and metals for a low-carbon future</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aaz6003</idno>
+		<ptr target="https://doi.org/10.1126/science.aaz6003" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="30" to="33" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Online Monitoring System</title>
+		<author>
+			<persName><surname>Sqm</surname></persName>
+		</author>
+		<ptr target="https://www.sqmsenlinea.com/" />
+		<imprint>
+			<date type="published" when="2020-10-01">2020. 1 October 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><surname>Sqm</surname></persName>
+		</author>
+		<ptr target="https://ir.sqm.com/English/news/news-details/2020/SQM-Announces-Sustainable-Development-Plan/default.aspx" />
+		<title level="m">SQM Announces Sustainable Development Plan</title>
+		<imprint>
+			<date type="published" when="2020-09">2020. 10September 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Telecoupled land-use changes in distant countries</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-X</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2095-3119(16)61528-9</idno>
+		<ptr target="https://doi.org/10.1016/S2095-3119(16)61528-9" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Integr. Agric</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="368" to="376" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Haque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-U</forename><surname>Choudhury</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Community resilience to cyclone and storm surge disasters: Evidence from coastal communities of Bangladesh</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jenvman.2020.110457</idno>
+		<ptr target="https://doi.org/10.1016/j.jenvman.2020.110457" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manage</title>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<date type="published" when="2020">2020. 110457</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Mining communities from a resilience perspective: managing disturbance and vulnerability in Itabira</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wasylycia-Leis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fonseca</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00267-014-0230-1</idno>
+		<ptr target="https://doi.org/10.1007/s00267-014-0230-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Environ Manage</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="481" to="495" />
+			<date type="published" when="2014">2016. 2014</date>
+			<publisher>UNFCCC (United Nations Framework Convention on Climate Change</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical paper</note>
+	<note>Just Transition of the Workforce, and the Creation of Decent Work and Quality Jobs</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">NetLogo (and NetLogo User Manual)</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wilensky</surname></persName>
+		</author>
+		<ptr target="http://ccl.northwestern.edu/netlogo" />
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>Center for Connected Learning and Computer-Based Modeling, Northwestern University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Court Judgement</title>
+		<author>
+			<persName><surname>Ta</surname></persName>
+		</author>
+		<ptr target="https://causas.1ta.cl/causes/38/expedient/2539/books/31/?attachmentId=4007" />
+		<imprint>
+			<date type="published" when="2019-09-10">2019. 10 September 2020</date>
+		</imprint>
+	</monogr>
+	<note>Primer Tribunal Ambiental</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

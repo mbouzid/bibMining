@@ -1,0 +1,10 @@
+[project]
+name = "bibMining"
+version = "0.1.0"
+
+[project.optional-dependencies]
+histo_num_papers = ["matplotlib", "pandas","openpyxl"]
+keyword_clustering = ["matplotlib", "pandas","openpyxl","scikit-learn","sentence-transformers"]
+map_articles = ["matplotlib","pandas","openpyxl","geopandas"]
+citation_network = ["bibtexparser","lxml","requests","matplotlib","pandas","openpyxl"]
+screening = ["xlrd","openpyxl","pandas"]

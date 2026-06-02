@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Climate change adaptation in Australian mining communities: comparing mining company and local government views and activities</title>
+				<funder ref="#_9WBSQ5D">
+					<orgName type="full">CSIRO Climate Adaptation Flagship</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2013-03-06">6 March 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Barton</forename><surname>Loechel</surname></persName>
+							<email>barton.loechel@csiro.au</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Commonwealth Scientific and Industrial Research Organisation (CSIRO)</orgName>
+								<address>
+									<postBox>PO Box 883</postBox>
+									<postCode>4069</postCode>
+									<settlement>Kenmore</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jane</forename><surname>Hodgkinson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Commonwealth Scientific and Industrial Research Organisation (CSIRO)</orgName>
+								<address>
+									<postBox>PO Box 883</postBox>
+									<postCode>4069</postCode>
+									<settlement>Kenmore</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Commonwealth Scientific and Industrial Research Organisation (CSIRO)</orgName>
+								<address>
+									<postBox>PO Box 883</postBox>
+									<postCode>4069</postCode>
+									<settlement>Kenmore</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kieren</forename><surname>Moffat</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Commonwealth Scientific and Industrial Research Organisation (CSIRO)</orgName>
+								<address>
+									<postBox>PO Box 883</postBox>
+									<postCode>4069</postCode>
+									<settlement>Kenmore</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Commonwealth Scientific and Industrial Research Organisation (CSIRO)</orgName>
+								<address>
+									<postBox>PO Box 883</postBox>
+									<postCode>4069</postCode>
+									<settlement>Kenmore</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Climate change adaptation in Australian mining communities: comparing mining company and local government views and activities</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-03-06">6 March 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">90D70B0A9EDA25303C2B36BE1A739E5B</idno>
+					<idno type="DOI">10.1007/s10584-013-0721-8</idno>
+					<note type="submission">Received: 12 August 2012 / Accepted: 13 February 2013 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-05-27T08:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Effective climate change adaptation in mining communities is reliant on action by both local authorities and mining operations. This article reports the findings of two surveys conducted in late 2010, with Australian mining companies and local government authorities respectively, investigating their perceptions and activities related to climate change adaptation. The research identified the main types of weather and climate-related impacts experienced in the past and expected under future climate conditions for the two groups. There were significantly differing levels of concern about weather and climate-related impacts between the two types of organisations. Mining company respondents reported lower levels of severity of impact from both past and (expected) future weather events, as well as lower levels of belief in climate change and of adaptation activities to prepare for it. Interestingly, mining companies generally reported less concern about future impacts than those experienced in the past, suggesting discounting of risks due to climate change scepticism. The article reports on a range of factors relevant to adaptation in mining communities, including perceived barriers, collaboration and further information needs. The research findings are discussed in the context of other recent research on climate change adaptation by Australian organisations and studies of mining industry adaptation in other countries.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>At a global level the mining industry has clearly demonstrated that it can operate across a broad range of climatic extremes, from the wet tropics to arid deserts and the Arctic Circle. However, it is also apparent that mining operations are vulnerable to extreme weather events as well as changing climatic conditions <ref type="bibr" target="#b19">(Pearce et al. 2009;</ref><ref type="bibr">QFCI 2012)</ref>. Communities associated with mining operations are likewise vulnerable to extreme weather events and climate change, including to indirect impacts that flow through from extreme weather impacts on mining operations <ref type="bibr" target="#b0">(Albrecht et al. 2010)</ref>. Despite the exposure of mining operations and communities to potential climate change there appears to have been little research investigating climate adaptation in these sectors in Australia or elsewhere.</p><p>In Australia, climate change adaptation research has included assessments of other natural resource dependent industries such as agriculture, forestry and fisheries and their associated communities (e.g. <ref type="bibr">Nelson et al. 2009a, b;</ref><ref type="bibr">Stokes and Howden 2010)</ref>. The effects of weather events on mining operations in Australia have been assessed by a limited number of researchers <ref type="bibr" target="#b1">(Anaman and Lellyett 1997;</ref><ref type="bibr" target="#b4">Colls 1993</ref>; see reviews by <ref type="bibr">Hodgkinson et al. 2010a, b)</ref>. These reports show that mine operations in Australia experience a range of hazards posed by intense rainfall, drought, heat, cyclones and storms, which also affect the operations of other components of the mining value chain such as utilities, industry services, transportation infrastructure and processing facilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1">The Australian resources sector</head><p>The mining industry is an important part of Australia's economy and generates a range of social and economic benefits across the country. The industry can also generate a range of environmental impacts <ref type="bibr">(ABS 2003)</ref>, but like many natural-resource dependent industries can also be strongly affected by environmental conditions <ref type="bibr">(QFCI 2012;</ref><ref type="bibr">Hodgkinson et al. 2010a)</ref>. In recent years, the Australian mining industry has grown to contribute approximately 8 % of gross domestic product and over 50 % of export value (ABS 2010a). While it does not employ many people directly (1.6 % of the Australian workforce; ABS 2010b), it is a large employer in some regional areas, provides significant downstream employment in service industries, and has a large economic multiplier effect <ref type="bibr" target="#b24">(Rolfe et al. 2011</ref>). However, recent extreme weather events in Australia have highlighted the vulnerability of the sector to climate change. In 2010 and 2011, destructive flooding events in Queensland affected many mining operations as pits were flooded and transport routes closed. The financial cost to the coal sector was estimated at between $A5 billion and $A9 billion <ref type="bibr" target="#b22">(Queensland Government 2012;</ref><ref type="bibr">QRC 2011)</ref>, including production losses and damage to pits, transport infrastructure and mining equipment.</p><p>Socio-ecological systems connected with mining activities are likewise affected by extreme weather events. While many impacts are experienced directly, others are indirect, flowing on to the surrounding environment, including communities, from events occurring at mining operations. For example, extreme rainfall events that flooded mine pits in Queensland in 2008, leading to large releases ('dewatering') of contaminated pit water into streams, eventually affected downstream communities <ref type="bibr" target="#b12">(Hart 2008)</ref>. Other weather or climate-related events that see flow-on effects between mines and communities include extreme heat and drought, with implications for water competition and dust emissions <ref type="bibr" target="#b5">(Connor et al. 2009;</ref><ref type="bibr" target="#b25">Scott 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2">Previous research on climate adaptation and mining</head><p>Recent research on the Canadian mining industry involved surveys of a range of mining managers at a senior corporate <ref type="bibr" target="#b9">(Ford et al. 2010</ref>) and mine site level <ref type="bibr" target="#b10">(Ford et al. 2011)</ref>, and case-studies of individual mining operations <ref type="bibr" target="#b20">(Pearce et al. 2011)</ref>. The studies indicated that despite being aware of current impacts from weather and climate-related events, and climate change, on operations, and reported actions to adapt, and despite expectations that climate change will negatively affect operations in future, the sector was not undertaking long term adaptation planning. The main barriers to taking action were reported as uncertainty regarding future climate conditions and the cost of adaptation measures. Most effort in response to climate change was directed at mitigation measures (i.e. reducing greenhouse gas emissions) rather than adaptation. Lack of knowledge about climate change projections and likely impacts were reported as the main factors constraining industry understanding of climate change risks <ref type="bibr" target="#b10">(Ford et al. 2011)</ref>.</p><p>In the Australian context, <ref type="bibr" target="#b11">Gardner et al. (2010)</ref> investigated the adaptation activities of a broad range of industries and public sector organisations as part of a nation-wide adaptation benchmarking study. The survey included a small sample (n=10) of mining companies but a bigger sample (n=51) of local government bodies. Mining companies displayed a relatively high proportion of vulnerability assessments compared to adaptation planning, suggesting that initial assessment was generally not followed by further action. In contrast, local government authorities displayed the opposite profile, with many organisations having commenced adaptation planning without undertaking a vulnerability assessment, suggesting pre-emptive action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.3">The role of local government</head><p>In Australia's three-tiered system of formal government (federal, state and local), local government authorities are increasingly viewed as critical to effective community climate change adaptation <ref type="bibr">(DCCEE 2011;</ref><ref type="bibr" target="#b15">Measham et al. 2011)</ref>. There are a number of reasons for this, including that the local government or municipality jurisdiction is the level of government geographically most accessible to non-metropolitan communities, while the localised experience of many weather and climate-related impacts makes the jurisdictional scale of local government particularly relevant. In addition, the particular functions and responsibilities of local government in Australia, which differ somewhat between states, impart to it unique formal and informal responsibilities to address adaptation planning and governance <ref type="bibr">(England 2008a, b;</ref><ref type="bibr" target="#b18">O'Toole and Wallis 2009;</ref><ref type="bibr" target="#b15">Measham et al. 2011)</ref>. Specifically, local government has functions related to planning and development, transport, water supply, waste treatment, flood mitigation, environmental controls, emergency management, and other services bearing on community wellbeing. For these reasons, while local government may not represent the full extent of community-level preparedness for climate change in Australia, it is arguably the single most critically important entity to monitor at this level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4">The current study</head><p>Because of the mining industry's importance to the Australian economy, its capacity to affect regional communities and the vulnerability of both industry and mining communities to climate change, there is a need to gain a clear understanding of the respective capacities of the industry and local government to adapt to climate change. The Canadian studies cited above provide important knowledge about mining operational vulnerabilities, as well as industry attitudes, beliefs and actions regarding climate change adaptation, albeit limited to that country. <ref type="bibr">Hodgkinson et al's. (2010a, b)</ref> papers provide a valuable overview of potential climate change issues for the Australian mining industry, including previous research on extreme weather impacts and the potential impact of climate change. However, they do not provide a broad national assessment drawn from the industry itself or any information on local government. <ref type="bibr">Gardner et al.'s (2010)</ref> adaptation benchmark survey provides a useful overview of attitudes toward climate change and adaptation across Australian organisations generally, however, it provides limited information on the mining industry and its local government sample is not specific to mining regions. Therefore, there remains a large information gap regarding the vulnerabilities, perceptions and activities of the Australian mining industry in relation to climate change, and of local government authorities with responsibilities for protecting the wellbeing of communities in mining regions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Method</head><p>A survey of mining company and local government employees was conducted from mid-October 2010 to end-January 2011. Participants were principally recruited through email invitations sent to their organisation. Invitations were sent to 466 mining companies identified as operating in Australia. Similarly, invitations were sent to all 650 local government authorities in Australia to enable self-selection for relevance. In addition, personalised follow-up invitations were sent to the 60 local government authorities identified as hosting mining activities in their area of jurisdiction <ref type="bibr">(ABS 2006)</ref>. The surveys were also advertised at conferences, in mining industry and local government association publications (newsletters, magazines, email bulletins), and on the CSIRO website.</p><p>In total, 44 mining company and 32 local government respondents completed a survey. While the response rate for mining companies was quite low (&lt;10 %), the distribution of organisational size suggests a reasonable proportion of major companies were included. In contrast, the local government response rate (estimated at 50 % of those known to host mining activities in their area of jurisdiction) provides greater confidence of representativeness. The average size of the mining companies represented was 814 employees (the respective figure for local government was 295), with a quarter employing more than 1000 (325) and the largest employing 5000 (1500). Most mining company respondents (72 %) were based in capital cities. In contrast, the majority (52 %) of local government respondents categorised the locality of their organisation as 'rural', with a third classifying it as a 'regional centre'. About half (53 %) of the mining respondents were from the state of Western Australia, 25 % from New South Wales, 13 % from Queensland, and the remainder from all other states and territories. In contrast, the local government respondents were spread more evenly across Australian States (26 % Western Australia, 26 % New South Wales, 22 % South Australia, 11 % Queensland, 11 % Victoria, 4 % Tasmania). The majority (72 %) of mining company respondents were associated with metalliferous mining, 6 % coal mining, and the rest spread across some uranium and heavy metals, non-ferrous ores, and diamonds. The principal mineral commodities produced or processed by mining operations associated with the local government respondents were metalliferous (59 %), coal (33 %) and oil and gas (15 %), with uranium, heavy minerals and quarry production (rock, sand, clay and gravel) represented to lesser degrees.</p><p>Two separate web-based survey instruments were developed: one for mining companies and the other for local government authorities. The two surveys were explicitly designed to ask comparable questions of the two different respondent groups, with variations tailored to their differing operations and functions (refer to Electronic Supplementary Material for questionnaires). The survey questions were mainly adapted from those used by <ref type="bibr" target="#b11">Gardner et al. (2010)</ref> in their survey of Australian organisations and <ref type="bibr" target="#b19">Pearce et al. (2009)</ref> in their two surveys of the Canadian mining industry, although a number of additional questions were based on conversations the authors had with mining and local government employees. The questions were organised into the following categories: perceptions of past weather or climate-related events and responses to them; attitudes to the science of climate change; current activities, enablers and barriers to prepare for climate change; and information about the respondent and their organisation. The concept of climate change was presented in the questionnaires both as a concept that can be thought of in aggregated terms as 'climate change', as well as being disaggregated into discrete components as future 'weather or climate-related events'.</p><p>Data was analysed using SPSS, with differences between the two groups explored predominantly through ANOVA and MANOVA tests. There are a number of aspects of this study that warrant caution in the interpretation of the results. First, as mentioned above, the mining company survey response rate was low. Second, being an online, web-based survey, the instrument is somewhat self-selecting and those highly motivated to respond because they hold a strong position on climate change (either supportive or opposed) could be expected to be over-represented.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Perceived impact of past and future weather events</head><p>Mining company respondents generally reported that past weather or climate-related events had little impact on their operations. Intense rainfall/flooding was the only event category where a majority of mining company respondents scored a 'moderate' level of impact or above. In contrast, a majority of local government respondents returned 'moderate' and 'significant' impact ratings for six of the eight categories of past weather or climate-related events (Table <ref type="table" target="#tab_0">1</ref>).</p><p>For weather or climate-related events causing concern in the past, there was a degree of consistency between mining company and local government respondents. Those event impact scores that ranked highest for both groups were intense rainfall/flooding (1 st for Regarding expected impacts from future weather or climate-related events, local government respondents again expressed greater concern than mining companies, reporting higher impact severity ratings across all categories except cyclones (Table <ref type="table" target="#tab_0">1</ref>). In a separate question, local governments also indicated much greater concern about their exposure to future climate change (39 % indicated 'very' or 'extremely' high levels of exposure and 58 % 'somewhat exposed', compared to 3 % and 65 % respectively for mining companies). Further illustrating this disparity, 15 % of mining company respondents indicated their organisation was 'not at all exposed' to climate change, whereas no local government respondents agreed with this statement.</p><p>The types of future weather or climate-related events that engendered concern for both groups were similar to those categories elected for past events (i.e. intense rainfall/flooding, storm events, and drought/ water shortages). A notable exception was 'reduced groundwater availability' for mining companies, where this item's impact rating score ranked sixth place for past concerns, but rose to the second highest concern under future climate change (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Types of impacts</head><p>Weather or climate-related impacts on the organisation were also considered in terms of aspects or categories of operations undertaken, and in terms of the categories of what can be loosely called 'business management' items. Operational aspect categories were typically specific to the type of organisation, with mining company operations (e.g. exploration, drilling, mine site drainage) generally differing in kind from those of local government (e.g. emergency services, water supply, recreation facilities). In contrast, business management categories (e.g. financial cost, operational disruptions, human resources) are largely generic to organisations and therefore were comparable.</p><p>Regarding impacts on aspects of organisational operations, Table <ref type="table" target="#tab_1">2</ref> displays those aspects of operations rated as being impacted most severely under past and future (expected) climate conditions, for both groups. The only common category to both, transportation infrastructure, ranked high in the order of impact severity, under both past and future climate conditions, for both groups. Local government respondents again tended to give higher impact severity ratings, with half of their operational categories achieving a 'moderately severe' (2) impact rating or above, whereas no mining company category achieved this score. It is noteworthy that mining companies gave almost universally lower impact ratings under future climate conditions than for the past, with some ratings significantly lower. In comparison, local government past versus future impact ratings were more mixed.</p><p>Regarding impacts related to business management categories, Table <ref type="table" target="#tab_2">3</ref> shows that for both groups 'financial cost' and 'disruption to operations' were the main concerns. Local government again rated the severity of past and future impacts significantly more highly than mining company respondents in most categories.</p><p>The survey also sought information from local government respondents on any indirect or 'flow-on' effects from mining operations to communities resulting from past weather or climate-related events. Only a minority of local government respondents (17 %, n=5) reported that their organisation or community had experienced any of such flow-on effects from mines in the past. These local government respondents reported that extremes in rainfall (drought or intense rainfall/flooding) were most damaging. These impacts related to waste discharge from mines, mine site drainage and tailings containment facilities; leading All five local government authorities that responded to this question indicated they had spoken directly with the mining company(s) involved, while some had also approached state or federal government for assistance, and collaborated with other local or regional governance organisations (e.g. local government, regional bodies, community and other stakeholder groups). The local government respondents reported most satisfaction with the response of community and other stakeholder groups, regional organisations and other local governments, and least satisfaction with the response of mining companies.</p><p>Only a minority (33 %) of local government respondents indicated that they saw their organisation as vulnerable to indirect or 'flow-on' effects from mines to communities under future climate change. While dust was the greatest future event of concern reported, water shortages and flooding also rated highly, similar to past 'flow-on' events. The aspects of local government operations that were expected to be affected most were water supply/ treatment, transport infrastructure, emergency services and environmental services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Attitudes to the science of climate change</head><p>For the three items used to access attitudes to the science of climate change, local government respondents, relative to mining companies, reported significantly greater levels of support (Wilks' l=.782, F (3, 60)=5.577, p=.002). Follow-up univariate analyses revealed that local government believed more strongly that the climate is changing (M LG =4.00 vs. M MC =2.75, p&lt;.001), that climate change is a real problem for Australia (M LG =4.07 vs. M MC =2.78, p&lt;.001), and that climate change is important to their organisation (M LG =3.29 vs. M MC =2.72, p=.079). In percentage terms, while a majority of local government respondents indicated they were 'very' or 'completely' convinced that the climate is changing (65 %) and that climate change is a real problem for Australia (79 %), only a minority of mining company respondents agreed (39 % in each case). Further illustrating this disparity, 25 % of mining company respondents indicated they were 'not at all convinced' the climate is changing, whereas no local government respondents agreed with this statement. This echoes the disparity noted above regarding their respective perceptions of organisational exposure to climate change.</p><p>3.4 Preparing for climate change: current activities, relational enablers and barriers Preparatory action to deal with climate change appeared limited by both types of organisations.</p><p>Less than half (46 %) of local government and a small proportion (13 %) of mining company respondents indicated that their organisations had undertaken a climate vulnerability study or had any adaptation policies, plans or practices in place (t(50)=-2.32, p=.035). However, of those local government respondents who indicated their organisation had undertaken adaptation planning, none indicated they had considered the potential indirect or 'flow-on' impacts from mining operations in these plans.</p><p>With regard to relationships around climate adaptation activities, local government authorities reported working with significantly more organisations in developing their adaptation plans than did mining companies (M LG =5.5, M MC =2.83, t(22)=-2.55, p=.018). Specifically, local government respondents reported that they worked with their local government association (92 %), other local government authorities (83 %), State Government agencies (67 %) and consultancy firms (58 %). Mining company respondents reported working with other mining companies (50 %), consultants (50 %) and the Federal Government (42 %) when undertaking climate adaptation planning activities.</p><p>Regarding barriers to climate adaptation, the reasons given for not undertaking preparatory action (vulnerability assessment and adaptation activities) differed greatly between the two organisation types (Table <ref type="table" target="#tab_3">4</ref>). Mining company respondents typically nominated uncertainty around climate change impacts and political/regulatory settings, while local The types of additional information seen as necessary to prepare for future climate change were in most cases similar to both (e.g. information on available adaptation options/ engineering solutions, better projections of climate change, and research on how the mine sector may be affected by climate change). However, local government respondents were much more interested in information from State Government than were mining companies. Importantly, a quarter of the mining company respondents indicated they had no need any further information, whereas no local government respondent took this position.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p>The study has revealed both similarities and differences in the views and activities of mining companies and local government authorities regarding past weather or climate-related events and future climate change in Australia. One of the main differences is that mining company respondents displayed much less concern about the impact of weather or climate-related events, past or future, on their operations. While there were similarities between the two groups in the types of weather events and business impacts of most concern to them, the level of concern differed significantly. The reasons for this divergence remain unclear and a range of possible factors may play a role, such as a relative difference in the actual or objective exposure of mining as compared to local government operations to weather and climate-related events, differences in resources available to deal with such events, and different views on climate change.</p><p>The results suggest the Australian mining industry may be less concerned about future climate change impacts than those in the Canadian industry. The two Canadian surveys of mining managers <ref type="bibr" target="#b9">(Ford et al. 2010</ref><ref type="bibr" target="#b10">(Ford et al. , 2011) )</ref> reported that 50-58 % of respondents indicated that future climate change would affect their operations, and 44-48 % expected that this would be a negative impact. In contrast, and while the questions are not directly comparable, only 3 % of Australian mining company respondents indicated they were 'very' exposed and 65 % 'somewhat exposed' to climate change.</p><p>The low support for climate change expressed by Australian mining company respondents may help explain why this group rated the severity of expected future weather or climate-related impacts significantly lower than for past impacts on their operations. It is possible low belief in climate change could lead to over-compensatory discounting of future climate risks below those expected from past experience. That is, due to a degree of scepticism about the reality of climate change, mining companies may be inclined to 'forget' their past experience and excessively discount the likely severity of future weather events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Adaptation activities</head><p>As could be expected, lower levels of belief in climate change by mining companies were reflected in lower levels of adaptation activity (13 % vs. 46 % for local government). However, the adaptation activity levels of both groups is considerably lower than the 60 % measured by <ref type="bibr" target="#b11">Gardner et al. (2010)</ref> across a broader range of Australian organisations. The level of mining company climate adaptation activity is also considerably lower than that measured for Canadian miners. <ref type="bibr" target="#b9">Ford et al. (2010)</ref> recorded 30 % of mining company respondents indicating they were 'taking action to plan for' and 45 % saying they were 'taking action to manage' the impacts of climate change (the comparable response in terms of adaptation activity for Australian mining companies was 13 %).</p><p>The study revealed a number of important barriers to adaptive action. The mining industry reluctance to undertake preparatory action logically follows from their low level of concern about weather-related impacts on their operations and belief in climate change. This accords with their nomination of uncertainties around climate change impacts as the main for inaction. The second most common reason nominated, uncertainty about political and regulatory changes, suggests government policy is important to their decisionmaking. It is notable that these barriers align reasonably well with those of the Canadian mining studies, where the top-rated barriers were uncertainty of climate projections, cost, and uncertainty of government regulation <ref type="bibr" target="#b9">(Ford et al. 2010</ref>).</p><p>In the case of local government, the main barriers to action were financial cost and to a lesser extent, lack of expertise and information. This finding is consistent with literature highlighting the constrained financial and human resource capacity of many local government authorities in Australia, especially those in rural and remote areas <ref type="bibr" target="#b7">(Dollery et al. 2006)</ref>.</p><p>Regarding factors that could assist climate change adaptation, both groups identified the need for better climate change projections and specific advice about adaptation options and solutions. This is consistent with the results for Australian organisations more broadly <ref type="bibr" target="#b11">(Gardner et al. 2010</ref>) and those of the Canadian mining industry. All three sets of studies show that the information most valued for assisting future adaptation is that which is organisationally specific, locally relevant, and technical in nature (e.g. engineering options for a particular type of operation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Mining community relations</head><p>The relationship between mining company and local government organisations is increasingly important for climate change planning, due to the potential for flow-on impacts between these two important contributors to mining community wellbeing. However, in addition to revealing a divergence in attitudes and actions with respect to climate change between these groups, this survey also revealed a lack of collaboration on this issue between the two. For example, none of the local government respondents who reported adaptation planning indicated that their organisation had involved a mining company in this planning, and only two (17 %) of the mining companies that undertook adaptation planning reported partnering with local government. Additionally, despite a third of local government respondents indicating that they saw their organisation as vulnerable to flow-on impacts from mining operations under future climate change, none of those local governments that had developed adaptation plans had considered these types of indirect impacts in their plans. Furthermore, the outcome of past interactions between the two groups on the issue of mining flow-on effects on communities from weather events is not positive, with local government being less satisfied with mining companies than all other organisations they dealt with. These results suggest more work needs to be done, by both sides, to achieve optimal mining community adaptation planning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusion</head><p>This study provides a national level overview of perceptions and activities related to adapting to climate change in Australian mining communities. By surveying mining company and local government authorities the study identified perspectives from two of the most important decision-making groups influencing adaptation outcomes in these communities. The level of collaborative planning between the two reported in this study was poor and mining company concern and action fell considerably below that of local government. Further investigation will identify whether mining industry nonchalance towards potential climate change impacts is warranted by an objectively low level of vulnerability, or whether it stems from low belief in climate change. Mining company responses showing less concern about future weather and climate-related impacts than occurred in the past suggests industry climate change scepticism may present a barrier to effective adaptation in mining communities. This is, potentially, a significant concern and further research will look to achieve a greater understanding of industry decision-making and mechanisms likely to motivate action. In particular, questions remain regarding the roles played by organisational planning timeframes, as mining business cycles and operational life spans are typically shorter than government planning horizons. Identifying the differences between mining industry 'leaders' and 'laggards' in climate adaptation will also help understand motivation and pathways to action in collaboration with local government. Importantly, the capacity for regulation to spur climate adaptation measures in the sector requires investigation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Mean scores of impact severity ratings for past and future weather or climate-related events by mining companies and local government organisations ), drought/ water shortages (2 nd for both), and storm events (3 rd for mining companies and equal 2 nd for local government).</figDesc><table><row><cell cols="2">Types of climatic events Past impact</cell><cell></cell><cell></cell><cell cols="2">Future expected impact</cell><cell></cell></row><row><cell></cell><cell cols="6">Mean impact severity rating p value a Mean impact severity rating p value a</cell></row><row><cell></cell><cell>Mining</cell><cell>Local</cell><cell></cell><cell>Mining</cell><cell>Local</cell><cell></cell></row><row><cell></cell><cell>companies</cell><cell>government</cell><cell></cell><cell>companies</cell><cell>government</cell><cell></cell></row><row><cell cols="2">Intense rainfall/ flooding 2.00</cell><cell>2.33</cell><cell>.039</cell><cell>1.91</cell><cell>2.44</cell><cell>.002</cell></row><row><cell>Storm events</cell><cell>1.63</cell><cell>2.30</cell><cell>&lt;.001</cell><cell>1.70</cell><cell>2.41</cell><cell>&lt;.001</cell></row><row><cell cols="2">Drought/ water shortages 1.66</cell><cell>2.30</cell><cell>.020</cell><cell>1.67</cell><cell>2.37</cell><cell>.001</cell></row><row><cell>Temperature -heat</cell><cell>1.51</cell><cell>2.13</cell><cell>&lt;.001</cell><cell>1.42</cell><cell>2.19</cell><cell>&lt;.001</cell></row><row><cell>Bushfires</cell><cell>1.27</cell><cell>2.10</cell><cell>&lt;.001</cell><cell>1.39</cell><cell>2.11</cell><cell>&lt;.001</cell></row><row><cell>Reduced groundwater</cell><cell>1.39</cell><cell>1.57</cell><cell>.367</cell><cell>1.79</cell><cell>1.93</cell><cell>.458</cell></row><row><cell>availability</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cyclones</cell><cell>1.56</cell><cell>1.23</cell><cell>.400</cell><cell>1.70</cell><cell>1.30</cell><cell>.076</cell></row><row><cell>Temperature -cold</cell><cell>1.17</cell><cell>1.50</cell><cell>.127</cell><cell>1.15</cell><cell>1.40</cell><cell>.089</cell></row><row><cell>Rising sea level</cell><cell>N/A</cell><cell>N/A</cell><cell>N/A</cell><cell>1.18</cell><cell>1.41</cell><cell>.289</cell></row><row><cell>Ocean acidification</cell><cell>N/A</cell><cell>N/A</cell><cell>N/A</cell><cell>1.06</cell><cell>1.15</cell><cell>.595</cell></row></table><note><p>a MANOVA (Wilks' l=.525, F (8, 47)=5.316, p&lt;.001); N/A=not applicable, question not asked both</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Mean scores of impact severity ratings (scale 1 to 3) for different aspects of operations for past and future weather or climate-related events on mining companies and</figDesc><table><row><cell></cell><cell></cell><cell>p value a</cell><cell></cell><cell>.017</cell><cell>.477</cell><cell>.327</cell><cell>.083</cell><cell>.787</cell><cell>.256</cell><cell>.032</cell><cell>.005</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Local government</cell><cell>Mean impact severity rating</cell><cell>Past Future</cell><cell>2.56 2.30</cell><cell>2.33 2.22</cell><cell>2.22 2.37</cell><cell>2.00 2.23</cell><cell>1.89 1.85</cell><cell>1.73 1.88</cell><cell>1.70 1.96</cell><cell>1.68 2.07</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Aspects of organisational operations</cell><cell></cell><cell></cell><cell>Transport infrastructure</cell><cell>Emergency services</cell><cell>Water supply/ treatment</cell><cell>Recreation &amp; cultural facilities</cell><cell>Environmental services/ assets</cell><cell>Community services &amp; facilities</cell><cell>Waste management</cell><cell>Planning and development</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>p value a</cell><cell></cell><cell>.003</cell><cell>.114</cell><cell>.058</cell><cell>.002</cell><cell>.304</cell><cell>.211</cell><cell>.535</cell><cell>.116</cell><cell>.002</cell><cell>.447</cell><cell>.183</cell><cell>.744</cell></row><row><cell></cell><cell>Mining companies</cell><cell>Mean impact severity rating</cell><cell>Past Future</cell><cell>1.89 1.57</cell><cell>1.86 1.54</cell><cell>1.83 1.60</cell><cell>1.76 1.47</cell><cell>1.76 1.62</cell><cell>1.68 1.56</cell><cell>1.66 1.60</cell><cell>1.65 1.35</cell><cell>1.53 1.26</cell><cell>1.53 1.44</cell><cell>1.49 1.40</cell><cell>1.36 1.39</cell></row><row><cell>local government organisations</cell><cell>Aspects of organisational operations</cell><cell></cell><cell></cell><cell>Exploration</cell><cell>Timing of activities/ operations</cell><cell>Transportation infrastructure</cell><cell>Drilling</cell><cell>Mine site drainage</cell><cell>Containment facilities for tailings</cell><cell>Production</cell><cell>Discharge of wastes</cell><cell>Plant &amp; equipment</cell><cell>Mine development</cell><cell>Processing</cell><cell>Mine decommissioning/ rehabilitation</cell><cell>a Paired t test</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Mean scores of impact severity ratings for past and future weather-related events for different types of impacts for mining companies and local government organisations</figDesc><table><row><cell>Types of impacts</cell><cell>Past impact</cell><cell></cell><cell></cell><cell cols="2">Future expected impact</cell><cell></cell></row><row><cell></cell><cell cols="6">Mean impact severity rating p value a Mean impact severity rating p value a</cell></row><row><cell></cell><cell>Mining</cell><cell>Local</cell><cell></cell><cell>Mining</cell><cell>Local</cell><cell></cell></row><row><cell></cell><cell>companies</cell><cell>government</cell><cell></cell><cell>companies</cell><cell>government</cell><cell></cell></row><row><cell>Financial cost</cell><cell>1.76</cell><cell>2.31</cell><cell>.005</cell><cell>1.68</cell><cell>2.37</cell><cell>&lt;.001</cell></row><row><cell>Increased maintenance</cell><cell>1.36</cell><cell>2.23</cell><cell>&lt;.001</cell><cell>1.29</cell><cell>2.26</cell><cell>&lt;.001</cell></row><row><cell>Disruption to operations</cell><cell>1.82</cell><cell>2.19</cell><cell>.05</cell><cell>1.65</cell><cell>2.11</cell><cell>.015</cell></row><row><cell>Structural damage</cell><cell>1.30</cell><cell>2.12</cell><cell>&lt;.001</cell><cell>1.19</cell><cell>2.11</cell><cell>&lt;.001</cell></row><row><cell>Extra planning required</cell><cell>1.58</cell><cell>1.92</cell><cell>.054</cell><cell>1.61</cell><cell>1.89</cell><cell>.130</cell></row><row><cell>Human resources,</cell><cell>1.18</cell><cell>1.92</cell><cell>&lt;.001</cell><cell>1.13</cell><cell>1.85</cell><cell>&lt;.001</cell></row><row><cell>labour supply</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Extra equipment required 1.39</cell><cell>1.88</cell><cell>.008</cell><cell>1.35</cell><cell>1.56</cell><cell>.247</cell></row><row><cell>Community relations,</cell><cell>1.30</cell><cell>1.81</cell><cell>.002</cell><cell>1.23</cell><cell>1.93</cell><cell>&lt;.001</cell></row><row><cell>reputation</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Workplace health &amp; safety 1.45</cell><cell>1.77</cell><cell>.074</cell><cell>1.35</cell><cell>1.85</cell><cell>.004</cell></row><row><cell>Insurance costs</cell><cell>1.18</cell><cell>1.77</cell><cell>&lt;.001</cell><cell>1.42</cell><cell>2.11</cell><cell>&lt;.001</cell></row><row><cell>Disruption to inputs</cell><cell>1.36</cell><cell>1.73</cell><cell>.046</cell><cell>1.45</cell><cell>1.93</cell><cell>.005</cell></row><row><cell>Litigation risk</cell><cell>1.15</cell><cell>1.62</cell><cell>&lt;.001</cell><cell>1.23</cell><cell>1.89</cell><cell>&lt;.001</cell></row></table><note><p>a MANOVA (Wilks' l=.384, F (12, 45)=6.028, p&lt;.001)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Barriers to undertaking vulnerability assessments and adaptation activities (only main barriers are displayed)</figDesc><table><row><cell>Type of barrier</cell><cell cols="3">Vulnerability assessment</cell><cell></cell><cell cols="2">Adaptation activities</cell><cell></cell></row><row><cell></cell><cell cols="3">MC (%) LG (%) χ 2</cell><cell cols="4">p value a MC (%) LG (%) χ 2</cell><cell>p value a</cell></row><row><cell>Financial cost</cell><cell>25</cell><cell>62</cell><cell cols="2">4.79 .039</cell><cell>23</cell><cell>69</cell><cell cols="2">8.61 .006</cell></row><row><cell>Uncertainty of climate</cell><cell>75</cell><cell>23</cell><cell cols="2">9.26 .005</cell><cell>90</cell><cell>31</cell><cell cols="2">16.38 &lt;.001</cell></row><row><cell>change impacts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Uncertainty of political/</cell><cell>46</cell><cell>31</cell><cell cols="2">0.79 .491</cell><cell>50</cell><cell>39</cell><cell>.49</cell><cell>.526</cell></row><row><cell>regulatory changes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lack of skilled/</cell><cell>21</cell><cell>62</cell><cell cols="2">6.13 .028</cell><cell>16</cell><cell>46</cell><cell cols="2">4.40 .057</cell></row><row><cell>knowledgeable personnel</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Lack of information resources 42</cell><cell>62</cell><cell cols="2">1.33 .261</cell><cell>N/A</cell><cell>46</cell><cell>N/A</cell><cell>N/A</cell></row><row><cell>It's the responsibility of other</cell><cell>8</cell><cell>17</cell><cell cols="2">0.56 .313</cell><cell>0</cell><cell>15</cell><cell cols="2">5.00 .082</cell></row><row><cell>organisations/ government</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">a Fisher's exact test; N/A=not applicable, question not asked</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ClimaticChange (2013) 119:465-477   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>ClimaticChange (2013) 119:465-477  </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This project was funded by the <rs type="funder">CSIRO Climate Adaptation Flagship</rs> in association with the <rs type="grantName">CSIRO Minerals Down Under Flagship</rs>. In particular, we acknowledge the efforts of <rs type="person">Mark Howden</rs>, <rs type="person">Theme Leader</rs>, <rs type="affiliation">Primary Industries, Enterprises and Communities Theme</rs>, for initiating and supporting this area of work in mining sector adaptation to climate change. The authors would also like to acknowledge the contribution of <rs type="person">Sharon Dane</rs> in assisting with the statistical analysis of the data.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_9WBSQ5D">
+					<orgName type="grant-name">CSIRO Minerals Down Under Flagship</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">for the national climate change adaptation research facility</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Albrecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jaceglav</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Gold Coast, Australia</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Resilience and water security in Two outback cities</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Evaluation of use and benefits of public weather and climate services by the mining industry of Queensland</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Anaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lellyett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Queensland Gov Min J</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="56" to="61" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<orgName type="collaboration">ABS</orgName>
+		</author>
+		<idno>1301.0 ABS Canberra pp 586-591</idno>
+		<title level="m">Mining and the environment, year book Australia</title>
+		<imprint>
+			<publisher>Australian Bureau of Statistics</publisher>
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Census of population and housing</title>
+		<idno>No: 6291.0.55.003 ABS Canberra</idno>
+	</analytic>
+	<monogr>
+		<title level="m">ABS Canberra Australian Bureau of Statistics (ABS) (2010a) Year book Australia 2009-10 Cat No: 1301.0 ABS Canberra Australian Bureau of Statistics (ABS) (2010b) Labour force Australia -detailed quarterly Aug</title>
+		<imprint>
+			<publisher>Australian Bureau of Statistics (ABS</publisher>
+			<date type="published" when="2006">2006. 2006. 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Assessing the impact of weather and climate in Australia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Colls</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clim Chang</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="225" to="245" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Not just a coalmine: shifting grounds of community opposition to coal mining in south-eastern Australia</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Higginbotham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethnos</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="490" to="513" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Department of Climate Change and Energy Efficiency (DCCEE) (2011) Climate change adaptation actions for local government</title>
+	</analytic>
+	<monogr>
+		<title level="j">DCCEE</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Doing the groundwork: state local and judicial contributions to climate change law in Australia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dollery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Crase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Enviro Planning Law J</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">360</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>UNSW Press</publisher>
+			<pubPlace>Sydney England</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Australian local government economics</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Heating up: climate change law and the evolving responsibilities of local government</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>England</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Local Gov Law J</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="209" to="223" />
+			<date type="published" when="2008">2008b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perceptions of climate change risks in primary resource use industries: a survey of the Canadian mining sector</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beamier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marshall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reg Environ Chang</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="65" to="81" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Canary in a coal mine: perceptions of climate change risks and response options among Canadian mine operations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beamier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clim Chang</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="399" to="415" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Adaptation benchmarking survey: initial report CSIRO climate adaptation flagship working paper</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Paxton</surname></persName>
+		</author>
+		<ptr target="http://www.csiro.au/en/Outcomes/Climate/Adapting/CAF-working-paper-4" />
+		<imprint>
+			<date type="published" when="2010-04">2010. April 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hart</surname></persName>
+		</author>
+		<ptr target="http://www.fitzroyriver.qld.gov.au/hartreport" />
+		<title level="m">Review of the fitzroy river water quality issues: report to Queensland premier</title>
+		<imprint>
+			<date type="published" when="2008-08">2008. Aug 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">a) Climate adaptation in the Australian mining and exploration industries. CSIRO climate adaptation flagship working paper</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<ptr target="http://www.csiro.au/en/Organisation-Structure/Flagships/Climate-Adaptation-Flagship/CAF-working-paper-5" />
+		<imprint>
+			<date type="published" when="2010-08">2010. Aug 2011</date>
+			<biblScope unit="page">9781921605819</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate risks to the Australian mining industry: a preliminary review of vulnerabilities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hodgkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Loechel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moffat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Littleboy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings sustainable mining 2010. The Australasian Institute of Mining and Metallurgy</title>
+		<meeting>sustainable mining 2010. The Australasian Institute of Mining and Metallurgy<address><addrLine>Melbourne</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010b</date>
+			<biblScope unit="page" from="341" to="350" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Adapting to climate change through local municipal planning: barriers and challenges</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Measham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Preston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gorddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Withycombe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig Adapt Strateg Glob Chang</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="889" to="909" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The vulnerability of Australian rural communities to climate variability and change: part IIintegrating impacts with adaptive capacity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kokic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crimp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Howden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devoil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mckeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nidumolu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Pol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="18" to="27" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The vulnerability of Australian rural communities to climate variability and change: part 1conceptualising and measuring vulnerability</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crimp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Howden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Pol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="8" to="17" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Adapting to climate change: the question of transforming rural local governance</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>O'toole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Climate change in regional Australia: social learning and adaptation</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Martin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Rogers</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Winter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ballarat</addrLine></address></meeting>
+		<imprint>
+			<publisher>VURRN Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="114" to="135" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Climate change and Canadian mining: opportunities for adaptation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>The David Suzuki Foundation</publisher>
+			<pubPlace>Vancouver</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Climate change and mining in Canada</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duerden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beamier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berrang-Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Smit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mitig Adapt Strateg Glob Chang</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="347" to="368" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Queensland floods commission of inquiry: final report</title>
+		<ptr target="http://www.floodcommission.qld.gov.au" />
+	</analytic>
+	<monogr>
+		<title level="j">QFCI</title>
+		<imprint>
+			<biblScope unit="issue">QFCI</biblScope>
+			<date type="published" when="2011">2012. Aug 2011</date>
+			<publisher>Queensland Floods Commission of Inquiry</publisher>
+			<pubPlace>Brisbane</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Queensland</forename><surname>Government</surname></persName>
+		</author>
+		<ptr target="http://www.budget.qld.gov.au/budget-papers/index.shtmlAccessed" />
+		<title level="m">State budget 2011-12 budget strategy and outlook -budget paper No</title>
+		<imprint>
+			<date type="published" when="2012-03-16">2012. 16 Mar 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">QRC submission: Queensland floods commission of inquiry -11</title>
+		<ptr target="www.floodcommission.qld.gov.au/__data/assets/file/0018/6174/Queensland-Resources-Council" />
+		<imprint>
+			<date type="published" when="2011-03">2011. March 2011. 18 Aug 2011</date>
+			<publisher>Queensland Resources Council (QRC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The economic contribution of the resources sector by regional areas in Queensland</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ivanova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econ Anal Pol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="36" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Aussie farmers, Chinese miners vie for water</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scott</surname></persName>
+		</author>
+		<ptr target="http://www.businessweek.com/magazine/content/11_08/b4216010390477" />
+	</analytic>
+	<monogr>
+		<title level="j">Bloomberg Bus Wk Mag</title>
+		<imprint>
+			<date type="published" when="2011-02-10">2011. Feb 10 2011. 18 Aug 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Adapting agriculture to climate change: preparing Australian agriculture, forestry and fisheries for the future</title>
+		<editor>Stokes C, Howden SM</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>CSIRO Publishing</publisher>
+			<pubPlace>Canberra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
