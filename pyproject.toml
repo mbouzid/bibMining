@@ -8,3 +8,4 @@ keyword_clustering = ["matplotlib", "pandas","openpyxl","scikit-learn","sentence
 map_articles = ["matplotlib","pandas","openpyxl","geopandas"]
 citation_network = ["bibtexparser","lxml","requests","matplotlib","pandas","openpyxl"]
 screening = ["xlrd","openpyxl","pandas"]
+inter_rater=["metrics","pandas","openpyxl"]
