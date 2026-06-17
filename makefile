@@ -10,3 +10,4 @@ install:
 	pip install -e ".[map_articles]"
 	pip install -e ".[citation_network]"
 	pip install -e ".[screening]"
+	pip install -e ".[inter_rater]"
